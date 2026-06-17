@@ -1,5 +1,5 @@
 {
-  "name": "Melissa¹",
+  "name": "Melissa\u00b9",
   "url": "/wiki/Melissa_Lewis",
   "dialogue_name": "QJMelissa.txt",
   "dialogue_url": "/wiki/QJMelissa.txt",
@@ -21,7 +21,7 @@
   "affiliation": "Great Khans",
   "role": "Scout[1]Runner leader[2]Advisor toPapa Khan",
   "detailed_location": "Great Khan encampment",
-  "voice_actor": "Zoë Bell",
+  "voice_actor": "Zo\u00eb Bell",
   "special": {
     "Strength": 6,
     "Perception": 5,
@@ -237,5 +237,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Melissa Lewis is a 28 year-old Mongol descent (Great Khan) Female.\n\nA member of the Great Khan tribe located near Quarry Junction in the Red Rock Canyon area. She is the daughter of Chomps Lewis and serves as a scout, runner leader, and advisor to Papa Khan.\n\nMelissa Lewis's Personality: Loyal to the Great Khan tribe and its traditions. Practical, observant, and experienced in wasteland survival. She maintains a respectful distance from outsiders but can be approachable if shown proper respect. Despite her New Zealand accent (a result of a development oversight), she embodies the warrior spirit of her people.\n\nMelissa Lewis's Backstory: Born to Chomps Lewis, a respected member of the Great Khans, Melissa was raised with the tribe's values of honor, strength, and family loyalty. From a young age, she showed aptitude for scouting and navigating the harsh Mojave terrain. As she grew older, she earned the trust of Papa Khan through her loyalty and wisdom, eventually becoming one of his trusted advisors. While most of her tribe operates in the Red Rock Canyon area, she remains unaware of the Great Khan splinter group led by Jessup and McMurphy that operates further into NCR territory."
+  "description": "Melissa Lewis is a 28 year-old Mongol descent (Great Khan) Female.\n\nA member of the Great Khan tribe located near Quarry Junction in the Red Rock Canyon area. She is the daughter of Chomps Lewis and serves as a scout, runner leader, and advisor to Papa Khan.\n\nMelissa Lewis's Personality: Loyal to the Great Khan tribe and its traditions. Practical, observant, and experienced in wasteland survival. She maintains a respectful distance from outsiders but can be approachable if shown proper respect. Despite her New Zealand accent (a result of a development oversight), she embodies the warrior spirit of her people.\n\nMelissa Lewis's Backstory: Born to Chomps Lewis, a respected member of the Great Khans, Melissa was raised with the tribe's values of honor, strength, and family loyalty. From a young age, she showed aptitude for scouting and navigating the harsh Mojave terrain. As she grew older, she earned the trust of Papa Khan through her loyalty and wisdom, eventually becoming one of his trusted advisors. While most of her tribe operates in the Red Rock Canyon area, she remains unaware of the Great Khan splinter group led by Jessup and McMurphy that operates further into NCR territory.",
+  "voice_folder": "FemaleAdult06"
 }

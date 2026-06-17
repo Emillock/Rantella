@@ -31,16 +31,16 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Barter:": "30→100"
+      "Barter:": "30\u2192100"
     },
     {
-      "Medicine:": "28→100"
+      "Medicine:": "28\u2192100"
     },
     {
-      "Melee Weap.:": "32→100"
+      "Melee Weap.:": "32\u2192100"
     }
   ],
   "misc_skills": [
@@ -233,5 +233,6 @@
       "index": "46"
     }
   ],
-  "description": "Dusty is a 19 year-old Caucasian Male.\n\nDusty is the watchman of Big Town, tasked with guarding the only entrance to the settlement - a rope bridge at the north end. Usually found dozing on his chair, Dusty is jittery and desperate, lacking the know-how to properly prepare the town's defenses against super mutants from the Germantown Police Station and slavers from Paradise Falls. Despite being the toughest citizen in Big Town, his combat performance is mediocre, and he lacks the morale to deal with most threats that might attack the settlement.\n\nDusty's Personality: Jittery, desperate, and lacking in confidence. Dusty is easily startled and often expresses pessimism about the future of Big Town. He feels overwhelmed by the responsibility of guarding the settlement and lacks the training and equipment to effectively defend against the constant threats from super mutants and slavers.\n\nDusty's Backstory: Dusty was born and raised in Little Lamplight, a secluded cave settlement inhabited exclusively by children and teenagers. Like others his age, he eventually left Little Lamplight to help establish Big Town, a nearby settlement for young adults seeking independence. Given his size and perceived toughness, Dusty was assigned the role of watchman, a position he feels unprepared for. He often reflects on the relative safety of Little Lamplight and laments the harsh realities of life in the Capital Wasteland."
+  "description": "Dusty is a 19 year-old Caucasian Male.\n\nDusty is the watchman of Big Town, tasked with guarding the only entrance to the settlement - a rope bridge at the north end. Usually found dozing on his chair, Dusty is jittery and desperate, lacking the know-how to properly prepare the town's defenses against super mutants from the Germantown Police Station and slavers from Paradise Falls. Despite being the toughest citizen in Big Town, his combat performance is mediocre, and he lacks the morale to deal with most threats that might attack the settlement.\n\nDusty's Personality: Jittery, desperate, and lacking in confidence. Dusty is easily startled and often expresses pessimism about the future of Big Town. He feels overwhelmed by the responsibility of guarding the settlement and lacks the training and equipment to effectively defend against the constant threats from super mutants and slavers.\n\nDusty's Backstory: Dusty was born and raised in Little Lamplight, a secluded cave settlement inhabited exclusively by children and teenagers. Like others his age, he eventually left Little Lamplight to help establish Big Town, a nearby settlement for young adults seeking independence. Given his size and perceived toughness, Dusty was assigned the role of watchman, a position he feels unprepared for. He often reflects on the relative safety of Little Lamplight and laments the harsh realities of life in the Capital Wasteland.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

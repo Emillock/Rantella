@@ -31,21 +31,21 @@
     "Agility": 4,
     "Luck": 5
   },
-  "level": "3→10 (PClevel x 0.75)",
+  "level": "3\u219210 (PClevel x 0.75)",
   "tag_skills": [
     {
-      "Barter:": "43→76"
+      "Barter:": "43\u219276"
     },
     {
-      "Lockpick:": "41→74"
+      "Lockpick:": "41\u219274"
     },
     {
-      "Science:": "45→78"
+      "Science:": "45\u219278"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "75→110"
+      "Hit Points:": "75\u2192110"
     },
     {
       "Critical Chance:": "5%"
@@ -344,5 +344,6 @@
     }
   ],
   "combat": [],
-  "description": "Pronto is a 35 year-old Hispanic Male.\n\nPronto is the owner of the Lock and Load weapons store at Paradise Falls, a slaver settlement in the Capital Wasteland. Despite his affiliation with the slavers, he maintains a 'nice guy' persona that puts him at odds with his cohorts.\n\nPronto's Personality: Pronto presents himself as a friendly and reasonable merchant, but his circumstances have forced him into a precarious position. He's pragmatic enough to survive among slavers but secretly resents being treated as second-class by his suppliers. He's desperate to improve his inventory but lacks the means to do so without outside help.\n\nPronto's Backstory: Rumored to be the son of an old slaver, Pronto took over the Lock and Load weapons store after the previous owner's untimely death, allegedly due to a weapons mishap according to Forty. Despite being part of the slaver community, Pronto maintains a friendly demeanor that sets him apart from his cohorts. The slavers supply him only with subpar weapons from their raids, keeping the better loot for themselves. This arrangement, coupled with the constant threat of severe punishment if he protests, has left him desperate to improve his store's inventory through any means necessary."
+  "description": "Pronto is a 35 year-old Hispanic Male.\n\nPronto is the owner of the Lock and Load weapons store at Paradise Falls, a slaver settlement in the Capital Wasteland. Despite his affiliation with the slavers, he maintains a 'nice guy' persona that puts him at odds with his cohorts.\n\nPronto's Personality: Pronto presents himself as a friendly and reasonable merchant, but his circumstances have forced him into a precarious position. He's pragmatic enough to survive among slavers but secretly resents being treated as second-class by his suppliers. He's desperate to improve his inventory but lacks the means to do so without outside help.\n\nPronto's Backstory: Rumored to be the son of an old slaver, Pronto took over the Lock and Load weapons store after the previous owner's untimely death, allegedly due to a weapons mishap according to Forty. Despite being part of the slaver community, Pronto maintains a friendly demeanor that sets him apart from his cohorts. The slavers supply him only with subpar weapons from their raids, keeping the better loot for themselves. This arrangement, coupled with the constant threat of severe punishment if he protests, has left him desperate to improve his store's inventory through any means necessary.",
+  "voice_folder": "MaleAdult04DC"
 }

@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→8 (equal to player's level)",
+  "level": "1\u21928 (equal to player's level)",
   "tag_skills": [
     {
-      "Barter:": "30→62"
+      "Barter:": "30\u219262"
     },
     {
-      "Medicine:": "28→60"
+      "Medicine:": "28\u219260"
     },
     {
-      "Melee Weap.:": "32→64"
+      "Melee Weap.:": "32\u219264"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→100"
+      "Hit Points:": "65\u2192100"
     },
     {
       "Critical Chance:": "5%"
@@ -144,5 +144,6 @@
     }
   ],
   "combat": [],
-  "description": "Martha Wilson is a 38 year-old Caucasian Female.\n\nMartha Wilson is a quiet and reserved woman living in the isolated community of Andale. As the wife of Bill Wilson, she maintains their household and prepares meals, which often include ingredients from the community's 'special' source of meat. Martha appears unassuming and rarely offers opinions on matters, often seeming surprised when others ask for her thoughts.\n\nMartha Wilson's Personality: Martha is introverted and passive, having grown up in a community with rigid traditions. She rarely questions the way of life in Andale and avoids conflict at all costs. Despite her involvement in cannibalism, she doesn't show overt malice but rather a matter-of-fact acceptance of her community's practices.\n\nMartha Wilson's Backstory: Martha was born and raised in Andale, where cannibalism has been a tradition for generations. She married Bill Wilson, continuing the family's way of life. Martha has never known life outside of Andale's isolated community and accepts cannibalism as a normal part of existence. She helps maintain the facade of normalcy to outsiders while participating in the community's dark secret."
+  "description": "Martha Wilson is a 38 year-old Caucasian Female.\n\nMartha Wilson is a quiet and reserved woman living in the isolated community of Andale. As the wife of Bill Wilson, she maintains their household and prepares meals, which often include ingredients from the community's 'special' source of meat. Martha appears unassuming and rarely offers opinions on matters, often seeming surprised when others ask for her thoughts.\n\nMartha Wilson's Personality: Martha is introverted and passive, having grown up in a community with rigid traditions. She rarely questions the way of life in Andale and avoids conflict at all costs. Despite her involvement in cannibalism, she doesn't show overt malice but rather a matter-of-fact acceptance of her community's practices.\n\nMartha Wilson's Backstory: Martha was born and raised in Andale, where cannibalism has been a tradition for generations. She married Bill Wilson, continuing the family's way of life. Martha has never known life outside of Andale's isolated community and accepts cannibalism as a normal part of existence. She helps maintain the facade of normalcy to outsiders while participating in the community's dark secret.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Oscar Velasco¹",
+  "name": "Oscar Velasco\u00b9",
   "url": "/wiki/Oscar_Velasco",
   "dialogue_name": "VBSOscarVelasco.txt",
   "dialogue_url": "/wiki/VBSOscarVelasco.txt",
@@ -150,5 +150,6 @@
     }
   ],
   "combat": [],
-  "description": "Oscar Velasco is a 35 year-old Hispanic Male.\n\nA lone Great Khan extremist and survivor of the Bitter Springs Massacre, now hiding in a cave north of the Bitter Springs refugee camp. Velasco is consumed by vengeance, targeting NCR personnel and refugees despite their innocence.\n\nOscar Velasco's Personality: Bitter, vengeful, and single-minded. Velasco is blinded by hatred for the NCR, having lost everything in the massacre. He operates with cold determination, unable to see the irony in his actions of attacking those who have nothing to do with his family's death.\n\nOscar Velasco's Backstory: Born into the Great Khan tribe, Oscar Velasco lived a nomadic life in the wastelands until his family settled at Bitter Springs. In 2278, during the Bitter Springs Massacre, his family was gunned down by NCR First Recon sharpshooters stationed on Coyote Tail Ridge. Since that day, Velasco has been consumed by vengeance, intensifying his efforts in the past six months as the NCR established a refugee camp at Bitter Springs."
+  "description": "Oscar Velasco is a 35 year-old Hispanic Male.\n\nA lone Great Khan extremist and survivor of the Bitter Springs Massacre, now hiding in a cave north of the Bitter Springs refugee camp. Velasco is consumed by vengeance, targeting NCR personnel and refugees despite their innocence.\n\nOscar Velasco's Personality: Bitter, vengeful, and single-minded. Velasco is blinded by hatred for the NCR, having lost everything in the massacre. He operates with cold determination, unable to see the irony in his actions of attacking those who have nothing to do with his family's death.\n\nOscar Velasco's Backstory: Born into the Great Khan tribe, Oscar Velasco lived a nomadic life in the wastelands until his family settled at Bitter Springs. In 2278, during the Bitter Springs Massacre, his family was gunned down by NCR First Recon sharpshooters stationed on Coyote Tail Ridge. Since that day, Velasco has been consumed by vengeance, intensifying his efforts in the past six months as the NCR established a refugee camp at Bitter Springs.",
+  "voice_folder": "MaleAdult09"
 }

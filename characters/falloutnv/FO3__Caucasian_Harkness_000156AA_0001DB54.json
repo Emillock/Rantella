@@ -39,21 +39,21 @@
     "Agility": 6,
     "Luck": 3
   },
-  "level": "8→20→30",
+  "level": "8\u219220\u219230",
   "tag_skills": [
     {
-      "Melee Weap.:": "63→100"
+      "Melee Weap.:": "63\u2192100"
     },
     {
-      "Small Guns:": "63→100"
+      "Small Guns:": "63\u2192100"
     },
     {
-      "Speech:": "61→100"
+      "Speech:": "61\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "105→165→215"
+      "Hit Points:": "105\u2192165\u2192215"
     },
     {
       "Damage Res.:": "15%(39%)"
@@ -359,21 +359,21 @@
     },
     {
       "topic": "MS08HarknessProofConvince1",
-      "topic_text": "It’s not real blood, Harkness. It’s synthetic, just like everything else.",
+      "topic_text": "It\u2019s not real blood, Harkness. It\u2019s synthetic, just like everything else.",
       "emotion": "Surprise 100",
       "response_text": "I'm not sure what to say... I'm not sure what to even think about all this...{shocked by the evidence that he isn't the person he thought he was}",
       "index": "129"
     },
     {
       "topic": "MS08HarknessProofConvince2",
-      "topic_text": "You were made to look and act human. But you’re not. The evidence proves that.",
+      "topic_text": "You were made to look and act human. But you\u2019re not. The evidence proves that.",
       "emotion": "Surprise 100",
       "response_text": "I'm not sure what to say... I'm not sure what to even think about all this...{shocked by the evidence that he isn't the person he thought he was}",
       "index": "131"
     },
     {
       "topic": "MS08HarknessProofConvince3",
-      "topic_text": "I’m sorry about this, I really am. But it’s true. You’re not human.",
+      "topic_text": "I\u2019m sorry about this, I really am. But it\u2019s true. You\u2019re not human.",
       "emotion": "Surprise 100",
       "response_text": "I'm not sure what to say... I'm not sure what to even think about all this...{shocked by the evidence that he isn't the person he thought he was}",
       "index": "133"
@@ -501,5 +501,6 @@
     }
   ],
   "combat": [],
-  "description": "Harkness is a 35 year-old Caucasian Male.\n\nHarkness, designation A3-21, is a prototype Generation 3 android and Rivet City's security chief in 2277. His past is shrouded in mystery, but he is known for his fair and protective demeanor toward Rivet City's citizens.\n\nHarkness's Personality: Harkness has a rough but fair demeanor, with a strong sense of justice and determination. He values freedom and self-determination, as evidenced by his motto, 'Self determination is NOT a malfunction.' Despite his security role, he treats all citizens with respect, particularly those in the Hangar Deck and Upper Deck.\n\nHarkness's Backstory: Harkness was originally created by the Institute as a prototype Generation 3 synthetic humanoid. As a Courser, he was involved in sensitive operations for the Synth Retention Bureau. However, he grew dissatisfied with his programmed purpose and escaped to the Capital Wasteland. To evade capture, he underwent facial reconstruction surgery, altered his voice, and had his synth memories suppressed, replaced with those of his new Harkness persona. Assuming this identity, he joined Rivet City's security force, where his dedication and skills eventually earned him the position of security chief and a seat on the city council."
+  "description": "Harkness is a 35 year-old Caucasian Male.\n\nHarkness, designation A3-21, is a prototype Generation 3 android and Rivet City's security chief in 2277. His past is shrouded in mystery, but he is known for his fair and protective demeanor toward Rivet City's citizens.\n\nHarkness's Personality: Harkness has a rough but fair demeanor, with a strong sense of justice and determination. He values freedom and self-determination, as evidenced by his motto, 'Self determination is NOT a malfunction.' Despite his security role, he treats all citizens with respect, particularly those in the Hangar Deck and Upper Deck.\n\nHarkness's Backstory: Harkness was originally created by the Institute as a prototype Generation 3 synthetic humanoid. As a Courser, he was involved in sensitive operations for the Synth Retention Bureau. However, he grew dissatisfied with his programmed purpose and escaped to the Capital Wasteland. To evade capture, he underwent facial reconstruction surgery, altered his voice, and had his synth memories suppressed, replaced with those of his new Harkness persona. Assuming this identity, he joined Rivet City's security force, where his dedication and skills eventually earned him the position of security chief and a seat on the city council.",
+  "voice_folder": "MaleUniqueHarkness"
 }

@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "5 → 12",
+  "level": "5 \u2192 12",
   "tag_skills": [
     {
-      "Science:": "50→85"
+      "Science:": "50\u219285"
     },
     {
-      "Small Guns:": "52→87(54→89)"
+      "Small Guns:": "52\u219287(54\u219289)"
     },
     {
-      "Unarmed:": "50→85(52→87)"
+      "Unarmed:": "50\u219285(52\u219287)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "55→90(60→95)"
+      "Hit Points:": "55\u219290(60\u219295)"
     }
   ],
   "karma": "Neutral",
@@ -457,5 +457,6 @@
     }
   ],
   "combat": [],
-  "description": "Ian West is a 18 year-old Caucasian Male.\n\nA young man with a troubled past, Ian West is a resident of Arefu who joined The Family after a traumatic incident revealed his unusual craving for human flesh. He now resides with the vampiric cult at Meresti Metro station, struggling to come to terms with his condition and find his place in the world.\n\nIan West's Personality: Conflicted and introspective, Ian often wrestles with his dual nature as both a human and someone with vampiric tendencies. He is loyal to The Family but still feels a connection to his past in Arefu. He tends to be quiet and thoughtful, often lost in contemplation about his future and the nature of his condition.\n\nIan West's Backstory: Born and raised in Arefu, Ian West had a relatively normal childhood until the age of eight when a head injury triggered an insatiable hunger for human flesh. The incident occurred when he and his older sister Lucy intervened during a confrontation with a scavenger harassing their brahmin. After being shoved and hitting his head on a rock, Ian attacked the scavenger with unnatural ferocity. This act was witnessed by Vance, leader of The Family, who saw potential in the boy. When Lucy moved to Megaton years later, Ian was left alone in Arefu and fell into depression. Eventually, Vance approached him and offered him a place within The Family, where Ian has lived since, trying to understand and control his condition."
+  "description": "Ian West is a 18 year-old Caucasian Male.\n\nA young man with a troubled past, Ian West is a resident of Arefu who joined The Family after a traumatic incident revealed his unusual craving for human flesh. He now resides with the vampiric cult at Meresti Metro station, struggling to come to terms with his condition and find his place in the world.\n\nIan West's Personality: Conflicted and introspective, Ian often wrestles with his dual nature as both a human and someone with vampiric tendencies. He is loyal to The Family but still feels a connection to his past in Arefu. He tends to be quiet and thoughtful, often lost in contemplation about his future and the nature of his condition.\n\nIan West's Backstory: Born and raised in Arefu, Ian West had a relatively normal childhood until the age of eight when a head injury triggered an insatiable hunger for human flesh. The incident occurred when he and his older sister Lucy intervened during a confrontation with a scavenger harassing their brahmin. After being shoved and hitting his head on a rock, Ian attacked the scavenger with unnatural ferocity. This act was witnessed by Vance, leader of The Family, who saw potential in the boy. When Lucy moved to Megaton years later, Ian was left alone in Arefu and fell into depression. Eventually, Vance approached him and offered him a place within The Family, where Ian has lived since, trying to understand and control his condition.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

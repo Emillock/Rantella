@@ -31,16 +31,16 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steel only)",
+  "level": "1\u219220\u219230 (Broken Steel only)",
   "tag_skills": [
     {
-      "Big Guns:": "32→100"
+      "Big Guns:": "32\u2192100"
     },
     {
-      "Small Guns:": "34→100"
+      "Small Guns:": "34\u2192100"
     },
     {
-      "Speech:": "30→100"
+      "Speech:": "30\u2192100"
     }
   ],
   "misc_skills": [
@@ -569,5 +569,6 @@
       "index": "154"
     }
   ],
-  "description": "Benjamin \"Benji\" Montgomery is a 38 year-old Caucasian Male.\n\nGunnery Sergeant Benjamin \"Benji\" Montgomery is a seasoned United States Marine Corps paratrooper and strike team leader with multiple tours of duty on the Anchorage front line. Known for his loyalty, competence, and friendly demeanor, he has become an integral part of General Chase's forces during the Anchorage Reclamation simulation.\n\nBenjamin \"Benji\" Montgomery's Personality: Montgomery is a highly loyal and dedicated soldier with a strong sense of duty to his country and fellow Marines. He's competent, experienced, and has a friendly, personable side, often giving nicknames to those he considers allies. Despite the grim realities of war, he maintains a positive outlook and a sense of humor.\n\nBenjamin \"Benji\" Montgomery's Backstory: Born and raised in pre-War America, Benjamin Montgomery enlisted in the United States Marine Corps shortly before the Great War. His military training and experience proved invaluable when the bombs fell, and he found himself serving in the Anchorage Reclamation simulation, fighting against the Red Chinese forces. Over the years, he rose through the ranks to become a Gunnery Sergeant and strike team leader, earning the respect of his peers and superiors alike. His last name is a nod to James Montgomery Flagg, the artist who created the iconic Uncle Sam recruitment poster during World War I, reflecting Montgomery's unwavering patriotism."
+  "description": "Benjamin \"Benji\" Montgomery is a 38 year-old Caucasian Male.\n\nGunnery Sergeant Benjamin \"Benji\" Montgomery is a seasoned United States Marine Corps paratrooper and strike team leader with multiple tours of duty on the Anchorage front line. Known for his loyalty, competence, and friendly demeanor, he has become an integral part of General Chase's forces during the Anchorage Reclamation simulation.\n\nBenjamin \"Benji\" Montgomery's Personality: Montgomery is a highly loyal and dedicated soldier with a strong sense of duty to his country and fellow Marines. He's competent, experienced, and has a friendly, personable side, often giving nicknames to those he considers allies. Despite the grim realities of war, he maintains a positive outlook and a sense of humor.\n\nBenjamin \"Benji\" Montgomery's Backstory: Born and raised in pre-War America, Benjamin Montgomery enlisted in the United States Marine Corps shortly before the Great War. His military training and experience proved invaluable when the bombs fell, and he found himself serving in the Anchorage Reclamation simulation, fighting against the Red Chinese forces. Over the years, he rose through the ranks to become a Gunnery Sergeant and strike team leader, earning the respect of his peers and superiors alike. His last name is a nod to James Montgomery Flagg, the artist who created the iconic Uncle Sam recruitment poster during World War I, reflecting Montgomery's unwavering patriotism.",
+  "voice_folder": "DLC02MaleUniqueMontgomery"
 }

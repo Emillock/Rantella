@@ -31,7 +31,7 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
       "Melee Weap.:": "71"
@@ -45,7 +45,7 @@
   ],
   "misc_skills": [
     {
-      "Hit Points:": "135→185→235 (Broken Steelonly)"
+      "Hit Points:": "135\u2192185\u2192235 (Broken Steelonly)"
     }
   ],
   "karma": "Evil",
@@ -343,5 +343,6 @@
     }
   ],
   "combat": [],
-  "description": "Mister Crowley is a 45 year-old Ghoul Male.\n\nA weathered ghoul with a scarred face and a permanent scowl, Mister Crowley is a former mercenary who now calls Underworld home. His eyes hold a deep-seated resentment from a betrayal that left him for dead in Fort Constantine.\n\nMister Crowley's Personality: Cynical and distrustful due to past betrayals, Crowley is pragmatic and self-reliant. He values loyalty above all else and harbors a deep resentment toward those who have wronged him. Despite his hardened exterior, he maintains a certain code of honor, however twisted it may be.\n\nMister Crowley's Backstory: Born before the Great War, Crowley lived a relatively normal life until his transformation into a ghoul over two decades ago. He joined a group of mercenaries working for the wealthy Allistair Tenpenny, accepting a dangerous mission to retrieve a rare weapon from Fort Constantine. During the operation, Crowley was betrayed by his companion Dukov, who locked him in a room filled with feral ghouls to claim a larger share of the reward. Against all odds, Crowley survived the ordeal and escaped, his trust in others shattered. He eventually found refuge in Underworld, where he now spends his days either drinking at the Ninth Circle or resting at Carol's Place."
+  "description": "Mister Crowley is a 45 year-old Ghoul Male.\n\nA weathered ghoul with a scarred face and a permanent scowl, Mister Crowley is a former mercenary who now calls Underworld home. His eyes hold a deep-seated resentment from a betrayal that left him for dead in Fort Constantine.\n\nMister Crowley's Personality: Cynical and distrustful due to past betrayals, Crowley is pragmatic and self-reliant. He values loyalty above all else and harbors a deep resentment toward those who have wronged him. Despite his hardened exterior, he maintains a certain code of honor, however twisted it may be.\n\nMister Crowley's Backstory: Born before the Great War, Crowley lived a relatively normal life until his transformation into a ghoul over two decades ago. He joined a group of mercenaries working for the wealthy Allistair Tenpenny, accepting a dangerous mission to retrieve a rare weapon from Fort Constantine. During the operation, Crowley was betrayed by his companion Dukov, who locked him in a room filled with feral ghouls to claim a larger share of the reward. Against all odds, Crowley survived the ordeal and escaped, his trust in others shattered. He eventually found refuge in Underworld, where he now spends his days either drinking at the Ninth Circle or resting at Carol's Place.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

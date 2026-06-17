@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "5→15 (2 times current player level)",
+  "level": "5\u219215 (2 times current player level)",
   "tag_skills": [
     {
-      "Melee Weap.:": "49→96"
+      "Melee Weap.:": "49\u219296"
     },
     {
-      "Small Guns:": "49→96"
+      "Small Guns:": "49\u219296"
     },
     {
-      "Sneak:": "49→96"
+      "Sneak:": "49\u219296"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "115→165"
+      "Hit Points:": "115\u2192165"
     },
     {
       "Critical Chance:": "4%"
@@ -410,5 +410,6 @@
     }
   ],
   "combat": [],
-  "description": "Sydney is a 23 year-old Asian Female.\n\nA skilled Asian-American woman in her early 20s, Sydney is a hardened survivor who has navigated the dangers of the wasteland alone since she was fourteen. With weathered skin and sharp, observant eyes, she carries an SMG at her side and has a no-nonsense demeanor. She's known for her exceptional gunsmithing skills and her readiness for any confrontation, often sleeping with a weapon within reach. Despite her attractive appearance, she maintains a professional distance from others, particularly men.\n\nSydney's Personality: Loyal to her word but fiercely independent, Sydney is professional and focused on her tasks. She values reliability and trustworthiness in others but remains guarded about her personal history. Her traumatic past has made her cautious and somewhat distrustful, especially toward men who show romantic interest. She prefers working alone but can cooperate when necessary, though she keeps conversations strictly business.\n\nSydney's Backstory: Sydney's life was shattered when she was just fourteen years old. Raiders attacked her settlement, killing and assaulting her mother. Left alone in the wasteland, she had to quickly learn to survive. Through sheer determination and encounters with various wasteland denizens, she honed her skills in combat and gunsmithing. She became particularly adept with small arms, especially SMGs. Over the years, she developed a reputation as a reliable relic hunter, willing to take on dangerous assignments for the right price. Her affiliation with Abraham Lincoln in the National Archives provides her with both purpose and protection."
+  "description": "Sydney is a 23 year-old Asian Female.\n\nA skilled Asian-American woman in her early 20s, Sydney is a hardened survivor who has navigated the dangers of the wasteland alone since she was fourteen. With weathered skin and sharp, observant eyes, she carries an SMG at her side and has a no-nonsense demeanor. She's known for her exceptional gunsmithing skills and her readiness for any confrontation, often sleeping with a weapon within reach. Despite her attractive appearance, she maintains a professional distance from others, particularly men.\n\nSydney's Personality: Loyal to her word but fiercely independent, Sydney is professional and focused on her tasks. She values reliability and trustworthiness in others but remains guarded about her personal history. Her traumatic past has made her cautious and somewhat distrustful, especially toward men who show romantic interest. She prefers working alone but can cooperate when necessary, though she keeps conversations strictly business.\n\nSydney's Backstory: Sydney's life was shattered when she was just fourteen years old. Raiders attacked her settlement, killing and assaulting her mother. Left alone in the wasteland, she had to quickly learn to survive. Through sheer determination and encounters with various wasteland denizens, she honed her skills in combat and gunsmithing. She became particularly adept with small arms, especially SMGs. Over the years, she developed a reputation as a reliable relic hunter, willing to take on dangerous assignments for the right price. Her affiliation with Abraham Lincoln in the National Archives provides her with both purpose and protection.",
+  "voice_folder": "FemaleAdult02DC"
 }

@@ -54,7 +54,7 @@
   ],
   "misc_skills": [
     {
-      "Hit Points:": "120→505"
+      "Hit Points:": "120\u2192505"
     }
   ],
   "karma": "Very Good",
@@ -458,5 +458,6 @@
       "index": "204"
     }
   ],
-  "description": "Sentinel Lyons is a 26 year-old Caucasian Female.\n\nA charismatic and confident leader in the Brotherhood of Steel, Sentinel Sarah Lyons commands Lyons' Pride with exceptional combat skills and an aggressive tactical mindset. Born in 2251 at Lost Hills in New California, she has dedicated her life to the Brotherhood's mission, rising through the ranks to become one of the finest fighters at the D.C. Bunker.\n\nSentinel Lyons's Personality: Confident, charismatic, and assertive. Sarah Lyons leads with an aggressive and bold approach to combat, often advocating for immediate action against perceived threats. She is well-aware of her abilities and position within the Brotherhood, treating her authority as a matter of fact. While she maintains professional relationships with her squad members, she can be particularly fierce against enemies who have earned her ire, such as the Enclave and super mutants.\n\nSentinel Lyons's Backstory: Born in 2251 at the Brotherhood of Steel's headquarters in Lost Hills, New California, Sarah Lyons lost her mother in infancy. Over the next twenty-two years, she accumulated extensive training, experience, and leadership skills within the Brotherhood. By 2277, she has risen to become Sentinel and commands Lyons' Pride, conducting constant operations in downtown Washington D.C. to contain super mutant threats. Despite her father's position as Elder of the East Coast chapter, Sarah has earned her position through merit and demonstrated valor in numerous engagements."
+  "description": "Sentinel Lyons is a 26 year-old Caucasian Female.\n\nA charismatic and confident leader in the Brotherhood of Steel, Sentinel Sarah Lyons commands Lyons' Pride with exceptional combat skills and an aggressive tactical mindset. Born in 2251 at Lost Hills in New California, she has dedicated her life to the Brotherhood's mission, rising through the ranks to become one of the finest fighters at the D.C. Bunker.\n\nSentinel Lyons's Personality: Confident, charismatic, and assertive. Sarah Lyons leads with an aggressive and bold approach to combat, often advocating for immediate action against perceived threats. She is well-aware of her abilities and position within the Brotherhood, treating her authority as a matter of fact. While she maintains professional relationships with her squad members, she can be particularly fierce against enemies who have earned her ire, such as the Enclave and super mutants.\n\nSentinel Lyons's Backstory: Born in 2251 at the Brotherhood of Steel's headquarters in Lost Hills, New California, Sarah Lyons lost her mother in infancy. Over the next twenty-two years, she accumulated extensive training, experience, and leadership skills within the Brotherhood. By 2277, she has risen to become Sentinel and commands Lyons' Pride, conducting constant operations in downtown Washington D.C. to contain super mutant threats. Despite her father's position as Elder of the East Coast chapter, Sarah has earned her position through merit and demonstrated valor in numerous engagements.",
+  "voice_folder": "FemaleUniqueSarah"
 }

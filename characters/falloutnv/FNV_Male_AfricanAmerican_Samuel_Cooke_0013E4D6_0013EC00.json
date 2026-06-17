@@ -30,16 +30,16 @@
     "Agility": 5,
     "Luck": 4
   },
-  "level": "10→20 (player level x 1.2)",
+  "level": "10\u219220 (player level x 1.2)",
   "tag_skills": [
     {
-      "Explosives:": "64→100"
+      "Explosives:": "64\u2192100"
     },
     {
-      "Guns:": "62→100"
+      "Guns:": "62\u2192100"
     },
     {
-      "Melee Weap.:": "62→100"
+      "Melee Weap.:": "62\u2192100"
     }
   ],
   "misc_skills": [],
@@ -239,5 +239,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Samuel Cooke is a 38 year-old African American Male.\n\nA charismatic and ideological revolutionary who views the NCR as a corrupt, tyrannical power rather than just another authority figure. Cooke stands out among convicts for his principled hatred of the republic rather than mere criminal resentment.\n\nSamuel Cooke's Personality: Charismatic, ideological, vengeful, strategic, and persuasive. Despite his revolutionary fervor, Cooke demonstrates patience and tactical thinking, waiting for the right moment to strike against the NCR.\n\nSamuel Cooke's Backstory: Samuel Cooke was imprisoned by the NCR for his anti-republican activities and sentenced to labor in the Mojave Wasteland's correctional facility. While there, he participated in the work-release program, repairing railways and using dynamite to blast rock obstructions for the Republic's supply chains against Caesar's Legion. Despite his harsh circumstances, Cooke's revolutionary spirit remained unbroken. He eventually orchestrated a breakout from the prison when NCR military command diverted more guards to the Hoover Dam garrison. Rather than staying to lead the newly formed Powder Gangers, Cooke departed with his most loyal followers, seeking a defensible base to continue his fight against the republic. With knowledge acquired during his imprisonment, he established his operations in the abandoned Vault 19 beneath a parking lot near Bonnie Springs."
+  "description": "Samuel Cooke is a 38 year-old African American Male.\n\nA charismatic and ideological revolutionary who views the NCR as a corrupt, tyrannical power rather than just another authority figure. Cooke stands out among convicts for his principled hatred of the republic rather than mere criminal resentment.\n\nSamuel Cooke's Personality: Charismatic, ideological, vengeful, strategic, and persuasive. Despite his revolutionary fervor, Cooke demonstrates patience and tactical thinking, waiting for the right moment to strike against the NCR.\n\nSamuel Cooke's Backstory: Samuel Cooke was imprisoned by the NCR for his anti-republican activities and sentenced to labor in the Mojave Wasteland's correctional facility. While there, he participated in the work-release program, repairing railways and using dynamite to blast rock obstructions for the Republic's supply chains against Caesar's Legion. Despite his harsh circumstances, Cooke's revolutionary spirit remained unbroken. He eventually orchestrated a breakout from the prison when NCR military command diverted more guards to the Hoover Dam garrison. Rather than staying to lead the newly formed Powder Gangers, Cooke departed with his most loyal followers, seeking a defensible base to continue his fight against the republic. With knowledge acquired during his imprisonment, he established his operations in the abandoned Vault 19 beneath a parking lot near Bonnie Springs.",
+  "voice_folder": "MaleAdult02"
 }

@@ -40,7 +40,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "4→9",
+  "level": "4\u21929",
   "tag_skills": [],
   "misc_skills": [],
   "karma": "Neutral",
@@ -57,5 +57,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "John Bear is a 32 year-old African American Male.\n\nJohn Bear is a formidable arena fighter in the Pitt's fighting circuit, known for his brutal efficiency and tactical partnership with his brother Grudd. Together, they form an unbeatable duo in The Hole, having never been defeated in combat.\n\nJohn Bear's Personality: John is aggressive, calculating, and fiercely loyal to his brother Grudd. He's pragmatic and values strength above all else, having survived the harsh environment of the Pitt by being both cunning and powerful.\n\nJohn Bear's Backstory: Born before the Great War, John Bear and his brothers grew up in the wastelands. When the Scourge hit the Pitt, their brother Greg was taken by the Brotherhood of Steel, while John and Grudd were deemed too 'wild and mean' for their ranks. Left to fend for themselves, they were recruited by Ishmael Ashur into his raider army. Under Ashur's command, they honed their combat skills and became two of his most trusted soldiers. By 2277, they had risen to become undefeated champions of The Hole, the Pitt's brutal fighting arena."
+  "description": "John Bear is a 32 year-old African American Male.\n\nJohn Bear is a formidable arena fighter in the Pitt's fighting circuit, known for his brutal efficiency and tactical partnership with his brother Grudd. Together, they form an unbeatable duo in The Hole, having never been defeated in combat.\n\nJohn Bear's Personality: John is aggressive, calculating, and fiercely loyal to his brother Grudd. He's pragmatic and values strength above all else, having survived the harsh environment of the Pitt by being both cunning and powerful.\n\nJohn Bear's Backstory: Born before the Great War, John Bear and his brothers grew up in the wastelands. When the Scourge hit the Pitt, their brother Greg was taken by the Brotherhood of Steel, while John and Grudd were deemed too 'wild and mean' for their ranks. Left to fend for themselves, they were recruited by Ishmael Ashur into his raider army. Under Ashur's command, they honed their combat skills and became two of his most trusted soldiers. By 2277, they had risen to become undefeated champions of The Hole, the Pitt's brutal fighting arena.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

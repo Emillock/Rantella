@@ -50,7 +50,7 @@
       "topic": "CG04GuardExitYell",
       "topic_text": "CG04GuardExitYell",
       "emotion": "Fear 50",
-      "response_text": "I'm not crazy enough to go out there!Play soundFO3 Vault101Security NotCrazyEno…https://fallout.fandom.com/wiki/File:FO3_Vault101Security_NotCrazyEnough.oggnoicon",
+      "response_text": "I'm not crazy enough to go out there!Play soundFO3 Vault101Security NotCrazyEno\u2026https://fallout.fandom.com/wiki/File:FO3_Vault101Security_NotCrazyEnough.oggnoicon",
       "index": "2"
     },
     {
@@ -64,14 +64,14 @@
       "topic": "CG04SecurityConv1",
       "topic_text": "CG04SecurityConv1",
       "emotion": "Neutral 100",
-      "response_text": "Pretty quiet. You?Play soundFO3 Vault101Security PrettyQuiet…https://fallout.fandom.com/wiki/File:FO3_Vault101Security_PrettyQuiet.oggnoicon",
+      "response_text": "Pretty quiet. You?Play soundFO3 Vault101Security PrettyQuiet\u2026https://fallout.fandom.com/wiki/File:FO3_Vault101Security_PrettyQuiet.oggnoicon",
       "index": "7"
     },
     {
       "topic": "GOODBYE",
       "topic_text": "I have to go now.",
       "emotion": "Neutral 100",
-      "response_text": "All right. We better get back to it. Be careful.Play soundFO3 Vault101Security BetterGetBa…https://fallout.fandom.com/wiki/File:FO3_Vault101Security_BetterGetBack.oggnoicon",
+      "response_text": "All right. We better get back to it. Be careful.Play soundFO3 Vault101Security BetterGetBa\u2026https://fallout.fandom.com/wiki/File:FO3_Vault101Security_BetterGetBack.oggnoicon",
       "index": "15"
     },
     {
@@ -85,7 +85,7 @@
       "topic": "IdleChatter",
       "topic_text": "Idle Chatter",
       "emotion": "Anger 50",
-      "response_text": "If I ever get my hands on that kid, so help me...Play soundFO3 Vault101Security GetMyHandsO…https://fallout.fandom.com/wiki/File:FO3_Vault101Security_GetMyHandsOn.oggnoicon",
+      "response_text": "If I ever get my hands on that kid, so help me...Play soundFO3 Vault101Security GetMyHandsO\u2026https://fallout.fandom.com/wiki/File:FO3_Vault101Security_GetMyHandsOn.oggnoicon",
       "index": "24"
     }
   ],
@@ -98,5 +98,6 @@
       "index": "35"
     }
   ],
-  "description": "Officer O'Brian is a 42 year-old Caucasian Male.\n\nA stern and imposing figure patrolling the corridors of Vault 101, Officer O'Brian takes pleasure in maintaining order through intimidation and force. His cold eyes seem to miss nothing, and his voice carries an edge of barely contained violence.\n\nOfficer O'Brian's Personality: Sadistic and authoritarian, O'Brian derives satisfaction from exerting power over others. He is cruel, manipulative, and finds joy in the suffering of those who cross him. Beneath his tough exterior lies a deeply disturbed individual who views pain as both a tool and entertainment.\n\nOfficer O'Brian's Backstory: Born and raised within the confines of Vault 101, O'Brian quickly discovered his natural inclination toward violence and control. Rising through the security ranks, he became known for his ruthless methods and willingness to bend the rules to satisfy his darker urges. Overseer Almodovar, recognizing O'Brian's effectiveness in keeping order despite his methods, has turned a blind eye to his excesses, as long as they don't attract undue attention from the Vault's overseer council."
+  "description": "Officer O'Brian is a 42 year-old Caucasian Male.\n\nA stern and imposing figure patrolling the corridors of Vault 101, Officer O'Brian takes pleasure in maintaining order through intimidation and force. His cold eyes seem to miss nothing, and his voice carries an edge of barely contained violence.\n\nOfficer O'Brian's Personality: Sadistic and authoritarian, O'Brian derives satisfaction from exerting power over others. He is cruel, manipulative, and finds joy in the suffering of those who cross him. Beneath his tough exterior lies a deeply disturbed individual who views pain as both a tool and entertainment.\n\nOfficer O'Brian's Backstory: Born and raised within the confines of Vault 101, O'Brian quickly discovered his natural inclination toward violence and control. Rising through the security ranks, he became known for his ruthless methods and willingness to bend the rules to satisfy his darker urges. Overseer Almodovar, recognizing O'Brian's effectiveness in keeping order despite his methods, has turned a blind eye to his excesses, as long as they don't attract undue attention from the Vault's overseer council.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

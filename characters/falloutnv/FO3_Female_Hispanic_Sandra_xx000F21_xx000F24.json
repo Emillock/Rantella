@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "3→13",
+  "level": "3\u219213",
   "tag_skills": [
     {
-      "Explosives:": "44→100"
+      "Explosives:": "44\u2192100"
     },
     {
-      "Medicine:": "48→100"
+      "Medicine:": "48\u2192100"
     },
     {
-      "Science:": "48→100"
+      "Science:": "48\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→80"
+      "Hit Points:": "30\u219280"
     },
     {
       "Critical Chance:": "5%"
@@ -256,5 +256,6 @@
     }
   ],
   "combat": [],
-  "description": "Dr. Sandra Kundanika is a 38 year-old Hispanic Female.\n\nA brilliant scientist who chose to live and work in the industrial wasteland of The Pitt. She's known for her research on the Troglodyte Degeneration Contagion (TDC) and is married to its leader, Ishmael Ashur.\n\nDr. Sandra Kundanika's Personality: Intelligent, pragmatic, and ambitious with a preference for non-violent solutions despite her association with the ruthless raiders of The Pitt. She shares her husband's vision for uniting the wasteland through strength.\n\nDr. Sandra Kundanika's Backstory: Dr. Kundanika was educated before coming to The Pitt, where she recognized the city's potential as a rising power in the wasteland. Ishmael Ashur, impressed by her intelligence, invited her to conduct research. She focused on studying the Trogs and their disease, which she named the Troglodyte Degeneration Contagi (TDC). Over time, she and Ashur developed a genuine relationship that led to marriage. She supports her husband's vision of building an army to unite the wasteland but maintains her preference for non-violent approaches when possible."
+  "description": "Dr. Sandra Kundanika is a 38 year-old Hispanic Female.\n\nA brilliant scientist who chose to live and work in the industrial wasteland of The Pitt. She's known for her research on the Troglodyte Degeneration Contagion (TDC) and is married to its leader, Ishmael Ashur.\n\nDr. Sandra Kundanika's Personality: Intelligent, pragmatic, and ambitious with a preference for non-violent solutions despite her association with the ruthless raiders of The Pitt. She shares her husband's vision for uniting the wasteland through strength.\n\nDr. Sandra Kundanika's Backstory: Dr. Kundanika was educated before coming to The Pitt, where she recognized the city's potential as a rising power in the wasteland. Ishmael Ashur, impressed by her intelligence, invited her to conduct research. She focused on studying the Trogs and their disease, which she named the Troglodyte Degeneration Contagi (TDC). Over time, she and Ashur developed a genuine relationship that led to marriage. She supports her husband's vision of building an army to unite the wasteland but maintains her preference for non-violent approaches when possible.",
+  "voice_folder": "DLC01UniqueSandra"
 }

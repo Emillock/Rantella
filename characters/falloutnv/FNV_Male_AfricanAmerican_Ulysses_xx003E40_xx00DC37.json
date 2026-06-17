@@ -41,7 +41,7 @@
     "Agility": 10,
     "Luck": 10
   },
-  "level": "20 → 50 (player level x 1.2)",
+  "level": "20 \u2192 50 (player level x 1.2)",
   "tag_skills": [
     {
       "Explosives:": "100"
@@ -55,7 +55,7 @@
   ],
   "misc_skills": [
     {
-      "Hit Points:": "880→1030"
+      "Hit Points:": "880\u21921030"
     },
     {
       "Dam. Threshold:": "18"
@@ -572,7 +572,7 @@
       "topic": "NVDLC04DialogueEDENVDLC04UlyssesTopic087",
       "topic_text": "Maybe you should tell me what happened.",
       "emotion": "Neutral 50",
-      "response_text": "NCR saw the worth in that road you made.{Disgust}Staked a claim, whether it was wanted there or not -{just like itâs}true elsewhere in the Mojave.",
+      "response_text": "NCR saw the worth in that road you made.{Disgust}Staked a claim, whether it was wanted there or not -{just like it\u00e2\u0080\u0099s}true elsewhere in the Mojave.",
       "index": "202"
     },
     {
@@ -670,7 +670,7 @@
       "topic": "NVDLC04DialogueEDENVDLC04UlyssesTopic105",
       "topic_text": "That's what made the Legion come to the Divide.",
       "emotion": "Neutral 50",
-      "response_text": "{To himself, echoing Caesarâs orders}Caesarâs orders.{Emph}Every supply line gets cut, every community that feeds the Bear... cut its throat, starve the Mojave.",
+      "response_text": "{To himself, echoing Caesar\u00e2\u0080\u0099s orders}Caesar\u00e2\u0080\u0099s orders.{Emph}Every supply line gets cut, every community that feeds the Bear... cut its throat, starve the Mojave.",
       "index": "237"
     },
     {
@@ -1272,7 +1272,7 @@
       "topic": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic029I'm heading back to the Mojave to settle some things.",
       "topic_text": "I'm heading back to the Mojave to settle some things.",
       "emotion": "Neutral 50",
-      "response_text": "{As player is about to leave}Can hear the weight in your feet - youâre bound for that Old World wall. Hoover Dam. Maybe not now - in time.",
+      "response_text": "{As player is about to leave}Can hear the weight in your feet - you\u00e2\u0080\u0099re bound for that Old World wall. Hoover Dam. Maybe not now - in time.",
       "index": "480"
     },
     {
@@ -1321,7 +1321,7 @@
       "topic": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic041",
       "topic_text": "",
       "emotion": "Neutral 50",
-      "response_text": "{Slightly doubtful}Too soon to tell what will happen, let history weigh what youâve done, if it gets that far.",
+      "response_text": "{Slightly doubtful}Too soon to tell what will happen, let history weigh what you\u00e2\u0080\u0099ve done, if it gets that far.",
       "index": "494"
     },
     {
@@ -1354,7 +1354,7 @@
     },
     {
       "topic": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic046",
-      "topic_text": "You donât sound happy.",
+      "topic_text": "You don\u00e2\u0080\u0099t sound happy.",
       "emotion": "Neutral 50",
       "response_text": "{Shakes his head, regretful, but player did right thing, \"No...\"}What you did was for the best. The Old World died long ago. Anyone who believes they can make it return and everything will be as it was...",
       "index": "506"
@@ -1363,7 +1363,7 @@
       "topic": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic049",
       "topic_text": "",
       "emotion": "Neutral 50",
-      "response_text": "{Quiet, bring this to a close}If you saw House, you didnât see a man. An Old World spirit, perhaps - filthy, diseased. If so, killing him was mercy, not cruelty.",
+      "response_text": "{Quiet, bring this to a close}If you saw House, you didn\u00e2\u0080\u0099t see a man. An Old World spirit, perhaps - filthy, diseased. If so, killing him was mercy, not cruelty.",
       "index": "508"
     },
     {
@@ -1433,7 +1433,7 @@
       "topic": "NVDLC04DialogueUlyssesNVDLC04UlyssesTopic062",
       "topic_text": "I got your final message.",
       "emotion": "Neutral 50",
-      "response_text": "{Slightly amused}Didn't think I'd be breathing to hear you say that.{Beat, “Still...”}Message isn't important, meaning is.",
+      "response_text": "{Slightly amused}Didn't think I'd be breathing to hear you say that.{Beat, \u201cStill...\u201d}Message isn't important, meaning is.",
       "index": "527"
     },
     {
@@ -2267,5 +2267,6 @@
       "index": "865"
     }
   ],
-  "description": "Ulysses is a 42 year-old African American Male.\n\nA former member of the Twisted Hairs tribe and later a high-ranking frumentarius in Caesar's Legion. Ulysses is an accomplished scout and survivor with deep knowledge of the wasteland. After witnessing the betrayal of his tribe by Caesar and the execution of Joshua Graham, he became disillusioned with the Legion. His life was forever changed when the Divide was destroyed by a package delivered by another courier, an event he blames on the Courier. Now obsessed with finding this individual and the power they wield, Ulysses has set up a base in the Mojave, waiting to confront the one he holds responsible for destroying what could have been his home.\n\nUlysses's Personality: Philosophical, obsessive, and deeply contemplative. Ulysses carries the weight of his past experiences and has developed a complex worldview that rejects both Caesar's Legion and the New California Republic. He respects power and the ability to shape history, viewing himself as a lone survivor who understands the true nature of the wasteland. Despite his former allegiance to the Legion, Ulysses is critical of Caesar's leadership and believes the Legion will collapse without him. He harbors a deep hatred for the NCR, seeing them as hypocritical protectors who kill through their policies. Ulysses values symbols and meaning, particularly those from the Old World, and speaks in metaphors and philosophical questions.\n\nUlysses's Backstory: Born into the Twisted Hairs tribe in Arizona, Ulysses was one of their most accomplished scouts. In 2247, his tribe was recruited by Caesar's Legion to become their primary scouting force. After Arizona's tribes were conquered, Caesar betrayed the Twisted Hairs, enslaving them and erasing their identity. Despite this betrayal, Ulysses remained loyal, becoming an indispensable frumentarius. In 2274, he was the first Legion scout to see Hoover Dam and recognized it as both a symbol of power and a potential downfall for Caesar. After witnessing Joshua Graham's execution, Ulysses' loyalty began to waver. His life changed forever when the Divide was destroyed by a courier's package, an event he survived thanks to medical Eyebots. Believing the Courier responsible, he developed an obsession with finding them. After leaving the Legion's service, Ulysses resumed work as a courier and was one of six couriers hired to deliver the platinum chip to New Vegas in 2281."
+  "description": "Ulysses is a 42 year-old African American Male.\n\nA former member of the Twisted Hairs tribe and later a high-ranking frumentarius in Caesar's Legion. Ulysses is an accomplished scout and survivor with deep knowledge of the wasteland. After witnessing the betrayal of his tribe by Caesar and the execution of Joshua Graham, he became disillusioned with the Legion. His life was forever changed when the Divide was destroyed by a package delivered by another courier, an event he blames on the Courier. Now obsessed with finding this individual and the power they wield, Ulysses has set up a base in the Mojave, waiting to confront the one he holds responsible for destroying what could have been his home.\n\nUlysses's Personality: Philosophical, obsessive, and deeply contemplative. Ulysses carries the weight of his past experiences and has developed a complex worldview that rejects both Caesar's Legion and the New California Republic. He respects power and the ability to shape history, viewing himself as a lone survivor who understands the true nature of the wasteland. Despite his former allegiance to the Legion, Ulysses is critical of Caesar's leadership and believes the Legion will collapse without him. He harbors a deep hatred for the NCR, seeing them as hypocritical protectors who kill through their policies. Ulysses values symbols and meaning, particularly those from the Old World, and speaks in metaphors and philosophical questions.\n\nUlysses's Backstory: Born into the Twisted Hairs tribe in Arizona, Ulysses was one of their most accomplished scouts. In 2247, his tribe was recruited by Caesar's Legion to become their primary scouting force. After Arizona's tribes were conquered, Caesar betrayed the Twisted Hairs, enslaving them and erasing their identity. Despite this betrayal, Ulysses remained loyal, becoming an indispensable frumentarius. In 2274, he was the first Legion scout to see Hoover Dam and recognized it as both a symbol of power and a potential downfall for Caesar. After witnessing Joshua Graham's execution, Ulysses' loyalty began to waver. His life changed forever when the Divide was destroyed by a courier's package, an event he survived thanks to medical Eyebots. Believing the Courier responsible, he developed an obsession with finding them. After leaving the Legion's service, Ulysses resumed work as a courier and was one of six couriers hired to deliver the platinum chip to New Vegas in 2281.",
+  "voice_folder": "NVDLC04MaleUniqueUlysses"
 }

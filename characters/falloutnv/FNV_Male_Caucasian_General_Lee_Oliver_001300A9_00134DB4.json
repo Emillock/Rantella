@@ -40,21 +40,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "15→30→50 (DLCs only)",
+  "level": "15\u219230\u219250 (DLCs only)",
   "tag_skills": [
     {
-      "Explosives:": "88→100"
+      "Explosives:": "88\u2192100"
     },
     {
-      "Guns:": "86→100"
+      "Guns:": "86\u2192100"
     },
     {
-      "Melee Weap.:": "86→100"
+      "Melee Weap.:": "86\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "190→265→365 (DLCs only)"
+      "Hit Points:": "190\u2192265\u2192365 (DLCs only)"
     },
     {
       "Dam. Threshold:": "0"
@@ -629,5 +629,6 @@
       "index": "158"
     }
   ],
-  "description": "General Lee Oliver is a 58 year-old Caucasian Male.\n\nA weathered and disciplined military man with a stern demeanor and sharp, calculating eyes. General Oliver carries the weight of command heavily, with a posture that speaks of years of military service. His uniform is immaculate, a testament to his pride in the NCR and his position within it.\n\nGeneral Lee Oliver's Personality: Ambitious, patriotic, but stubborn. General Oliver is a dedicated soldier who believes firmly in the NCR's mission to expand and civilize the wasteland. He harbors resentment toward those he perceives as stealing his glory, particularly Chief Hanlon and the NCR Rangers. Despite his grudge, Oliver is pragmatic and won't sacrifice his men needlessly, though his pride often clouds his judgment.\n\nGeneral Lee Oliver's Backstory: General Lee Oliver has spent his entire adult life in the New California Republic Army, rising through the ranks with distinction. He served during the First Battle of Hoover Dam in 2277, where the NCR successfully secured the dam from Caesar's Legion. However, the credit for the victory largely went to Chief Hanlon and his Rangers, whose unconventional tactics stole the spotlight. This slight has festered in Oliver, fueling his determination to prove his worth in the impending Second Battle of Hoover Dam. A staunch supporter of President Kimball's expansionist policies, Oliver views the Mojave as the NCR's destiny and is willing to do whatever it takes to secure it for the Republic."
+  "description": "General Lee Oliver is a 58 year-old Caucasian Male.\n\nA weathered and disciplined military man with a stern demeanor and sharp, calculating eyes. General Oliver carries the weight of command heavily, with a posture that speaks of years of military service. His uniform is immaculate, a testament to his pride in the NCR and his position within it.\n\nGeneral Lee Oliver's Personality: Ambitious, patriotic, but stubborn. General Oliver is a dedicated soldier who believes firmly in the NCR's mission to expand and civilize the wasteland. He harbors resentment toward those he perceives as stealing his glory, particularly Chief Hanlon and the NCR Rangers. Despite his grudge, Oliver is pragmatic and won't sacrifice his men needlessly, though his pride often clouds his judgment.\n\nGeneral Lee Oliver's Backstory: General Lee Oliver has spent his entire adult life in the New California Republic Army, rising through the ranks with distinction. He served during the First Battle of Hoover Dam in 2277, where the NCR successfully secured the dam from Caesar's Legion. However, the credit for the victory largely went to Chief Hanlon and his Rangers, whose unconventional tactics stole the spotlight. This slight has festered in Oliver, fueling his determination to prove his worth in the impending Second Battle of Hoover Dam. A staunch supporter of President Kimball's expansionist policies, Oliver views the Mojave as the NCR's destiny and is willing to do whatever it takes to secure it for the Republic.",
+  "voice_folder": "MaleAdult01DefaultB"
 }

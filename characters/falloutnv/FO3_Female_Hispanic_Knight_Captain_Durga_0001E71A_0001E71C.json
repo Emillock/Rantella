@@ -31,16 +31,16 @@
     "Agility": 4,
     "Luck": 6
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Barter:": "50→66→87"
+      "Barter:": "50\u219266\u219287"
     },
     {
-      "Lockpick:": "44→60→81"
+      "Lockpick:": "44\u219260\u219281"
     },
     {
-      "Speech:": "50→66→87"
+      "Speech:": "50\u219266\u219287"
     }
   ],
   "misc_skills": [],
@@ -87,5 +87,6 @@
     }
   ],
   "combat": [],
-  "description": "Knight Captain Durga is a 49 year-old Hispanic Female.\n\nThe Citadel's quartermaster, Knight Captain Durga is a no-nonsense administrator who takes her role very seriously. Unlike many other Brotherhood of Steel members, she uses modern speech patterns rather than the archaic language typical of the organization. She can often be found in the backroom of the Citadel armory, meticulously organizing supplies and equipment.\n\nKnight Captain Durga's Personality: Durga is serious, dutiful, and pragmatic. She's discontent with her position as quartermaster and doesn't hide her frustration, but remains professional in her duties. She's direct in her communication and values efficiency above all else.\n\nKnight Captain Durga's Backstory: Born in the Capital Wasteland before joining the Brotherhood of Steel, Durga rose through the ranks with her exceptional organizational skills and no-nonsense attitude. She served with distinction in several field operations, earning the rank of Knight Captain. However, after being assigned as quartermaster of the Citadel, she grew increasingly frustrated with what she perceived as a desk job beneath her capabilities. Despite her discontent, she performs her duties with meticulous precision, ensuring the Brotherhood's armory remains well-stocked and organized."
+  "description": "Knight Captain Durga is a 49 year-old Hispanic Female.\n\nThe Citadel's quartermaster, Knight Captain Durga is a no-nonsense administrator who takes her role very seriously. Unlike many other Brotherhood of Steel members, she uses modern speech patterns rather than the archaic language typical of the organization. She can often be found in the backroom of the Citadel armory, meticulously organizing supplies and equipment.\n\nKnight Captain Durga's Personality: Durga is serious, dutiful, and pragmatic. She's discontent with her position as quartermaster and doesn't hide her frustration, but remains professional in her duties. She's direct in her communication and values efficiency above all else.\n\nKnight Captain Durga's Backstory: Born in the Capital Wasteland before joining the Brotherhood of Steel, Durga rose through the ranks with her exceptional organizational skills and no-nonsense attitude. She served with distinction in several field operations, earning the rank of Knight Captain. However, after being assigned as quartermaster of the Citadel, she grew increasingly frustrated with what she perceived as a desk job beneath her capabilities. Despite her discontent, she performs her duties with meticulous precision, ensuring the Brotherhood's armory remains well-stocked and organized.",
+  "voice_folder": "FemaleAdult04DC"
 }

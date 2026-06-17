@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "2→6(equal to player characters level)",
+  "level": "2\u21926(equal to player characters level)",
   "tag_skills": [
     {
-      "Barter:": "31→50"
+      "Barter:": "31\u219250"
     },
     {
-      "Small Guns:": "35→54"
+      "Small Guns:": "35\u219254"
     },
     {
-      "Unarmed:": "31→54"
+      "Unarmed:": "31\u219254"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→50"
+      "Hit Points:": "30\u219250"
     },
     {
       "Poison Resist.:": "15%"
@@ -179,7 +179,7 @@
       "topic": "BigTownResponse02",
       "topic_text": "BigTownResponse02",
       "emotion": "Neutral 50",
-      "response_text": "That’s funny, I thought we were an autonomous collective.{Kimba is confused over the sudden change in hierarchy.}",
+      "response_text": "That\u2019s funny, I thought we were an autonomous collective.{Kimba is confused over the sudden change in hierarchy.}",
       "index": "46"
     },
     {
@@ -213,5 +213,6 @@
       "index": "67"
     }
   ],
-  "description": "Kimba is a 19 year-old African American Female.\n\nKimba is one of Big Town's few surviving residents in 2277. Having grown up in Little Lamplight, she has transitioned to the adult settlement of Big Town where she now resides. She is a capable survivor who remains stable and soft-spoken despite the harsh realities of the wasteland.\n\nKimba's Personality: Kimba is generally conflict-averse and tends to go along with group decisions even when her logical mind suggests otherwise. She remains optimistic about the future and is always willing to learn new skills and help her community. Despite the constant threats, she maintains a gentle demeanor and cares deeply for her fellow residents.\n\nKimba's Backstory: Born in 2258, Kimba spent her formative years in Little Lamplight, the underground settlement exclusively for children. Upon reaching adulthood, she joined Big Town along with other former Little Lamplight residents. In Big Town, she has witnessed countless threats from slavers and super mutants, and has seen many friends fall in battle. Despite these losses, she remains committed to protecting her home and helping her community survive in the hostile wasteland."
+  "description": "Kimba is a 19 year-old African American Female.\n\nKimba is one of Big Town's few surviving residents in 2277. Having grown up in Little Lamplight, she has transitioned to the adult settlement of Big Town where she now resides. She is a capable survivor who remains stable and soft-spoken despite the harsh realities of the wasteland.\n\nKimba's Personality: Kimba is generally conflict-averse and tends to go along with group decisions even when her logical mind suggests otherwise. She remains optimistic about the future and is always willing to learn new skills and help her community. Despite the constant threats, she maintains a gentle demeanor and cares deeply for her fellow residents.\n\nKimba's Backstory: Born in 2258, Kimba spent her formative years in Little Lamplight, the underground settlement exclusively for children. Upon reaching adulthood, she joined Big Town along with other former Little Lamplight residents. In Big Town, she has witnessed countless threats from slavers and super mutants, and has seen many friends fall in battle. Despite these losses, she remains committed to protecting her home and helping her community survive in the hostile wasteland.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

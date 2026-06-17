@@ -101,7 +101,7 @@
       "topic": "VFreeformVault22AngelaKearnyTopic006",
       "topic_text": "Yes. He asked me to get some data from Vault 22.",
       "emotion": "Neutral 50",
-      "response_text": "I shouldn’t say anything, I know that. But you’re not the first person Hildern's sent out to the vault.",
+      "response_text": "I shouldn\u2019t say anything, I know that. But you\u2019re not the first person Hildern's sent out to the vault.",
       "index": "23"
     },
     {
@@ -289,5 +289,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Angela Williams is a 38 year-old Caucasian human Female.\n\nDoctor Angela Williams is an NCR Office of Science and Industry (OSI) researcher serving as head researcher for the Hoover Dam Project. Raised on a cattle ranch in the NCR, she speaks with a characteristic ranch twang and is known for her competence and fair-minded approach to research.\n\nAngela Williams's Personality: Polite, fair, and competent with a strong work ethic. Angela is dedicated to scientific advancement but is frustrated by colleagues who prioritize personal ambition over genuine research. She values teamwork and integrity in scientific endeavors.\n\nAngela Williams's Backstory: Born and raised on a cattle ranch in the New California Republic, Angela Williams showed an early aptitude for science and engineering. Recognizing her potential, the Office of Science and Industry provided her with a comprehensive education, eventually recruiting her into their ranks. She worked her way up through various research positions before being assigned to OSI East in the Mojave Wasteland as head researcher for the critical Hoover Dam Project. Throughout her career, she has maintained her rural values while developing the technical expertise needed for her position."
+  "description": "Angela Williams is a 38 year-old Caucasian human Female.\n\nDoctor Angela Williams is an NCR Office of Science and Industry (OSI) researcher serving as head researcher for the Hoover Dam Project. Raised on a cattle ranch in the NCR, she speaks with a characteristic ranch twang and is known for her competence and fair-minded approach to research.\n\nAngela Williams's Personality: Polite, fair, and competent with a strong work ethic. Angela is dedicated to scientific advancement but is frustrated by colleagues who prioritize personal ambition over genuine research. She values teamwork and integrity in scientific endeavors.\n\nAngela Williams's Backstory: Born and raised on a cattle ranch in the New California Republic, Angela Williams showed an early aptitude for science and engineering. Recognizing her potential, the Office of Science and Industry provided her with a comprehensive education, eventually recruiting her into their ranks. She worked her way up through various research positions before being assigned to OSI East in the Mojave Wasteland as head researcher for the critical Hoover Dam Project. Throughout her career, she has maintained her rural values while developing the technical expertise needed for her position.",
+  "voice_folder": "FemaleAdult07"
 }

@@ -40,27 +40,27 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "1 → 6 (equal to player's level)",
+  "level": "1 \u2192 6 (equal to player's level)",
   "tag_skills": [
     {
-      "Barter:": "27→50"
+      "Barter:": "27\u219250"
     },
     {
-      "Small Guns:": "31→54(33→56)"
+      "Small Guns:": "31\u219254(33\u219256)"
     },
     {
-      "Unarmed:": "27→54"
+      "Unarmed:": "27\u219254"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→50"
+      "Hit Points:": "25\u219250"
     },
     {
       "Critical Chance:": "4%"
     },
     {
-      "Unarmed Dam.:": "1.85→3"
+      "Unarmed Dam.:": "1.85\u21923"
     },
     {
       "Poison Resist.:": "15%"
@@ -173,5 +173,6 @@
     }
   ],
   "combat": [],
-  "description": "Bessie Lynn is a 65 year-old Caucasian Female.\n\nBessie Lynn is a middle-aged ghoul residing in Warrington station in 2277. Her ghoulification has transformed her appearance, leaving her with pale, wrinkled skin and a raspy voice. Despite her acceptance of her physical state, she remains self-conscious about her appearance and tends to avoid eye contact with strangers.\n\nBessie Lynn's Personality: Timid and nervous, Bessie consistently defers to her boyfriend Roy Phillips in all matters. She is submissive and lacks confidence, often speaking softly and hesitantly. She harbors regret about her lost beauty and the social status she once enjoyed before becoming a ghoul.\n\nBessie Lynn's Backstory: Born before the Great War, Bessie lived a relatively normal life until October 23rd, 2077. She was known for her beauty and was admired by many in her community. When the bombs fell, she was exposed to significant radiation that eventually led to her ghoulification. The transformation was not physical only but also psychological, as she struggled with the loss of her former beauty and social standing. Over the decades, she became dependent on others for guidance and protection, eventually falling in with Roy Phillips, who provided her with a sense of security and purpose."
+  "description": "Bessie Lynn is a 65 year-old Caucasian Female.\n\nBessie Lynn is a middle-aged ghoul residing in Warrington station in 2277. Her ghoulification has transformed her appearance, leaving her with pale, wrinkled skin and a raspy voice. Despite her acceptance of her physical state, she remains self-conscious about her appearance and tends to avoid eye contact with strangers.\n\nBessie Lynn's Personality: Timid and nervous, Bessie consistently defers to her boyfriend Roy Phillips in all matters. She is submissive and lacks confidence, often speaking softly and hesitantly. She harbors regret about her lost beauty and the social status she once enjoyed before becoming a ghoul.\n\nBessie Lynn's Backstory: Born before the Great War, Bessie lived a relatively normal life until October 23rd, 2077. She was known for her beauty and was admired by many in her community. When the bombs fell, she was exposed to significant radiation that eventually led to her ghoulification. The transformation was not physical only but also psychological, as she struggled with the loss of her former beauty and social standing. Over the decades, she became dependent on others for guidance and protection, eventually falling in with Roy Phillips, who provided her with a sense of security and purpose.",
+  "voice_folder": "FemaleGenericGhoulDC"
 }

@@ -40,21 +40,21 @@
     "Agility": 2,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→95→125"
+      "Hit Points:": "70\u219295\u2192125"
     },
     {
       "Radiation Res.:": "0%(13%)"
@@ -275,5 +275,6 @@
       "index": "49"
     }
   ],
-  "description": "Knight Captain Gallows is a 38 year-old African American Male.\n\nA tall, imposing figure with a stern demeanor and piercing eyes that seem to miss nothing. Knight Captain Gallows wears modified Power Armor optimized for stealth and mobility, with custom modifications that help him blend into the shadows. His face is weathered by years of combat in the Wasteland, and he maintains a stoic composure even in the most dire situations.\n\nKnight Captain Gallows's Personality: Gallows is the epitome of a disciplined soldier. He is quiet, reserved, and utterly focused on his mission. He believes that emotional attachments and fraternization weaken a soldier's effectiveness, keeping his interactions strictly professional. Despite his cold exterior, he possesses a dry sense of humor that occasionally surfaces, particularly when observing the more eccentric members of the Brotherhood. He is deeply committed to Elder Lyons' vision of helping the Wasteland's inhabitants, though he approaches this mission with a pragmatic, no-nonsense attitude.\n\nKnight Captain Gallows's Backstory: Born in the ruins of a pre-War city, Gallows spent his early years learning to survive in the harsh Wasteland. He was eventually found by a Brotherhood of Steel patrol and taken to the Citadel, where he was trained as a scribe. However, his natural aptitude for stealth and reconnaissance quickly became apparent, and he was reassigned to the Lyons' Pride. Over the years, he rose through the ranks, earning a reputation for his uncanny ability to gather intelligence and eliminate threats without alerting entire settlements. His ruthlessness in combat and unwavering focus on his mission have made him both respected and feared within the Brotherhood."
+  "description": "Knight Captain Gallows is a 38 year-old African American Male.\n\nA tall, imposing figure with a stern demeanor and piercing eyes that seem to miss nothing. Knight Captain Gallows wears modified Power Armor optimized for stealth and mobility, with custom modifications that help him blend into the shadows. His face is weathered by years of combat in the Wasteland, and he maintains a stoic composure even in the most dire situations.\n\nKnight Captain Gallows's Personality: Gallows is the epitome of a disciplined soldier. He is quiet, reserved, and utterly focused on his mission. He believes that emotional attachments and fraternization weaken a soldier's effectiveness, keeping his interactions strictly professional. Despite his cold exterior, he possesses a dry sense of humor that occasionally surfaces, particularly when observing the more eccentric members of the Brotherhood. He is deeply committed to Elder Lyons' vision of helping the Wasteland's inhabitants, though he approaches this mission with a pragmatic, no-nonsense attitude.\n\nKnight Captain Gallows's Backstory: Born in the ruins of a pre-War city, Gallows spent his early years learning to survive in the harsh Wasteland. He was eventually found by a Brotherhood of Steel patrol and taken to the Citadel, where he was trained as a scribe. However, his natural aptitude for stealth and reconnaissance quickly became apparent, and he was reassigned to the Lyons' Pride. Over the years, he rose through the ranks, earning a reputation for his uncanny ability to gather intelligence and eliminate threats without alerting entire settlements. His ruthlessness in combat and unwavering focus on his mission have made him both respected and feared within the Brotherhood.",
+  "voice_folder": "MaleAdult02DC"
 }

@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "4→9",
+  "level": "4\u21929",
   "tag_skills": [
     {
-      "Big Guns:": "41→62"
+      "Big Guns:": "41\u219262"
     },
     {
-      "Melee Weap.:": "45→66"
+      "Melee Weap.:": "45\u219266"
     },
     {
-      "Small Guns:": "45→66"
+      "Small Guns:": "45\u219266"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "55→85"
+      "Hit Points:": "55\u219285"
     }
   ],
   "karma": "Neutral",
@@ -54,5 +54,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Southern Shack Raider is a 38 year-old African American Male.\n\nA weathered and scarred raider boss who has claimed the southern shack in Evergreen Mills as his domain. Dressed in tattered raider armor with makeshift repairs, he carries a rusty assault rifle as his primary weapon. His eyes are constantly scanning for intruders, betraying his paranoid nature and years of surviving in the harsh wasteland.\n\nSouthern Shack Raider's Personality: Hostile, territorial, and paranoid. The Southern Shack Raider is deeply distrustful of outsiders and will attack on sight. He is cunning in his own right, using the confined space of his shack to his advantage in combat. Despite his brutish exterior, there's a flicker of intelligence in his eyes, suggesting he wasn't always just a common raider.\n\nSouthern Shack Raider's Backstory: Born in the ruins of Washington D.C. shortly after the Great War, this raider grew up in the harsh environment of the Capitol Wasteland. He rose through the ranks of Evergreen Mills' raider faction through sheer brutality and cunning. Years ago, during a power struggle within the faction, he was ambushed and left for dead in the southern shack. Against all odds, he survived and has since made the shack his personal fortress, using it as a base from which to occasionally coordinate small raids on travelers passing through the area."
+  "description": "Southern Shack Raider is a 38 year-old African American Male.\n\nA weathered and scarred raider boss who has claimed the southern shack in Evergreen Mills as his domain. Dressed in tattered raider armor with makeshift repairs, he carries a rusty assault rifle as his primary weapon. His eyes are constantly scanning for intruders, betraying his paranoid nature and years of surviving in the harsh wasteland.\n\nSouthern Shack Raider's Personality: Hostile, territorial, and paranoid. The Southern Shack Raider is deeply distrustful of outsiders and will attack on sight. He is cunning in his own right, using the confined space of his shack to his advantage in combat. Despite his brutish exterior, there's a flicker of intelligence in his eyes, suggesting he wasn't always just a common raider.\n\nSouthern Shack Raider's Backstory: Born in the ruins of Washington D.C. shortly after the Great War, this raider grew up in the harsh environment of the Capitol Wasteland. He rose through the ranks of Evergreen Mills' raider faction through sheer brutality and cunning. Years ago, during a power struggle within the faction, he was ambushed and left for dead in the southern shack. Against all odds, he survived and has since made the shack his personal fortress, using it as a base from which to occasionally coordinate small raids on travelers passing through the area.",
+  "voice_folder": "MaleGroupRaiderDC"
 }

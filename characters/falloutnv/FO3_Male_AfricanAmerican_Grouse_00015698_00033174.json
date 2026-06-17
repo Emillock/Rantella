@@ -30,16 +30,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "3→10",
+  "level": "3\u219210",
   "tag_skills": [
     {
-      "Barter:": "41→74"
+      "Barter:": "41\u219274"
     },
     {
-      "Melee Weap.:": "41→74(43→76)"
+      "Melee Weap.:": "41\u219274(43\u219276)"
     },
     {
-      "Small Guns:": "41→74(43→76)"
+      "Small Guns:": "41\u219274(43\u219276)"
     }
   ],
   "misc_skills": [],
@@ -563,5 +563,6 @@
       "index": "206"
     }
   ],
-  "description": "Grouse is a 30 year-old African American Male.\n\nGrouse is a 30-year-old human slaver who works at Paradise Falls. He stands at average height with a muscular build, and his face bears several scars from past encounters. He typically wears worn leather armor and carries a combat shotgun at his side, always ready for a fight.\n\nGrouse's Personality: Grouse is gruff, aggressive, and deeply resentful of Eulogy Jones for usurping his father's position as leader of the slavers. He believes he has a legacy to live up to and often challenges others to prove his worth. He values strength and cunning, showing little mercy to those who cross him or his faction.\n\nGrouse's Backstory: Born in 2247 to the former leader of the Paradise Falls slavers, Grouse was raised with the expectation that he would one day take over the organization. However, when Eulogy Jones rose to power and usurped his father's position, Grouse's destiny was thrown into chaos. Despite his young age, he remained with the slavers, working his way up the ranks and biding his time. Now at 30, he still believes that he is the rightful leader and that Eulogy Jones's reign is temporary."
+  "description": "Grouse is a 30 year-old African American Male.\n\nGrouse is a 30-year-old human slaver who works at Paradise Falls. He stands at average height with a muscular build, and his face bears several scars from past encounters. He typically wears worn leather armor and carries a combat shotgun at his side, always ready for a fight.\n\nGrouse's Personality: Grouse is gruff, aggressive, and deeply resentful of Eulogy Jones for usurping his father's position as leader of the slavers. He believes he has a legacy to live up to and often challenges others to prove his worth. He values strength and cunning, showing little mercy to those who cross him or his faction.\n\nGrouse's Backstory: Born in 2247 to the former leader of the Paradise Falls slavers, Grouse was raised with the expectation that he would one day take over the organization. However, when Eulogy Jones rose to power and usurped his father's position, Grouse's destiny was thrown into chaos. Despite his young age, he remained with the slavers, working his way up the ranks and biding his time. Now at 30, he still believes that he is the rightful leader and that Eulogy Jones's reign is temporary.",
+  "voice_folder": "MaleAdult06DC"
 }

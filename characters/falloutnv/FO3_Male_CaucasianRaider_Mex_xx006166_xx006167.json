@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -113,5 +113,6 @@
     }
   ],
   "combat": [],
-  "description": "Mex is a 38 year-old Caucasian Male.\n\nA hardened Pitt raider with a cruel demeanor, Mex stands guard at the entrance to The Pitt. His weathered face is marred by a permanent scowl, and his eyes constantly scan the horizon for any sign of intruders or escaped slaves. Clad in tattered raider armor, he wields a well-maintained rifle with practiced ease, always ready to eliminate any who dare to approach the bridge without permission.\n\nMex's Personality: Sadistic, cruel, and paranoid. Mex takes pleasure in his role as gatekeeper, enjoying the power of life and death over those who seek entry. He's quick to anger and slow to forgive, particularly when dealing with escaped slaves. Despite his brutality, he's intelligent enough to follow Ashur's orders when they suit his purposes.\n\nMex's Backstory: Mex rose through the ranks of The Pitt's security forces quickly, showing a natural aptitude for violence and cruelty. However, his sadistic methods of dealing with slaves became excessive even by The Pitt's standards. When reports of his particularly brutal punishments reached Ashur, the leader reassigned him to gate duty as both a punishment and a way to utilize his paranoid nature. Now, Mex guards the bridge with meticulous care, laying traps and mines to deter escapees while maintaining a constant vigil for outsiders who might threaten the city."
+  "description": "Mex is a 38 year-old Caucasian Male.\n\nA hardened Pitt raider with a cruel demeanor, Mex stands guard at the entrance to The Pitt. His weathered face is marred by a permanent scowl, and his eyes constantly scan the horizon for any sign of intruders or escaped slaves. Clad in tattered raider armor, he wields a well-maintained rifle with practiced ease, always ready to eliminate any who dare to approach the bridge without permission.\n\nMex's Personality: Sadistic, cruel, and paranoid. Mex takes pleasure in his role as gatekeeper, enjoying the power of life and death over those who seek entry. He's quick to anger and slow to forgive, particularly when dealing with escaped slaves. Despite his brutality, he's intelligent enough to follow Ashur's orders when they suit his purposes.\n\nMex's Backstory: Mex rose through the ranks of The Pitt's security forces quickly, showing a natural aptitude for violence and cruelty. However, his sadistic methods of dealing with slaves became excessive even by The Pitt's standards. When reports of his particularly brutal punishments reached Ashur, the leader reassigned him to gate duty as both a punishment and a way to utilize his paranoid nature. Now, Mex guards the bridge with meticulous care, laying traps and mines to deter escapees while maintaining a constant vigil for outsiders who might threaten the city.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

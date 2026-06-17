@@ -31,21 +31,21 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→95→125"
+      "Hit Points:": "70\u219295\u2192125"
     },
     {
       "Damage Res.:": "48%"
@@ -241,5 +241,6 @@
     }
   ],
   "combat": [],
-  "description": "Knight Captain Dusk is a 28 year-old Asian Female.\n\nA self-assured and highly skilled sharpshooter, Dusk serves as one of the two snipers in the elite Lyons' Pride unit. She confidently asserts her superiority as a marksman, claiming to be the best shot not only within her unit but across the entire Brotherhood of Steel East Coast chapter. Her cold, calculating demeanor is well-known among her comrades, with even Paladin Glade occasionally remarking on how intimidating she can be. Dusk maintains a friendly rivalry with Knight Captain Colvin, the Pride's other sniper, with the two competing over kill counts and marksmanship prowess.\n\nKnight Captain Dusk's Personality: Cold, confident, and fiercely competitive. Dusk possesses a sharp, calculating mind that excels in precision and tactical assessment. While she maintains professional relationships with her fellow Brotherhood members, she keeps emotional distance from most, particularly those with secretive natures like Knight Captain Gallows. Her pragmatism extends to her views on mutants, advocating for headshots from a distance to neutralize threats efficiently.\n\nKnight Captain Dusk's Backstory: Born in the relative safety of the Citadel, Dusk showed an aptitude for marksmanship from an early age. Her training began under the watchful eye of Elder Lyons himself, who recognized her natural talent and disciplined approach to combat. After proving herself in numerous field exercises and against raider encampments, she was inducted into the Lyons' Pride, where she quickly established herself as the unit's primary sniper. Her reputation for accuracy and coolness under fire has made her one of the most respected members of the Brotherhood's elite unit."
+  "description": "Knight Captain Dusk is a 28 year-old Asian Female.\n\nA self-assured and highly skilled sharpshooter, Dusk serves as one of the two snipers in the elite Lyons' Pride unit. She confidently asserts her superiority as a marksman, claiming to be the best shot not only within her unit but across the entire Brotherhood of Steel East Coast chapter. Her cold, calculating demeanor is well-known among her comrades, with even Paladin Glade occasionally remarking on how intimidating she can be. Dusk maintains a friendly rivalry with Knight Captain Colvin, the Pride's other sniper, with the two competing over kill counts and marksmanship prowess.\n\nKnight Captain Dusk's Personality: Cold, confident, and fiercely competitive. Dusk possesses a sharp, calculating mind that excels in precision and tactical assessment. While she maintains professional relationships with her fellow Brotherhood members, she keeps emotional distance from most, particularly those with secretive natures like Knight Captain Gallows. Her pragmatism extends to her views on mutants, advocating for headshots from a distance to neutralize threats efficiently.\n\nKnight Captain Dusk's Backstory: Born in the relative safety of the Citadel, Dusk showed an aptitude for marksmanship from an early age. Her training began under the watchful eye of Elder Lyons himself, who recognized her natural talent and disciplined approach to combat. After proving herself in numerous field exercises and against raider encampments, she was inducted into the Lyons' Pride, where she quickly established herself as the unit's primary sniper. Her reputation for accuracy and coolness under fire has made her one of the most respected members of the Brotherhood's elite unit.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

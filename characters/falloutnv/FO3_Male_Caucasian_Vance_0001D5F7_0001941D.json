@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "7→14",
+  "level": "7\u219214",
   "tag_skills": [
     {
-      "Melee Weap.:": "58→88"
+      "Melee Weap.:": "58\u219288"
     },
     {
-      "Small Guns:": "58→88(68→98)"
+      "Small Guns:": "58\u219288(68\u219298)"
     },
     {
-      "Sneak:": "58→88"
+      "Sneak:": "58\u219288"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "205→240"
+      "Hit Points:": "205\u2192240"
     },
     {
       "Critical Chance:": "5%"
@@ -556,5 +556,6 @@
     }
   ],
   "combat": [],
-  "description": "Vance is a 55 year-old Caucasian Male.\n\nThe enigmatic leader of the Family, a group of self-proclaimed 'vampires' residing in the Meresti Metro station. Vance is a charismatic figure who has transformed a group of wasteland outcasts into a unique society centered around blood-drinking rituals.\n\nVance's Personality: Vance is a calm, thoughtful leader who views himself more as a spiritual guide than an authoritarian ruler. He believes in the inherent value of his Family members and has never forced anyone to participate in their rituals. Despite their frightening reputation, Vance is fundamentally non-violent and only orders attacks when absolutely necessary for survival. He speaks in a measured, almost priest-like manner when addressing his followers, emphasizing their 'true nature' as vampires.\n\nVance's Backstory: Born in the years following the Great War, Vance grew up in the relatively safe confines of Rivet City. As a young adult, he became disillusioned with the rigid structure of society there and chose to wander the Capital Wasteland. During his travels, he discovered an unusual ability to sense others who felt different from the rest of humanity. These individuals were social outcasts, mutants, and others who didn't fit into conventional wasteland society. Vance gathered these people together and established their home in the abandoned Meresti Metro station, where he founded the Family. Drawing on his own unique traits and desires to create a functional society, he taught his followers the ways of 'vampires'—drinking blood as sustenance and embracing a nocturnal existence. Over time, this became not just a survival tactic but a cultural identity for the group."
+  "description": "Vance is a 55 year-old Caucasian Male.\n\nThe enigmatic leader of the Family, a group of self-proclaimed 'vampires' residing in the Meresti Metro station. Vance is a charismatic figure who has transformed a group of wasteland outcasts into a unique society centered around blood-drinking rituals.\n\nVance's Personality: Vance is a calm, thoughtful leader who views himself more as a spiritual guide than an authoritarian ruler. He believes in the inherent value of his Family members and has never forced anyone to participate in their rituals. Despite their frightening reputation, Vance is fundamentally non-violent and only orders attacks when absolutely necessary for survival. He speaks in a measured, almost priest-like manner when addressing his followers, emphasizing their 'true nature' as vampires.\n\nVance's Backstory: Born in the years following the Great War, Vance grew up in the relatively safe confines of Rivet City. As a young adult, he became disillusioned with the rigid structure of society there and chose to wander the Capital Wasteland. During his travels, he discovered an unusual ability to sense others who felt different from the rest of humanity. These individuals were social outcasts, mutants, and others who didn't fit into conventional wasteland society. Vance gathered these people together and established their home in the abandoned Meresti Metro station, where he founded the Family. Drawing on his own unique traits and desires to create a functional society, he taught his followers the ways of 'vampires'\u2014drinking blood as sustenance and embracing a nocturnal existence. Over time, this became not just a survival tactic but a cultural identity for the group.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

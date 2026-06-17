@@ -42,35 +42,35 @@
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Neutral 15",
-      "response_text": "It's a shame you've got to go. But you'll do okay out there, I'm sure.{Firm}Play soundFO3 OfficerArmstrong ShameYouveG…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ShameYouveGot.oggnoicon",
+      "response_text": "It's a shame you've got to go. But you'll do okay out there, I'm sure.{Firm}Play soundFO3 OfficerArmstrong ShameYouveG\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ShameYouveGot.oggnoicon",
       "index": "1"
     },
     {
       "topic": "MS16GomezAmataA",
       "topic_text": "I mean, I just had a hunch she was in trouble.",
       "emotion": "Sad 25",
-      "response_text": "Maybe. She isn't the only one, that's for sure.Play soundFO3 OfficerArmstrong SheIsntTheO…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_SheIsntTheOnly.oggnoicon",
+      "response_text": "Maybe. She isn't the only one, that's for sure.Play soundFO3 OfficerArmstrong SheIsntTheO\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_SheIsntTheOnly.oggnoicon",
       "index": "10"
     },
     {
       "topic": "MS16GomezAmataB",
       "topic_text": "That's a risk I'm willing to take.",
       "emotion": "Sad 25",
-      "response_text": "Technically, this means I'm supposed to report her. To tell the truth, I'm supposed to report you being here, too.Play soundFO3 OfficerArmstrong Technically…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_TechnicallyThisMeans.oggnoicon",
+      "response_text": "Technically, this means I'm supposed to report her. To tell the truth, I'm supposed to report you being here, too.Play soundFO3 OfficerArmstrong Technically\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_TechnicallyThisMeans.oggnoicon",
       "index": "12"
     },
     {
       "topic": "MS16GomezEscort",
       "topic_text": "Can you lead me somewhere?",
       "emotion": "Surprise 25",
-      "response_text": "I guess you've had a lot on your mind since you were here last. Where do you want to go?Play soundFO3 OfficerArmstrong GuessYouveH…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_GuessYouveHad.oggnoicon",
+      "response_text": "I guess you've had a lot on your mind since you were here last. Where do you want to go?Play soundFO3 OfficerArmstrong GuessYouveH\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_GuessYouveHad.oggnoicon",
       "index": "14"
     },
     {
       "topic": "MS16GomezLeaving",
       "topic_text": "This is too messed up. I'm leaving again. Just pretend I never came back.",
       "emotion": "Sad 25",
-      "response_text": "Well, I can't blame you. I'll change the passwords behind you, and we'll figure out a way to work things out for ourselves.Play soundFO3 OfficerArmstrong CantBlameYo…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_CantBlameYou.oggnoicon",
+      "response_text": "Well, I can't blame you. I'll change the passwords behind you, and we'll figure out a way to work things out for ourselves.Play soundFO3 OfficerArmstrong CantBlameYo\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_CantBlameYou.oggnoicon",
       "index": "16"
     },
     {
@@ -105,42 +105,42 @@
       "topic": "MS16GomezTrouble1BMS16GomezTroubleB",
       "topic_text": "What's happened down here since I left?",
       "emotion": "Disgust 50",
-      "response_text": "Everything went crazy, is what happened. Your dad opened that door, bugs started attacking, and people started going crazy.Play soundFO3 OfficerArmstrong EverythingW…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_EverythingWentCrazy.oggnoicon",
+      "response_text": "Everything went crazy, is what happened. Your dad opened that door, bugs started attacking, and people started going crazy.Play soundFO3 OfficerArmstrong EverythingW\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_EverythingWentCrazy.oggnoicon",
       "index": "36"
     },
     {
       "topic": "MS16GomezTrouble1CMS16GomezTroubleC",
       "topic_text": "I always knew something would go wrong down here...",
       "emotion": "Anger 50",
-      "response_text": "It wouldn't have if your father hadn't ruined everything by opening that door!Play soundFO3 OfficerArmstrong ItWouldntHa…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ItWouldntHave.oggnoicon",
+      "response_text": "It wouldn't have if your father hadn't ruined everything by opening that door!Play soundFO3 OfficerArmstrong ItWouldntHa\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ItWouldntHave.oggnoicon",
       "index": "39"
     },
     {
       "topic": "MS16GomezTrouble2A",
       "topic_text": "That was never supposed to happen! That was the Overseer's fault!",
       "emotion": "Surprise 25",
-      "response_text": "Really? Well, that would explain a few things, all right. It's a good thing you're here, after all.Play soundFO3 OfficerArmstrong ThatWouldEx…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThatWouldExplain.oggnoicon",
+      "response_text": "Really? Well, that would explain a few things, all right. It's a good thing you're here, after all.Play soundFO3 OfficerArmstrong ThatWouldEx\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThatWouldExplain.oggnoicon",
       "index": "41"
     },
     {
       "topic": "MS16GomezTrouble2B",
       "topic_text": "Dad would be horrified to know all that... if he were still alive.",
       "emotion": "Sad 50",
-      "response_text": "I'm... I'm sorry to hear that. Regardless of how things turned out down here, he was a good friend. I always figured he'd do well outside.Play soundFO3 OfficerArmstrong SorryToHear…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_SorryToHearThat.oggnoicon",
+      "response_text": "I'm... I'm sorry to hear that. Regardless of how things turned out down here, he was a good friend. I always figured he'd do well outside.Play soundFO3 OfficerArmstrong SorryToHear\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_SorryToHearThat.oggnoicon",
       "index": "47"
     },
     {
       "topic": "MS16GomezTrouble2C",
       "topic_text": "Yeah, Dad screwed up all of our lives that day, didn't he?",
       "emotion": "Sad 25",
-      "response_text": "To tell the truth, I don't really blame him for all that. I don't know why he left, but I do know he'd never intend for all that to happen.Play soundFO3 OfficerArmstrong ToTellTheTr…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ToTellTheTruth.oggnoicon",
+      "response_text": "To tell the truth, I don't really blame him for all that. I don't know why he left, but I do know he'd never intend for all that to happen.Play soundFO3 OfficerArmstrong ToTellTheTr\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ToTellTheTruth.oggnoicon",
       "index": "53"
     },
     {
       "topic": "MS16GomezTrouble3A",
       "topic_text": "So what now?",
       "emotion": "Sad 25",
-      "response_text": "I probably ought to put you under arrest and take you in to the Overseer, but frankly, I know better than to try that.{emphasis on \"supposed\", as if he doesn't really agree with it.}Play soundFO3 OfficerArmstrong OughtToPutY…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_OughtToPutYou.oggnoicon",
+      "response_text": "I probably ought to put you under arrest and take you in to the Overseer, but frankly, I know better than to try that.{emphasis on \"supposed\", as if he doesn't really agree with it.}Play soundFO3 OfficerArmstrong OughtToPutY\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_OughtToPutYou.oggnoicon",
       "index": "59"
     },
     {
@@ -161,49 +161,49 @@
       "topic": "MS16GomezWelcomeA",
       "topic_text": "I need to talk with Amata. I got her message.",
       "emotion": "Surprise 25",
-      "response_text": "Amata's message? I don't know what you're talking about, but I'd keep that under your hat, for her sake.Play soundFO3 OfficerArmstrong AmatasMessa…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_AmatasMessage.oggnoicon",
+      "response_text": "Amata's message? I don't know what you're talking about, but I'd keep that under your hat, for her sake.Play soundFO3 OfficerArmstrong AmatasMessa\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_AmatasMessage.oggnoicon",
       "index": "66"
     },
     {
       "topic": "MS16GomezWelcomeB",
       "topic_text": "I just thought I'd stop back home for a bit. How's the old Vault?",
       "emotion": "Sad 25",
-      "response_text": "You just thought you'd pop in? Don't take this the wrong way, but you probably ought to just turn around and not come back.{Incredulous}Play soundFO3 OfficerArmstrong YouJustThou…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_YouJustThought.oggnoicon",
+      "response_text": "You just thought you'd pop in? Don't take this the wrong way, but you probably ought to just turn around and not come back.{Incredulous}Play soundFO3 OfficerArmstrong YouJustThou\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_YouJustThought.oggnoicon",
       "index": "68"
     },
     {
       "topic": "MS16GomezWelcomeC",
       "topic_text": "Don't mind me. I'm just here to pick up some stuff I left behind.",
       "emotion": "Anger 50",
-      "response_text": "This isn't some sort of hotel, you know! You don't just come and go as you please. I thought you were raised better than that!Play soundFO3 OfficerArmstrong ThisIsntSom…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThisIsntSomeSort.oggnoicon",
+      "response_text": "This isn't some sort of hotel, you know! You don't just come and go as you please. I thought you were raised better than that!Play soundFO3 OfficerArmstrong ThisIsntSom\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThisIsntSomeSort.oggnoicon",
       "index": "71"
     },
     {
       "topic": "MS16GomezWelcomeD",
       "topic_text": "Where the hell is Amata? So help me, if you've hurt her...",
       "emotion": "Surprise 50",
-      "response_text": "Whoa, whoa, whoa! Calm down, there. Amata's not in any danger.Play soundFO3 OfficerArmstrong WhoaAWhoaWh…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_WhoaAWhoaWhoa.oggnoicon",
+      "response_text": "Whoa, whoa, whoa! Calm down, there. Amata's not in any danger.Play soundFO3 OfficerArmstrong WhoaAWhoaWh\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_WhoaAWhoaWhoa.oggnoicon",
       "index": "74"
     },
     {
       "topic": "MS16GoodbyeForever",
       "topic_text": "I can't solve your problems for you. You're on your own.",
       "emotion": "Sad 25",
-      "response_text": "And here I was hoping you'd be able to help. Well, I hope you have better luck outside.Play soundFO3 OfficerArmstrong HereIWasHop…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_HereIWasHoping.oggnoicon",
+      "response_text": "And here I was hoping you'd be able to help. Well, I hope you have better luck outside.Play soundFO3 OfficerArmstrong HereIWasHop\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_HereIWasHoping.oggnoicon",
       "index": "77"
     },
     {
       "topic": "MS16LockdownInfoMS16GomezInfo",
       "topic_text": "I still don't get what's going on.",
       "emotion": "Anger 10",
-      "response_text": "Okay, let's try this slowly. When you and your daddy left, there were problems. Those problems were bad.{As if talking to a child.}Play soundFO3 OfficerArmstrong LetsTryThis…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_LetsTryThisSlowly.oggnoicon",
+      "response_text": "Okay, let's try this slowly. When you and your daddy left, there were problems. Those problems were bad.{As if talking to a child.}Play soundFO3 OfficerArmstrong LetsTryThis\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_LetsTryThisSlowly.oggnoicon",
       "index": "79"
     },
     {
       "topic": "MS16NewOverseer",
       "topic_text": "So, who's the Overseer now?",
       "emotion": "Sad 25",
-      "response_text": "That'd be Allen Mack. You remember, Wally's dad.Play soundFO3 OfficerArmstrong ThatdBeAlle…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThatdBeAllen.oggnoicon",
+      "response_text": "That'd be Allen Mack. You remember, Wally's dad.Play soundFO3 OfficerArmstrong ThatdBeAlle\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_ThatdBeAllen.oggnoicon",
       "index": "82"
     },
     {
@@ -217,7 +217,7 @@
       "topic": "MS16WhyNotLeave",
       "topic_text": "Wait, why don't the rebels just leave?",
       "emotion": "Sad 50",
-      "response_text": "It's not that they want to leave. It's that they want to open the door and interact with the rest of the world. But that would risk the whole Vault.{A little wary about the plan.}Play soundFO3 OfficerArmstrong NotThatThey…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_NotThatTheyWant.oggnoicon",
+      "response_text": "It's not that they want to leave. It's that they want to open the door and interact with the rest of the world. But that would risk the whole Vault.{A little wary about the plan.}Play soundFO3 OfficerArmstrong NotThatThey\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_NotThatTheyWant.oggnoicon",
       "index": "86"
     }
   ],
@@ -226,7 +226,7 @@
       "topic": "GOODBYEI have to go now.",
       "topic_text": "I'll go see what I can do about all of this.",
       "emotion": "Fear 25",
-      "response_text": "Well, okay. Just be careful down here. The Vault's changed, I tell you.Play soundFO3 OfficerArmstrong JustBeCaref…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_JustBeCareful.oggnoicon",
+      "response_text": "Well, okay. Just be careful down here. The Vault's changed, I tell you.Play soundFO3 OfficerArmstrong JustBeCaref\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_JustBeCareful.oggnoicon",
       "index": "87"
     },
     {
@@ -247,24 +247,25 @@
       "topic": "MS16AtriumSceneGomez2",
       "topic_text": "MS16AtriumSceneGomez2",
       "emotion": "Anger 50",
-      "response_text": "Taylor, stop shooting, damnit!{Furious and terrified that his friend is shooting at his son.}Play soundFO3 OfficerArmstrong TaylorStopS…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_TaylorStopShooting.oggnoicon",
+      "response_text": "Taylor, stop shooting, damnit!{Furious and terrified that his friend is shooting at his son.}Play soundFO3 OfficerArmstrong TaylorStopS\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_TaylorStopShooting.oggnoicon",
       "index": "91"
     },
     {
       "topic": "MS16GomezAtAmata",
       "topic_text": "MS16GomezAtAmata",
       "emotion": "Fear 10",
-      "response_text": "Amata's up there, in the clinic with the rest of them. I'd take you closer, but they don't get along with security. Good luck.{Worried, but well-meaning}Play soundFO3 OfficerArmstrong AmatasUpThe…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_AmatasUpThere.oggnoicon",
+      "response_text": "Amata's up there, in the clinic with the rest of them. I'd take you closer, but they don't get along with security. Good luck.{Worried, but well-meaning}Play soundFO3 OfficerArmstrong AmatasUpThe\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_AmatasUpThere.oggnoicon",
       "index": "92"
     },
     {
       "topic": "MS16GomezAtOverseer",
       "topic_text": "MS16GomezAtOverseer",
       "emotion": "Fear 25",
-      "response_text": "Visitor, sir. He wanted to see you, and... well, there's not much I could do to stop him.{Very worried - is sure that something very bad is about to go down.}Play soundFO3 OfficerArmstrong HeWantedToS…https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_HeWantedToSee.oggnoicon",
+      "response_text": "Visitor, sir. He wanted to see you, and... well, there's not much I could do to stop him.{Very worried - is sure that something very bad is about to go down.}Play soundFO3 OfficerArmstrong HeWantedToS\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerArmstrong_HeWantedToSee.oggnoicon",
       "index": "93"
     }
   ],
   "combat": [],
-  "description": "Officer Armstrong is a 32 year-old African American Male.\n\nA dedicated security officer in Vault 101, Armstrong has been trying to maintain order within the vault since the doctor's disappearance. He values security protocols and is concerned about the well-being of vault residents, especially following the recent crisis that claimed multiple lives.\n\nOfficer Armstrong's Personality: Dutiful, loyal, and pragmatic. Armstrong takes his security responsibilities seriously but also shows genuine concern for his fellow vault dwellers. He respects authority but isn't blindly obedient, making decisions based on what he believes is best for Vault 101.\n\nOfficer Armstrong's Backstory: Born and raised in Vault 101, Officer Armstrong has spent his entire life within the vault's confines. He joined the security team at a young age and has risen through the ranks to become one of the more experienced security personnel. He developed a friendship with Oversear's son, James, and respected him both as a friend and as a fellow vault dweller. When the doctor disappeared, Armstrong took it upon himself to help maintain order during the subsequent crisis, though he often found himself stretched thin by the demands of his position."
+  "description": "Officer Armstrong is a 32 year-old African American Male.\n\nA dedicated security officer in Vault 101, Armstrong has been trying to maintain order within the vault since the doctor's disappearance. He values security protocols and is concerned about the well-being of vault residents, especially following the recent crisis that claimed multiple lives.\n\nOfficer Armstrong's Personality: Dutiful, loyal, and pragmatic. Armstrong takes his security responsibilities seriously but also shows genuine concern for his fellow vault dwellers. He respects authority but isn't blindly obedient, making decisions based on what he believes is best for Vault 101.\n\nOfficer Armstrong's Backstory: Born and raised in Vault 101, Officer Armstrong has spent his entire life within the vault's confines. He joined the security team at a young age and has risen through the ranks to become one of the more experienced security personnel. He developed a friendship with Oversear's son, James, and respected him both as a friend and as a fellow vault dweller. When the doctor disappeared, Armstrong took it upon himself to help maintain order during the subsequent crisis, though he often found himself stretched thin by the demands of his position.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

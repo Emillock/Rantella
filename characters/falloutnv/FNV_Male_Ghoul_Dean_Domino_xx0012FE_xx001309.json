@@ -31,18 +31,18 @@
     "Agility": 8,
     "Luck": 5
   },
-  "level": "5→35→50 (DLCs only)",
+  "level": "5\u219235\u219250 (DLCs only)",
   "tag_skills": [
     {
-      "Explosives:": "45→100"
+      "Explosives:": "45\u2192100"
     },
     {
-      "Guns:": "53→100"
+      "Guns:": "53\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "105→255→330(DLCs only)"
+      "Hit Points:": "105\u2192255\u2192330(DLCs only)"
     }
   ],
   "karma": "Neutral",
@@ -2077,5 +2077,6 @@
       "index": "632"
     }
   ],
-  "description": "Dean Domino is a 250 year-old Ghoul Male.\n\nA pre-War lounge singer turned vengeful ghoul, Dean Domino is obsessed with the Sierra Madre's treasure and will stop at nothing to claim it. Once a celebrated performer, his fragile ego and jealousy have transformed him into a paranoid and dangerous con artist.\n\nDean Domino's Personality: Domino is a quick thinker with a fragile ego, easily irritated and vengeful. He's highly paranoid, setting up numerous booby traps and hiding secret stashes throughout the Sierra Madre. He's skilled with guns, particularly pistols, and uses a knife as a sidearm. Despite his ghoulification, his voice remains clear and unaffected.\n\nDean Domino's Backstory: Born in the early 21st century, Dean Domino rose to fame as a lounge singer and orchestra leader, known for his signature song 'Saw Her Yesterday.' He performed across the United States and Europe, including the Las Vegas Strip. In the 2070s, he was invited to perform at the Sierra Madre, where he became consumed with jealousy toward the casino's founder, Frederick Sinclair. Domino plotted to take everything from Sinclair, enlisting the help of his former lover Vera Keyes. When Keyes got cold feet, Domino blackmailed her with evidence of her addictions, unaware she was terminally ill. The Great War interrupted his plans, but Domino survived and began the ghoulification process. For the next two centuries, he remained obsessed with the Sierra Madre's treasure, mapping the casino's security system while planning his heist. Unbeknownst to him, Sinclair had discovered his plan and prepared a trap. Domino was eventually captured by Dog, fitted with an explosive collar, and forced to work for Father Elijah in breaking into the casino."
+  "description": "Dean Domino is a 250 year-old Ghoul Male.\n\nA pre-War lounge singer turned vengeful ghoul, Dean Domino is obsessed with the Sierra Madre's treasure and will stop at nothing to claim it. Once a celebrated performer, his fragile ego and jealousy have transformed him into a paranoid and dangerous con artist.\n\nDean Domino's Personality: Domino is a quick thinker with a fragile ego, easily irritated and vengeful. He's highly paranoid, setting up numerous booby traps and hiding secret stashes throughout the Sierra Madre. He's skilled with guns, particularly pistols, and uses a knife as a sidearm. Despite his ghoulification, his voice remains clear and unaffected.\n\nDean Domino's Backstory: Born in the early 21st century, Dean Domino rose to fame as a lounge singer and orchestra leader, known for his signature song 'Saw Her Yesterday.' He performed across the United States and Europe, including the Las Vegas Strip. In the 2070s, he was invited to perform at the Sierra Madre, where he became consumed with jealousy toward the casino's founder, Frederick Sinclair. Domino plotted to take everything from Sinclair, enlisting the help of his former lover Vera Keyes. When Keyes got cold feet, Domino blackmailed her with evidence of her addictions, unaware she was terminally ill. The Great War interrupted his plans, but Domino survived and began the ghoulification process. For the next two centuries, he remained obsessed with the Sierra Madre's treasure, mapping the casino's security system while planning his heist. Unbeknownst to him, Sinclair had discovered his plan and prepared a trap. Domino was eventually captured by Dog, fitted with an explosive collar, and forced to work for Father Elijah in breaking into the casino.",
+  "voice_folder": "NVDLC01MaleUniqueDean"
 }

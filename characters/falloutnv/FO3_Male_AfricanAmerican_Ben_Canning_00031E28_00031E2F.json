@@ -30,7 +30,7 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→10 (player character x2)",
+  "level": "1\u219210 (player character x2)",
   "tag_skills": [
     {
       "Big Guns:": "36"
@@ -86,5 +86,6 @@
     }
   ],
   "combat": [],
-  "description": "Ben Canning is a 29 year-old African American Male.\n\nA stranded traveler in the Capital Wasteland, Ben Canning is a desperate wanderer who found himself unprepared for the harsh realities of the post-apocalyptic world. Unlike other water beggars who linger near settlements, Ben was journeying between locations when his water supply ran dry. Now dehydrated and weak, he appears at random locations across the wasteland, hoping for compassionate travelers who might spare some water.\n\nBen Canning's Personality: Friendly yet desperate, Ben maintains a positive attitude despite his dire situation. He is grateful for any help he receives but understands the harsh realities of the wasteland. When given water, he shows appreciation but remains too weak to continue his journey immediately. If denied water, he becomes resigned to his fate but doesn't harbor resentment toward those who can't or won't help.\n\nBen Canning's Backstory: Before becoming a wanderer, Ben was a resident of Rivet City who occasionally traded between settlements. On one such journey, he underestimated the time it would take to reach his destination and failed to pack sufficient water. When his supplies ran dry in the middle of the wasteland, he was left stranded with no choice but to beg for water from passersby. Despite his predicament, he refuses to drink Aqua Pura or holy water, possibly due to superstition or personal preference."
+  "description": "Ben Canning is a 29 year-old African American Male.\n\nA stranded traveler in the Capital Wasteland, Ben Canning is a desperate wanderer who found himself unprepared for the harsh realities of the post-apocalyptic world. Unlike other water beggars who linger near settlements, Ben was journeying between locations when his water supply ran dry. Now dehydrated and weak, he appears at random locations across the wasteland, hoping for compassionate travelers who might spare some water.\n\nBen Canning's Personality: Friendly yet desperate, Ben maintains a positive attitude despite his dire situation. He is grateful for any help he receives but understands the harsh realities of the wasteland. When given water, he shows appreciation but remains too weak to continue his journey immediately. If denied water, he becomes resigned to his fate but doesn't harbor resentment toward those who can't or won't help.\n\nBen Canning's Backstory: Before becoming a wanderer, Ben was a resident of Rivet City who occasionally traded between settlements. On one such journey, he underestimated the time it would take to reach his destination and failed to pack sufficient water. When his supplies ran dry in the middle of the wasteland, he was left stranded with no choice but to beg for water from passersby. Despite his predicament, he refuses to drink Aqua Pura or holy water, possibly due to superstition or personal preference.",
+  "voice_folder": "MaleAdult02DC"
 }

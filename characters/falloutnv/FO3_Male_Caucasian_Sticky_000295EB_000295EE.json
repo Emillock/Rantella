@@ -40,27 +40,27 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "4→8",
+  "level": "4\u21928",
   "tag_skills": [
     {
-      "Barter:": "41→59"
+      "Barter:": "41\u219259"
     },
     {
-      "Small Guns:": "47→65(49→67)"
+      "Small Guns:": "47\u219265(49\u219267)"
     },
     {
-      "Unarmed:": "43→61(45→63)"
+      "Unarmed:": "43\u219261(45\u219263)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "45→65(50→70)"
+      "Hit Points:": "45\u219265(50\u219270)"
     },
     {
       "Critical Chance:": "4%"
     },
     {
-      "Unarmed Dam.:": "2.55→3.45"
+      "Unarmed Dam.:": "2.55\u21923.45"
     },
     {
       "Poison Resist.:": "15%(20%)"
@@ -329,5 +329,6 @@
       "index": "115"
     }
   ],
-  "description": "Sticky is a 16 year-old Caucasian Male.\n\nA 16-year-old human male residing in Little Lamplight who goes by the name 'Jack.' He's known among Lamplighters as 'Sticky Hands' due to his tendency to take things that aren't his. Despite his age, he acts younger due to growing up without adult role models.\n\nSticky's Personality: Chatterbox, self-centered, attention-seeking, and immature. Despite his annoying tendencies, he has a good heart and is loyal to those he cares about.\n\nSticky's Backstory: Born and raised in Little Lamplight, a settlement exclusively for children. Without adult supervision, he developed immature behaviors and his reputation for taking things that catch his interest. He's formed a close bond with Red in Big Town, whom he considers his girlfriend. As he reaches the mandatory age of exile from Little Lamplight, he's facing great uncertainty about his future in the wasteland."
+  "description": "Sticky is a 16 year-old Caucasian Male.\n\nA 16-year-old human male residing in Little Lamplight who goes by the name 'Jack.' He's known among Lamplighters as 'Sticky Hands' due to his tendency to take things that aren't his. Despite his age, he acts younger due to growing up without adult role models.\n\nSticky's Personality: Chatterbox, self-centered, attention-seeking, and immature. Despite his annoying tendencies, he has a good heart and is loyal to those he cares about.\n\nSticky's Backstory: Born and raised in Little Lamplight, a settlement exclusively for children. Without adult supervision, he developed immature behaviors and his reputation for taking things that catch his interest. He's formed a close bond with Red in Big Town, whom he considers his girlfriend. As he reaches the mandatory age of exile from Little Lamplight, he's facing great uncertainty about his future in the wasteland.",
+  "voice_folder": "MaleAdult04DC"
 }

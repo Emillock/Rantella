@@ -32,16 +32,16 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "1→10 (player level x0.5)",
+  "level": "1\u219210 (player level x0.5)",
   "tag_skills": [
     {
-      "Energy Weap.:": "31→70"
+      "Energy Weap.:": "31\u219270"
     },
     {
-      "Melee Weap.:": "31→70"
+      "Melee Weap.:": "31\u219270"
     },
     {
-      "Small Guns:": "33→72"
+      "Small Guns:": "33\u219272"
     }
   ],
   "misc_skills": [],
@@ -73,7 +73,7 @@
       "topic": "MS16GeneralNightQuestion",
       "topic_text": "What happened down here?",
       "emotion": "Sad 75",
-      "response_text": "I lost my poor wife Agnes, is what happened. In all the chaos and fighting, her old ticker just couldn't take it anymore.Play soundOfficer Taylor I lost my poor wi…https://fallout.fandom.com/wiki/File:Officer_Taylor_I_lost_my_poor_wife_Agnes.oggnoicon",
+      "response_text": "I lost my poor wife Agnes, is what happened. In all the chaos and fighting, her old ticker just couldn't take it anymore.Play soundOfficer Taylor I lost my poor wi\u2026https://fallout.fandom.com/wiki/File:Officer_Taylor_I_lost_my_poor_wife_Agnes.oggnoicon",
       "index": "5"
     }
   ],
@@ -94,5 +94,6 @@
     }
   ],
   "combat": [],
-  "description": "Officer Taylor is a 60 year-old Caucasian Male.\n\nA seasoned member of Vault 101's security team, known for his strict adherence to protocol and his no-nonsense approach to maintaining order within the vault.\n\nOfficer Taylor's Personality: Stern, disciplined, and somewhat bitter. Taylor takes his role as a security guard very seriously and holds a grudge against those who have left or attempted to leave Vault 101, blaming them for the stress that contributed to his wife's death. Despite his resentment, he maintains a professional demeanor and is not openly hostile to vault residents.\n\nOfficer Taylor's Backstory: Officer Taylor has spent most of his life serving in Vault 101's security force. He married Agnes Taylor, and they had a life together within the vault's confines. Tragedy struck when Agnes passed away, and Taylor came to blame the vault's escapees for the stress that he believed contributed to her declining health. This has left him with a deep-seated resentment against those who defy the vault's authority."
+  "description": "Officer Taylor is a 60 year-old Caucasian Male.\n\nA seasoned member of Vault 101's security team, known for his strict adherence to protocol and his no-nonsense approach to maintaining order within the vault.\n\nOfficer Taylor's Personality: Stern, disciplined, and somewhat bitter. Taylor takes his role as a security guard very seriously and holds a grudge against those who have left or attempted to leave Vault 101, blaming them for the stress that contributed to his wife's death. Despite his resentment, he maintains a professional demeanor and is not openly hostile to vault residents.\n\nOfficer Taylor's Backstory: Officer Taylor has spent most of his life serving in Vault 101's security force. He married Agnes Taylor, and they had a life together within the vault's confines. Tragedy struck when Agnes passed away, and Taylor came to blame the vault's escapees for the stress that he believed contributed to her declining health. This has left him with a deep-seated resentment against those who defy the vault's authority.",
+  "voice_folder": "MaleOld01DC"
 }

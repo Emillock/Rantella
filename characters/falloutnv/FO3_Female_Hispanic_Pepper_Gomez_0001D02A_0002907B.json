@@ -41,7 +41,7 @@
       "topic": "CGTransitionTopic",
       "topic_text": "CGTransitionTopic",
       "emotion": "Neutral 50",
-      "response_text": "Oh my God. Please, doctor. Please! I know you have stuff here. Drugs! You have to fix this! My God, I can't be pregnant…Play soundFo3 PepperGomez OhMyGod.ogghttps://fallout.fandom.com/wiki/File:Fo3_PepperGomez_OhMyGod.oggnoicon",
+      "response_text": "Oh my God. Please, doctor. Please! I know you have stuff here. Drugs! You have to fix this! My God, I can't be pregnant\u2026Play soundFo3 PepperGomez OhMyGod.ogghttps://fallout.fandom.com/wiki/File:Fo3_PepperGomez_OhMyGod.oggnoicon",
       "index": "1"
     },
     {
@@ -62,7 +62,7 @@
       "topic": "MS16GeneralNightQuestion",
       "topic_text": "What happened down here?",
       "emotion": "Anger 50",
-      "response_text": "The bugs were horrible, but my family was pretty lucky. But then my Freddie went and got caught up with those idiot rebels!Play soundFo3 PepperGomez BugsWereHorrible…https://fallout.fandom.com/wiki/File:Fo3_PepperGomez_BugsWereHorrible.oggnoicon",
+      "response_text": "The bugs were horrible, but my family was pretty lucky. But then my Freddie went and got caught up with those idiot rebels!Play soundFo3 PepperGomez BugsWereHorrible\u2026https://fallout.fandom.com/wiki/File:Fo3_PepperGomez_BugsWereHorrible.oggnoicon",
       "index": "4"
     }
   ],
@@ -78,7 +78,7 @@
       "topic": "HELLO",
       "topic_text": "HELLO",
       "emotion": "Happy 10",
-      "response_text": "Stanley, how's everything going downstairs?Play soundFO3 PepperGomez HowsEverythingGo…https://fallout.fandom.com/wiki/File:FO3_PepperGomez_HowsEverythingGoing.oggnoicon",
+      "response_text": "Stanley, how's everything going downstairs?Play soundFO3 PepperGomez HowsEverythingGo\u2026https://fallout.fandom.com/wiki/File:FO3_PepperGomez_HowsEverythingGoing.oggnoicon",
       "index": "7"
     },
     {
@@ -104,5 +104,6 @@
     }
   ],
   "combat": [],
-  "description": "Pepper Gomez is a 39 year-old Hispanic Female.\n\nA long-time resident of Vault 101, Pepper Gomez is the wife of Officer Herman Gomez and the mother of teenage son Freddie. She has spent most of her adult life raising Freddie in the vault's confined environment, but feels increasingly helpless as he falls under the negative influence of Butch and the Tunnel Snakes. Despite her good intentions, she struggles to connect with her rebellious son and has developed a hostile attitude towards outsiders, particularly the Lone Wanderer.\n\nPepper Gomez's Personality: Caring but frustrated, Pepper is a protective mother who feels overwhelmed by her inability to guide her son in the right direction. She is traditionally-minded, valuing the vault's rules and order, but has grown increasingly desperate as she watches Freddie drift toward trouble. Her hostility towards outsiders stems from years of isolation and fear of change.\n\nPepper Gomez's Backstory: Born and raised in Vault 101, Pepper married Officer Herman Gomez in her early twenties. She gave birth to their son Freddie shortly after. For most of Freddie's life, Herman has been occupied with vault security duties, leaving Pepper as the primary caregiver. She has always tried to instill vault values in Freddie, but as he entered his teenage years, he became increasingly rebellious and gravitated toward Butch and the Tunnel Snakes' influence. Her marriage has grown strained as she and Herman disagree on how to handle Freddie's behavior, with Herman taking a more disciplinary approach while Pepper feels more connection and concern."
+  "description": "Pepper Gomez is a 39 year-old Hispanic Female.\n\nA long-time resident of Vault 101, Pepper Gomez is the wife of Officer Herman Gomez and the mother of teenage son Freddie. She has spent most of her adult life raising Freddie in the vault's confined environment, but feels increasingly helpless as he falls under the negative influence of Butch and the Tunnel Snakes. Despite her good intentions, she struggles to connect with her rebellious son and has developed a hostile attitude towards outsiders, particularly the Lone Wanderer.\n\nPepper Gomez's Personality: Caring but frustrated, Pepper is a protective mother who feels overwhelmed by her inability to guide her son in the right direction. She is traditionally-minded, valuing the vault's rules and order, but has grown increasingly desperate as she watches Freddie drift toward trouble. Her hostility towards outsiders stems from years of isolation and fear of change.\n\nPepper Gomez's Backstory: Born and raised in Vault 101, Pepper married Officer Herman Gomez in her early twenties. She gave birth to their son Freddie shortly after. For most of Freddie's life, Herman has been occupied with vault security duties, leaving Pepper as the primary caregiver. She has always tried to instill vault values in Freddie, but as he entered his teenage years, he became increasingly rebellious and gravitated toward Butch and the Tunnel Snakes' influence. Her marriage has grown strained as she and Herman disagree on how to handle Freddie's behavior, with Herman taking a more disciplinary approach while Pepper feels more connection and concern.",
+  "voice_folder": "FemaleAdult04DC"
 }

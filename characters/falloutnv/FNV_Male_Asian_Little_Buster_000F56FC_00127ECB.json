@@ -1,5 +1,5 @@
 {
-  "name": "Little Buster¹",
+  "name": "Little Buster\u00b9",
   "url": "/wiki/Little_Buster",
   "dialogue_name": "1ELittleBuster.txt",
   "dialogue_url": "/wiki/1ELittleBuster.txt",
@@ -153,5 +153,6 @@
     }
   ],
   "combat": [],
-  "description": "Little Buster is a 28 year-old Asian Male.\n\nA self-proclaimed 'one of the greatest' bounty hunters in the Mojave, Little Buster is an ex-mercenary with a big mouth and questionable work ethic. Despite his boasts about taking down dangerous marks, his actual experience is limited. He's currently training at Camp McCarran, often hitting bystanders with his practice shots due to his sloppy technique.\n\nLittle Buster's Personality: Boastful, lazy, and easily bored. Buster talks a big game but lacks the follow-through to back up his claims. He values comfort over commitment and will abandon tasks that require too much effort. Despite his flaws, he's not malicious, just deeply unmotivated.\n\nLittle Buster's Backstory: Born in the ruins of California, Little Buster drifted through various jobs in the wasteland before settling on bounty hunting. He started as a caravan guard but quit due to the early morning hours, a schedule incompatible with his need for ten to twelve hours of sleep daily. Since then, he's cycled through numerous short-lived careers, growing bored with each before moving on to something else. His current stint as a bounty hunter is already losing its appeal as he realizes the actual work involved."
+  "description": "Little Buster is a 28 year-old Asian Male.\n\nA self-proclaimed 'one of the greatest' bounty hunters in the Mojave, Little Buster is an ex-mercenary with a big mouth and questionable work ethic. Despite his boasts about taking down dangerous marks, his actual experience is limited. He's currently training at Camp McCarran, often hitting bystanders with his practice shots due to his sloppy technique.\n\nLittle Buster's Personality: Boastful, lazy, and easily bored. Buster talks a big game but lacks the follow-through to back up his claims. He values comfort over commitment and will abandon tasks that require too much effort. Despite his flaws, he's not malicious, just deeply unmotivated.\n\nLittle Buster's Backstory: Born in the ruins of California, Little Buster drifted through various jobs in the wasteland before settling on bounty hunting. He started as a caravan guard but quit due to the early morning hours, a schedule incompatible with his need for ten to twelve hours of sleep daily. Since then, he's cycled through numerous short-lived careers, growing bored with each before moving on to something else. His current stint as a bounty hunter is already losing its appeal as he realizes the actual work involved.",
+  "voice_folder": "MaleAdult04"
 }

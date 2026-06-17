@@ -31,10 +31,10 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "20→25 (equal to player level)",
+  "level": "20\u219225 (equal to player level)",
   "tag_skills": [
     {
-      "Energy Weap.:": "99→100"
+      "Energy Weap.:": "99\u2192100"
     },
     {
       "Guns:": "100"
@@ -206,5 +206,6 @@
     }
   ],
   "combat": [],
-  "description": "Nero is a 48 year-old Caucasian Male.\n\nNero is the enigmatic leader of the Omertas crime family, operating from the Gomorrah casino on the New Vegas Strip. He maintains a low profile, rarely appearing in public and leaving the day-to-day operations to his lieutenants like Big Sal and Cachino. Nero values his privacy and does not tolerate intruders in his personal quarters.\n\nNero's Personality: Cunning, manipulative, and self-serving. Nero presents a calm, collected exterior but is ruthless in his pursuit of power. He is a master of deception, maintaining loyalty to Mr. House in public while secretly plotting with Caesar's Legion. Nero is calculating and patient, willing to wait for the opportune moment to strike against his rivals.\n\nNero's Backstory: Nero rose through the ranks of the Omertas through a combination of strategic alliances and ruthless eliminations of his rivals. Having seized control of the Gomorrah casino over a decade ago, he has established himself as one of the most powerful figures on the Strip. Nero's ambition knows no bounds, and he believes aligning with Caesar's Legion is his ticket to ultimate power in New Vegas. He has pledged to help the Legion conquer the Mojave in exchange for control of the Strip after the conquest."
+  "description": "Nero is a 48 year-old Caucasian Male.\n\nNero is the enigmatic leader of the Omertas crime family, operating from the Gomorrah casino on the New Vegas Strip. He maintains a low profile, rarely appearing in public and leaving the day-to-day operations to his lieutenants like Big Sal and Cachino. Nero values his privacy and does not tolerate intruders in his personal quarters.\n\nNero's Personality: Cunning, manipulative, and self-serving. Nero presents a calm, collected exterior but is ruthless in his pursuit of power. He is a master of deception, maintaining loyalty to Mr. House in public while secretly plotting with Caesar's Legion. Nero is calculating and patient, willing to wait for the opportune moment to strike against his rivals.\n\nNero's Backstory: Nero rose through the ranks of the Omertas through a combination of strategic alliances and ruthless eliminations of his rivals. Having seized control of the Gomorrah casino over a decade ago, he has established himself as one of the most powerful figures on the Strip. Nero's ambition knows no bounds, and he believes aligning with Caesar's Legion is his ticket to ultimate power in New Vegas. He has pledged to help the Legion conquer the Mojave in exchange for control of the Strip after the conquest.",
+  "voice_folder": "MaleAdult07"
 }

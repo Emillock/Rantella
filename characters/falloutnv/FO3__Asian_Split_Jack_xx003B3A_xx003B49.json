@@ -262,5 +262,6 @@
   "conversation": [],
   "combat": [],
   "description": "Split Jack is a 38 year-old Asian Male.\n\nSplit Jack is the leader of a mercenary gang operating in the Capital Wasteland. Once an average wasteland raider, he has transformed his ruthless tendencies into a keen business sense. Now commanding a group of bandits, he has devised a plan to attack water caravans and extort the Water Distribution Network. He has established a simple power hierarchy among his crew, where the toughest lead, and his underlings follow his orders without question. Split Jack can typically be found at Wilhelm's Wharf, coordinating his operations.\n\nSplit Jack's Personality: Ruthless, cunning, and ambitious. Split Jack combines his raider instincts with a strategic business mind, always looking for opportunities to profit from the chaos of the wasteland. He values strength and loyalty but has no qualms about betraying or eliminating those who stand in his way.\n\nSplit Jack's Backstory: Split Jack began his life in the wasteland as a common raider, preying on travelers and settlements for survival. However, he grew tired of the disorganization and constant infighting that plagued raider groups. Recognizing the value of a more structured approach, he broke away and formed his own gang, combining his combat skills with a surprisingly sharp business acumen. Over the years, he has built a reputation as a mercenary who gets the job done, no matter how dirty it may be.",
-  "voice_type": "MaleAdult02DC"
+  "voice_type": "MaleAdult02DC",
+  "voice_folder": "MaleAdult02DC"
 }

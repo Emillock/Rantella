@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→8(equal to player characters level)",
+  "level": "1\u21928(equal to player characters level)",
   "tag_skills": [
     {
-      "Barter:": "30→62"
+      "Barter:": "30\u219262"
     },
     {
-      "Medicine:": "28→60"
+      "Medicine:": "28\u219260"
     },
     {
-      "Melee Weap.:": "32→64"
+      "Melee Weap.:": "32\u219264"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→100"
+      "Hit Points:": "65\u2192100"
     },
     {
       "Critical Chance:": "5%"
@@ -377,5 +377,6 @@
     }
   ],
   "combat": [],
-  "description": "Jack Smith is a 50 year-old Caucasian Male.\n\nJack Smith is the patriarch of the Smith family in Andale, a seemingly peaceful community in the Capital Wasteland. Outwardly, he presents himself as a model citizen and family man, but behind closed doors, he leads a cannibalistic lifestyle with his wife Linda (who is also his sister) and their son Junior. Jack takes pride in maintaining Andale's isolation from the outside world and its century-old tradition of consuming unwary travelers.\n\nJack Smith's Personality: Jack is a deceptive and manipulative individual who maintains a facade of warmth and hospitality to lure outsiders into a false sense of security. He is fiercely proud of his family's traditions and considers himself a political conservative, often expressing disdain for 'beatnik liberal commies.' Despite his cannibalistic practices, he genuinely believes his family is doing what's necessary to preserve Andale's way of life and considers himself a loyal American citizen.\n\nJack Smith's Backstory: Jack was born and raised in Andale, where his family has maintained the cannibal tradition for generations. He married his sister Linda to continue the bloodline and maintain the family's purity. Together they raised their son Junior, indoctrinating him into the family's practices from a young age. Jack has spent his entire life in Andale, rarely venturing beyond its borders, and has developed a deep-seated distrust of outsiders. He views their cannibalism not as a moral failing but as a necessary tradition that has kept Andale isolated and self-sufficient for over a century."
+  "description": "Jack Smith is a 50 year-old Caucasian Male.\n\nJack Smith is the patriarch of the Smith family in Andale, a seemingly peaceful community in the Capital Wasteland. Outwardly, he presents himself as a model citizen and family man, but behind closed doors, he leads a cannibalistic lifestyle with his wife Linda (who is also his sister) and their son Junior. Jack takes pride in maintaining Andale's isolation from the outside world and its century-old tradition of consuming unwary travelers.\n\nJack Smith's Personality: Jack is a deceptive and manipulative individual who maintains a facade of warmth and hospitality to lure outsiders into a false sense of security. He is fiercely proud of his family's traditions and considers himself a political conservative, often expressing disdain for 'beatnik liberal commies.' Despite his cannibalistic practices, he genuinely believes his family is doing what's necessary to preserve Andale's way of life and considers himself a loyal American citizen.\n\nJack Smith's Backstory: Jack was born and raised in Andale, where his family has maintained the cannibal tradition for generations. He married his sister Linda to continue the bloodline and maintain the family's purity. Together they raised their son Junior, indoctrinating him into the family's practices from a young age. Jack has spent his entire life in Andale, rarely venturing beyond its borders, and has developed a deep-seated distrust of outsiders. He views their cannibalism not as a moral failing but as a necessary tradition that has kept Andale isolated and self-sufficient for over a century.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

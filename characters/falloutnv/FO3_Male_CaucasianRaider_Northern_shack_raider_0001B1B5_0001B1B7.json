@@ -31,27 +31,27 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "34→47→68"
+      "Melee Weap.:": "34\u219247\u219268"
     },
     {
-      "Small Guns:": "32→45→66"
+      "Small Guns:": "32\u219245\u219266"
     },
     {
-      "Unarmed:": "30→43→64"
+      "Unarmed:": "30\u219243\u219264"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→60→90"
+      "Hit Points:": "30\u219260\u219290"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "2→2.65→3.7"
+      "Unarmed Dam.:": "2\u21922.65\u21923.7"
     },
     {
       "Poison Resist.:": "20%"
@@ -69,5 +69,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Northern Shack Raider is a 35 year-old Caucasian Male.\n\nA hardened raider boss who has claimed the northern shack in Evergreen Mills as his territory. He shares the confined space with a female companion, maintaining a constant vigil against intruders. His daily routine consists of patrolling the small living space and resting in the same bed as his partner each night. His presence in Evergreen Mills makes him a significant threat to anyone wandering through the raider-infested settlement.\n\nNorthern Shack Raider's Personality: Hostile, territorial, and paranoid. The Northern Shack Raider embodies the typical raider mentality of survival through aggression. He is distrustful of outsiders and quick to violence, seeing the Lone Wanderer as a threat to his small domain and resources.\n\nNorthern Shack Raider's Backstory: Born in the harsh wasteland, the Northern Shack Raider learned from a young age that strength and ruthlessness were necessary for survival. He rose through the raider ranks by proving his combat prowess and cunning, eventually earning enough respect to claim the northern shack in Evergreen Mills. He now rules over this small territory with an iron fist, viewing it as his only sanctuary in the dangerous wasteland."
+  "description": "Northern Shack Raider is a 35 year-old Caucasian Male.\n\nA hardened raider boss who has claimed the northern shack in Evergreen Mills as his territory. He shares the confined space with a female companion, maintaining a constant vigil against intruders. His daily routine consists of patrolling the small living space and resting in the same bed as his partner each night. His presence in Evergreen Mills makes him a significant threat to anyone wandering through the raider-infested settlement.\n\nNorthern Shack Raider's Personality: Hostile, territorial, and paranoid. The Northern Shack Raider embodies the typical raider mentality of survival through aggression. He is distrustful of outsiders and quick to violence, seeing the Lone Wanderer as a threat to his small domain and resources.\n\nNorthern Shack Raider's Backstory: Born in the harsh wasteland, the Northern Shack Raider learned from a young age that strength and ruthlessness were necessary for survival. He rose through the raider ranks by proving his combat prowess and cunning, eventually earning enough respect to claim the northern shack in Evergreen Mills. He now rules over this small territory with an iron fist, viewing it as his only sanctuary in the dangerous wasteland.",
+  "voice_folder": "MaleGroupRaiderDC"
 }

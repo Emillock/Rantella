@@ -40,16 +40,16 @@
     "Agility": 8,
     "Luck": 2
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [],
@@ -167,5 +167,6 @@
       "index": "57"
     }
   ],
-  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101, Butch is a young man who has spent his entire life in this isolated community. Under the care of his alcoholic mother Ellen, who neglected his upbringing, Butch developed deep-seated feelings of inadequacy, particularly about never knowing his father. To compensate, he puts on a mask as a boorish, overbearing bully and leads the Tunnel Snakes gang. Despite his tough exterior, Butch is vulnerable and craves validation and acceptance.\n\nButch's Personality: Outwardly tough and aggressive, Butch presents himself as a confident bully to mask his insecurities. He's desperate for recognition and will go to great lengths to prove himself to his peers. Beneath the tough exterior lies a vulnerable young man seeking purpose and connection. He's fiercely loyal to those he considers friends but struggles with trust issues due to his upbringing.\n\nButch's Backstory: Butch was born and raised entirely within Vault 101. His mother Ellen is a notorious alcoholic who failed to provide proper guidance during his formative years, leaving him to navigate his adolescence largely on his own. This lack of parental oversight contributed to his feelings of inadequacy and his obsession with not knowing his father, despite living in what should have been a close-knit community. At age ten, he attempted to strongarm the Lone Wanderer for their sweetroll, demonstrating early signs of his aggressive behavior. As a teenager, he formed the Tunnel Snakes gang, positioning himself as their leader to gain the respect and validation he craved but never received at home."
+  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101, Butch is a young man who has spent his entire life in this isolated community. Under the care of his alcoholic mother Ellen, who neglected his upbringing, Butch developed deep-seated feelings of inadequacy, particularly about never knowing his father. To compensate, he puts on a mask as a boorish, overbearing bully and leads the Tunnel Snakes gang. Despite his tough exterior, Butch is vulnerable and craves validation and acceptance.\n\nButch's Personality: Outwardly tough and aggressive, Butch presents himself as a confident bully to mask his insecurities. He's desperate for recognition and will go to great lengths to prove himself to his peers. Beneath the tough exterior lies a vulnerable young man seeking purpose and connection. He's fiercely loyal to those he considers friends but struggles with trust issues due to his upbringing.\n\nButch's Backstory: Butch was born and raised entirely within Vault 101. His mother Ellen is a notorious alcoholic who failed to provide proper guidance during his formative years, leaving him to navigate his adolescence largely on his own. This lack of parental oversight contributed to his feelings of inadequacy and his obsession with not knowing his father, despite living in what should have been a close-knit community. At age ten, he attempted to strongarm the Lone Wanderer for their sweetroll, demonstrating early signs of his aggressive behavior. As a teenager, he formed the Tunnel Snakes gang, positioning himself as their leader to gain the respect and validation he craved but never received at home.",
+  "voice_folder": "MaleUniqueButchKid"
 }

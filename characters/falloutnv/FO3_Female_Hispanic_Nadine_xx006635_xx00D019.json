@@ -31,7 +31,7 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "5→15(0.75 x player character's level)",
+  "level": "5\u219215(0.75 x player character's level)",
   "tag_skills": [
     {
       "Melee Weap.:": "49(51)"
@@ -206,5 +206,6 @@
     }
   ],
   "combat": [],
-  "description": "Nadine is a 17 year-old Hispanic Female.\n\nA restless and adventurous young woman who left her home in the Capital Wasteland to explore the wider world. After stowing away on the Duchess Gambit, she found herself in Point Lookout where she joined Jackson's tribal group at the Ark & Dove Cathedral. Despite undergoing the Mother Punga ritual and having a piece of her brain removed by Tobar, she remains determined to find a fortune to share with her mother.\n\nNadine's Personality: Adventurous, restless, determined, rebellious, and resilient. Nadine possesses a tomboyish spirit and a strong will to survive and explore beyond her familiar surroundings.\n\nNadine's Backstory: Born and raised in the Capital Wasteland, Nadine grew up as a tomboy with an insatiable desire for adventure. Unlike most wastelanders content with their daily survival, she dreamed of exploring beyond the familiar ruins of her home. Sometime before August 2277, she made the bold decision to run away, stowing away on the Duchess Gambit captained by Tobar. Her journey led her to Point Lookout, where she encountered Jackson's tribal group and decided to join them at the Ark & Dove Cathedral. During her time with the tribals, she participated in the Mother Punga ritual, an experience that would later have unexpected consequences when Tobar surgically removed a portion of her brain."
+  "description": "Nadine is a 17 year-old Hispanic Female.\n\nA restless and adventurous young woman who left her home in the Capital Wasteland to explore the wider world. After stowing away on the Duchess Gambit, she found herself in Point Lookout where she joined Jackson's tribal group at the Ark & Dove Cathedral. Despite undergoing the Mother Punga ritual and having a piece of her brain removed by Tobar, she remains determined to find a fortune to share with her mother.\n\nNadine's Personality: Adventurous, restless, determined, rebellious, and resilient. Nadine possesses a tomboyish spirit and a strong will to survive and explore beyond her familiar surroundings.\n\nNadine's Backstory: Born and raised in the Capital Wasteland, Nadine grew up as a tomboy with an insatiable desire for adventure. Unlike most wastelanders content with their daily survival, she dreamed of exploring beyond the familiar ruins of her home. Sometime before August 2277, she made the bold decision to run away, stowing away on the Duchess Gambit captained by Tobar. Her journey led her to Point Lookout, where she encountered Jackson's tribal group and decided to join them at the Ark & Dove Cathedral. During her time with the tribals, she participated in the Mother Punga ritual, an experience that would later have unexpected consequences when Tobar surgically removed a portion of her brain.",
+  "voice_folder": "DLC04FemaleNormal"
 }

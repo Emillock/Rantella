@@ -31,7 +31,7 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "5 → 35 (max 50)",
+  "level": "5 \u2192 35 (max 50)",
   "tag_skills": [],
   "misc_skills": [],
   "karma": "Neutral",
@@ -2164,5 +2164,6 @@
       "index": "492"
     }
   ],
-  "description": "Christine Royce is a 32 year-old Human Female.\n\nA former Brotherhood of Steel scribe turned assassin, Christine is a determined and technically skilled woman on a relentless hunt for Elder Elijah across the Mojave Wasteland. She stands at only 92% of normal human height, a fact that belies her fierce determination and resilience.\n\nChristine Royce's Personality: Determined, resilient, and technically-minded with a strong sense of justice. Despite her suffering, she maintains focus on her goal of finding Elijah. She appears calm under pressure but carries deep emotional scars from her past.\n\nChristine Royce's Backstory: Born and raised in the Brotherhood of Steel, Christine became a scribe. She entered into a lesbian relationship with Veronica Santangelo, despite the implicit homophobia of their culture. Their relationship was subsequently terminated due to this prejudice. Following this, Christine became fixated on hunting down Elder Elijah for his crimes across the wasteland. During her pursuit, she was captured and trapped in a facility, only to be rescued by Ulysses, who forced his way in using explosives. She eventually tracked Elijah to the derelict Sierra Madre Casino & Resort, where she was captured by the super mutant Dog, who was himself enslaved to Elijah. Fitted with an explosive collar, Christine had no choice but to aid Elijah in his attempt to break into the casino."
+  "description": "Christine Royce is a 32 year-old Human Female.\n\nA former Brotherhood of Steel scribe turned assassin, Christine is a determined and technically skilled woman on a relentless hunt for Elder Elijah across the Mojave Wasteland. She stands at only 92% of normal human height, a fact that belies her fierce determination and resilience.\n\nChristine Royce's Personality: Determined, resilient, and technically-minded with a strong sense of justice. Despite her suffering, she maintains focus on her goal of finding Elijah. She appears calm under pressure but carries deep emotional scars from her past.\n\nChristine Royce's Backstory: Born and raised in the Brotherhood of Steel, Christine became a scribe. She entered into a lesbian relationship with Veronica Santangelo, despite the implicit homophobia of their culture. Their relationship was subsequently terminated due to this prejudice. Following this, Christine became fixated on hunting down Elder Elijah for his crimes across the wasteland. During her pursuit, she was captured and trapped in a facility, only to be rescued by Ulysses, who forced his way in using explosives. She eventually tracked Elijah to the derelict Sierra Madre Casino & Resort, where she was captured by the super mutant Dog, who was himself enslaved to Elijah. Fitted with an explosive collar, Christine had no choice but to aid Elijah in his attempt to break into the casino.",
+  "voice_folder": "NVDLC01FemaleUniqueChristine"
 }

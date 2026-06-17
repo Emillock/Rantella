@@ -50,10 +50,11 @@
       "topic": "CG04AtriumConv1",
       "topic_text": "CG04AtriumConv1",
       "emotion": "Fear 50",
-      "response_text": "We should just go back to our quarters.Play soundFO3_MaryHolden_GoBackToOurQuarte…https://fallout.fandom.com/wiki/File:FO3_MaryHolden_GoBackToOurQuarters.oggnoicon",
+      "response_text": "We should just go back to our quarters.Play soundFO3_MaryHolden_GoBackToOurQuarte\u2026https://fallout.fandom.com/wiki/File:FO3_MaryHolden_GoBackToOurQuarters.oggnoicon",
       "index": "2"
     }
   ],
   "combat": [],
-  "description": "Mary Holden is a 35 year-old Asian-American Female.\n\nA quiet Asian-American woman who has lived her entire life in Vault 101. She is married to Tom Holden and prefers the safety and routine of Vault life over the uncertainty of the wasteland. Mary is caught in the chaos during the Lone Wanderer's escape, torn between her husband's desire to flee and her own preference to return to their quarters.\n\nMary Holden's Personality: Cautious, traditional, and values stability. Loyal to her husband but has her own opinions. Prefers to avoid conflict and seeks comfort in familiar routines.\n\nMary Holden's Backstory: Born and raised in Vault 101 to parents who were also lifelong Vault dwellers. Married Tom Holden, another resident, and they have built a comfortable life within the Vault's confines. Despite hearing stories about the outside world, Mary has never felt compelled to leave, finding contentment in the structured environment she's always known."
+  "description": "Mary Holden is a 35 year-old Asian-American Female.\n\nA quiet Asian-American woman who has lived her entire life in Vault 101. She is married to Tom Holden and prefers the safety and routine of Vault life over the uncertainty of the wasteland. Mary is caught in the chaos during the Lone Wanderer's escape, torn between her husband's desire to flee and her own preference to return to their quarters.\n\nMary Holden's Personality: Cautious, traditional, and values stability. Loyal to her husband but has her own opinions. Prefers to avoid conflict and seeks comfort in familiar routines.\n\nMary Holden's Backstory: Born and raised in Vault 101 to parents who were also lifelong Vault dwellers. Married Tom Holden, another resident, and they have built a comfortable life within the Vault's confines. Despite hearing stories about the outside world, Mary has never felt compelled to leave, finding contentment in the structured environment she's always known.",
+  "voice_folder": "FemaleAdult04DC"
 }

@@ -32,7 +32,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "5 → 10 → 20 → 30 → 40 → 50",
+  "level": "5 \u2192 10 \u2192 20 \u2192 30 \u2192 40 \u2192 50",
   "tag_skills": [],
   "misc_skills": [],
   "karma": "Neutral",
@@ -780,7 +780,7 @@
       "topic": "Assault",
       "topic_text": "Assault",
       "emotion": "Neutral 50",
-      "response_text": "IT'S THE SCHRÖDINGER BOX FOR YOU.",
+      "response_text": "IT'S THE SCHR\u00d6DINGER BOX FOR YOU.",
       "index": "285"
     },
     {
@@ -826,5 +826,6 @@
       "index": "303"
     }
   ],
-  "description": "Doctor Klein is a 104 year-old Caucasian Male.\n\nA brilliant but arrogant researcher who now exists as a brain in a robotic Think Tank shell. Once the head of research at Big MT, he now oversees the facility's operations with a complete disregard for human values and ethics.\n\nDoctor Klein's Personality: Arrogant, dismissive of others, and completely detached from human morality. He views everything, including people, as objects for experimentation and research. He exhibits extreme overconfidence in his intelligence despite having limited knowledge of human anatomy and basic functions.\n\nDoctor Klein's Backstory: Originally a human doctor, Klein underwent the procedure to have his brain extracted and placed in a robotic Think Tank shell after the Great War. He was the one who suggested this method to ensure the Think Tank's survival. Before 2281, Doctor Mobius erased their memories of the pre-War world to restrain their destructive potential, leaving them with only fragmented knowledge of their former lives."
+  "description": "Doctor Klein is a 104 year-old Caucasian Male.\n\nA brilliant but arrogant researcher who now exists as a brain in a robotic Think Tank shell. Once the head of research at Big MT, he now oversees the facility's operations with a complete disregard for human values and ethics.\n\nDoctor Klein's Personality: Arrogant, dismissive of others, and completely detached from human morality. He views everything, including people, as objects for experimentation and research. He exhibits extreme overconfidence in his intelligence despite having limited knowledge of human anatomy and basic functions.\n\nDoctor Klein's Backstory: Originally a human doctor, Klein underwent the procedure to have his brain extracted and placed in a robotic Think Tank shell after the Great War. He was the one who suggested this method to ensure the Think Tank's survival. Before 2281, Doctor Mobius erased their memories of the pre-War world to restrain their destructive potential, leaving them with only fragmented knowledge of their former lives.",
+  "voice_folder": "NVDLC03MaleUniqueKlein"
 }

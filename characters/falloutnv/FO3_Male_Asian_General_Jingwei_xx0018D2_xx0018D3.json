@@ -31,16 +31,16 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "10→200→300 (Broken Steelonly) (10 times current player character level)",
+  "level": "10\u2192200\u2192300 (Broken Steelonly) (10 times current player character level)",
   "tag_skills": [
     {
-      "Big Guns:": "77→100"
+      "Big Guns:": "77\u2192100"
     },
     {
-      "Small Guns:": "79→100"
+      "Small Guns:": "79\u2192100"
     },
     {
-      "Speech:": "75→100"
+      "Speech:": "75\u2192100"
     }
   ],
   "misc_skills": [
@@ -71,14 +71,14 @@
       "topic": "DLC02OA4GeneralGreeting1",
       "topic_text": "You've already lost, General. Don't throw away your dignity.",
       "emotion": "Neutral 50",
-      "response_text": "You will never take me prisoner!Play soundDlc02oa4_dlc02oa4generalgr_00002…https://fallout.fandom.com/wiki/File:Dlc02oa4_dlc02oa4generalgr_00002976_1.oggnoicon",
+      "response_text": "You will never take me prisoner!Play soundDlc02oa4_dlc02oa4generalgr_00002\u2026https://fallout.fandom.com/wiki/File:Dlc02oa4_dlc02oa4generalgr_00002976_1.oggnoicon",
       "index": "1"
     },
     {
       "topic": "DLC02OA4GeneralGreeting2",
       "topic_text": "It's over, Jingwei. Surrender and lay down your arms.",
       "emotion": "Neutral 50",
-      "response_text": "Surrender? Never!Play soundDlc02oa4_dlc02oa4generalgr_00002…https://fallout.fandom.com/wiki/File:Dlc02oa4_dlc02oa4generalgr_00002977_1.oggnoicon",
+      "response_text": "Surrender? Never!Play soundDlc02oa4_dlc02oa4generalgr_00002\u2026https://fallout.fandom.com/wiki/File:Dlc02oa4_dlc02oa4generalgr_00002977_1.oggnoicon",
       "index": "2"
     },
     {
@@ -99,11 +99,12 @@
       "topic": "SpeechChallengeFailure",
       "topic_text": "SpeechChallengeFailure",
       "emotion": "Neutral 50",
-      "response_text": "Your head will be mounted as a trophy, dog!Play soundFo3OA GeneralJingwei MountedAsAT…https://fallout.fandom.com/wiki/File:Fo3OA_GeneralJingwei_MountedAsATrophy.oggnoicon",
+      "response_text": "Your head will be mounted as a trophy, dog!Play soundFo3OA GeneralJingwei MountedAsAT\u2026https://fallout.fandom.com/wiki/File:Fo3OA_GeneralJingwei_MountedAsATrophy.oggnoicon",
       "index": "5"
     }
   ],
   "conversation": [],
   "combat": [],
-  "description": "General Jingwei is a 55 year-old Chinese Male.\n\nA formidable Chinese military commander who led the People's Liberation Army's invasion of Alaska during the Sino-American War. Known for his ruthless efficiency and tactical brilliance, Jingwei commanded absolute loyalty from his troops while instilling fear in his enemies. His legacy lives on in the Anchorage Reclamation simulation at the Virtual Strategic Solutions facility, where he serves as the final opponent.\n\nGeneral Jingwei's Personality: Ruthless, disciplined, and fiercely loyal to his country and men. Possesses a twisted sense of honor that justifies extreme measures in pursuit of victory. Pragmatic to the point of cruelty, yet maintains a strategic mind that respects competence regardless of nationality.\n\nGeneral Jingwei's Backstory: General Jingwei rose through the ranks of the People's Liberation Army with exceptional speed, demonstrating tactical genius that earned him command of the invasion force targeting Alaska. In 2077, he personally led the Chinese forces that seized Anchorage, pushing American forces back despite fierce resistance. When the Great War erupted on October 23rd, 2077, his forces were ultimately defeated in the Battle of Anchorage, with American forces successfully reclaiming the territory. According to records, Jingwei was either killed or captured during this conflict, though his personal weapon remains sealed in the armory of the Virtual Strategic Solutions facility in Washington D.C., suggesting his presence in the Anchorage simulation is a digital recreation."
+  "description": "General Jingwei is a 55 year-old Chinese Male.\n\nA formidable Chinese military commander who led the People's Liberation Army's invasion of Alaska during the Sino-American War. Known for his ruthless efficiency and tactical brilliance, Jingwei commanded absolute loyalty from his troops while instilling fear in his enemies. His legacy lives on in the Anchorage Reclamation simulation at the Virtual Strategic Solutions facility, where he serves as the final opponent.\n\nGeneral Jingwei's Personality: Ruthless, disciplined, and fiercely loyal to his country and men. Possesses a twisted sense of honor that justifies extreme measures in pursuit of victory. Pragmatic to the point of cruelty, yet maintains a strategic mind that respects competence regardless of nationality.\n\nGeneral Jingwei's Backstory: General Jingwei rose through the ranks of the People's Liberation Army with exceptional speed, demonstrating tactical genius that earned him command of the invasion force targeting Alaska. In 2077, he personally led the Chinese forces that seized Anchorage, pushing American forces back despite fierce resistance. When the Great War erupted on October 23rd, 2077, his forces were ultimately defeated in the Battle of Anchorage, with American forces successfully reclaiming the territory. According to records, Jingwei was either killed or captured during this conflict, though his personal weapon remains sealed in the armory of the Virtual Strategic Solutions facility in Washington D.C., suggesting his presence in the Anchorage simulation is a digital recreation.",
+  "voice_folder": "DLC02MaleChinese1"
 }

@@ -31,21 +31,21 @@
     "Agility": 5,
     "Luck": 4
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Barter:": "31→100"
+      "Barter:": "31\u2192100"
     },
     {
-      "Medicine:": "33→100"
+      "Medicine:": "33\u2192100"
     },
     {
-      "Science:": "33→100"
+      "Science:": "33\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→160→210"
+      "Hit Points:": "65\u2192160\u2192210"
     },
     {
       "Critical Chance:": "4%"
@@ -105,5 +105,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Phantom is a 32 year-old Caucasian with Hispanic features Male.\n\nA Pitt raider with surprisingly friendly demeanor for someone from the Uptown. Phantom stands out among his fellow raiders with his willingness to engage in conversation and offer basic medical assistance. His weathered face and scarred hands tell a story of survival in the harsh environment of The Pitt.\n\nPhantom's Personality: Phantom maintains a pragmatic but relatively amicable attitude compared to other raiders. He possesses a dark sense of humor and speaks his mind freely, especially when discussing the work dynamics between raiders and slaves. Despite his affiliation with the raiders, he shows a surprising level of empathy towards those in need, particularly when medical attention is required.\n\nPhantom's Backstory: Phantom wasn't born in The Pitt but arrived as a young adult seeking refuge from the dangers of the Wasteland. He quickly learned the brutal realities of life in the industrial city and adapted by joining the raiders. His medical knowledge comes from his time as an apprentice to a former doctor who was exiled to The Pitt. After his mentor's death, Phantom took over the rudimentary medical care in the Uptown, earning him a position of relative respect despite his raider status."
+  "description": "Phantom is a 32 year-old Caucasian with Hispanic features Male.\n\nA Pitt raider with surprisingly friendly demeanor for someone from the Uptown. Phantom stands out among his fellow raiders with his willingness to engage in conversation and offer basic medical assistance. His weathered face and scarred hands tell a story of survival in the harsh environment of The Pitt.\n\nPhantom's Personality: Phantom maintains a pragmatic but relatively amicable attitude compared to other raiders. He possesses a dark sense of humor and speaks his mind freely, especially when discussing the work dynamics between raiders and slaves. Despite his affiliation with the raiders, he shows a surprising level of empathy towards those in need, particularly when medical attention is required.\n\nPhantom's Backstory: Phantom wasn't born in The Pitt but arrived as a young adult seeking refuge from the dangers of the Wasteland. He quickly learned the brutal realities of life in the industrial city and adapted by joining the raiders. His medical knowledge comes from his time as an apprentice to a former doctor who was exiled to The Pitt. After his mentor's death, Phantom took over the rudimentary medical care in the Uptown, earning him a position of relative respect despite his raider status.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "6→14",
+  "level": "6\u219214",
   "tag_skills": [
     {
-      "Explosives:": "55→90"
+      "Explosives:": "55\u219290"
     },
     {
-      "Small Guns:": "53→88(55→90)"
+      "Small Guns:": "53\u219288(55\u219290)"
     },
     {
-      "Sneak:": "53→88"
+      "Sneak:": "53\u219288"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "95→135"
+      "Hit Points:": "95\u2192135"
     },
     {
       "Critical Chance:": "5%"
@@ -165,5 +165,6 @@
     }
   ],
   "combat": [],
-  "description": "Brianna is a 19 year-old Caucasian Female.\n\nA young woman who was once a prostitute in Washington, D.C. before becoming a member of The Family. She has a unique condition that drives her to consume human blood, a trait that was embraced by The Family rather than condemned.\n\nBrianna's Personality: Flirtatious and playful, Brianna enjoys teasing the male members of The Family. Despite her past, she has found a sense of belonging within the group.\n\nBrianna's Backstory: Born and raised in the ruins of Washington, D.C., Brianna turned to prostitution at a young age to survive. Her life took a dark turn when she developed a taste for human flesh, a secret that tormented her. Eventually, she fled the capital and wandered the wasteland until she encountered members of The Family in Meresti Metro Station. Recognizing her unique traits, Vance welcomed her into their fold, where her cannibalistic tendencies were transformed into hematophagy."
+  "description": "Brianna is a 19 year-old Caucasian Female.\n\nA young woman who was once a prostitute in Washington, D.C. before becoming a member of The Family. She has a unique condition that drives her to consume human blood, a trait that was embraced by The Family rather than condemned.\n\nBrianna's Personality: Flirtatious and playful, Brianna enjoys teasing the male members of The Family. Despite her past, she has found a sense of belonging within the group.\n\nBrianna's Backstory: Born and raised in the ruins of Washington, D.C., Brianna turned to prostitution at a young age to survive. Her life took a dark turn when she developed a taste for human flesh, a secret that tormented her. Eventually, she fled the capital and wandered the wasteland until she encountered members of The Family in Meresti Metro Station. Recognizing her unique traits, Vance welcomed her into their fold, where her cannibalistic tendencies were transformed into hematophagy.",
+  "voice_folder": "FemaleAdult02DC"
 }

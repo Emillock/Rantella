@@ -19,7 +19,7 @@
   "race": "Human",
   "gender": "Male",
   "affiliation": "White Glove Society",
-  "role": "Ultra-LuxeMaître d'Right-hand man",
+  "role": "Ultra-LuxeMa\u00eetre d'Right-hand man",
   "detailed_location": "Ultra-Luxe",
   "voice_actor": "Jude Ciccolella",
   "special": {
@@ -408,5 +408,6 @@
     }
   ],
   "combat": [],
-  "description": "Mortimer is a 58 year-old Caucasian Male.\n\nMortimer is a high-ranking, cannibalistic member of the White Glove society serving as the maître d' and right-hand man to Marjorie at the Ultra-Luxe casino. Despite the society's recent reformation away from cannibalism, Mortimer secretly plots to return them to their former ways.\n\nMortimer's Personality: Mortimer maintains a polished, professional demeanor in public, but behind closed doors, he is ruthless, cunning, and deeply committed to restoring the White Glove Society's cannibalistic traditions. He views the current direction of the society as misguided and is willing to eliminate anyone who stands in his way.\n\nMortimer's Backstory: Mortimer has been with the White Glove Society for decades, witnessing their transition from cannibals to refined individuals. While most members have embraced this new identity, Mortimer has secretly been working to revert them back to their roots. He believes that the society's purpose is tied to their cannibalistic traditions and views the current leadership's decision to abandon these practices as a betrayal of their heritage. To achieve his goals, Mortimer has been kidnapping potential 'candidates' for his planned banquet, including mistakenly capturing Ted Gunderson instead of the intended target, Carlyle St. Clair III."
+  "description": "Mortimer is a 58 year-old Caucasian Male.\n\nMortimer is a high-ranking, cannibalistic member of the White Glove society serving as the ma\u00eetre d' and right-hand man to Marjorie at the Ultra-Luxe casino. Despite the society's recent reformation away from cannibalism, Mortimer secretly plots to return them to their former ways.\n\nMortimer's Personality: Mortimer maintains a polished, professional demeanor in public, but behind closed doors, he is ruthless, cunning, and deeply committed to restoring the White Glove Society's cannibalistic traditions. He views the current direction of the society as misguided and is willing to eliminate anyone who stands in his way.\n\nMortimer's Backstory: Mortimer has been with the White Glove Society for decades, witnessing their transition from cannibals to refined individuals. While most members have embraced this new identity, Mortimer has secretly been working to revert them back to their roots. He believes that the society's purpose is tied to their cannibalistic traditions and views the current leadership's decision to abandon these practices as a betrayal of their heritage. To achieve his goals, Mortimer has been kidnapping potential 'candidates' for his planned banquet, including mistakenly capturing Ted Gunderson instead of the intended target, Carlyle St. Clair III.",
+  "voice_folder": "MaleOld01"
 }

@@ -63,14 +63,14 @@
       "topic": "CG02StanleyA1",
       "topic_text": "It's really cool. Did you fix it up for me?",
       "emotion": "Happy 50",
-      "response_text": "As a matter of fact I did. I'm glad you like it. Some may think the A series a bit basic, but I've always preferred them for their reliability.{modestly}Play soundFO3 StanleyArmstrong MatterOfFac…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_MatterOfFact.oggnoicon",
+      "response_text": "As a matter of fact I did. I'm glad you like it. Some may think the A series a bit basic, but I've always preferred them for their reliability.{modestly}Play soundFO3 StanleyArmstrong MatterOfFac\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_MatterOfFact.oggnoicon",
       "index": "1"
     },
     {
       "topic": "CG02StanleyA2",
       "topic_text": "It's all right. Seems kind of old, though.",
       "emotion": "Happy 50",
-      "response_text": "Of course it is. Just like everybody else's. They don't make 'em any more now, do they?{with a laugh at your naivete}Play soundFO3 StanleyArmstrong OfCourseItI…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_OfCourseItIs.oggnoicon",
+      "response_text": "Of course it is. Just like everybody else's. They don't make 'em any more now, do they?{with a laugh at your naivete}Play soundFO3 StanleyArmstrong OfCourseItI\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_OfCourseItIs.oggnoicon",
       "index": "2"
     },
     {
@@ -84,14 +84,14 @@
       "topic": "CG02StanleyA4",
       "topic_text": "Wally said my Pip-Boy was a piece of junk!",
       "emotion": "Happy 50",
-      "response_text": "Don't you listen to him. The A series may be a bit heavier than the luxury models, but they were built to last.{reassuringly}Play soundFO3 StanleyArmstrong DontYouList…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_DontYouListen.oggnoicon",
+      "response_text": "Don't you listen to him. The A series may be a bit heavier than the luxury models, but they were built to last.{reassuringly}Play soundFO3 StanleyArmstrong DontYouList\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_DontYouListen.oggnoicon",
       "index": "9"
     },
     {
       "topic": "CG02StanleyB1",
       "topic_text": "Thanks, Stanley.",
       "emotion": "Happy 50",
-      "response_text": "Don't mention it.{modestly}Play soundFO3 StanleyArmstrong DontMention…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_DontMentionIt.oggnoicon",
+      "response_text": "Don't mention it.{modestly}Play soundFO3 StanleyArmstrong DontMention\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_DontMentionIt.oggnoicon",
       "index": "11"
     },
     {
@@ -105,14 +105,14 @@
       "topic": "CG02StanleyB3",
       "topic_text": "<Yawn> That's really really interesting.",
       "emotion": "Disgust 10",
-      "response_text": "Sure, most people don't give a thought to their Pip-Boy as long as it keeps working.{resuming his normal diffident manner  he thought he was talking to a fellow Pip-Boy enthusiast but now he realizes he was wrong}Play soundFO3 StanleyArmstrong MostPeopleD…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_MostPeopleDont.oggnoicon",
+      "response_text": "Sure, most people don't give a thought to their Pip-Boy as long as it keeps working.{resuming his normal diffident manner  he thought he was talking to a fellow Pip-Boy enthusiast but now he realizes he was wrong}Play soundFO3 StanleyArmstrong MostPeopleD\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_MostPeopleDont.oggnoicon",
       "index": "15"
     },
     {
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Happy 50",
-      "response_text": "How do you like that Pip-Boy, son? Fit all right and everything?Play soundFO3 StanleyArmstrong LikePipboyS…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_LikePipboySon.oggnoicon",
+      "response_text": "How do you like that Pip-Boy, son? Fit all right and everything?Play soundFO3 StanleyArmstrong LikePipboyS\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_LikePipboySon.oggnoicon",
       "index": "17"
     }
   ],
@@ -128,17 +128,18 @@
       "topic": "CG02IntroYell",
       "topic_text": "CG02IntroYell",
       "emotion": "Neutral 50",
-      "response_text": "Happy birthday!Play soundFO3 StanleyArmstrong HappyBirthd…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_HappyBirthday.oggnoicon",
+      "response_text": "Happy birthday!Play soundFO3 StanleyArmstrong HappyBirthd\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_HappyBirthday.oggnoicon",
       "index": "21"
     },
     {
       "topic": "CG02PartyTalkAmataGreeting",
       "topic_text": "CG02PartyTalkAmataGreeting",
       "emotion": "Happy 50",
-      "response_text": "Oh, sure, nothing to worry about. Me and Andy got her all fixed up again last night, good as new.Play soundFO3 StanleyArmstrong NothingToWo…https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_NothingToWorry.oggnoicon",
+      "response_text": "Oh, sure, nothing to worry about. Me and Andy got her all fixed up again last night, good as new.Play soundFO3 StanleyArmstrong NothingToWo\u2026https://fallout.fandom.com/wiki/File:FO3_StanleyArmstrong_NothingToWorry.oggnoicon",
       "index": "22"
     }
   ],
   "combat": [],
-  "description": "Stanley Armstrong is a 58 year-old Caucasian Male.\n\nA kind but perpetually worried maintenance technician in Vault 101. Stanley is responsible for keeping the vault's machinery running and maintaining cleanliness throughout the facility. Though not the sharpest tool in the shed, he's dedicated to his work and cares deeply for his family.\n\nStanley Armstrong's Personality: Anxious, kind, diligent but not particularly intelligent. Stanley is constantly worried about the vault's functionality and his family's well-being. He tends to overwork himself and often suffers from stress-related headaches.\n\nStanley Armstrong's Backstory: Stanley has lived his entire life in Vault 101, where he works as a maintenance technician alongside his robotic companion Andy. He is the father of Beatrice, Mary, and Gloria. In 2268, Stanley repaired the water purifier, earning a mention in the vault's records. During the Lone Wanderer's birthday in 2274, Stanley personally selected their Pip-3000A model and gifted them a baseball cap. By the mid-2270s, Stanley developed chronic stress and headaches due to overwork, which was documented by the vault physician James. Despite his medical condition, Stanley continues to work tirelessly, often refusing rest even when advised by medical staff."
+  "description": "Stanley Armstrong is a 58 year-old Caucasian Male.\n\nA kind but perpetually worried maintenance technician in Vault 101. Stanley is responsible for keeping the vault's machinery running and maintaining cleanliness throughout the facility. Though not the sharpest tool in the shed, he's dedicated to his work and cares deeply for his family.\n\nStanley Armstrong's Personality: Anxious, kind, diligent but not particularly intelligent. Stanley is constantly worried about the vault's functionality and his family's well-being. He tends to overwork himself and often suffers from stress-related headaches.\n\nStanley Armstrong's Backstory: Stanley has lived his entire life in Vault 101, where he works as a maintenance technician alongside his robotic companion Andy. He is the father of Beatrice, Mary, and Gloria. In 2268, Stanley repaired the water purifier, earning a mention in the vault's records. During the Lone Wanderer's birthday in 2274, Stanley personally selected their Pip-3000A model and gifted them a baseball cap. By the mid-2270s, Stanley developed chronic stress and headaches due to overwork, which was documented by the vault physician James. Despite his medical condition, Stanley continues to work tirelessly, often refusing rest even when advised by medical staff.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

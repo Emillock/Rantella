@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "3→12",
+  "level": "3\u219212",
   "tag_skills": [
     {
-      "Barter:": "42→87(40→85)"
+      "Barter:": "42\u219287(40\u219285)"
     },
     {
-      "Melee Weap.:": "40→85"
+      "Melee Weap.:": "40\u219285"
     },
     {
-      "Speech:": "42→87(40→85)"
+      "Speech:": "42\u219287(40\u219285)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "35→80"
+      "Hit Points:": "35\u219280"
     },
     {
       "Critical Chance:": "5%"
@@ -280,5 +280,6 @@
       "index": "100"
     }
   ],
-  "description": "The AntAgonizer is a 28 year-old Caucasian Female.\n\nA recluse woman living in the sewers near Canterbury Commons, who believes she is the 'Ant Queen' destined to end humanity. She wears a specialized ant-themed suit that enhances her agility and commands a legion of giant ants as her minions.\n\nThe AntAgonizer's Personality: Delusional and vengeful, genuinely believing she is an ant queen. She is highly suspicious of others and reacts defensively when questioned about her sanity. Her trauma from losing her parents has transformed into a deep-seated hatred for humanity, particularly those of Canterbury Commons.\n\nThe AntAgonizer's Backstory: Born to caravan drivers who frequently traveled the Capital Wasteland, Tanya witnessed her parents' brutal deaths during a giant ant attack that spared her life. Traumatized and orphaned, she blamed Canterbury Commons—the trading hub her parents had helped establish—for their deaths. This blame gradually twisted into a full-blown delusion where she came to believe she was not human but an 'Ant Queen' who had been 'rescued from the muck of mankind.' She now dwells in the sewer system north of Canterbury Commons, commanding a colony of giant ants while plotting humanity's downfall."
+  "description": "The AntAgonizer is a 28 year-old Caucasian Female.\n\nA recluse woman living in the sewers near Canterbury Commons, who believes she is the 'Ant Queen' destined to end humanity. She wears a specialized ant-themed suit that enhances her agility and commands a legion of giant ants as her minions.\n\nThe AntAgonizer's Personality: Delusional and vengeful, genuinely believing she is an ant queen. She is highly suspicious of others and reacts defensively when questioned about her sanity. Her trauma from losing her parents has transformed into a deep-seated hatred for humanity, particularly those of Canterbury Commons.\n\nThe AntAgonizer's Backstory: Born to caravan drivers who frequently traveled the Capital Wasteland, Tanya witnessed her parents' brutal deaths during a giant ant attack that spared her life. Traumatized and orphaned, she blamed Canterbury Commons\u2014the trading hub her parents had helped establish\u2014for their deaths. This blame gradually twisted into a full-blown delusion where she came to believe she was not human but an 'Ant Queen' who had been 'rescued from the muck of mankind.' She now dwells in the sewer system north of Canterbury Commons, commanding a colony of giant ants while plotting humanity's downfall.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 6
   },
-  "level": "7→17 (1.5x current player level)",
+  "level": "7\u219217 (1.5x current player level)",
   "tag_skills": [
     {
-      "Big Guns:": "62→100"
+      "Big Guns:": "62\u2192100"
     },
     {
-      "Small Guns:": "64→100"
+      "Small Guns:": "64\u2192100"
     },
     {
-      "Speech:": "60→100"
+      "Speech:": "60\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "85→135"
+      "Hit Points:": "85\u2192135"
     },
     {
       "Critical Chance:": "5%(6%)"
@@ -433,5 +433,6 @@
     }
   ],
   "combat": [],
-  "description": "Ashur is a 48 year-old African American Male.\n\nA former Brotherhood of Steel initiate who became the autocratic ruler of the Pitt, a rebuilt industrial city in post-apocalyptic Pittsburgh. Known for his pragmatic leadership and vision of rebuilding society through industrial might and disciplined order.\n\nAshur's Personality: Pragmatic, determined, and ruthlessly efficient with a paternalistic streak. Despite his brutal methods, Ashur genuinely believes he is creating a better future for the people of the Pitt. He values strength and discipline but shows unexpected tenderness toward his family. He maintains a carefully constructed public image as a benevolent leader while privately acknowledging the harsh realities of his rule.\n\nAshur's Backstory: Born on the West Coast, Ashur was selected for the Brotherhood of Steel expedition to Washington D.C. under Star Paladin Owyn Lyons. When contact with the Midwestern Brotherhood was lost, the expedition continued toward D.C., eventually arriving at the ruins of Pittsburgh, now known as 'the Pitt.' Horrified by the lawlessness and suffering they witnessed, the Brotherhood launched 'the Scourge,' a brutal campaign that eliminated most of the city's violent inhabitants but spared non-mutated children, including future Paladin Kodiak.\n\nIn the chaotic aftermath, Ashur presented himself as an unwilling initiate and rallied the surviving population. With the Brotherhood having eliminated many threats and left behind valuable resources, Ashur began rebuilding the city. He formed his own organization, using his Brotherhood training to eliminate rival raider leaders and conscript survivors into his growing army.\n\nEstablishing control over the city's operational steel mill, Ashur turned the Pitt into a functioning industrial society under his autocratic rule. He occupied an intact skyscraper, renamed Haven, as his headquarters. To fuel the city's industry, Ashur implemented a system of slave labor, overseen by his raiders, obtaining workers from slaver hubs like Paradise Falls.\n\nA significant challenge was the Troglodyte Degeneration Contagion that prevented natural repopulation. This changed when scientist Sandra Kundanika arrived and gained Ashur's trust. The two became lovers, and in 2276, Sandra gave birth to Ashur's daughter, Marie, who was naturally immune to the Pitt's radiation and mutagenic properties."
+  "description": "Ashur is a 48 year-old African American Male.\n\nA former Brotherhood of Steel initiate who became the autocratic ruler of the Pitt, a rebuilt industrial city in post-apocalyptic Pittsburgh. Known for his pragmatic leadership and vision of rebuilding society through industrial might and disciplined order.\n\nAshur's Personality: Pragmatic, determined, and ruthlessly efficient with a paternalistic streak. Despite his brutal methods, Ashur genuinely believes he is creating a better future for the people of the Pitt. He values strength and discipline but shows unexpected tenderness toward his family. He maintains a carefully constructed public image as a benevolent leader while privately acknowledging the harsh realities of his rule.\n\nAshur's Backstory: Born on the West Coast, Ashur was selected for the Brotherhood of Steel expedition to Washington D.C. under Star Paladin Owyn Lyons. When contact with the Midwestern Brotherhood was lost, the expedition continued toward D.C., eventually arriving at the ruins of Pittsburgh, now known as 'the Pitt.' Horrified by the lawlessness and suffering they witnessed, the Brotherhood launched 'the Scourge,' a brutal campaign that eliminated most of the city's violent inhabitants but spared non-mutated children, including future Paladin Kodiak.\n\nIn the chaotic aftermath, Ashur presented himself as an unwilling initiate and rallied the surviving population. With the Brotherhood having eliminated many threats and left behind valuable resources, Ashur began rebuilding the city. He formed his own organization, using his Brotherhood training to eliminate rival raider leaders and conscript survivors into his growing army.\n\nEstablishing control over the city's operational steel mill, Ashur turned the Pitt into a functioning industrial society under his autocratic rule. He occupied an intact skyscraper, renamed Haven, as his headquarters. To fuel the city's industry, Ashur implemented a system of slave labor, overseen by his raiders, obtaining workers from slaver hubs like Paradise Falls.\n\nA significant challenge was the Troglodyte Degeneration Contagion that prevented natural repopulation. This changed when scientist Sandra Kundanika arrived and gained Ashur's trust. The two became lovers, and in 2276, Sandra gave birth to Ashur's daughter, Marie, who was naturally immune to the Pitt's radiation and mutagenic properties.",
+  "voice_folder": "DLC01UniqueAshur"
 }

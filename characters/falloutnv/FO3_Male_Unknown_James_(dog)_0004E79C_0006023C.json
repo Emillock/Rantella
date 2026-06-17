@@ -40,16 +40,16 @@
     "Agility": 4,
     "Luck": 3
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Explosives:": "32→100"
+      "Explosives:": "32\u2192100"
     },
     {
-      "Medicine:": "36→100"
+      "Medicine:": "36\u2192100"
     },
     {
-      "Science:": "36→100"
+      "Science:": "36\u2192100"
     }
   ],
   "misc_skills": [],
@@ -87,5 +87,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "James is a 55 year-old Caucasian Male.\n\nA dedicated and determined former scientist who became the physician of Vault 101 after the death of his wife Catherine. James is best known as the leader of Project Purity, an ambitious endeavor to purify the water of the Capital Wasteland. He is the father of the Lone Wanderer and will stop at nothing to complete his life's work, even if it means leaving the safety of Vault 101.\n\nJames's Personality: Inquisitive, meticulous, determined, self-sacrificing, and protective. James is a man of science who believes in using knowledge to improve the wasteland. He carries the weight of his wife's death and the responsibility of raising his child alone, which has made him both resilient and sometimes emotionally distant.\n\nJames's Backstory: Before the Great War, James was a dedicated scientist who joined with like-minded individuals to work on Project Purity under the protection of the Brotherhood of Steel. When his wife Catherine became pregnant, they put their work on hold. Tragically, Catherine died during childbirth, leaving James to raise their child alone. With the help of Star Paladin Cross from the Brotherhood of Steel, James traveled to Vault 101 and established himself as the vault's physician. For years, he maintained a quiet life while secretly continuing his research on Project Purity. On August 17, 2277, James made the difficult decision to leave Vault 101 to restart Project Purity, setting in motion events that would change the Capital Wasteland forever."
+  "description": "James is a 55 year-old Caucasian Male.\n\nA dedicated and determined former scientist who became the physician of Vault 101 after the death of his wife Catherine. James is best known as the leader of Project Purity, an ambitious endeavor to purify the water of the Capital Wasteland. He is the father of the Lone Wanderer and will stop at nothing to complete his life's work, even if it means leaving the safety of Vault 101.\n\nJames's Personality: Inquisitive, meticulous, determined, self-sacrificing, and protective. James is a man of science who believes in using knowledge to improve the wasteland. He carries the weight of his wife's death and the responsibility of raising his child alone, which has made him both resilient and sometimes emotionally distant.\n\nJames's Backstory: Before the Great War, James was a dedicated scientist who joined with like-minded individuals to work on Project Purity under the protection of the Brotherhood of Steel. When his wife Catherine became pregnant, they put their work on hold. Tragically, Catherine died during childbirth, leaving James to raise their child alone. With the help of Star Paladin Cross from the Brotherhood of Steel, James traveled to Vault 101 and established himself as the vault's physician. For years, he maintained a quiet life while secretly continuing his research on Project Purity. On August 17, 2277, James made the difficult decision to leave Vault 101 to restart Project Purity, setting in motion events that would change the Capital Wasteland forever.",
+  "voice_folder": "MaleUniqueDad"
 }

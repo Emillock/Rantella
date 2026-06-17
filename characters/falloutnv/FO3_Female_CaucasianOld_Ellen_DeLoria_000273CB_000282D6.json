@@ -41,7 +41,7 @@
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Surprise 75",
-      "response_text": "Where did those ... things... come from? Ugh. I need another drink.{very drunk}Play soundFO3 EllenDeLoria NeedAnotherDrin…https://fallout.fandom.com/wiki/File:FO3_EllenDeLoria_NeedAnotherDrink.oggnoicon",
+      "response_text": "Where did those ... things... come from? Ugh. I need another drink.{very drunk}Play soundFO3 EllenDeLoria NeedAnotherDrin\u2026https://fallout.fandom.com/wiki/File:FO3_EllenDeLoria_NeedAnotherDrink.oggnoicon",
       "index": "1"
     }
   ],
@@ -55,5 +55,6 @@
     }
   ],
   "combat": [],
-  "description": "Ellen DeLoria is a 48 year-old Caucasian Female.\n\nA resident of Vault 101 who struggles with alcoholism, leading to neglect of her son Butch. She lives with Butch in one of the smallest family apartments in the vault. The identity of Butch's father remains a mystery to other vault residents.\n\nEllen DeLoria's Personality: Neglectful due to her drinking habits but still capable of showing concern for her son. She appears to be dealing with personal demons and the stress of vault life.\n\nEllen DeLoria's Backstory: Ellen DeLoria was born in Vault 101 to parents who were original vault dwellers. She had a relatively normal childhood but became involved with a mysterious man who left the vault before Butch was born, making Butch's father an enigma to other residents. After Butch's birth, Ellen turned to alcohol as a coping mechanism, gradually becoming a functional alcoholic who still performs her vault duties but neglects her parental responsibilities. Despite her flaws, she loves her son in her own way and occasionally tries to be a good mother, such as when she encouraged Butch to attend the Lone Wanderer's birthday party in 2268."
+  "description": "Ellen DeLoria is a 48 year-old Caucasian Female.\n\nA resident of Vault 101 who struggles with alcoholism, leading to neglect of her son Butch. She lives with Butch in one of the smallest family apartments in the vault. The identity of Butch's father remains a mystery to other vault residents.\n\nEllen DeLoria's Personality: Neglectful due to her drinking habits but still capable of showing concern for her son. She appears to be dealing with personal demons and the stress of vault life.\n\nEllen DeLoria's Backstory: Ellen DeLoria was born in Vault 101 to parents who were original vault dwellers. She had a relatively normal childhood but became involved with a mysterious man who left the vault before Butch was born, making Butch's father an enigma to other residents. After Butch's birth, Ellen turned to alcohol as a coping mechanism, gradually becoming a functional alcoholic who still performs her vault duties but neglects her parental responsibilities. Despite her flaws, she loves her son in her own way and occasionally tries to be a good mother, such as when she encouraged Butch to attend the Lone Wanderer's birthday party in 2268.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

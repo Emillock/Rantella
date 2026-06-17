@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "5 → 8",
+  "level": "5 \u2192 8",
   "tag_skills": [
     {
-      "Explosives:": "56→74"
+      "Explosives:": "56\u219274"
     },
     {
-      "Medicine:": "60→78"
+      "Medicine:": "60\u219278"
     },
     {
-      "Science:": "60→78"
+      "Science:": "60\u219278"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "60→75(65→80)"
+      "Hit Points:": "60\u219275(65\u219280)"
     }
   ],
   "karma": "Good",
@@ -324,5 +324,6 @@
     }
   ],
   "combat": [],
-  "description": "Michael Masters is a 110 year-old Ghoul Male.\n\nA pre-War electronic and biological engineer who became a ghoul after the Great War. Michael is bitter about his transformation yet acknowledges the scientific progress made through his unethical human mutation experiments. He retains his human eye color, a rare trait among ghouls.\n\nMichael Masters's Personality: Bitter and resentful about his ghoulification, yet intellectually proud of his past scientific achievements. Pragmatic and manipulative, he appears outwardly hostile but is actually working with Roy Phillips. Values knowledge and progress but lacks empathy for those who suffered in his experiments.\n\nMichael Masters's Backstory: Prior to the Great War, Michael Masters was a renowned electronic and biological engineer fascinated by human mutation. Inspired by international research, he conducted unethical experiments to create super-soldiers for the American military. He acknowledges the harm caused but remains proud of the scientific progress. When the bombs fell on October 23rd, 2077, Michael was in his laboratory and was exposed to significant radiation, ghoulifying him. He views this transformation as 'karmic punishment' for his experiments. Before the war, he occasionally vacationed at Tenpenny Tower, finding dark irony in his current situation where he must fight his way into the place he once visited for leisure."
+  "description": "Michael Masters is a 110 year-old Ghoul Male.\n\nA pre-War electronic and biological engineer who became a ghoul after the Great War. Michael is bitter about his transformation yet acknowledges the scientific progress made through his unethical human mutation experiments. He retains his human eye color, a rare trait among ghouls.\n\nMichael Masters's Personality: Bitter and resentful about his ghoulification, yet intellectually proud of his past scientific achievements. Pragmatic and manipulative, he appears outwardly hostile but is actually working with Roy Phillips. Values knowledge and progress but lacks empathy for those who suffered in his experiments.\n\nMichael Masters's Backstory: Prior to the Great War, Michael Masters was a renowned electronic and biological engineer fascinated by human mutation. Inspired by international research, he conducted unethical experiments to create super-soldiers for the American military. He acknowledges the harm caused but remains proud of the scientific progress. When the bombs fell on October 23rd, 2077, Michael was in his laboratory and was exposed to significant radiation, ghoulifying him. He views this transformation as 'karmic punishment' for his experiments. Before the war, he occasionally vacationed at Tenpenny Tower, finding dark irony in his current situation where he must fight his way into the place he once visited for leisure.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

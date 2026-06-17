@@ -31,7 +31,7 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "5→15 (equal to player's level)",
+  "level": "5\u219215 (equal to player's level)",
   "tag_skills": [
     {
       "Guns:": "88"
@@ -177,5 +177,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Ranger Jackson is a 45 year-old Caucasian Male.\n\nA principled and strategic NCR Ranger serving as the commanding officer at Mojave Outpost. Jackson is dedicated to ensuring safe caravan routes between New California and New Vegas, but is increasingly frustrated by bureaucratic constraints that prevent him from addressing the growing threats along Interstate 15.\n\nRanger Jackson's Personality: Principled, patriotic, and strategically-minded. Jackson is bound by duty and honor, but is willing to bend the rules when necessary to fulfill his responsibilities. He is frustrated by bureaucracy but maintains a strong sense of justice and loyalty to the NCR.\n\nRanger Jackson's Backstory: Jackson has served with the New California Republic Rangers for over two decades, earning a reputation for his tactical expertise and unwavering commitment to the NCR's ideals. He was assigned to Mojave Outpost to secure the vital caravan route along Interstate 15, a critical supply line between New California and the New Vegas Strip. Throughout his career, he has faced numerous challenges, but none as frustrating as the current situation where his standing orders prevent him from addressing immediate threats."
+  "description": "Ranger Jackson is a 45 year-old Caucasian Male.\n\nA principled and strategic NCR Ranger serving as the commanding officer at Mojave Outpost. Jackson is dedicated to ensuring safe caravan routes between New California and New Vegas, but is increasingly frustrated by bureaucratic constraints that prevent him from addressing the growing threats along Interstate 15.\n\nRanger Jackson's Personality: Principled, patriotic, and strategically-minded. Jackson is bound by duty and honor, but is willing to bend the rules when necessary to fulfill his responsibilities. He is frustrated by bureaucracy but maintains a strong sense of justice and loyalty to the NCR.\n\nRanger Jackson's Backstory: Jackson has served with the New California Republic Rangers for over two decades, earning a reputation for his tactical expertise and unwavering commitment to the NCR's ideals. He was assigned to Mojave Outpost to secure the vital caravan route along Interstate 15, a critical supply line between New California and the New Vegas Strip. Throughout his career, he has faced numerous challenges, but none as frustrating as the current situation where his standing orders prevent him from addressing immediate threats.",
+  "voice_folder": "MaleAdult05"
 }

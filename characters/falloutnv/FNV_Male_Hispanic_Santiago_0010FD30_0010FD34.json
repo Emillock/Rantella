@@ -1,5 +1,5 @@
 {
-  "name": "Santiago²",
+  "name": "Santiago\u00b2",
   "url": "/wiki/Santiago_(Fallout:_New_Vegas)",
   "dialogue_name": "VFSDebtSantiago.txt",
   "dialogue_url": "/wiki/VFSDebtSantiago.txt",
@@ -85,7 +85,7 @@
     },
     {
       "topic": "VFreeformFreesideVFSDebtAngeloTopic005",
-      "topic_text": "Santiago is dead if he doesn’t cough up what he owes the Garrets.",
+      "topic_text": "Santiago is dead if he doesn\u2019t cough up what he owes the Garrets.",
       "emotion": "Neutral 50",
       "response_text": "Sir, Santiago does not know what he has done to offend, but he can explain everything.",
       "index": "12"
@@ -269,5 +269,6 @@
     }
   ],
   "combat": [],
-  "description": "Santiago is a 35 year-old Hispanic Male.\n\nA smooth-talking con artist residing in Freeside, Santiago is known for his Spanish accent and his ability to talk his way out of any situation. Despite his charming demeanor, he's deeply in debt to Francine Garret and has no intention of paying what he owes. He frequents the Gomorrah casino, trying his luck at the tables while avoiding his creditors.\n\nSantiago's Personality: Charming, manipulative, and quick-witted. Santiago uses his smooth talking skills to get what he wants, often at the expense of others. He's opportunistic and self-serving, but maintains an affable facade that makes it difficult to dislike him. Despite his dishonest nature, he possesses a certain charisma that draws people in.\n\nSantiago's Backstory: Born in the ruins of Los Angeles before making his way to the Mojave, Santiago has been surviving on his wits and silver tongue for most of his life. He traveled through various settlements before settling in Freeside, where he found the environment more conducive to his particular talents. He's had numerous run-ins with local authorities but has always managed to talk his way out of trouble—until now, with his mounting debt to Francine Garret."
+  "description": "Santiago is a 35 year-old Hispanic Male.\n\nA smooth-talking con artist residing in Freeside, Santiago is known for his Spanish accent and his ability to talk his way out of any situation. Despite his charming demeanor, he's deeply in debt to Francine Garret and has no intention of paying what he owes. He frequents the Gomorrah casino, trying his luck at the tables while avoiding his creditors.\n\nSantiago's Personality: Charming, manipulative, and quick-witted. Santiago uses his smooth talking skills to get what he wants, often at the expense of others. He's opportunistic and self-serving, but maintains an affable facade that makes it difficult to dislike him. Despite his dishonest nature, he possesses a certain charisma that draws people in.\n\nSantiago's Backstory: Born in the ruins of Los Angeles before making his way to the Mojave, Santiago has been surviving on his wits and silver tongue for most of his life. He traveled through various settlements before settling in Freeside, where he found the environment more conducive to his particular talents. He's had numerous run-ins with local authorities but has always managed to talk his way out of trouble\u2014until now, with his mounting debt to Francine Garret.",
+  "voice_folder": "MaleAdult05"
 }

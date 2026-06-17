@@ -40,16 +40,16 @@
     "Agility": 8,
     "Luck": 2
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [],
@@ -167,5 +167,6 @@
       "index": "57"
     }
   ],
-  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101, Butch is a young adult who has spent his entire life within the vault's walls. Under the care of his alcoholic mother Ellen, who neglected his upbringing, Butch developed deep-seated feelings of inadequacy, particularly regarding his absent father. To mask these insecurities, he puts on a persona of a boorish bully, leading the Tunnel Snakes gang and asserting dominance over other vault dwellers.\n\nButch's Personality: Insecure yet outwardly arrogant, Butch presents himself as a tough gang leader to hide his vulnerabilities. He's desperate for acceptance and recognition, often resorting to intimidation and bullying to establish his position within the Vault 101 social hierarchy. Despite his rough exterior, there are moments where his vulnerability shows, particularly when discussing his family or his need for approval.\n\nButch's Backstory: Butch has lived his entire life in Vault 101, born to Ellen sometime before 2258. His alcoholic mother provided minimal supervision, leading him to seek validation elsewhere. At age 10, he attempted to bully the young Wanderer out of a sweetroll, an early indicator of his tendency toward intimidation. As he grew older, Butch formed the Tunnel Snakes, a gang of like-minded vault dwellers who shared his desire to establish dominance within the confined society of Vault 101. His relationship with Oversear Alphonse Lonegan's daughter Amata is particularly strained, marked by years of harassment and conflict."
+  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101, Butch is a young adult who has spent his entire life within the vault's walls. Under the care of his alcoholic mother Ellen, who neglected his upbringing, Butch developed deep-seated feelings of inadequacy, particularly regarding his absent father. To mask these insecurities, he puts on a persona of a boorish bully, leading the Tunnel Snakes gang and asserting dominance over other vault dwellers.\n\nButch's Personality: Insecure yet outwardly arrogant, Butch presents himself as a tough gang leader to hide his vulnerabilities. He's desperate for acceptance and recognition, often resorting to intimidation and bullying to establish his position within the Vault 101 social hierarchy. Despite his rough exterior, there are moments where his vulnerability shows, particularly when discussing his family or his need for approval.\n\nButch's Backstory: Butch has lived his entire life in Vault 101, born to Ellen sometime before 2258. His alcoholic mother provided minimal supervision, leading him to seek validation elsewhere. At age 10, he attempted to bully the young Wanderer out of a sweetroll, an early indicator of his tendency toward intimidation. As he grew older, Butch formed the Tunnel Snakes, a gang of like-minded vault dwellers who shared his desire to establish dominance within the confined society of Vault 101. His relationship with Oversear Alphonse Lonegan's daughter Amata is particularly strained, marked by years of harassment and conflict.",
+  "voice_folder": "MaleUniqueButchKid"
 }

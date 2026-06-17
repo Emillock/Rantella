@@ -40,21 +40,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "10→20",
+  "level": "10\u219220",
   "tag_skills": [
     {
-      "Barter:": "74→100"
+      "Barter:": "74\u2192100"
     },
     {
-      "Melee Weap.:": "74→100"
+      "Melee Weap.:": "74\u2192100"
     },
     {
-      "Small Guns:": "74→100(72→98)"
+      "Small Guns:": "74\u2192100(72\u219298)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "85→135"
+      "Hit Points:": "85\u2192135"
     }
   ],
   "karma": "Evil",
@@ -464,5 +464,6 @@
     }
   ],
   "combat": [],
-  "description": "Leroy Walker is a 40 year-old African American Male.\n\nA hardened slaver who operates with ideological conviction rather than profit, believing in the natural order of the strong dominating the weak. He has occupied the Lincoln Memorial with a team of slavers, using it as a base to monitor and combat the Abolitionists at the Temple of the Union.\n\nLeroy Walker's Personality: Ruthless, pragmatic, and ideologically driven. Leroy views slavery as a natural law rather than a moral issue, showing no remorse for his actions. He is calculating and strategic, always planning several steps ahead to maintain control and achieve his objectives.\n\nLeroy Walker's Backstory: Born in the Capital Wasteland, Leroy grew up in a settlement that valued strength and dominance above all else. He rose through the ranks of local slaving operations, eventually becoming known for his effectiveness in tracking down runaways. His reputation led to him being given command of a team operating out of Paradise Falls. When he learned of the Abolitionists' activities and their plans for the Lincoln Memorial, he saw an opportunity to make a statement and preemptively seized the Memorial, turning it into a fortress against the very ideals it represents."
+  "description": "Leroy Walker is a 40 year-old African American Male.\n\nA hardened slaver who operates with ideological conviction rather than profit, believing in the natural order of the strong dominating the weak. He has occupied the Lincoln Memorial with a team of slavers, using it as a base to monitor and combat the Abolitionists at the Temple of the Union.\n\nLeroy Walker's Personality: Ruthless, pragmatic, and ideologically driven. Leroy views slavery as a natural law rather than a moral issue, showing no remorse for his actions. He is calculating and strategic, always planning several steps ahead to maintain control and achieve his objectives.\n\nLeroy Walker's Backstory: Born in the Capital Wasteland, Leroy grew up in a settlement that valued strength and dominance above all else. He rose through the ranks of local slaving operations, eventually becoming known for his effectiveness in tracking down runaways. His reputation led to him being given command of a team operating out of Paradise Falls. When he learned of the Abolitionists' activities and their plans for the Lincoln Memorial, he saw an opportunity to make a statement and preemptively seized the Memorial, turning it into a fortress against the very ideals it represents.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

@@ -48,7 +48,7 @@
       "Hit Points:": "115"
     },
     {
-      "Dam. Threshold:": "4→5"
+      "Dam. Threshold:": "4\u21925"
     }
   ],
   "karma": "Evil",
@@ -108,5 +108,6 @@
     }
   ],
   "combat": [],
-  "description": "Scrambler is a 35 year-old Caucasian Male.\n\nScrambler is widely regarded as the most dangerous member of the Powder Gangers incarcerated at the NCR Correctional Facility. Standing at an imposing height with a scarred face and cold eyes, he projects an aura of barely contained violence. His casual admission to committing horrific crimes, including homicide and inflicting, reveals a complete lack of remorse. He serves as one of Eddie's most trusted bodyguards, maintaining a constant vigil over his leader.\n\nScrambler's Personality: Extremely violent, psychotic, and completely nonchalant about his actions. Scrambler takes pleasure in suffering and death, viewing his crimes as minor inconveniences rather than moral violations. He is fiercely loyal to Eddie but unpredictable to everyone else, prone to sudden outbursts of brutality without warning. Other Powder Gangers often warn newcomers about his volatile nature.\n\nScrambler's Backstory: Before his incarceration, Scrambler was a notorious enforcer for the Powder Gangers, specializing in particularly brutal methods of intimidation and violence. His descent into madness began after the death of his younger sister during a raider attack, an event that shattered his psyche and transformed him into the remorseless killer he is today. His capture and subsequent imprisonment at the NCRCF came after he was found responsible for the deaths of several NCR troopers and civilians during a particularly savage attack on a supply caravan."
+  "description": "Scrambler is a 35 year-old Caucasian Male.\n\nScrambler is widely regarded as the most dangerous member of the Powder Gangers incarcerated at the NCR Correctional Facility. Standing at an imposing height with a scarred face and cold eyes, he projects an aura of barely contained violence. His casual admission to committing horrific crimes, including homicide and inflicting, reveals a complete lack of remorse. He serves as one of Eddie's most trusted bodyguards, maintaining a constant vigil over his leader.\n\nScrambler's Personality: Extremely violent, psychotic, and completely nonchalant about his actions. Scrambler takes pleasure in suffering and death, viewing his crimes as minor inconveniences rather than moral violations. He is fiercely loyal to Eddie but unpredictable to everyone else, prone to sudden outbursts of brutality without warning. Other Powder Gangers often warn newcomers about his volatile nature.\n\nScrambler's Backstory: Before his incarceration, Scrambler was a notorious enforcer for the Powder Gangers, specializing in particularly brutal methods of intimidation and violence. His descent into madness began after the death of his younger sister during a raider attack, an event that shattered his psyche and transformed him into the remorseless killer he is today. His capture and subsequent imprisonment at the NCRCF came after he was found responsible for the deaths of several NCR troopers and civilians during a particularly savage attack on a supply caravan.",
+  "voice_folder": "MaleAdult07"
 }

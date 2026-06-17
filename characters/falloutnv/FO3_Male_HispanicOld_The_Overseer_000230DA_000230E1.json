@@ -45,21 +45,21 @@
       "topic": "CG02OverseerA1",
       "topic_text": "Of course she likes me. I'm a really charming guy.",
       "emotion": "Disgust 25",
-      "response_text": "Don't presume too much on her friendship, young man. I'm still the Overseer, and I'm still in charge of this Vault and everyone in it.{somewhat annoyed at your tone}Play soundFO3 AlphonseAlmodovar DontPresum…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_DontPresume.oggnoicon",
+      "response_text": "Don't presume too much on her friendship, young man. I'm still the Overseer, and I'm still in charge of this Vault and everyone in it.{somewhat annoyed at your tone}Play soundFO3 AlphonseAlmodovar DontPresum\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_DontPresume.oggnoicon",
       "index": "1"
     },
     {
       "topic": "CG02OverseerA2",
       "topic_text": "She did a great job. But couldn't you have helped out a bit more?",
       "emotion": "Surprise 25",
-      "response_text": "I do not allow the fact that Amata is my daughter to compromise my position as Overseer.{pompously}Play soundFO3 AlphonseAlmodovar DoNotAllow…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_DoNotAllow.oggnoicon",
+      "response_text": "I do not allow the fact that Amata is my daughter to compromise my position as Overseer.{pompously}Play soundFO3 AlphonseAlmodovar DoNotAllow\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_DoNotAllow.oggnoicon",
       "index": "3"
     },
     {
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Happy 20",
-      "response_text": "I hope you appreciate the effort Amata put into this party. She really seems to like you, for some reason.{he's pretending to like you but he really doesn't}Play soundFO3 AlphonseAlmodovar HopeYouApp…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_HopeYouAppreciate.oggnoicon",
+      "response_text": "I hope you appreciate the effort Amata put into this party. She really seems to like you, for some reason.{he's pretending to like you but he really doesn't}Play soundFO3 AlphonseAlmodovar HopeYouApp\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_HopeYouAppreciate.oggnoicon",
       "index": "6"
     }
   ],
@@ -68,24 +68,25 @@
       "topic": "CG02OverseerGuardConv",
       "topic_text": "CG02OverseerGuardConv",
       "emotion": "Disgust 50",
-      "response_text": "Bah, I only showed up because Amata's friends with the brat.Play soundFO3 AlphonseAlmodovar OnlyShowed…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_OnlyShowedUp.oggnoicon",
+      "response_text": "Bah, I only showed up because Amata's friends with the brat.Play soundFO3 AlphonseAlmodovar OnlyShowed\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_OnlyShowedUp.oggnoicon",
       "index": "9"
     },
     {
       "topic": "CG02OverseerSpeech",
       "topic_text": "CG02OverseerSpeech",
       "emotion": "Happy 100",
-      "response_text": "Congratulations, young man! I don’t have to tell you how special this day is, do I?Play soundFO3 AlphonseAlmodovar Congratula…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_CongratulationsYoungMan.oggnoicon",
+      "response_text": "Congratulations, young man! I don\u2019t have to tell you how special this day is, do I?Play soundFO3 AlphonseAlmodovar Congratula\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_CongratulationsYoungMan.oggnoicon",
       "index": "11"
     },
     {
       "topic": "CG02PartyTalkAmataGreeting",
       "topic_text": "CG02PartyTalkAmataGreeting",
       "emotion": "Happy 50",
-      "response_text": "Nonsense. People always enjoy my little speeches. Besides, that friend of yours could use a reminder that life is not all fun and games.Play soundFO3 AlphonseAlmodovar PeopleAlwa…https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_PeopleAlwaysEnjoy.oggnoicon",
+      "response_text": "Nonsense. People always enjoy my little speeches. Besides, that friend of yours could use a reminder that life is not all fun and games.Play soundFO3 AlphonseAlmodovar PeopleAlwa\u2026https://fallout.fandom.com/wiki/File:FO3_AlphonseAlmodovar_PeopleAlwaysEnjoy.oggnoicon",
       "index": "16"
     }
   ],
   "combat": [],
-  "description": "Alphonse Almodovar (The Overseer) is a 65 year-old Hispanic Male.\n\nThe current and oppressive Overseer of Vault 101, Alphonse Almodovar rules with an iron fist, driven by a ruthless isolationist ideology. Having seized power after the previous Overseer's disappearance, he has transformed the once-open Vault into a tightly controlled prison, obsessed with maintaining what he believes to be 'humanity's last pure specimens.'\n\nAlphonse Almodovar (The Overseer)'s Personality: Ruthless, paranoid, control-obsessed, charismatic yet oppressive, with a strong belief in his own superiority and the necessity of his extreme security measures. He values order above all else and views any dissent as a threat to Vault 101's survival.\n\nAlphonse Almodovar (The Overseer)'s Backstory: Born and raised in Vault 101, Alphonse grew up under the influence of parents who believed in strict isolation from the wasteland. When the Overseer disappeared during a surface mission in 2258, Alphonse's charisma and ambition allowed him to seize control. He immediately sealed the Vault, reversing previous policies of limited outside contact. Over the years, he has established a cult of personality, installed a network of informers, and maintained control through fear and oppression. His daughter Amata increasingly resists his authority, creating tension within the Vault leadership."
+  "description": "Alphonse Almodovar (The Overseer) is a 65 year-old Hispanic Male.\n\nThe current and oppressive Overseer of Vault 101, Alphonse Almodovar rules with an iron fist, driven by a ruthless isolationist ideology. Having seized power after the previous Overseer's disappearance, he has transformed the once-open Vault into a tightly controlled prison, obsessed with maintaining what he believes to be 'humanity's last pure specimens.'\n\nAlphonse Almodovar (The Overseer)'s Personality: Ruthless, paranoid, control-obsessed, charismatic yet oppressive, with a strong belief in his own superiority and the necessity of his extreme security measures. He values order above all else and views any dissent as a threat to Vault 101's survival.\n\nAlphonse Almodovar (The Overseer)'s Backstory: Born and raised in Vault 101, Alphonse grew up under the influence of parents who believed in strict isolation from the wasteland. When the Overseer disappeared during a surface mission in 2258, Alphonse's charisma and ambition allowed him to seize control. He immediately sealed the Vault, reversing previous policies of limited outside contact. Over the years, he has established a cult of personality, installed a network of informers, and maintained control through fear and oppression. His daughter Amata increasingly resists his authority, creating tension within the Vault leadership.",
+  "voice_folder": "MaleUniqueOverseer"
 }

@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "3→7",
+  "level": "3\u21927",
   "tag_skills": [
     {
-      "Explosives:": "42→60"
+      "Explosives:": "42\u219260"
     },
     {
-      "Small Guns:": "40→58(42→60)"
+      "Small Guns:": "40\u219258(42\u219260)"
     },
     {
-      "Sneak:": "40→58(42→60)"
+      "Sneak:": "40\u219258(42\u219260)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "40→60(45→65)"
+      "Hit Points:": "40\u219260(45\u219265)"
     },
     {
       "Critical Chance:": "5%"
@@ -266,5 +266,6 @@
       "index": "63"
     }
   ],
-  "description": "Shawna is a 17 year-old Caucasian Female.\n\nShawna is the 17-year-old eldest daughter of Dave, the self-proclaimed leader of the Republic of Dave. She serves as the curator of the Museum of Dave and handles the community's education. Having been raised entirely within the Republic, she is fiercely loyal to her father and his vision for their small settlement.\n\nShawna's Personality: Shawna is earnest, proud, and deeply indoctrinated in her father's beliefs. She takes her responsibilities as curator and teacher seriously, though she lacks experience with the wider wasteland. She can be pragmatic when it comes to the museum's budget, willing to trade at fair value for interesting artifacts. While supportive of her father's leadership, she has been taught basic survival skills in case she ever needs to leave the Republic.\n\nShawna's Backstory: Born and raised entirely within the Republic of Dave, Shawna has never known life outside her father's small settlement. As the eldest of Dave's children, she has been groomed to take on important responsibilities within the community. From a young age, she was taught the history and values of the Republic, with Dave emphasizing his own heroic tales and the superiority of their way of life. She has been trained in basic combat and survival skills, though she has never had to use them in earnest. As she grew older, Dave entrusted her with running the Museum of Dave and overseeing the education of the other children in the Republic."
+  "description": "Shawna is a 17 year-old Caucasian Female.\n\nShawna is the 17-year-old eldest daughter of Dave, the self-proclaimed leader of the Republic of Dave. She serves as the curator of the Museum of Dave and handles the community's education. Having been raised entirely within the Republic, she is fiercely loyal to her father and his vision for their small settlement.\n\nShawna's Personality: Shawna is earnest, proud, and deeply indoctrinated in her father's beliefs. She takes her responsibilities as curator and teacher seriously, though she lacks experience with the wider wasteland. She can be pragmatic when it comes to the museum's budget, willing to trade at fair value for interesting artifacts. While supportive of her father's leadership, she has been taught basic survival skills in case she ever needs to leave the Republic.\n\nShawna's Backstory: Born and raised entirely within the Republic of Dave, Shawna has never known life outside her father's small settlement. As the eldest of Dave's children, she has been groomed to take on important responsibilities within the community. From a young age, she was taught the history and values of the Republic, with Dave emphasizing his own heroic tales and the superiority of their way of life. She has been trained in basic combat and survival skills, though she has never had to use them in earnest. As she grew older, Dave entrusted her with running the Museum of Dave and overseeing the education of the other children in the Republic.",
+  "voice_folder": "FemaleAdult04DC"
 }

@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "8→15 (equal to player's level)",
+  "level": "8\u219215 (equal to player's level)",
   "tag_skills": [
     {
-      "Barter:": "60→93"
+      "Barter:": "60\u219293"
     },
     {
-      "Melee Weap.:": "62→95(64→97)"
+      "Melee Weap.:": "62\u219295(64\u219297)"
     },
     {
-      "Small Guns:": "64→97(66→99)"
+      "Small Guns:": "64\u219297(66\u219299)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "75→110"
+      "Hit Points:": "75\u2192110"
     },
     {
       "Critical Chance:": "5%"
@@ -120,5 +120,6 @@
     }
   ],
   "combat": [],
-  "description": "Silas is a 38 year-old Asian Male.\n\nSilas is a hardened slaver serving as Leroy Walker's right-hand man and second-in-command at the Lincoln Memorial in 2277. He oversees the slavers' defenses against constant super mutant attacks and maintains order among the ranks. With a scar running across his left cheek and cold, calculating eyes, Silas presents a formidable figure to both allies and enemies alike.\n\nSilas's Personality: Silas is curt, sly, and sardonic. He maintains a pragmatic approach to survival, showing little empathy toward others even in his own ranks. He's calculating and always looking to advance his position within the slaver hierarchy.\n\nSilas's Backstory: Born in the D.C. Wasteland before the war, Silas survived the Great War by any means necessary. He fell in with the slaver faction led by Eulogy Jones early in his adult life, proving his worth through ruthless efficiency and a complete lack of moral scruples. His loyalty to Eulogy eventually earned him a position as one of the slaver commanders, where he was eventually assigned to assist Leroy Walker at the Lincoln Memorial."
+  "description": "Silas is a 38 year-old Asian Male.\n\nSilas is a hardened slaver serving as Leroy Walker's right-hand man and second-in-command at the Lincoln Memorial in 2277. He oversees the slavers' defenses against constant super mutant attacks and maintains order among the ranks. With a scar running across his left cheek and cold, calculating eyes, Silas presents a formidable figure to both allies and enemies alike.\n\nSilas's Personality: Silas is curt, sly, and sardonic. He maintains a pragmatic approach to survival, showing little empathy toward others even in his own ranks. He's calculating and always looking to advance his position within the slaver hierarchy.\n\nSilas's Backstory: Born in the D.C. Wasteland before the war, Silas survived the Great War by any means necessary. He fell in with the slaver faction led by Eulogy Jones early in his adult life, proving his worth through ruthless efficiency and a complete lack of moral scruples. His loyalty to Eulogy eventually earned him a position as one of the slaver commanders, where he was eventually assigned to assist Leroy Walker at the Lincoln Memorial.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

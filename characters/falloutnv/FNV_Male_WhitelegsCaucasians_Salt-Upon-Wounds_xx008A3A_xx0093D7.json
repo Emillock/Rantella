@@ -1,5 +1,5 @@
 {
-  "name": "Salt-Upon-Wounds²",
+  "name": "Salt-Upon-Wounds\u00b2",
   "url": "/wiki/Salt-Upon-Wounds",
   "dialogue_name": "NVDLC02SaltUponWounds.txt",
   "dialogue_url": "/wiki/NVDLC02SaltUponWounds.txt",
@@ -34,18 +34,18 @@
   "level": "6-50 (Player level x1.2)",
   "tag_skills": [
     {
-      "Melee Weap.:": "54→100"
+      "Melee Weap.:": "54\u2192100"
     },
     {
-      "Survival:": "52→100"
+      "Survival:": "52\u2192100"
     },
     {
-      "Unarmed:": "52→100"
+      "Unarmed:": "52\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "555→775"
+      "Hit Points:": "555\u2192775"
     },
     {
       "Critical Chance:": "5%"
@@ -145,5 +145,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Salt-Upon-Wounds is a 55 year-old Caucasian Male.\n\nThe formidable war chief of the White Legs tribe, Salt-Upon-Wounds is a brutal and merciless leader responsible for the destruction of New Canaan and the tribe's initiation into Caesar's Legion. Renowned for his prowess in hand-to-hand combat and his signature power fist, he has personally killed hundreds of enemies. His leadership is defined by a 'salt-the-earth' policy of conquest, seeking to transform the pristine lands of Zion Canyon into another polluted wasteland.\n\nSalt-Upon-Wounds's Personality: Cruel, merciless, domineering, and fiercely proud. Salt-Upon-Wounds values strength above all else and rules through fear and intimidation. He is a hands-on leader who leads his warriors into battle personally and shows no hesitation in eliminating anyone who stands in his way.\n\nSalt-Upon-Wounds's Backstory: Born into the White Legs tribe, Salt-Upon-Woods rose to prominence through displays of exceptional combat prowess and ruthless leadership. Recognizing the tribe's vulnerability in the harsh Zion Canyon, he sought an alliance with Caesar's Legion, offering their services in exchange for weapons, training, and recognition. Under his leadership, the White Legs became a formidable fighting force, eventually turning their attention to the peaceful New Canaanites. After a brutal campaign that culminated in the destruction of their settlement, Salt-Upon-Wounds led his warriors back to Zion to complete their conquest of the valley."
+  "description": "Salt-Upon-Wounds is a 55 year-old Caucasian Male.\n\nThe formidable war chief of the White Legs tribe, Salt-Upon-Wounds is a brutal and merciless leader responsible for the destruction of New Canaan and the tribe's initiation into Caesar's Legion. Renowned for his prowess in hand-to-hand combat and his signature power fist, he has personally killed hundreds of enemies. His leadership is defined by a 'salt-the-earth' policy of conquest, seeking to transform the pristine lands of Zion Canyon into another polluted wasteland.\n\nSalt-Upon-Wounds's Personality: Cruel, merciless, domineering, and fiercely proud. Salt-Upon-Wounds values strength above all else and rules through fear and intimidation. He is a hands-on leader who leads his warriors into battle personally and shows no hesitation in eliminating anyone who stands in his way.\n\nSalt-Upon-Wounds's Backstory: Born into the White Legs tribe, Salt-Upon-Woods rose to prominence through displays of exceptional combat prowess and ruthless leadership. Recognizing the tribe's vulnerability in the harsh Zion Canyon, he sought an alliance with Caesar's Legion, offering their services in exchange for weapons, training, and recognition. Under his leadership, the White Legs became a formidable fighting force, eventually turning their attention to the peaceful New Canaanites. After a brutal campaign that culminated in the destruction of their settlement, Salt-Upon-Wounds led his warriors back to Zion to complete their conquest of the valley.",
+  "voice_folder": "NVDLC02WhiteLegsMale"
 }

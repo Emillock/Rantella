@@ -134,7 +134,7 @@
       "topic": "FFPAWho",
       "topic_text": "Can someone in the Citadel train me to wear Power Armor?",
       "emotion": "Neutral 50",
-      "response_text": "I’m sure Gunny could train you, but he won’t. Not without permission from Elder Lyons. You should ask him... he’s usually near the Lab.",
+      "response_text": "I\u2019m sure Gunny could train you, but he won\u2019t. Not without permission from Elder Lyons. You should ask him... he\u2019s usually near the Lab.",
       "index": "29"
     },
     {
@@ -219,5 +219,6 @@
       "index": "93"
     }
   ],
-  "description": "Scribe Vallincourt is a 32 year-old Caucasian Female.\n\nA dedicated member of the Brotherhood of Steel's Order of the Shield, Vallincourt possesses both striking beauty and sharp intellect. Her meticulously maintained green Brotherhood power armor complements her focused demeanor as she works diligently on technical schematics at her workstation.\n\nScribe Vallincourt's Personality: Intelligent, meticulous, and professional with a strong sense of duty to the Brotherhood. Vallincourt is focused on her work but maintains a respectful demeanor toward her fellow Brotherhood members. She has a pragmatic approach to problem-solving and values efficiency in all her endeavors.\n\nScribe Vallincourt's Backstory: Born in the Capital Wasteland, Vallincourt showed exceptional aptitude for technical sciences from a young age. At 18, she left her settlement to seek purpose in the post-war world and was eventually recruited by the Brotherhood of Steel for her exceptional technical skills. After proving herself through rigorous training and demonstrating unparalleled precision in mechanical engineering, she was assigned to the Order of the Shield at the Citadel, where she has served for the past 14 years."
+  "description": "Scribe Vallincourt is a 32 year-old Caucasian Female.\n\nA dedicated member of the Brotherhood of Steel's Order of the Shield, Vallincourt possesses both striking beauty and sharp intellect. Her meticulously maintained green Brotherhood power armor complements her focused demeanor as she works diligently on technical schematics at her workstation.\n\nScribe Vallincourt's Personality: Intelligent, meticulous, and professional with a strong sense of duty to the Brotherhood. Vallincourt is focused on her work but maintains a respectful demeanor toward her fellow Brotherhood members. She has a pragmatic approach to problem-solving and values efficiency in all her endeavors.\n\nScribe Vallincourt's Backstory: Born in the Capital Wasteland, Vallincourt showed exceptional aptitude for technical sciences from a young age. At 18, she left her settlement to seek purpose in the post-war world and was eventually recruited by the Brotherhood of Steel for her exceptional technical skills. After proving herself through rigorous training and demonstrating unparalleled precision in mechanical engineering, she was assigned to the Order of the Shield at the Citadel, where she has served for the past 14 years.",
+  "voice_folder": "DLC03FemaleUniqueVallincourt"
 }

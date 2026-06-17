@@ -40,16 +40,16 @@
     "Agility": 2,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [],
@@ -180,7 +180,7 @@
       "topic": "TLCitadelEnclave",
       "topic_text": "So... Any thoughts on the Enclave?",
       "emotion": "Neutral 50",
-      "response_text": "There's meat under that armor, and meat can be ground…",
+      "response_text": "There's meat under that armor, and meat can be ground\u2026",
       "index": "43"
     },
     {
@@ -237,5 +237,6 @@
       "index": "55"
     }
   ],
-  "description": "Paladin Kodiak is a 30 year-old African American Male.\n\nA formidable warrior and one of the most physically imposing members of Lyons' Pride in the Brotherhood of Steel. Kodiak is a versatile combatant, capable of handling various tasks from reconnaissance to tactical assaults with his signature powered sledgehammer. Despite his intimidating appearance and combat prowess, he maintains a surprisingly laid-back and sociable demeanor that often contrasts with the more serious attitudes of his fellow Brotherhood members.\n\nPaladin Kodiak's Personality: Laid-back, confident, sociable, adaptable, resilient, and quick-witted. Kodiak maintains a positive attitude despite his traumatic past, often joking about his capabilities. He values camaraderie and has developed strong bonds with his Brotherhood family, though his relaxed approach to preparation sometimes frustrates more disciplined members like Knight Captain Dusk.\n\nPaladin Kodiak's Backstory: Born and raised in the lawless industrial wasteland known as the Pitt, Kodiak's childhood was marked by violence and deprivation. Orphaned at a young age, he survived on the streets, often fighting other desperate individuals and even mutated rats for food. Despite the harsh environment, Kodiak developed remarkable strength and resilience. His life changed when he encountered a Brotherhood of Steel patrol that had come to the Pitt. Impressed by his potential and survival skills, they offered him a chance to leave the wasteland and join their ranks. Kodiak accepted, eventually rising through the Brotherhood's hierarchy to become a valued member of Lyons' Pride."
+  "description": "Paladin Kodiak is a 30 year-old African American Male.\n\nA formidable warrior and one of the most physically imposing members of Lyons' Pride in the Brotherhood of Steel. Kodiak is a versatile combatant, capable of handling various tasks from reconnaissance to tactical assaults with his signature powered sledgehammer. Despite his intimidating appearance and combat prowess, he maintains a surprisingly laid-back and sociable demeanor that often contrasts with the more serious attitudes of his fellow Brotherhood members.\n\nPaladin Kodiak's Personality: Laid-back, confident, sociable, adaptable, resilient, and quick-witted. Kodiak maintains a positive attitude despite his traumatic past, often joking about his capabilities. He values camaraderie and has developed strong bonds with his Brotherhood family, though his relaxed approach to preparation sometimes frustrates more disciplined members like Knight Captain Dusk.\n\nPaladin Kodiak's Backstory: Born and raised in the lawless industrial wasteland known as the Pitt, Kodiak's childhood was marked by violence and deprivation. Orphaned at a young age, he survived on the streets, often fighting other desperate individuals and even mutated rats for food. Despite the harsh environment, Kodiak developed remarkable strength and resilience. His life changed when he encountered a Brotherhood of Steel patrol that had come to the Pitt. Impressed by his potential and survival skills, they offered him a chance to leave the wasteland and join their ranks. Kodiak accepted, eventually rising through the Brotherhood's hierarchy to become a valued member of Lyons' Pride.",
+  "voice_folder": "MaleAdult02DC"
 }

@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→10(equal to player characters level)",
+  "level": "1\u219210(equal to player characters level)",
   "tag_skills": [
     {
-      "Barter:": "30→72"
+      "Barter:": "30\u219272"
     },
     {
-      "Medicine:": "28→70"
+      "Medicine:": "28\u219270"
     },
     {
-      "Melee Weap.:": "32→74"
+      "Melee Weap.:": "32\u219274"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→110"
+      "Hit Points:": "65\u2192110"
     },
     {
       "Critical Chance:": "5%"
@@ -146,5 +146,6 @@
     }
   ],
   "combat": [],
-  "description": "Bill Wilson is a 50 year-old Caucasian Male.\n\nBill Wilson is a resident of Andale, living with his wife Martha and daughter Jenny. He is a neighbor to the Smith family and takes pride in his family's traditions within the isolated community.\n\nBill Wilson's Personality: Family-oriented, pragmatic, and secretive. Bill maintains a friendly exterior to outsiders while being deeply committed to his family's way of life.\n\nBill Wilson's Backstory: Bill Wilson was born and raised in Andale, a community isolated from the rest of the wasteland. He married Martha and together they had Jenny, who is now married to Junior Smith. Bill and his family have maintained the town's dark secret of cannibalism, viewing it as a necessary tradition for survival. He works alongside his brother Jack in the shed and basement, processing their 'supplies' from their hunting trips."
+  "description": "Bill Wilson is a 50 year-old Caucasian Male.\n\nBill Wilson is a resident of Andale, living with his wife Martha and daughter Jenny. He is a neighbor to the Smith family and takes pride in his family's traditions within the isolated community.\n\nBill Wilson's Personality: Family-oriented, pragmatic, and secretive. Bill maintains a friendly exterior to outsiders while being deeply committed to his family's way of life.\n\nBill Wilson's Backstory: Bill Wilson was born and raised in Andale, a community isolated from the rest of the wasteland. He married Martha and together they had Jenny, who is now married to Junior Smith. Bill and his family have maintained the town's dark secret of cannibalism, viewing it as a necessary tradition for survival. He works alongside his brother Jack in the shed and basement, processing their 'supplies' from their hunting trips.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

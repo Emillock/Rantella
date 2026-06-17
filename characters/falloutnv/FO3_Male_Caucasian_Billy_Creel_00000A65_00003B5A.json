@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "6→10 (player level x2)",
+  "level": "6\u219210 (player level x2)",
   "tag_skills": [
     {
-      "Melee Weap.:": "54→73(56→75)"
+      "Melee Weap.:": "54\u219273(56\u219275)"
     },
     {
-      "Small Guns:": "54→73(56→75)"
+      "Small Guns:": "54\u219273(56\u219275)"
     },
     {
-      "Sneak:": "54→73"
+      "Sneak:": "54\u219273"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "90→110"
+      "Hit Points:": "90\u2192110"
     },
     {
       "Critical Chance:": "4%"
@@ -187,5 +187,6 @@
       "index": "48"
     }
   ],
-  "description": "Billy Creel is a 38 year-old Caucasian Male.\n\nA former caravan guard turned Megaton settler who took in a young girl named Maggie after finding her in a raided settlement. Billy is known for his protective nature, his love of Nuka-Cola, and his popularity among Megaton's residents, though he maintains a mysterious past.\n\nBilly Creel's Personality: Protective, resourceful, and somewhat secretive about his past before arriving in Megaton. Shows paternal affection toward Maggie and has a soft spot for Nuka-Cola. Generally friendly but guarded about his earlier life in the wastes.\n\nBilly Creel's Backstory: Born in the Wastelands, Billy Creel grew up as a forager before becoming a gun for hire, protecting caravans for caps. His life changed in 2275 when he encountered a small settlement north of Megaton that had been raided. There he found Maggie hiding under a bed after her parents were killed. Taking her in, Billy journeyed south and settled in Megaton. He gained respect and a house after helping repel a raider attack on the town, though rumors persist that he may have been involved in the death of the previous occupant. Since settling, Billy has become a permanent fixture in Megaton, particularly at The Brass Lantern where he has developed feelings for Jenny Stahl."
+  "description": "Billy Creel is a 38 year-old Caucasian Male.\n\nA former caravan guard turned Megaton settler who took in a young girl named Maggie after finding her in a raided settlement. Billy is known for his protective nature, his love of Nuka-Cola, and his popularity among Megaton's residents, though he maintains a mysterious past.\n\nBilly Creel's Personality: Protective, resourceful, and somewhat secretive about his past before arriving in Megaton. Shows paternal affection toward Maggie and has a soft spot for Nuka-Cola. Generally friendly but guarded about his earlier life in the wastes.\n\nBilly Creel's Backstory: Born in the Wastelands, Billy Creel grew up as a forager before becoming a gun for hire, protecting caravans for caps. His life changed in 2275 when he encountered a small settlement north of Megaton that had been raided. There he found Maggie hiding under a bed after her parents were killed. Taking her in, Billy journeyed south and settled in Megaton. He gained respect and a house after helping repel a raider attack on the town, though rumors persist that he may have been involved in the death of the previous occupant. Since settling, Billy has become a permanent fixture in Megaton, particularly at The Brass Lantern where he has developed feelings for Jenny Stahl.",
+  "voice_folder": "MaleAdult04DC"
 }

@@ -40,21 +40,21 @@
     "Agility": 2,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→95→125"
+      "Hit Points:": "70\u219295\u2192125"
     },
     {
       "Critical Chance:": "4%"
@@ -97,21 +97,21 @@
       "topic": "FFPATraining",
       "topic_text": "Can you train me to use Power Armor?",
       "emotion": "Neutral 50",
-      "response_text": "Heard you were coming. Yeah, I can train you. But don’t ask me to like it. My Initiates sweat blood, and you just get a free pass?",
+      "response_text": "Heard you were coming. Yeah, I can train you. But don\u2019t ask me to like it. My Initiates sweat blood, and you just get a free pass?",
       "index": "9"
     },
     {
       "topic": "FFPAWho",
       "topic_text": "Can someone in the Citadel train me to wear Power Armor?",
       "emotion": "Neutral 50",
-      "response_text": "That would be me. But that ain’t gonna happen. Not unless Elder Lyons himself gives you the all clear.",
+      "response_text": "That would be me. But that ain\u2019t gonna happen. Not unless Elder Lyons himself gives you the all clear.",
       "index": "11"
     },
     {
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Neutral 50",
-      "response_text": "...okay. You got all that? I think you know enough now to at least move around in Power Armor without killing yourself. That’s something, right?",
+      "response_text": "...okay. You got all that? I think you know enough now to at least move around in Power Armor without killing yourself. That\u2019s something, right?",
       "index": "13"
     },
     {
@@ -195,5 +195,6 @@
     }
   ],
   "combat": [],
-  "description": "Paladin Gunny is a 55 year-old Caucasian Male.\n\nA disciplined and veteran Brotherhood of Steel paladin serving as the drill instructor at the Citadel in 2277. Known for his rigorous training methods and unwavering commitment to the Brotherhood's mission.\n\nPaladin Gunny's Personality: Disciplined, stern, no-nonsense, and deeply committed to the Brotherhood of Steel's ideals. Takes his role in training new initiates very seriously and has little patience for laziness or insubordination.\n\nPaladin Gunny's Backstory: A veteran of the Brotherhood of Steel who joined Elder Lyons' original expedition to the Capital wasteland. Having served for many years, he was assigned to the Citadel where he now trains new initiates in combat techniques, power armor operation, and Brotherhood protocols. His nickname 'Gunny' reflects his Marine Corps background before the war, a rare connection to the pre-War military."
+  "description": "Paladin Gunny is a 55 year-old Caucasian Male.\n\nA disciplined and veteran Brotherhood of Steel paladin serving as the drill instructor at the Citadel in 2277. Known for his rigorous training methods and unwavering commitment to the Brotherhood's mission.\n\nPaladin Gunny's Personality: Disciplined, stern, no-nonsense, and deeply committed to the Brotherhood of Steel's ideals. Takes his role in training new initiates very seriously and has little patience for laziness or insubordination.\n\nPaladin Gunny's Backstory: A veteran of the Brotherhood of Steel who joined Elder Lyons' original expedition to the Capital wasteland. Having served for many years, he was assigned to the Citadel where he now trains new initiates in combat techniques, power armor operation, and Brotherhood protocols. His nickname 'Gunny' reflects his Marine Corps background before the war, a rare connection to the pre-War military.",
+  "voice_folder": "MaleAdult05DC"
 }

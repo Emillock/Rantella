@@ -30,27 +30,27 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "7→15",
+  "level": "7\u219215",
   "tag_skills": [
     {
-      "Melee Weap.:": "60→94(62→96)"
+      "Melee Weap.:": "60\u219294(62\u219296)"
     },
     {
-      "Small Guns:": "58→92(60→94)"
+      "Small Guns:": "58\u219292(60\u219294)"
     },
     {
-      "Unarmed:": "56→90"
+      "Unarmed:": "56\u219290"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "120→160"
+      "Hit Points:": "120\u2192160"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "3.30→5.00"
+      "Unarmed Dam.:": "3.30\u21925.00"
     },
     {
       "Poison Resist.:": "20%"
@@ -84,5 +84,6 @@
     }
   ],
   "combat": [],
-  "description": "Sid is a 28 year-old Caucasian Male.\n\nSid is a gaunt and wild-eyed human male in his late 20s, trapped in Isolation Room 03 of Vault 87. His clothes are tattered, and he exhibits clear signs of severe psychological trauma. His eyes dart nervously around the room, and he constantly mutters to himself in a paranoid manner. He appears malnourished and unkempt, a result of his prolonged captivity.\n\nSid's Personality: Paranoid, hostile, and deeply traumatized. Sid has lost most of his rational thought due to his horrific experiences. He is deeply distrustful of everyone, especially outsiders, and reacts with extreme violence when threatened or even approached. His mind has broken under the strain of knowing he will be forcibly mutated into a super mutant, causing him to hallucinate and exhibit erratic behavior.\n\nSid's Backstory: Sid was originally a resident of Vault 87 who, along with a group of his friends, was captured by the super mutants that had taken control of the vault. The super mutants experimented on his friends, mutating them into grotesque creatures, and informed Sid that he would be next. The psychological torture and uncertainty of his fate drove him to insanity. In a fit of madness, he killed everyone in his original isolation room before being moved to Isolation Room 03 by the super mutants."
+  "description": "Sid is a 28 year-old Caucasian Male.\n\nSid is a gaunt and wild-eyed human male in his late 20s, trapped in Isolation Room 03 of Vault 87. His clothes are tattered, and he exhibits clear signs of severe psychological trauma. His eyes dart nervously around the room, and he constantly mutters to himself in a paranoid manner. He appears malnourished and unkempt, a result of his prolonged captivity.\n\nSid's Personality: Paranoid, hostile, and deeply traumatized. Sid has lost most of his rational thought due to his horrific experiences. He is deeply distrustful of everyone, especially outsiders, and reacts with extreme violence when threatened or even approached. His mind has broken under the strain of knowing he will be forcibly mutated into a super mutant, causing him to hallucinate and exhibit erratic behavior.\n\nSid's Backstory: Sid was originally a resident of Vault 87 who, along with a group of his friends, was captured by the super mutants that had taken control of the vault. The super mutants experimented on his friends, mutating them into grotesque creatures, and informed Sid that he would be next. The psychological torture and uncertainty of his fate drove him to insanity. In a fit of madness, he killed everyone in his original isolation room before being moved to Isolation Room 03 by the super mutants.",
+  "voice_folder": "MaleUniqueMQ08Sid"
 }

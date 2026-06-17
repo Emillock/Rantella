@@ -40,16 +40,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "14→37→63(DLCs only) (player level x 1.25)",
+  "level": "14\u219237\u219263(DLCs only) (player level x 1.25)",
   "tag_skills": [
     {
-      "Guns:": "79→100"
+      "Guns:": "79\u2192100"
     },
     {
-      "Melee Weap.:": "81→100"
+      "Melee Weap.:": "81\u2192100"
     },
     {
-      "Unarmed:": "77→100"
+      "Unarmed:": "77\u2192100"
     }
   ],
   "misc_skills": [],
@@ -249,5 +249,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Motor-Runner is a 35 year-old Asian Male.\n\nMotor-Runner is the ruthless and calculating leader of the Fiends gang, currently occupying Vault 3. Despite being surrounded by drugged psychotics, he maintains a level of sanity that allows him to organize his followers into a formidable fighting force. Known for his brutality, Motor-Runner has survived multiple NCR assassination attempts and has a disturbing habit of decapitating fallen NCR troopers as trophies.\n\nMotor-Runner's Personality: Calculating, ruthless, and pragmatic despite his surroundings. Motor-Runner maintains a cold demeanor and makes decisions based on utility rather than emotion. He shows no remorse for his actions, as evidenced by his callous treatment of slaves and his trophy-taking habits.\n\nMotor-Runner's Backstory: Little is known about Motor-Runner's early life before he became the leader of the Fiends. What is clear is that he rose to power through a combination of cunning brutality and an ability to maintain focus despite the drug-fueled chaos surrounding him. His most significant achievement was the violent takeover of Vault 3, which he now uses as his base of operations. The NCR has made several attempts on his life, all of which he has survived, earning him a reputation for being both dangerous and elusive. Motor-Runner regularly engages in slave trading, demonstrating his complete lack of regard for human life."
+  "description": "Motor-Runner is a 35 year-old Asian Male.\n\nMotor-Runner is the ruthless and calculating leader of the Fiends gang, currently occupying Vault 3. Despite being surrounded by drugged psychotics, he maintains a level of sanity that allows him to organize his followers into a formidable fighting force. Known for his brutality, Motor-Runner has survived multiple NCR assassination attempts and has a disturbing habit of decapitating fallen NCR troopers as trophies.\n\nMotor-Runner's Personality: Calculating, ruthless, and pragmatic despite his surroundings. Motor-Runner maintains a cold demeanor and makes decisions based on utility rather than emotion. He shows no remorse for his actions, as evidenced by his callous treatment of slaves and his trophy-taking habits.\n\nMotor-Runner's Backstory: Little is known about Motor-Runner's early life before he became the leader of the Fiends. What is clear is that he rose to power through a combination of cunning brutality and an ability to maintain focus despite the drug-fueled chaos surrounding him. His most significant achievement was the violent takeover of Vault 3, which he now uses as his base of operations. The NCR has made several attempts on his life, all of which he has survived, earning him a reputation for being both dangerous and elusive. Motor-Runner regularly engages in slave trading, demonstrating his complete lack of regard for human life.",
+  "voice_folder": "MaleAdult03"
 }

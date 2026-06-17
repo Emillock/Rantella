@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Explosives:": "32→100"
+      "Explosives:": "32\u2192100"
     },
     {
-      "Medicine:": "36→100"
+      "Medicine:": "36\u2192100"
     },
     {
-      "Science:": "36→100"
+      "Science:": "36\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "20→115→165"
+      "Hit Points:": "20\u2192115\u2192165"
     }
   ],
   "karma": "Good",
@@ -225,5 +225,6 @@
       "index": "53"
     }
   ],
-  "description": "Daniel Agincourt is a 42 year-old Caucasian Male.\n\nA dedicated but prideful engineer working on Project Purity at the Jefferson Memorial. Daniel is standoffish and often rude to outsiders, showing little patience for those he deems incompetent.\n\nDaniel Agincourt's Personality: Rude, prideful, standoffish, dedicated, and professional in his field. Despite his abrasive exterior, he has a capacity for remorse and loyalty, as shown by his reaction to Dr. Li's departure.\n\nDaniel Agincourt's Backstory: Daniel Agincourt has been with Project Purity for over a decade, serving as a senior engineer. He was part of the original team that worked in the underground laboratory before the Enclave's attack. He has a deep commitment to the project's goal of purifying the Capital Wasteland's water supply, though his abrasive personality has made him few friends among his colleagues. He has a particular loyalty to Dr. Li, having worked alongside her for many years."
+  "description": "Daniel Agincourt is a 42 year-old Caucasian Male.\n\nA dedicated but prideful engineer working on Project Purity at the Jefferson Memorial. Daniel is standoffish and often rude to outsiders, showing little patience for those he deems incompetent.\n\nDaniel Agincourt's Personality: Rude, prideful, standoffish, dedicated, and professional in his field. Despite his abrasive exterior, he has a capacity for remorse and loyalty, as shown by his reaction to Dr. Li's departure.\n\nDaniel Agincourt's Backstory: Daniel Agincourt has been with Project Purity for over a decade, serving as a senior engineer. He was part of the original team that worked in the underground laboratory before the Enclave's attack. He has a deep commitment to the project's goal of purifying the Capital Wasteland's water supply, though his abrasive personality has made him few friends among his colleagues. He has a particular loyalty to Dr. Li, having worked alongside her for many years.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

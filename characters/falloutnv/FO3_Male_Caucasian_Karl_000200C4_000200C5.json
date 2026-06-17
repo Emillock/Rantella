@@ -31,16 +31,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "6→14",
+  "level": "6\u219214",
   "tag_skills": [
     {
-      "Barter:": "59→99(64→104)"
+      "Barter:": "59\u219299(64\u2192104)"
     },
     {
-      "Small Guns:": "59→97"
+      "Small Guns:": "59\u219297"
     },
     {
-      "Speech:": "59→99"
+      "Speech:": "59\u219299"
     }
   ],
   "misc_skills": [],
@@ -164,5 +164,6 @@
     }
   ],
   "combat": [],
-  "description": "Karl is a 45 year-old Caucasian Male.\n\nKarl is a middle-aged human with a gruff demeanor and a permanent scowl etched on his face. He wears worn-out clothing typical of a wasteland merchant, with a dusty merchant's apron over his attire. His eyes constantly scan his surroundings, reflecting his suspicious nature. Karl is a member of The Family in the Capital Wasteland in 2277.\n\nKarl's Personality: Gruff, short-tempered, cynical, and suspicious of others. Karl prefers to be left alone and has a pessimistic outlook on life and people. He acts as if he believes in Vance's vampiric teachings, but in reality, he thinks they're ridiculous. He maintains this facade solely to keep his store in the Meresti Metro Station operational.\n\nKarl's Backstory: Karl was once married to a woman named Skyler, and they lived together in Meresti before her death. They used to own and operate a shop in Megaton, where they traded with wasteland travelers. It was during one of these trading encounters that Vance, the leader of The Family, met them. Vance felt a strange kinship with the couple and invited them to join his group. After Skyler's death, Karl accepted Vance's offer, partly out of loneliness and partly out of a sense of obligation to his late wife's memory. He now runs a store in the Meresti Metro Station, selling various goods to wastelanders, while maintaining a façade of loyalty to The Family's beliefs."
+  "description": "Karl is a 45 year-old Caucasian Male.\n\nKarl is a middle-aged human with a gruff demeanor and a permanent scowl etched on his face. He wears worn-out clothing typical of a wasteland merchant, with a dusty merchant's apron over his attire. His eyes constantly scan his surroundings, reflecting his suspicious nature. Karl is a member of The Family in the Capital Wasteland in 2277.\n\nKarl's Personality: Gruff, short-tempered, cynical, and suspicious of others. Karl prefers to be left alone and has a pessimistic outlook on life and people. He acts as if he believes in Vance's vampiric teachings, but in reality, he thinks they're ridiculous. He maintains this facade solely to keep his store in the Meresti Metro Station operational.\n\nKarl's Backstory: Karl was once married to a woman named Skyler, and they lived together in Meresti before her death. They used to own and operate a shop in Megaton, where they traded with wasteland travelers. It was during one of these trading encounters that Vance, the leader of The Family, met them. Vance felt a strange kinship with the couple and invited them to join his group. After Skyler's death, Karl accepted Vance's offer, partly out of loneliness and partly out of a sense of obligation to his late wife's memory. He now runs a store in the Meresti Metro Station, selling various goods to wastelanders, while maintaining a fa\u00e7ade of loyalty to The Family's beliefs.",
+  "voice_folder": "MaleAdult02DC"
 }

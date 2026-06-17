@@ -30,16 +30,16 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "5→15 (player level x2)",
+  "level": "5\u219215 (player level x2)",
   "tag_skills": [
     {
-      "Science:": "50→96"
+      "Science:": "50\u219296"
     },
     {
-      "Small Guns:": "50→96"
+      "Small Guns:": "50\u219296"
     },
     {
-      "Unarmed:": "48→96"
+      "Unarmed:": "48\u219296"
     }
   ],
   "misc_skills": [],
@@ -49,5 +49,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Emaline is a 29 year-old Caucasian Female.\n\nEmaline is a skilled hitwoman and Sydney's devoted lover. With years of experience in the wasteland, she has mastered heavy weapons and combat tactics. Her loyalty to Sydney is unwavering, and she will stop at nothing to protect her or seek retribution against those who have wronged her. Emaline moves with calculated precision, her eyes constantly scanning for threats, her trusty minigun never far from reach.\n\nEmaline's Personality: Emaline is fiercely protective, calculating, and cold-blooded when it comes to her work. She maintains a stoic exterior but shows surprising warmth and vulnerability only in Sydney's presence. She is pragmatic and survival-oriented, willing to do whatever it takes to ensure her and Sydney's safety in the harsh wasteland.\n\nEmaline's Backstory: Emaline grew up in the ruins of a pre-war suburban neighborhood, learning to survive on her own from a young age. After losing her family to raiders, she developed a deep-seated hatred for those who prey on the weak. She eventually found her calling as a mercenary, specializing in heavy weapons and tactical combat. It was during a contract that she met Sydney, another skilled fighter with a moral code that resonated with Emaline. The two formed an instant connection, eventually becoming lovers and partners in both life and work. Together, they've taken down slavers, corrupt officials, and anyone else who crosses their path, cementing their reputation as a formidable duo in the Capitol Wasteland."
+  "description": "Emaline is a 29 year-old Caucasian Female.\n\nEmaline is a skilled hitwoman and Sydney's devoted lover. With years of experience in the wasteland, she has mastered heavy weapons and combat tactics. Her loyalty to Sydney is unwavering, and she will stop at nothing to protect her or seek retribution against those who have wronged her. Emaline moves with calculated precision, her eyes constantly scanning for threats, her trusty minigun never far from reach.\n\nEmaline's Personality: Emaline is fiercely protective, calculating, and cold-blooded when it comes to her work. She maintains a stoic exterior but shows surprising warmth and vulnerability only in Sydney's presence. She is pragmatic and survival-oriented, willing to do whatever it takes to ensure her and Sydney's safety in the harsh wasteland.\n\nEmaline's Backstory: Emaline grew up in the ruins of a pre-war suburban neighborhood, learning to survive on her own from a young age. After losing her family to raiders, she developed a deep-seated hatred for those who prey on the weak. She eventually found her calling as a mercenary, specializing in heavy weapons and tactical combat. It was during a contract that she met Sydney, another skilled fighter with a moral code that resonated with Emaline. The two formed an instant connection, eventually becoming lovers and partners in both life and work. Together, they've taken down slavers, corrupt officials, and anyone else who crosses their path, cementing their reputation as a formidable duo in the Capitol Wasteland.",
+  "voice_folder": "FemaleAdult01Default"
 }

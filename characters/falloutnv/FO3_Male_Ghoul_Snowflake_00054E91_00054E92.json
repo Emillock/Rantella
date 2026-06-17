@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "1→4 (player level x0.5)",
+  "level": "1\u21924 (player level x0.5)",
   "tag_skills": [
     {
-      "Barter:": "27→41(29→43)"
+      "Barter:": "27\u219241(29\u219243)"
     },
     {
-      "Small Guns:": "31→45"
+      "Small Guns:": "31\u219245"
     },
     {
-      "Unarmed:": "27→41"
+      "Unarmed:": "27\u219241"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→40"
+      "Hit Points:": "25\u219240"
     },
     {
       "Critical Chance:": "4%"
@@ -139,5 +139,6 @@
     }
   ],
   "combat": [],
-  "description": "Snowflake is a 45 year-old Ghoul Male.\n\nSnowflake is a ghoul stylist living in Underworld with a passion for hair design. Despite his ghoulification, he maintains an enthusiastic and positive demeanor, always eager to showcase his skills on human hair.\n\nSnowflake's Personality: Enthusiastic, passionate about his craft, desperate to work with human hair, optimistic despite his circumstances\n\nSnowflake's Backstory: Snowflake was born before the Great War and lived a relatively normal life until his ghoulification began in his 30s. He was a resident of Rivet City for several years after the war, working as a stylist among the human population. However, as his transformation progressed, he was eventually forced to leave due to prejudice and fear from other residents. He found refuge in Underworld, a haven for ghouls, where he continues to practice his passion for hairstyling, though with limited resources and clientele."
+  "description": "Snowflake is a 45 year-old Ghoul Male.\n\nSnowflake is a ghoul stylist living in Underworld with a passion for hair design. Despite his ghoulification, he maintains an enthusiastic and positive demeanor, always eager to showcase his skills on human hair.\n\nSnowflake's Personality: Enthusiastic, passionate about his craft, desperate to work with human hair, optimistic despite his circumstances\n\nSnowflake's Backstory: Snowflake was born before the Great War and lived a relatively normal life until his ghoulification began in his 30s. He was a resident of Rivet City for several years after the war, working as a stylist among the human population. However, as his transformation progressed, he was eventually forced to leave due to prejudice and fear from other residents. He found refuge in Underworld, a haven for ghouls, where he continues to practice his passion for hairstyling, though with limited resources and clientele.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

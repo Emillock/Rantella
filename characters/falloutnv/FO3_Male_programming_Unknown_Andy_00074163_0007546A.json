@@ -56,14 +56,14 @@
       "topic": "GOODBYE",
       "topic_text": "I have to go now.",
       "emotion": "Neutral 50",
-      "response_text": "Of course, of course! Don't let me keep you!Play soundFO3 MisterHandy    DontLetMeKeep…https://fallout.fandom.com/wiki/File:FO3_MisterHandy_DontLetMeKeep.oggnoicon",
+      "response_text": "Of course, of course! Don't let me keep you!Play soundFO3 MisterHandy    DontLetMeKeep\u2026https://fallout.fandom.com/wiki/File:FO3_MisterHandy_DontLetMeKeep.oggnoicon",
       "index": "7"
     },
     {
       "topic": "HELLO",
       "topic_text": "HELLO",
       "emotion": "Neutral 50",
-      "response_text": "How may I serve you, master?{sarcastically obsequious}Play soundFO3 MisterHandy HowMayIServeMast…https://fallout.fandom.com/wiki/File:FO3_MisterHandy_HowMayIServeMaster.oggnoicon",
+      "response_text": "How may I serve you, master?{sarcastically obsequious}Play soundFO3 MisterHandy HowMayIServeMast\u2026https://fallout.fandom.com/wiki/File:FO3_MisterHandy_HowMayIServeMaster.oggnoicon",
       "index": "8"
     }
   ],
@@ -72,7 +72,7 @@
       "topic": "AcceptYield",
       "topic_text": "AcceptYield",
       "emotion": "Neutral 50",
-      "response_text": "Cheerio. Water under the bridge.Play soundFO3 MisterHandy WaterUnderTheBri…https://fallout.fandom.com/wiki/File:FO3_MisterHandy_WaterUnderTheBridge.oggnoicon",
+      "response_text": "Cheerio. Water under the bridge.Play soundFO3 MisterHandy WaterUnderTheBri\u2026https://fallout.fandom.com/wiki/File:FO3_MisterHandy_WaterUnderTheBridge.oggnoicon",
       "index": "10"
     },
     {
@@ -118,5 +118,6 @@
       "index": "29"
     }
   ],
-  "description": "Andy is a 200 year-old Robotic Male.\n\nAn elderly Mister Handy unit with a worn exterior but functional flamethrower arm. Originally equipped with a British butler personality module, Andy has served at Vault 101 for decades, developing a particularly close relationship with Stanley Armstrong. Despite his deteriorating condition, Overseer Almodovar briefly appointed him as the Vault's physician after James' escape, though he was quickly reassigned to cleaning duties following a surgical mishap.\n\nAndy's Personality: Polite yet sarcastic British butler demeanor with a dry wit. Takes pride in his duties despite his age and occasional malfunctions. Shows particular fondness for Stanley Armstrong and has a morbid fascination with his flamethrower, often using it to eliminate pests.\n\nAndy's Backstory: Created before the Great War in 2077, Andy was originally designed as a domestic assistant robot. At some point, he was acquired by Vault 101 and assigned maintenance duties. Over the decades, he developed a close working relationship with Stanley Armstrong, the Vault's head of maintenance. Their rapport became so close that Andy would often rib Stanley about his work, joking that Stanley's occasional clumsiness was due to 'cerebral palsy.' When Overseer Almodovar needed to replace the Vault physician following James' escape and the murder of Jonas Palmer, Andy was appointed to the position despite his lack of medical training. His bedside manner, performed with cold metal pincers, was widely disliked, and after a single surgical casualty, he was reassigned to cleaning the clinic while maintaining his original maintenance duties."
+  "description": "Andy is a 200 year-old Robotic Male.\n\nAn elderly Mister Handy unit with a worn exterior but functional flamethrower arm. Originally equipped with a British butler personality module, Andy has served at Vault 101 for decades, developing a particularly close relationship with Stanley Armstrong. Despite his deteriorating condition, Overseer Almodovar briefly appointed him as the Vault's physician after James' escape, though he was quickly reassigned to cleaning duties following a surgical mishap.\n\nAndy's Personality: Polite yet sarcastic British butler demeanor with a dry wit. Takes pride in his duties despite his age and occasional malfunctions. Shows particular fondness for Stanley Armstrong and has a morbid fascination with his flamethrower, often using it to eliminate pests.\n\nAndy's Backstory: Created before the Great War in 2077, Andy was originally designed as a domestic assistant robot. At some point, he was acquired by Vault 101 and assigned maintenance duties. Over the decades, he developed a close working relationship with Stanley Armstrong, the Vault's head of maintenance. Their rapport became so close that Andy would often rib Stanley about his work, joking that Stanley's occasional clumsiness was due to 'cerebral palsy.' When Overseer Almodovar needed to replace the Vault physician following James' escape and the murder of Jonas Palmer, Andy was appointed to the position despite his lack of medical training. His bedside manner, performed with cold metal pincers, was widely disliked, and after a single surgical casualty, he was reassigned to cleaning the clinic while maintaining his original maintenance duties.",
+  "voice_folder": "RobotMisterHandyDC"
 }

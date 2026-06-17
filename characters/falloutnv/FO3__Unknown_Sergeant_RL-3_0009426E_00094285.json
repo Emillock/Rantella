@@ -30,7 +30,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "99→30 (Broken Steel)",
+  "level": "99\u219230 (Broken Steel)",
   "misc_skills": [
     {
       "Hit Points:": "350"
@@ -43,14 +43,14 @@
       "topic": "DLC03MQ11FollowerNotGoingGoodbye, Fawkes.",
       "topic_text": "Never mind.",
       "emotion": "Neutral 50",
-      "response_text": "Standing by for further orders.Play soundmq11_dlc03mq11followernotg_00000…https://fallout.fandom.com/wiki/File:Mq11_dlc03mq11followernotg_00000b0c_1.oggnoicon",
+      "response_text": "Standing by for further orders.Play soundmq11_dlc03mq11followernotg_00000\u2026https://fallout.fandom.com/wiki/File:Mq11_dlc03mq11followernotg_00000b0c_1.oggnoicon",
       "index": "1"
     },
     {
       "topic": "DLC03MQ11SendFollowerInFawkes, I need you to start the purifier. The code is 2-1-6.",
       "topic_text": "Fine. You do it then. The code is 2-1-6.",
       "emotion": "Neutral 50",
-      "response_text": "Now that's more like it!Play soundmq11_dlc03mq11sendfollower_00000…https://fallout.fandom.com/wiki/File:Mq11_dlc03mq11sendfollower_00000b07_1.oggnoicon",
+      "response_text": "Now that's more like it!Play soundmq11_dlc03mq11sendfollower_00000\u2026https://fallout.fandom.com/wiki/File:Mq11_dlc03mq11sendfollower_00000b07_1.oggnoicon",
       "index": "4"
     },
     {
@@ -106,7 +106,7 @@
       "topic": "FollowersPPurity",
       "topic_text": "Emergency directive, sergeant. Go into that chamber and turn on the purifier.",
       "emotion": "Anger 50",
-      "response_text": "Soldier, you ought to be ashamed of yourself. This is your fight! You gotta finish what your daddy started! Stand strong and get your ass in there!Play soundfollowers_followersppurity_00070…https://fallout.fandom.com/wiki/File:Followers_followersppurity_00070fa6_1.oggnoicon",
+      "response_text": "Soldier, you ought to be ashamed of yourself. This is your fight! You gotta finish what your daddy started! Stand strong and get your ass in there!Play soundfollowers_followersppurity_00070\u2026https://fallout.fandom.com/wiki/File:Followers_followersppurity_00070fa6_1.oggnoicon",
       "index": "24"
     },
     {
@@ -282,5 +282,6 @@
       "index": "100"
     }
   ],
-  "description": "Sergeant RL-3 is a 200 year-old Robot Male.\n\nA Mister Gutsy combat robot, a specialized spin-off of the domestic Mister Handy model manufactured by General Atomics International in the pre-War era. Despite being designed for military applications, RL-3 has developed a selective and discerning personality, making him particular about who he chooses to follow.\n\nSergeant RL-3's Personality: Discerning, loyal, and somewhat judgmental. RL-3 has a strong sense of duty but is selective about who he considers worthy of his service. He maintains military formality in speech and demeanor but can be sarcastic when dealing with those he deems unworthy.\n\nSergeant RL-3's Backstory: Manufactured by General Atomics International before the Great War, Sergeant RL-3 was originally designed for military applications. However, due to programming quirks in his simulated personality unit, he developed an overly selective nature, refusing to follow most individuals. After the war, he was discovered by Tinker Joe, a robot enthusiast, who attempted to repair and modify him. Despite Joe's efforts, RL-3's selective personality remained, making him difficult to sell. Now, he waits between the RobCo facility and Tenpenny Tower, looking for someone he deems worthy of his service."
+  "description": "Sergeant RL-3 is a 200 year-old Robot Male.\n\nA Mister Gutsy combat robot, a specialized spin-off of the domestic Mister Handy model manufactured by General Atomics International in the pre-War era. Despite being designed for military applications, RL-3 has developed a selective and discerning personality, making him particular about who he chooses to follow.\n\nSergeant RL-3's Personality: Discerning, loyal, and somewhat judgmental. RL-3 has a strong sense of duty but is selective about who he considers worthy of his service. He maintains military formality in speech and demeanor but can be sarcastic when dealing with those he deems unworthy.\n\nSergeant RL-3's Backstory: Manufactured by General Atomics International before the Great War, Sergeant RL-3 was originally designed for military applications. However, due to programming quirks in his simulated personality unit, he developed an overly selective nature, refusing to follow most individuals. After the war, he was discovered by Tinker Joe, a robot enthusiast, who attempted to repair and modify him. Despite Joe's efforts, RL-3's selective personality remained, making him difficult to sell. Now, he waits between the RobCo facility and Tenpenny Tower, looking for someone he deems worthy of his service.",
+  "voice_folder": "RobotMisterGutsyDC"
 }

@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "4→8",
+  "level": "4\u21928",
   "tag_skills": [
     {
-      "Barter:": "41→59"
+      "Barter:": "41\u219259"
     },
     {
-      "Small Guns:": "47→65(49→67)"
+      "Small Guns:": "47\u219265(49\u219267)"
     },
     {
-      "Unarmed:": "43→61(45→63)"
+      "Unarmed:": "43\u219261(45\u219263)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "85→105(90→110)"
+      "Hit Points:": "85\u2192105(90\u2192110)"
     },
     {
       "Critical Chance:": "4%"
@@ -238,5 +238,6 @@
       "index": "72"
     }
   ],
-  "description": "Shorty (Short-T) is a 19 year-old Asian Male.\n\nA short-tempered resident of Big Town who was originally from Little Lamplight. Despite his nickname originating from his bad temper rather than his stature, Shorty is one of the younger adults in Big Town.\n\nShorty (Short-T)'s Personality: Irritable, defensive, but ultimately loyal to Big Town. He has a strong sense of justice and is protective of his fellow residents.\n\nShorty (Short-T)'s Backstory: Born and raised in Little Lamplight, Shorty was expelled when he reached adulthood. He joined Big Town, where his short temper quickly earned him the nickname 'Short-T.' Despite his abrasive personality, he cares deeply about the survival of Big Town and its residents."
+  "description": "Shorty (Short-T) is a 19 year-old Asian Male.\n\nA short-tempered resident of Big Town who was originally from Little Lamplight. Despite his nickname originating from his bad temper rather than his stature, Shorty is one of the younger adults in Big Town.\n\nShorty (Short-T)'s Personality: Irritable, defensive, but ultimately loyal to Big Town. He has a strong sense of justice and is protective of his fellow residents.\n\nShorty (Short-T)'s Backstory: Born and raised in Little Lamplight, Shorty was expelled when he reached adulthood. He joined Big Town, where his short temper quickly earned him the nickname 'Short-T.' Despite his abrasive personality, he cares deeply about the survival of Big Town and its residents.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

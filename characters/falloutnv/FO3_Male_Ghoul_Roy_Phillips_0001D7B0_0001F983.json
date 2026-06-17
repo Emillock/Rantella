@@ -30,21 +30,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "10→20 (PClevel x 1.20)",
+  "level": "10\u219220 (PClevel x 1.20)",
   "tag_skills": [
     {
-      "Melee Weap.:": "73→100"
+      "Melee Weap.:": "73\u2192100"
     },
     {
-      "Small Guns:": "73→100"
+      "Small Guns:": "73\u2192100"
     },
     {
-      "Speech:": "71→100"
+      "Speech:": "71\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "90→140"
+      "Hit Points:": "90\u2192140"
     },
     {
       "Critical Chance:": "4%"
@@ -101,7 +101,7 @@
       "topic": "MS12GhoulBranchHelp",
       "topic_text": "I might be able to get you in there.",
       "emotion": "Anger 50",
-      "response_text": "I already got a plan. They think I’m a monster. I’ll show them the real monsters!{angry but amused about his scheme for vengeance}",
+      "response_text": "I already got a plan. They think I\u2019m a monster. I\u2019ll show them the real monsters!{angry but amused about his scheme for vengeance}",
       "index": "26"
     },
     {
@@ -361,5 +361,6 @@
       "index": "104"
     }
   ],
-  "description": "Roy Phillips is a 100 year-old Human (pre-War) Male.\n\nRoy is a weathered pre-War ghoul with a stern demeanor and a no-nonsense attitude. His once-polished uniform is now tattered, but he carries himself with the authority of his former life. His face is a roadmap of decay, but his eyes burn with intensity and conviction. As the leader of a group of ghoul dissidents, he commands respect through his unwavering principles and tactical mind.\n\nRoy Phillips's Personality: Roy possesses a rigid, black-and-white worldview that has survived his transformation into a ghoul. He demands that humans treat ghouls with basic respect and has no patience for bigots. Despite his hardened exterior, he cares deeply for his fellow ghouls and will go to extreme lengths to secure their safety and dignity. His past as a police officer instilled in him a strong sense of justice, though his methods have become more extreme in the post-War world.\n\nRoy Phillips's Backstory: Roy Phillips served as a police officer in Washington D.C. before the Great War. When the bombs fell, he was exposed to significant radiation, transforming him into a ghoul. Despite this change, he maintained his sense of justice and leadership qualities. Over the decades, he gathered other ghouls who had been rejected by human society, forming a community in the Warrington Metro Station tunnels. His relationship with Bessie Lynn, another ghoul in his group, provides a rare moment of tenderness in his otherwise hardened existence."
+  "description": "Roy Phillips is a 100 year-old Human (pre-War) Male.\n\nRoy is a weathered pre-War ghoul with a stern demeanor and a no-nonsense attitude. His once-polished uniform is now tattered, but he carries himself with the authority of his former life. His face is a roadmap of decay, but his eyes burn with intensity and conviction. As the leader of a group of ghoul dissidents, he commands respect through his unwavering principles and tactical mind.\n\nRoy Phillips's Personality: Roy possesses a rigid, black-and-white worldview that has survived his transformation into a ghoul. He demands that humans treat ghouls with basic respect and has no patience for bigots. Despite his hardened exterior, he cares deeply for his fellow ghouls and will go to extreme lengths to secure their safety and dignity. His past as a police officer instilled in him a strong sense of justice, though his methods have become more extreme in the post-War world.\n\nRoy Phillips's Backstory: Roy Phillips served as a police officer in Washington D.C. before the Great War. When the bombs fell, he was exposed to significant radiation, transforming him into a ghoul. Despite this change, he maintained his sense of justice and leadership qualities. Over the decades, he gathered other ghouls who had been rejected by human society, forming a community in the Warrington Metro Station tunnels. His relationship with Bessie Lynn, another ghoul in his group, provides a rare moment of tenderness in his otherwise hardened existence.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

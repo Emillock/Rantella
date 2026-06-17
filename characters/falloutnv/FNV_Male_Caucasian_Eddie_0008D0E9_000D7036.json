@@ -48,10 +48,10 @@
   ],
   "misc_skills": [
     {
-      "Hit Points:": "75→105"
+      "Hit Points:": "75\u2192105"
     },
     {
-      "Dam. Threshold:": "4→5"
+      "Dam. Threshold:": "4\u21925"
     }
   ],
   "karma": "Evil",
@@ -195,5 +195,6 @@
     }
   ],
   "combat": [],
-  "description": "Eddie is a 38 year-old Caucasian Male.\n\nEddie is the leader of the Powder Gangers and can be found on the top floor of the administration office in the NCR Correctional Facility, having occupied the warden's office. A former NCR prisoner, Eddie assumed control over the Powder Gangers after Samuel Cooke, the original leader of the prisoner uprising, left north with a group of followers to Vault 19 to wage a personal war against the NCR. Since then, Eddie has led the former prisoners as they have raided caravans passing near the NCRCF, always ensuring that every Powder Ganger gives him a cut of the spoils. He is protected at all times by three Powder Ganger bodyguards, as well as his trusted enforcer Scrambler, the toughest member of the Powder Gangers.\n\nEddie's Personality: Pragmatic, opportunistic, and authoritarian. Eddie is a natural leader who values loyalty above all else but is quick to abandon those who no longer serve his interests. He is greedy and self-serving, always looking to expand his power and wealth. Despite his ruthless nature, he maintains a certain level of discipline among his followers, understanding that chaos would lead to their downfall.\n\nEddie's Backstory: Eddie was once just another prisoner in the NCR Correctional Facility. Before the Great War, he was likely a common criminal or political dissident, earning him a place in the facility. When the prisoner uprising led by Samuel Cooke occurred, Eddie saw an opportunity to advance his position. After Cooke departed with a faction of followers, Eddie seized control of the remaining Powder Gangers, establishing himself as the undisputed leader. Under his command, the Powder Gangers became more organized and effective in their raids, allowing Eddie to accumulate wealth and solidify his authority."
+  "description": "Eddie is a 38 year-old Caucasian Male.\n\nEddie is the leader of the Powder Gangers and can be found on the top floor of the administration office in the NCR Correctional Facility, having occupied the warden's office. A former NCR prisoner, Eddie assumed control over the Powder Gangers after Samuel Cooke, the original leader of the prisoner uprising, left north with a group of followers to Vault 19 to wage a personal war against the NCR. Since then, Eddie has led the former prisoners as they have raided caravans passing near the NCRCF, always ensuring that every Powder Ganger gives him a cut of the spoils. He is protected at all times by three Powder Ganger bodyguards, as well as his trusted enforcer Scrambler, the toughest member of the Powder Gangers.\n\nEddie's Personality: Pragmatic, opportunistic, and authoritarian. Eddie is a natural leader who values loyalty above all else but is quick to abandon those who no longer serve his interests. He is greedy and self-serving, always looking to expand his power and wealth. Despite his ruthless nature, he maintains a certain level of discipline among his followers, understanding that chaos would lead to their downfall.\n\nEddie's Backstory: Eddie was once just another prisoner in the NCR Correctional Facility. Before the Great War, he was likely a common criminal or political dissident, earning him a place in the facility. When the prisoner uprising led by Samuel Cooke occurred, Eddie saw an opportunity to advance his position. After Cooke departed with a faction of followers, Eddie seized control of the remaining Powder Gangers, establishing himself as the undisputed leader. Under his command, the Powder Gangers became more organized and effective in their raids, allowing Eddie to accumulate wealth and solidify his authority.",
+  "voice_folder": "MaleAdult01DefaultB"
 }

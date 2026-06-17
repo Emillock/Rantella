@@ -29,21 +29,21 @@
     "Agility": 5,
     "Luck": 2
   },
-  "level": "3→10",
+  "level": "3\u219210",
   "tag_skills": [
     {
-      "Sneak:": "37→70(39→72)"
+      "Sneak:": "37\u219270(39\u219272)"
     },
     {
-      "Speech:": "35→68"
+      "Speech:": "35\u219268"
     },
     {
-      "Unarmed:": "33→66(35→68)"
+      "Unarmed:": "33\u219266(35\u219268)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→65(35→70)"
+      "Hit Points:": "30\u219265(35\u219270)"
     },
     {
       "Critical Chance:": "2%"
@@ -78,5 +78,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Beth is a 9 year-old Caucasian Female.\n\nA young slave from The Pitt who was cut from the final version of the game. She was meant to appear during the 'Free Labor' quest to help the player character find a safe place for Marie, the baby.\n\nBeth's Personality: Kind, compassionate, and brave for her age. Despite her own suffering as a slave, she cares about others and is willing to risk herself to help those in need.\n\nBeth's Backstory: Born into slavery in The Pitt, Beth has known only a life of hardship and suffering. She has witnessed the cruelty of the slavers and the suffering of other slaves, including the mistreatment of children like herself. Despite this, she has managed to retain a kind heart and a desire to help others. She has learned about hidden places in The Pitt where people can find temporary safety, including a location where Marie could be hidden from the slavers."
+  "description": "Beth is a 9 year-old Caucasian Female.\n\nA young slave from The Pitt who was cut from the final version of the game. She was meant to appear during the 'Free Labor' quest to help the player character find a safe place for Marie, the baby.\n\nBeth's Personality: Kind, compassionate, and brave for her age. Despite her own suffering as a slave, she cares about others and is willing to risk herself to help those in need.\n\nBeth's Backstory: Born into slavery in The Pitt, Beth has known only a life of hardship and suffering. She has witnessed the cruelty of the slavers and the suffering of other slaves, including the mistreatment of children like herself. Despite this, she has managed to retain a kind heart and a desire to help others. She has learned about hidden places in The Pitt where people can find temporary safety, including a location where Marie could be hidden from the slavers.",
+  "voice_folder": "DLC01SlaveFemale01VoiceType"
 }

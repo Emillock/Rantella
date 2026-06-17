@@ -21,7 +21,7 @@
   "affiliation": "Andy ScabbHostetler home",
   "role": "FarmerTroubled youth",
   "detailed_location": "Hostetler homeAerotech Office Park(potentially)Boulder City(potentially)",
-  "voice_actor": "Zoë Bell",
+  "voice_actor": "Zo\u00eb Bell",
   "special": {
     "Strength": 6,
     "Perception": 4,
@@ -218,5 +218,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Alice Hostetler is a 19 year-old Caucasian Female.\n\nAlice Hostetler is a young farmer living in the Mojave Wasteland in 2281. She comes from a family of farmers who have struggled with radiation-poisoned crops that die before they can be harvested. Frustrated with her life, Alice ran away with Andy Scabb, becoming entangled in criminal activities without fully understanding the consequences.\n\nAlice Hostetler's Personality: Alice is rebellious and naive, desperate to escape her mundane life on the family farm. She is easily influenced by those who offer her excitement and a sense of purpose, but still retains some moral compass that can be awakened with the right approach. She's prone to panic and flailing her arms when confronted with difficult situations.\n\nAlice Hostetler's Backstory: Alice was born to Don and Becky Hostetler on their family farm in the Mojave Wasteland. Growing up, she witnessed the constant struggle of farming in a post-apocalyptic world where radiation frequently killed their crops before they could be of any use. As she grew older, she became increasingly resentful of her life and the limited opportunities available to her. This discontent led her to run away with Andy Scabb, a charismatic criminal who promised her excitement and a better life. Unbeknownst to Alice, Scabb plans to use her connection to her father's association with the Crimson Caravan to rob the business and then dispose of her."
+  "description": "Alice Hostetler is a 19 year-old Caucasian Female.\n\nAlice Hostetler is a young farmer living in the Mojave Wasteland in 2281. She comes from a family of farmers who have struggled with radiation-poisoned crops that die before they can be harvested. Frustrated with her life, Alice ran away with Andy Scabb, becoming entangled in criminal activities without fully understanding the consequences.\n\nAlice Hostetler's Personality: Alice is rebellious and naive, desperate to escape her mundane life on the family farm. She is easily influenced by those who offer her excitement and a sense of purpose, but still retains some moral compass that can be awakened with the right approach. She's prone to panic and flailing her arms when confronted with difficult situations.\n\nAlice Hostetler's Backstory: Alice was born to Don and Becky Hostetler on their family farm in the Mojave Wasteland. Growing up, she witnessed the constant struggle of farming in a post-apocalyptic world where radiation frequently killed their crops before they could be of any use. As she grew older, she became increasingly resentful of her life and the limited opportunities available to her. This discontent led her to run away with Andy Scabb, a charismatic criminal who promised her excitement and a better life. Unbeknownst to Alice, Scabb plans to use her connection to her father's association with the Crimson Caravan to rob the business and then dispose of her.",
+  "voice_folder": "FemaleAdult06"
 }

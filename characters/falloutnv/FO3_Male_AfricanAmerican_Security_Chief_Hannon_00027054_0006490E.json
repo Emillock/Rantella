@@ -39,7 +39,7 @@
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Disgust 50",
-      "response_text": "Oh, look. The bad seed is back.{Cold hatred}Play soundFO3 SecurityChiefHannon TheBadSe…https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_TheBadSeed.oggnoicon",
+      "response_text": "Oh, look. The bad seed is back.{Cold hatred}Play soundFO3 SecurityChiefHannon TheBadSe\u2026https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_TheBadSeed.oggnoicon",
       "index": "1"
     },
     {
@@ -53,7 +53,7 @@
       "topic": "MS16GeneralNightQuestion",
       "topic_text": "What happened down here?",
       "emotion": "Disgust 90",
-      "response_text": "After what happened to Vikki and my boy that night, your corpse should be strung up as a warning to anyone else thinks about heading outside.Play soundFo3_PaulHannon_AfterWhatHappened…https://fallout.fandom.com/wiki/File:Fo3_PaulHannon_AfterWhatHappened.oggnoicon",
+      "response_text": "After what happened to Vikki and my boy that night, your corpse should be strung up as a warning to anyone else thinks about heading outside.Play soundFo3_PaulHannon_AfterWhatHappened\u2026https://fallout.fandom.com/wiki/File:Fo3_PaulHannon_AfterWhatHappened.oggnoicon",
       "index": "3"
     }
   ],
@@ -62,24 +62,25 @@
       "topic": "HELLO",
       "topic_text": "HELLO",
       "emotion": "Anger 25",
-      "response_text": "Security check, people. Everything all right?{A little nasty}Play soundFO3 SecurityChiefHannon Security…https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_SecurityCheck.oggnoicon",
+      "response_text": "Security check, people. Everything all right?{A little nasty}Play soundFO3 SecurityChiefHannon Security\u2026https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_SecurityCheck.oggnoicon",
       "index": "4"
     },
     {
       "topic": "MS16Overseers1",
       "topic_text": "MS16Overseers1",
       "emotion": "Neutral 50",
-      "response_text": "Sir? It's the only world we've ever known. With a regrettable exception, I suppose.{A little uncertain how the Overseer will respond.}Play soundFO3 SecurityChiefHannon TheOnlyW…https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_TheOnlyWorld.oggnoicon",
+      "response_text": "Sir? It's the only world we've ever known. With a regrettable exception, I suppose.{A little uncertain how the Overseer will respond.}Play soundFO3 SecurityChiefHannon TheOnlyW\u2026https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_TheOnlyWorld.oggnoicon",
       "index": "11"
     },
     {
       "topic": "MS16Overseers3",
       "topic_text": "MS16Overseers3",
       "emotion": "Anger 10",
-      "response_text": "We'll have the place back to normal in no time, sir. It'll just take some time to repair the damages he caused.Play soundFO3 SecurityChiefHannon BackToNo…https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_BackToNormal.oggnoicon",
+      "response_text": "We'll have the place back to normal in no time, sir. It'll just take some time to repair the damages he caused.Play soundFO3 SecurityChiefHannon BackToNo\u2026https://fallout.fandom.com/wiki/File:FO3_SecurityChiefHannon_BackToNormal.oggnoicon",
       "index": "13"
     }
   ],
   "combat": [],
-  "description": "Paul Hannon Sr. is a 55 year-old African American Male.\n\nSecurity Chief Paul Hannon Sr. is the imposing head of Vault 101's security force in 2277. Standing at an average height with a stern posture and a neatly trimmed mustache, he presents himself as a military commander despite never having seen actual combat. His Vault security uniform is always immaculately pressed, down to the last button. He carries himself with an air of authority that borders on arrogance, constantly patrolling the vault's corridors with his signature nightstick at his side.\n\nPaul Hannon Sr.'s Personality: Extremely aggressive, by-the-book, and obsessed with military discipline. Hannon values order above all else and dreams of leading a real military force in a glorious war. He's convinced of his own brilliance and the superiority of his security team, despite evidence to the contrary. He demands absolute obedience and views any deviation from protocol as a personal insult. His rigid worldview leaves no room for compromise or understanding.\n\nPaul Hannon Sr.'s Backstory: Born before the Great War, Paul Hannon Sr. was raised in a military family that instilled in him a deep respect for hierarchy and discipline. When the bombs fell, he found himself in Vault 101, where he quickly rose through the security ranks due to his uncompromising attitude. Over the decades, he has transformed the relatively peaceful Vault security into a paramilitary organization, complete with drills, inspections, and his own version of military justice. His son, Paul Hannon Jr., has followed in his footsteps but often chafes under his father's harsh expectations. Hannon's wife, Vikki, serves as the Vault's doctor, a fact he uses to ensure his family maintains influence within the Vault hierarchy."
+  "description": "Paul Hannon Sr. is a 55 year-old African American Male.\n\nSecurity Chief Paul Hannon Sr. is the imposing head of Vault 101's security force in 2277. Standing at an average height with a stern posture and a neatly trimmed mustache, he presents himself as a military commander despite never having seen actual combat. His Vault security uniform is always immaculately pressed, down to the last button. He carries himself with an air of authority that borders on arrogance, constantly patrolling the vault's corridors with his signature nightstick at his side.\n\nPaul Hannon Sr.'s Personality: Extremely aggressive, by-the-book, and obsessed with military discipline. Hannon values order above all else and dreams of leading a real military force in a glorious war. He's convinced of his own brilliance and the superiority of his security team, despite evidence to the contrary. He demands absolute obedience and views any deviation from protocol as a personal insult. His rigid worldview leaves no room for compromise or understanding.\n\nPaul Hannon Sr.'s Backstory: Born before the Great War, Paul Hannon Sr. was raised in a military family that instilled in him a deep respect for hierarchy and discipline. When the bombs fell, he found himself in Vault 101, where he quickly rose through the security ranks due to his uncompromising attitude. Over the decades, he has transformed the relatively peaceful Vault security into a paramilitary organization, complete with drills, inspections, and his own version of military justice. His son, Paul Hannon Jr., has followed in his footsteps but often chafes under his father's harsh expectations. Hannon's wife, Vikki, serves as the Vault's doctor, a fact he uses to ensure his family maintains influence within the Vault hierarchy.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

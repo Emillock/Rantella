@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "5→15 (1.5x current player level)",
+  "level": "5\u219215 (1.5x current player level)",
   "tag_skills": [
     {
-      "Barter:": "54→100"
+      "Barter:": "54\u2192100"
     },
     {
-      "Small Guns:": "52→100"
+      "Small Guns:": "52\u2192100"
     },
     {
-      "Speech:": "54→100"
+      "Speech:": "54\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "135→185"
+      "Hit Points:": "135\u2192185"
     },
     {
       "Damage Res.:": "0%(25%)"
@@ -101,5 +101,6 @@
     }
   ],
   "combat": [],
-  "description": "Crow is a 45 year-old Hispanic Male.\n\nA former tribal shaman who now travels the Capital Wasteland as a caravan merchant, specializing in armor and clothing. Despite his mystical aura, Crow is pragmatic and self-aware about his business acumen. He operates the most profitable caravan in the wasteland, recognizing that people are willing to pay premium prices for protection. Crow can be found wandering the wastes with his caravan guard and brahmin, and maintains a friendship with the renowned Agatha.\n\nCrow's Personality: Mystical yet pragmatic, Crow blends spiritual beliefs with sharp business sense. He maintains a calm demeanor but can be direct when discussing trade. Despite his former life as a shaman, he has adapted well to merchant life while retaining some of his spiritual worldview.\n\nCrow's Backstory: Born to a tribal community in the Appalachian region, Crow was trained as a shaman from a young age. However, he grew restless with tribal life and ventured out into the wasteland. Using his knowledge of crafting and trading, he established a caravan business that eventually became one of the most successful in the Capital Wasteland. Though he no longer practices shamanism, he occasionally references 'spirits' and 'omens' in his conversations, a habit from his past life."
+  "description": "Crow is a 45 year-old Hispanic Male.\n\nA former tribal shaman who now travels the Capital Wasteland as a caravan merchant, specializing in armor and clothing. Despite his mystical aura, Crow is pragmatic and self-aware about his business acumen. He operates the most profitable caravan in the wasteland, recognizing that people are willing to pay premium prices for protection. Crow can be found wandering the wastes with his caravan guard and brahmin, and maintains a friendship with the renowned Agatha.\n\nCrow's Personality: Mystical yet pragmatic, Crow blends spiritual beliefs with sharp business sense. He maintains a calm demeanor but can be direct when discussing trade. Despite his former life as a shaman, he has adapted well to merchant life while retaining some of his spiritual worldview.\n\nCrow's Backstory: Born to a tribal community in the Appalachian region, Crow was trained as a shaman from a young age. However, he grew restless with tribal life and ventured out into the wasteland. Using his knowledge of crafting and trading, he established a caravan business that eventually became one of the most successful in the Capital Wasteland. Though he no longer practices shamanism, he occasionally references 'spirits' and 'omens' in his conversations, a habit from his past life.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

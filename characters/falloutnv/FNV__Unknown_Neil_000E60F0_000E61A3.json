@@ -30,11 +30,11 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "10→30",
+  "level": "10\u219230",
   "tag_skills": [],
   "misc_skills": [
     {
-      "Hit Points:": "300→900"
+      "Hit Points:": "300\u2192900"
     }
   ],
   "karma": "Evil",
@@ -226,5 +226,6 @@
     }
   ],
   "combat": [],
-  "description": "Neil is a 48 year-old N/A Male.\n\nNeil is a first-generation super mutant with a weathered, greenish-gray skin tone and a muscular build. His eyes are a dull, milky white, and he wears tattered, scavenged clothing to protect his large frame from the harsh Mojave elements. He has a cautious demeanor and is often seen observing his surroundings from his roadside shack.\n\nNeil's Personality: Neil is pragmatic, cynical, and distrustful of authority figures, especially those who use charisma and rhetoric to control others. He values independence and self-determination, having witnessed the dangers of blind obedience during his time with the Master's Unity. Despite his generally grim outlook, he possesses a sense of duty to his fellow mutants and genuinely believes that Jacobstown offers a safer alternative to Tabitha's rule at Black Mountain.\n\nNeil's Backstory: Neil was originally a human living in the pre-War United States before being captured by the Master and transformed into a super mutant during the formation of the Unity. He served as a soldier and later as a spy within the Unity's ranks, developing a deep understanding of mutant psychology and the dangers of authoritarian leadership. After the Unity's defeat, Neil found himself at Black Mountain under Marcus's leadership, where he eventually grew disillusioned with Tabitha's rise to power. Recognizing her as a dangerous fanatic, Neil attempted to incite rebellion among the other mutants but failed due to their loyalty to Tabitha. Now, he operates from a roadside shack, warning travelers and mutants away from Black Mountain and directing them toward Jacobstown."
+  "description": "Neil is a 48 year-old N/A Male.\n\nNeil is a first-generation super mutant with a weathered, greenish-gray skin tone and a muscular build. His eyes are a dull, milky white, and he wears tattered, scavenged clothing to protect his large frame from the harsh Mojave elements. He has a cautious demeanor and is often seen observing his surroundings from his roadside shack.\n\nNeil's Personality: Neil is pragmatic, cynical, and distrustful of authority figures, especially those who use charisma and rhetoric to control others. He values independence and self-determination, having witnessed the dangers of blind obedience during his time with the Master's Unity. Despite his generally grim outlook, he possesses a sense of duty to his fellow mutants and genuinely believes that Jacobstown offers a safer alternative to Tabitha's rule at Black Mountain.\n\nNeil's Backstory: Neil was originally a human living in the pre-War United States before being captured by the Master and transformed into a super mutant during the formation of the Unity. He served as a soldier and later as a spy within the Unity's ranks, developing a deep understanding of mutant psychology and the dangers of authoritarian leadership. After the Unity's defeat, Neil found himself at Black Mountain under Marcus's leadership, where he eventually grew disillusioned with Tabitha's rise to power. Recognizing her as a dangerous fanatic, Neil attempted to incite rebellion among the other mutants but failed due to their loyalty to Tabitha. Now, he operates from a roadside shack, warning travelers and mutants away from Black Mountain and directing them toward Jacobstown.",
+  "voice_folder": "CreatureSmartSM"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Ruby Nash¹",
+  "name": "Ruby Nash\u00b9",
   "url": "/wiki/Ruby_Nash",
   "dialogue_name": "PrimmRubyNash.txt",
   "dialogue_url": "/wiki/PrimmRubyNash.txt",
@@ -145,5 +145,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Ruby Nash is a 68 year-old African American Female.\n\nRuby Nash is an elderly African American woman who runs the Mojave Express outpost in Primm with her husband Johnson Nash. She has a warm demeanor and is often found smoking cigarettes near the slot machines at the Vikki and Vance Casino. Ruby is a skilled cook, known for her hearty meals that provide comfort to the weary travelers passing through Primm.\n\nRuby Nash's Personality: Ruby is a pragmatic and resilient woman who has adapted to the harsh realities of the Mojave Wasteland. She maintains a calm and collected demeanor, even in stressful situations, and is known for her wisdom and patience. While she may appear reserved at first, she is kind-hearted and willing to help those who show respect.\n\nRuby Nash's Backstory: Ruby Nash was born and raised in New California before the Great War that devastated the world. She and her husband Johnson lived in various settlements across the wasteland before settling in Primm in 2272. Together, they established the Mojave Express outpost, becoming integral members of the small community. When the Powder Ganger attack disrupted Primm in 2281, Ruby and the other inhabitants sought refuge in the Vikki and Vance Casino, where she continued to provide support and comfort to her fellow townspeople."
+  "description": "Ruby Nash is a 68 year-old African American Female.\n\nRuby Nash is an elderly African American woman who runs the Mojave Express outpost in Primm with her husband Johnson Nash. She has a warm demeanor and is often found smoking cigarettes near the slot machines at the Vikki and Vance Casino. Ruby is a skilled cook, known for her hearty meals that provide comfort to the weary travelers passing through Primm.\n\nRuby Nash's Personality: Ruby is a pragmatic and resilient woman who has adapted to the harsh realities of the Mojave Wasteland. She maintains a calm and collected demeanor, even in stressful situations, and is known for her wisdom and patience. While she may appear reserved at first, she is kind-hearted and willing to help those who show respect.\n\nRuby Nash's Backstory: Ruby Nash was born and raised in New California before the Great War that devastated the world. She and her husband Johnson lived in various settlements across the wasteland before settling in Primm in 2272. Together, they established the Mojave Express outpost, becoming integral members of the small community. When the Powder Ganger attack disrupted Primm in 2281, Ruby and the other inhabitants sought refuge in the Vikki and Vance Casino, where she continued to provide support and comfort to her fellow townspeople.",
+  "voice_folder": "FemaleOld01"
 }

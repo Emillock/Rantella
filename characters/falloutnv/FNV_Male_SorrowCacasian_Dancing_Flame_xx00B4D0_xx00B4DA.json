@@ -1,5 +1,5 @@
 {
-  "name": "Dancing Flame¹",
+  "name": "Dancing Flame\u00b9",
   "url": "/wiki/Dancing_Flame",
   "dialogue_name": "NVDLC02MQ05bDancingFlame.txt",
   "dialogue_url": "/wiki/NVDLC02MQ05bDancingFlame.txt",
@@ -32,16 +32,16 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "1→50 (player level x0.9)",
+  "level": "1\u219250 (player level x0.9)",
   "tag_skills": [
     {
-      "Speech:": "32→100"
+      "Speech:": "32\u2192100"
     },
     {
-      "Survival:": "30→100(35→105)"
+      "Survival:": "30\u2192100(35\u2192105)"
     },
     {
-      "Unarmed:": "30→100"
+      "Unarmed:": "30\u2192100"
     }
   ],
   "misc_skills": [],
@@ -86,5 +86,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Dancing Flame is a 30 year-old Native American Male.\n\nA male Sorrows warrior found protecting the burial mounds in Zion Canyon. Dancing Flame is a dedicated tribesman who takes his duty to protect his people's sacred grounds seriously.\n\nDancing Flame's Personality: Dancing Flame is a serious and disciplined warrior with a strong sense of duty to his tribe. He is neutral in his moral outlook, focused on protecting his people's traditions and sacred sites without unnecessary aggression.\n\nDancing Flame's Backstory: Born and raised among the Sorrows tribe in Zion Canyon, Dancing Flame has spent his life learning the tribe's traditions and warrior skills. He has always felt a deep connection to the burial grounds where his ancestors rest, and he has taken it upon himself to ensure these sacred sites remain undisturbed by outsiders."
+  "description": "Dancing Flame is a 30 year-old Native American Male.\n\nA male Sorrows warrior found protecting the burial mounds in Zion Canyon. Dancing Flame is a dedicated tribesman who takes his duty to protect his people's sacred grounds seriously.\n\nDancing Flame's Personality: Dancing Flame is a serious and disciplined warrior with a strong sense of duty to his tribe. He is neutral in his moral outlook, focused on protecting his people's traditions and sacred sites without unnecessary aggression.\n\nDancing Flame's Backstory: Born and raised among the Sorrows tribe in Zion Canyon, Dancing Flame has spent his life learning the tribe's traditions and warrior skills. He has always felt a deep connection to the burial grounds where his ancestors rest, and he has taken it upon himself to ensure these sacred sites remain undisturbed by outsiders.",
+  "voice_folder": "NVDLC02SorrowsMale"
 }

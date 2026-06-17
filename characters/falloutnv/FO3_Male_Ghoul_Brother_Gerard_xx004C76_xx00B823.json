@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→30",
+  "level": "1\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→210"
+      "Hit Points:": "65\u2192210"
     },
     {
       "Critical Chance:": "5%"
@@ -201,5 +201,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Brother Gerard is a 100 year-old Human Male.\n\nBrother Gerard is the first officer and gatekeeper for the Holy Light Monastery in 2277. He stands as a sentinel at the entrance, ensuring only those who have been properly irradiated may enter the sacred grounds.\n\nBrother Gerard's Personality: Brother Gerard is a strident and devout follower of the Apostles of the Holy Light. Having faced religious persecution in the past, he maintains a firm but non-violent stance, preferring to turn away intruders rather than engage in combat.\n\nBrother Gerard's Backstory: Brother Gerard was once a member of the Church of the Children of Atom under Confessor Cromwell. However, after Mother Curie III had her encounter with the Brotherhood of Steel water caravan guards, both she and Gerard experienced a religious epiphany. They left Cromwell's flock, disagreeing with the 'Great Division' belief and seeing the C-23 Megaton nuclear weapon as merely a 'great symbol' of Atom. Together, they established the Apostles of the Holy Light and constructed a monastery in the ruins of a Springvale home."
+  "description": "Brother Gerard is a 100 year-old Human Male.\n\nBrother Gerard is the first officer and gatekeeper for the Holy Light Monastery in 2277. He stands as a sentinel at the entrance, ensuring only those who have been properly irradiated may enter the sacred grounds.\n\nBrother Gerard's Personality: Brother Gerard is a strident and devout follower of the Apostles of the Holy Light. Having faced religious persecution in the past, he maintains a firm but non-violent stance, preferring to turn away intruders rather than engage in combat.\n\nBrother Gerard's Backstory: Brother Gerard was once a member of the Church of the Children of Atom under Confessor Cromwell. However, after Mother Curie III had her encounter with the Brotherhood of Steel water caravan guards, both she and Gerard experienced a religious epiphany. They left Cromwell's flock, disagreeing with the 'Great Division' belief and seeing the C-23 Megaton nuclear weapon as merely a 'great symbol' of Atom. Together, they established the Apostles of the Holy Light and constructed a monastery in the ruins of a Springvale home.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

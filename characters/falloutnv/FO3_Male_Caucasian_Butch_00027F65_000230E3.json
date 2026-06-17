@@ -40,16 +40,16 @@
     "Agility": 8,
     "Luck": 2
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [],
@@ -167,5 +167,6 @@
       "index": "57"
     }
   ],
-  "description": "Butch is a 19 year-old Caucasian Male.\n\nA young man born and raised in Vault 101, Butch presents himself as a tough bully and leader of the Tunnel Snakes gang. This brash exterior masks deep-seated feelings of inadequacy stemming from his neglect by his alcoholic mother Ellen and the absence of his father in his life.\n\nButch's Personality: Boisterous, insecure, and desperate to prove his worth. Butch puts on a tough-guy persona to hide his vulnerabilities, but beneath the surface, he craves acceptance and respect from his Vault peers.\n\nButch's Backstory: Born in Vault 101 to Ellen, a known alcoholic who neglected her maternal duties, Butch grew up without a father figure in his life. In a society that values community and order, this void left him feeling inadequate and searching for identity. He found camaraderie among other disaffected youth, eventually forming the Tunnel Snakes gang where he could assert dominance and mask his insecurities. Despite his tough exterior, Butch harbors a desire to leave the Vault and discover what lies beyond the sealed doors, though he'd never admit it to his peers."
+  "description": "Butch is a 19 year-old Caucasian Male.\n\nA young man born and raised in Vault 101, Butch presents himself as a tough bully and leader of the Tunnel Snakes gang. This brash exterior masks deep-seated feelings of inadequacy stemming from his neglect by his alcoholic mother Ellen and the absence of his father in his life.\n\nButch's Personality: Boisterous, insecure, and desperate to prove his worth. Butch puts on a tough-guy persona to hide his vulnerabilities, but beneath the surface, he craves acceptance and respect from his Vault peers.\n\nButch's Backstory: Born in Vault 101 to Ellen, a known alcoholic who neglected her maternal duties, Butch grew up without a father figure in his life. In a society that values community and order, this void left him feeling inadequate and searching for identity. He found camaraderie among other disaffected youth, eventually forming the Tunnel Snakes gang where he could assert dominance and mask his insecurities. Despite his tough exterior, Butch harbors a desire to leave the Vault and discover what lies beyond the sealed doors, though he'd never admit it to his peers.",
+  "voice_folder": "MaleUniqueButch"
 }

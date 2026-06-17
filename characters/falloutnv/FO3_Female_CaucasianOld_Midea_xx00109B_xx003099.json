@@ -39,27 +39,27 @@
     "Agility": 6,
     "Luck": 2
   },
-  "level": "3→10",
+  "level": "3\u219210",
   "tag_skills": [
     {
-      "Sneak:": "37→70(39→72)"
+      "Sneak:": "37\u219270(39\u219272)"
     },
     {
-      "Speech:": "35→68"
+      "Speech:": "35\u219268"
     },
     {
-      "Unarmed:": "33→66(35→68)"
+      "Unarmed:": "33\u219266(35\u219268)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→65(35→70)"
+      "Hit Points:": "30\u219265(35\u219270)"
     },
     {
       "Critical Chance:": "2%"
     },
     {
-      "Unarmed Dam.:": "2.15→3.8"
+      "Unarmed Dam.:": "2.15\u21923.8"
     },
     {
       "Poison Resist.:": "10%(15%)"
@@ -439,5 +439,6 @@
     }
   ],
   "combat": [],
-  "description": "Midea is a 65 year-old Caucasian Female.\n\nMidea is the de-facto leader of the slaves in the Pitt. She is a respected figure among the enslaved population, known for her wisdom and determination in the harsh environment of the industrial wasteland.\n\nMidea's Personality: Midea is pragmatic, resourceful, and deeply committed to improving the lives of her fellow slaves. She maintains a calm demeanor but harbors a fierce determination to change the oppressive system of the Pitt. She carefully observes power dynamics and looks for opportunities to undermine the authority of the raiders and Lord Ashur.\n\nMidea's Backstory: Midea was born in the Pitt shortly after the Scourge of 2211 and has lived her entire life under the rule of Lord Ashur. She has witnessed the harsh realities of slavery firsthand and has become a symbol of hope for the enslaved population. Midea has cooperated with Wernher, a former Pitt raider who was also enslaved, and together they have been subtly organizing the slaves in preparation for a future uprising."
+  "description": "Midea is a 65 year-old Caucasian Female.\n\nMidea is the de-facto leader of the slaves in the Pitt. She is a respected figure among the enslaved population, known for her wisdom and determination in the harsh environment of the industrial wasteland.\n\nMidea's Personality: Midea is pragmatic, resourceful, and deeply committed to improving the lives of her fellow slaves. She maintains a calm demeanor but harbors a fierce determination to change the oppressive system of the Pitt. She carefully observes power dynamics and looks for opportunities to undermine the authority of the raiders and Lord Ashur.\n\nMidea's Backstory: Midea was born in the Pitt shortly after the Scourge of 2211 and has lived her entire life under the rule of Lord Ashur. She has witnessed the harsh realities of slavery firsthand and has become a symbol of hope for the enslaved population. Midea has cooperated with Wernher, a former Pitt raider who was also enslaved, and together they have been subtly organizing the slaves in preparation for a future uprising.",
+  "voice_folder": "DLC01UniqueMidea"
 }

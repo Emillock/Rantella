@@ -40,16 +40,16 @@
     "Agility": 2,
     "Luck": 15
   },
-  "level": "12→20→30",
+  "level": "12\u219220\u219230",
   "tag_skills": [
     {
-      "Barter:": "84→100"
+      "Barter:": "84\u2192100"
     },
     {
-      "Melee Weap.:": "80→100"
+      "Melee Weap.:": "80\u2192100"
     },
     {
-      "Speech:": "89→100"
+      "Speech:": "89\u2192100"
     }
   ],
   "misc_skills": [
@@ -340,7 +340,7 @@
       "topic": "MS11BurkeAndPhillips",
       "topic_text": "MS11BurkeAndPhillips",
       "emotion": "Neutral 50",
-      "response_text": "Is that so? Do it then, Phillips. Set you feral pets upon me. I could use a bit of sport. After I’ve dealt with them, I'll turn my attention to you.",
+      "response_text": "Is that so? Do it then, Phillips. Set you feral pets upon me. I could use a bit of sport. After I\u2019ve dealt with them, I'll turn my attention to you.",
       "index": "129"
     },
     {
@@ -423,5 +423,6 @@
       "index": "151"
     }
   ],
-  "description": "Mister Burke is a 38 year-old Caucasian Male.\n\nA well-dressed, calculating individual who serves as Allistair Tenpenny's right-hand man. He typically wears a sharp suit and carries himself with an air of authority and detachment. His cold, calculating eyes and composed demeanor make it clear that he is not to be trifled with. Burke is often found in Moriarty's Saloon in Megaton, where he scouts potential targets and carries out Tenpenny's dirty work.\n\nMister Burke's Personality: Cold, calculating, and ruthlessly efficient. He lacks empathy and views the inhabitants of the wasteland as mere pawns in Tenpenny's games. He is loyal to Tenpenny but is not above pursuing his own interests when they align with his employer's goals. Burke speaks with a measured, controlled tone that belies his violent tendencies.\n\nMister Burke's Backstory: Little is known about Mister Burke's life before 2277 save for that he and Allistair Tenpenny first met sometime around when Tenpenny began accepting tenants and building a security force for Tenpenny Tower. Burke has served as Tenpenny's right-hand man for years, carrying out his employer's darkest deeds with precision and without remorse. His most notable mission before the Lone Wanderer's arrival was to scout Megaton, a shantytown built around an undetonated nuclear bomb. Tenpenny, disgusted by the sight of Megaton from his penthouse balcony, tasked Burke with finding a way to eliminate the town."
+  "description": "Mister Burke is a 38 year-old Caucasian Male.\n\nA well-dressed, calculating individual who serves as Allistair Tenpenny's right-hand man. He typically wears a sharp suit and carries himself with an air of authority and detachment. His cold, calculating eyes and composed demeanor make it clear that he is not to be trifled with. Burke is often found in Moriarty's Saloon in Megaton, where he scouts potential targets and carries out Tenpenny's dirty work.\n\nMister Burke's Personality: Cold, calculating, and ruthlessly efficient. He lacks empathy and views the inhabitants of the wasteland as mere pawns in Tenpenny's games. He is loyal to Tenpenny but is not above pursuing his own interests when they align with his employer's goals. Burke speaks with a measured, controlled tone that belies his violent tendencies.\n\nMister Burke's Backstory: Little is known about Mister Burke's life before 2277 save for that he and Allistair Tenpenny first met sometime around when Tenpenny began accepting tenants and building a security force for Tenpenny Tower. Burke has served as Tenpenny's right-hand man for years, carrying out his employer's darkest deeds with precision and without remorse. His most notable mission before the Lone Wanderer's arrival was to scout Megaton, a shantytown built around an undetonated nuclear bomb. Tenpenny, disgusted by the sight of Megaton from his penthouse balcony, tasked Burke with finding a way to eliminate the town.",
+  "voice_folder": "MaleUniqueMisterBurke"
 }

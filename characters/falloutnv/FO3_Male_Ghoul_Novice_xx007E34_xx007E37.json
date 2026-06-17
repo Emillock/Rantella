@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "5→9",
+  "level": "5\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "49→68"
+      "Melee Weap.:": "49\u219268"
     },
     {
-      "Small Guns:": "49→68(51→70)"
+      "Small Guns:": "49\u219268(51\u219270)"
     },
     {
-      "Sneak:": "49→68(51→70)"
+      "Sneak:": "49\u219268(51\u219270)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "45→65(50→70)"
+      "Hit Points:": "45\u219265(50\u219270)"
     },
     {
       "Critical Chance:": "4%"
@@ -81,5 +81,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Novice is a 65 year-old Ghoul Male.\n\nA devoted ghoul follower of the Apostles of the Eternal Light, often seen listening intently to Mother Curie III's sermons in the monastery's basement. His exposed skull reveals a small portion of his brain, which he considers a sign of his enlightenment. Despite his ghoulification, he maintains a hopeful demeanor and speaks with reverence about the monastery's teachings.\n\nNovice's Personality: Devout, eager to please, somewhat naive in his beliefs, and deeply committed to the Apostles' doctrine. He speaks with reverence about Mother Curie III and displays childlike enthusiasm for the monastery's teachings. While loyal to the cult, he occasionally shows flickers of doubt when confronted with the harsh realities of the wasteland.\n\nNovice's Backstory: Once a wasteland wanderer, Novice was transformed into a ghoul during a raider attack several decades ago. Wandering the Capital Wasteland aimlessly, he was discovered by members of the Apostles of the Eternal Light who took him to the Holy Light Monastery. There, he found purpose in their teachings and has since become one of their most devoted followers. He believes his ghoulification was a test of faith and that his exposed skull is a sign of his chosen path."
+  "description": "Novice is a 65 year-old Ghoul Male.\n\nA devoted ghoul follower of the Apostles of the Eternal Light, often seen listening intently to Mother Curie III's sermons in the monastery's basement. His exposed skull reveals a small portion of his brain, which he considers a sign of his enlightenment. Despite his ghoulification, he maintains a hopeful demeanor and speaks with reverence about the monastery's teachings.\n\nNovice's Personality: Devout, eager to please, somewhat naive in his beliefs, and deeply committed to the Apostles' doctrine. He speaks with reverence about Mother Curie III and displays childlike enthusiasm for the monastery's teachings. While loyal to the cult, he occasionally shows flickers of doubt when confronted with the harsh realities of the wasteland.\n\nNovice's Backstory: Once a wasteland wanderer, Novice was transformed into a ghoul during a raider attack several decades ago. Wandering the Capital Wasteland aimlessly, he was discovered by members of the Apostles of the Eternal Light who took him to the Holy Light Monastery. There, he found purpose in their teachings and has since become one of their most devoted followers. He believes his ghoulification was a test of faith and that his exposed skull is a sign of his chosen path.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

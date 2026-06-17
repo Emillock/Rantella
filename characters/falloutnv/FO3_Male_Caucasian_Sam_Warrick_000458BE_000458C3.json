@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "4→15 (PClevel x 1.50)",
+  "level": "4\u219215 (PClevel x 1.50)",
   "tag_skills": [
     {
-      "Big Guns:": "42→89"
+      "Big Guns:": "42\u219289"
     },
     {
-      "Melee Weap.:": "44→91"
+      "Melee Weap.:": "44\u219291"
     },
     {
-      "Small Guns:": "44→91"
+      "Small Guns:": "44\u219291"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "85→140"
+      "Hit Points:": "85\u2192140"
     },
     {
       "Critical Chance:": "4%"
@@ -72,5 +72,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Sam Warrick is a 29 year-old Caucasian Male.\n\nSam Warrick is a skilled raider sniper affiliated with the Evergreen Mills gang. He wanders the Capital Wasteland, hunting for valuable targets to collect bounties. Though little is known about his past, he maintains a friendly rivalry with Laszlo Radford, though Radford only sees him as a friend. Sam is known for his precision with a sniper rifle and his determination to earn caps for 'special services' at the Mills' bazaar.\n\nSam Warrick's Personality: Sam is competitive, ruthless, and focused on his goals. He takes pride in his hunting skills and enjoys the thrill of the chase. Despite his evil nature, he maintains a sense of camaraderie with other raiders, particularly his 'rivalry' with Radford.\n\nSam Warrick's Backstory: Sam's early life is shrouded in mystery, but at some point, he found his way to Evergreen Mills and joined the raider gang there. His exceptional marksmanship earned him a reputation as one of the gang's most dangerous hunters. He developed a one-sided rivalry with Laszlo Radford, viewing him as a worthy competitor while Radford simply considers him a friend. Sam spends most of his time in the wasteland, hunting creatures, mutants, and unwary travelers, all in pursuit of caps to pay for the services offered at Madame's establishment in the Mills."
+  "description": "Sam Warrick is a 29 year-old Caucasian Male.\n\nSam Warrick is a skilled raider sniper affiliated with the Evergreen Mills gang. He wanders the Capital Wasteland, hunting for valuable targets to collect bounties. Though little is known about his past, he maintains a friendly rivalry with Laszlo Radford, though Radford only sees him as a friend. Sam is known for his precision with a sniper rifle and his determination to earn caps for 'special services' at the Mills' bazaar.\n\nSam Warrick's Personality: Sam is competitive, ruthless, and focused on his goals. He takes pride in his hunting skills and enjoys the thrill of the chase. Despite his evil nature, he maintains a sense of camaraderie with other raiders, particularly his 'rivalry' with Radford.\n\nSam Warrick's Backstory: Sam's early life is shrouded in mystery, but at some point, he found his way to Evergreen Mills and joined the raider gang there. His exceptional marksmanship earned him a reputation as one of the gang's most dangerous hunters. He developed a one-sided rivalry with Laszlo Radford, viewing him as a worthy competitor while Radford simply considers him a friend. Sam spends most of his time in the wasteland, hunting creatures, mutants, and unwary travelers, all in pursuit of caps to pay for the services offered at Madame's establishment in the Mills.",
+  "voice_folder": "MaleAdult06DC"
 }

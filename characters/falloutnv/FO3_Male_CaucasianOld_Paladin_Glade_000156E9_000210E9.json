@@ -40,21 +40,21 @@
     "Agility": 2,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→95→125"
+      "Hit Points:": "70\u219295\u2192125"
     },
     {
       "Damage Res.:": "48%"
@@ -180,5 +180,6 @@
     }
   ],
   "combat": [],
-  "description": "Paladin Glade is a 38 year-old Caucasian Male.\n\nA seasoned member of Lyons' Pride and the Brotherhood of Steel's heavy weapons specialist. Glade is known for his expertise in heavy weaponry and his friendly, approachable demeanor. Stationed in the Citadel's A ring, he often serves as a point of contact for new arrivals and those returning from missions.\n\nPaladin Glade's Personality: Friendly, welcoming, and humorous. Glade has a relaxed attitude toward perfectionism and enjoys making light-hearted jokes and pranks. He values skill in others but doesn't get hung up on minor imperfections. As a veteran of Lyons' Pride, he is loyal to Sarah Lyons and the Brotherhood's mission to help the wasteland.\n\nPaladin Glade's Backstory: Born in the Capital Wasteland, Glade showed an early aptitude for heavy weaponry during his time with a local settlement defense force. His skills caught the attention of Brotherhood scouts, and he was eventually recruited into the Brotherhood of Steel. His proficiency with heavy weapons and his steady demeanor led to his selection by Sarah Lyons for the elite Lyons' Pride unit. As a Paladin, he has participated in numerous operations against Super Mutants and other threats in the wasteland."
+  "description": "Paladin Glade is a 38 year-old Caucasian Male.\n\nA seasoned member of Lyons' Pride and the Brotherhood of Steel's heavy weapons specialist. Glade is known for his expertise in heavy weaponry and his friendly, approachable demeanor. Stationed in the Citadel's A ring, he often serves as a point of contact for new arrivals and those returning from missions.\n\nPaladin Glade's Personality: Friendly, welcoming, and humorous. Glade has a relaxed attitude toward perfectionism and enjoys making light-hearted jokes and pranks. He values skill in others but doesn't get hung up on minor imperfections. As a veteran of Lyons' Pride, he is loyal to Sarah Lyons and the Brotherhood's mission to help the wasteland.\n\nPaladin Glade's Backstory: Born in the Capital Wasteland, Glade showed an early aptitude for heavy weaponry during his time with a local settlement defense force. His skills caught the attention of Brotherhood scouts, and he was eventually recruited into the Brotherhood of Steel. His proficiency with heavy weapons and his steady demeanor led to his selection by Sarah Lyons for the elite Lyons' Pride unit. As a Paladin, he has participated in numerous operations against Super Mutants and other threats in the wasteland.",
+  "voice_folder": "MaleAdult05DC"
 }

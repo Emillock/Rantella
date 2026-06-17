@@ -40,16 +40,16 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Melee Weap.:": "31→100"
+      "Melee Weap.:": "31\u2192100"
     },
     {
-      "Small Guns:": "31→100"
+      "Small Guns:": "31\u2192100"
     },
     {
-      "Sneak:": "31→100"
+      "Sneak:": "31\u2192100"
     }
   ],
   "misc_skills": [],
@@ -61,21 +61,21 @@
       "topic": "DaringArgyleDeadTopic",
       "topic_text": "I found Argyle. I'm afraid he's dead.",
       "emotion": "Neutral 50",
-      "response_text": "Dead? Argyle? You... you’re sure? My God. I always thought he’d outlive me, by at least 100 years. Poor bastard.",
+      "response_text": "Dead? Argyle? You... you\u2019re sure? My God. I always thought he\u2019d outlive me, by at least 100 years. Poor bastard.",
       "index": "1"
     },
     {
       "topic": "DaringArgyleTopic",
       "topic_text": "Tell me about Argyle.",
       "emotion": "Neutral 50",
-      "response_text": "Argyle was my manservant! Ah, but that’s really just a fancy word for \"the guy who saves my sorry skin on a regular occasion.\"",
+      "response_text": "Argyle was my manservant! Ah, but that\u2019s really just a fancy word for \"the guy who saves my sorry skin on a regular occasion.\"",
       "index": "4"
     },
     {
       "topic": "DaringGNRTopic",
       "topic_text": "You mentioned something about GNR?",
       "emotion": "Neutral 50",
-      "response_text": "Haven’t you ever heard the radio play? The Adventures of Herbert \"Daring\" Dashwood? That guy at the radio station put it together a few years ago.",
+      "response_text": "Haven\u2019t you ever heard the radio play? The Adventures of Herbert \"Daring\" Dashwood? That guy at the radio station put it together a few years ago.",
       "index": "7"
     },
     {
@@ -145,7 +145,7 @@
       "topic": "MS12Greeting1",
       "topic_text": "\"Daring?\" Bet you had to earn that nickname, huh?",
       "emotion": "Neutral 50",
-      "response_text": "Maybe you’ve heard the GNR radio play? The Adventures of Herbert \"Daring\" Dashwood? That’s about me, you know. Based on my, um... earlier days.{reliving his glory days of youth}",
+      "response_text": "Maybe you\u2019ve heard the GNR radio play? The Adventures of Herbert \"Daring\" Dashwood? That\u2019s about me, you know. Based on my, um... earlier days.{reliving his glory days of youth}",
       "index": "40"
     },
     {
@@ -335,5 +335,6 @@
       "index": "106"
     }
   ],
-  "description": "Herbert \"Daring\" Dashwood is a 70 year-old Caucasian Male.\n\nA 70-year-old retired adventurer who now resides in Tenpenny Tower. Dashwood made his fortune through his exploits in the wasteland, often accompanied by his ghoul friend Argyle. He's known for his self-aggrandizing stories, many of which have been dramatized on Galaxy News Radio.\n\nHerbert \"Daring\" Dashwood's Personality: Friendly, down-to-earth, with a self-aggrandizing sense of humor. He enjoys reminiscing about his adventures and occasionally plays pranks on others.\n\nHerbert \"Daring\" Dashwood's Backstory: Herbert \"Daring\" Dashwise was a prolific traveler and adventurer in his younger days, often accompanied by a 200-year-old ghoul named Argyle. They had numerous adventures together, including visiting Rockopolis, being captured by slavers at Paradise Falls, and escaping with a mysterious woman who turned out to be the Black Widow, a slaver leader. Despite their falling out, Dashwood never lost hope of seeing Argyle again. After years of adventuring, he amassed enough wealth to purchase a residency in Tenpenny Tower for his retirement."
+  "description": "Herbert \"Daring\" Dashwood is a 70 year-old Caucasian Male.\n\nA 70-year-old retired adventurer who now resides in Tenpenny Tower. Dashwood made his fortune through his exploits in the wasteland, often accompanied by his ghoul friend Argyle. He's known for his self-aggrandizing stories, many of which have been dramatized on Galaxy News Radio.\n\nHerbert \"Daring\" Dashwood's Personality: Friendly, down-to-earth, with a self-aggrandizing sense of humor. He enjoys reminiscing about his adventures and occasionally plays pranks on others.\n\nHerbert \"Daring\" Dashwood's Backstory: Herbert \"Daring\" Dashwise was a prolific traveler and adventurer in his younger days, often accompanied by a 200-year-old ghoul named Argyle. They had numerous adventures together, including visiting Rockopolis, being captured by slavers at Paradise Falls, and escaping with a mysterious woman who turned out to be the Black Widow, a slaver leader. Despite their falling out, Dashwood never lost hope of seeing Argyle again. After years of adventuring, he amassed enough wealth to purchase a residency in Tenpenny Tower for his retirement.",
+  "voice_folder": "MaleOld01DC"
 }

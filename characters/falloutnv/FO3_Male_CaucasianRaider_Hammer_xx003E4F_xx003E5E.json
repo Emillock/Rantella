@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -92,5 +92,6 @@
     }
   ],
   "combat": [],
-  "description": "Hammer is a 35 year-old Human Male.\n\nHammer is a formidable Pitt raider who serves as the gatekeeper of The Mill, controlling access to the Pitt Uptown. Standing at a towering height with a muscular build, he wields a massive hammer with deadly precision. His face bears several scars from his time in the arena, a constant reminder of his brutal past. Hammer's eyes are cold and calculating, always assessing potential threats or opportunities.\n\nHammer's Personality: Hammer is ruthless, pragmatic, and takes pleasure in exerting his authority over others. He believes in the survival of the fittest and has no sympathy for those he deems weak. Despite his brutal nature, he has a twisted sense of honor when it comes to the rules of the Pitt, particularly the arena. He respects strength and skill, especially when demonstrated in combat.\n\nHammer's Backstory: Born in the Pitt, Hammer spent his early years as a slave, forced to labor in the toxic mills under the watchful eye of the Pitt's rulers. His life changed when he was thrown into the Hole, the Pitt's underground arena, as entertainment for the raiders. Rather than succumbing to defeat, Hammer discovered a natural talent for combat, particularly with blunt weapons. His ferocity and effectiveness in the arena earned him his nickname 'Hammer' and eventually his freedom. Now, as a high-ranking raider, he oversees the gate to the Uptown, ensuring that only those who have proven their worth through combat are granted access."
+  "description": "Hammer is a 35 year-old Human Male.\n\nHammer is a formidable Pitt raider who serves as the gatekeeper of The Mill, controlling access to the Pitt Uptown. Standing at a towering height with a muscular build, he wields a massive hammer with deadly precision. His face bears several scars from his time in the arena, a constant reminder of his brutal past. Hammer's eyes are cold and calculating, always assessing potential threats or opportunities.\n\nHammer's Personality: Hammer is ruthless, pragmatic, and takes pleasure in exerting his authority over others. He believes in the survival of the fittest and has no sympathy for those he deems weak. Despite his brutal nature, he has a twisted sense of honor when it comes to the rules of the Pitt, particularly the arena. He respects strength and skill, especially when demonstrated in combat.\n\nHammer's Backstory: Born in the Pitt, Hammer spent his early years as a slave, forced to labor in the toxic mills under the watchful eye of the Pitt's rulers. His life changed when he was thrown into the Hole, the Pitt's underground arena, as entertainment for the raiders. Rather than succumbing to defeat, Hammer discovered a natural talent for combat, particularly with blunt weapons. His ferocity and effectiveness in the arena earned him his nickname 'Hammer' and eventually his freedom. Now, as a high-ranking raider, he oversees the gate to the Uptown, ensuring that only those who have proven their worth through combat are granted access.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

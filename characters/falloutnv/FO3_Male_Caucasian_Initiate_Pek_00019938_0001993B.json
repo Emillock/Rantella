@@ -30,16 +30,16 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "40→53→70"
+      "Small Guns:": "40\u219253\u219270"
     }
   ],
   "misc_skills": [],
@@ -127,5 +127,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Initiate Pek is a 19 year-old Caucasian Male.\n\nA young Brotherhood of Steel initiate with short brown hair and determined eyes. He wears standard Brotherhood power armor that's slightly too big for him, suggesting he's relatively new to the organization. Despite his inexperience, he carries himself with an air of confidence that borders on arrogance.\n\nInitiate Pek's Personality: Headstrong, eager to prove himself, and somewhat naive. Pek is quick to act without fully considering the consequences, which has led to his current predicament. He deeply respects the Brotherhood's code but often interprets it in the most straightforward way possible. Beneath his bravado, he's genuinely afraid but determined not to show it.\n\nInitiate Pek's Backstory: Born in a small settlement near the Capital Wasteland, Pek showed early promise with firearms and mechanical skills. When a Brotherhood of Steel patrol passed through his settlement, he impressed them with his aptitude and determination. At 17, he was accepted as an initiate and taken to the Citadel for training. Though he excels in combat simulations, his lack of real-world experience has been a hindrance. He was assigned to Paladin Hoss's squad as part of their mission to investigate super mutant activity in the Falls Church area."
+  "description": "Initiate Pek is a 19 year-old Caucasian Male.\n\nA young Brotherhood of Steel initiate with short brown hair and determined eyes. He wears standard Brotherhood power armor that's slightly too big for him, suggesting he's relatively new to the organization. Despite his inexperience, he carries himself with an air of confidence that borders on arrogance.\n\nInitiate Pek's Personality: Headstrong, eager to prove himself, and somewhat naive. Pek is quick to act without fully considering the consequences, which has led to his current predicament. He deeply respects the Brotherhood's code but often interprets it in the most straightforward way possible. Beneath his bravado, he's genuinely afraid but determined not to show it.\n\nInitiate Pek's Backstory: Born in a small settlement near the Capital Wasteland, Pek showed early promise with firearms and mechanical skills. When a Brotherhood of Steel patrol passed through his settlement, he impressed them with his aptitude and determination. At 17, he was accepted as an initiate and taken to the Citadel for training. Though he excels in combat simulations, his lack of real-world experience has been a hindrance. He was assigned to Paladin Hoss's squad as part of their mission to investigate super mutant activity in the Falls Church area.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

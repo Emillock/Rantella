@@ -40,16 +40,16 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "10→35→53 (Broken Steelonly) (1.75 times current player level)",
+  "level": "10\u219235\u219253 (Broken Steelonly) (1.75 times current player level)",
   "tag_skills": [
     {
-      "Big Guns:": "70→100"
+      "Big Guns:": "70\u2192100"
     },
     {
-      "Energy Weap.:": "72→100"
+      "Energy Weap.:": "72\u2192100"
     },
     {
-      "Small Guns:": "70→100"
+      "Small Guns:": "70\u2192100"
     }
   ],
   "misc_skills": [
@@ -763,5 +763,6 @@
     }
   ],
   "combat": [],
-  "description": "Reilly is a 30 year-old Caucasian Female.\n\nA resilient mercenary leader who founded Reilly's Rangers, a group dedicated to eradicating super mutants and mapping the Capital Wasteland. Raised by a military man after losing her parents, Reilly carries on his legacy by protecting others and fighting against the wasteland's threats.\n\nReilly's Personality: Determined, resilient, protective, and pragmatic. Reilly has a strong sense of duty and leadership, but also carries the weight of responsibility for her Rangers' safety.\n\nReilly's Backstory: Born and raised in the ruins of Washington, D.C., after losing her parents at a young age. Reilly was raised by an unnamed man with a military background who taught her the skills needed to survive in the wasteland. Her adoptive parent died when she was around 18, and she buried him with military honors at Arlington Cemetery. Four years ago, at age 26, she founded Reilly's Rangers to combat the super mutant threat and map the dangerous territories of the Capital Wasteland."
+  "description": "Reilly is a 30 year-old Caucasian Female.\n\nA resilient mercenary leader who founded Reilly's Rangers, a group dedicated to eradicating super mutants and mapping the Capital Wasteland. Raised by a military man after losing her parents, Reilly carries on his legacy by protecting others and fighting against the wasteland's threats.\n\nReilly's Personality: Determined, resilient, protective, and pragmatic. Reilly has a strong sense of duty and leadership, but also carries the weight of responsibility for her Rangers' safety.\n\nReilly's Backstory: Born and raised in the ruins of Washington, D.C., after losing her parents at a young age. Reilly was raised by an unnamed man with a military background who taught her the skills needed to survive in the wasteland. Her adoptive parent died when she was around 18, and she buried him with military honors at Arlington Cemetery. Four years ago, at age 26, she founded Reilly's Rangers to combat the super mutant threat and map the dangerous territories of the Capital Wasteland.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "Deputy Beagle¹",
+  "name": "Deputy Beagle\u00b9",
   "url": "/wiki/Beagle",
   "dialogue_name": "PrimmDeputy.txt",
   "dialogue_url": "/wiki/PrimmDeputy.txt",
@@ -31,16 +31,16 @@
     "Agility": 7,
     "Luck": 4
   },
-  "level": "1→30→50 (DLCs only)",
+  "level": "1\u219230\u219250 (DLCs only)",
   "tag_skills": [
     {
-      "Guns:": "33→100"
+      "Guns:": "33\u2192100"
     },
     {
-      "Melee Weap.:": "31→100"
+      "Melee Weap.:": "31\u2192100"
     },
     {
-      "Unarmed:": "29→100"
+      "Unarmed:": "29\u2192100"
     }
   ],
   "misc_skills": [
@@ -244,5 +244,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Deputy Beagle is a 35 year-old Caucasian Male.\n\nDeputy Beagle is a somewhat dim-witted but well-meaning individual serving as the deputy of Primm in the year 2281. Despite his position, he lacks the common sense and intelligence typically expected of a law enforcement officer. He's often seen wandering around Primm, occasionally attempting to enforce laws in his own clumsy way.\n\nDeputy Beagle's Personality: Deputy Beagle is good-natured but incredibly naive and simple-minded. He takes his role as deputy very seriously, despite lacking the competence to fulfill it effectively. He's eager to please but easily confused, often misunderstanding situations and giving bad advice. Despite his shortcomings, he means well and tries his best to help people, even if his attempts usually end in failure.\n\nDeputy Beagle's Backstory: Born and raised in the Mojave Wasteland, Deputy Beagle led an unremarkable life until about two and a half months before October 11th, 2281, when Sheriff McBain deputized him in Primm. The appointment was likely made out of necessity rather than merit, as Primm was facing issues with bandits and general lawlessness. Beagle, despite his limitations, has remained loyal to Primm and its sheriff, though most residents of the town don't take him seriously. His tenure as deputy has been marked by numerous failed attempts at law enforcement, often resulting in more problems than solutions."
+  "description": "Deputy Beagle is a 35 year-old Caucasian Male.\n\nDeputy Beagle is a somewhat dim-witted but well-meaning individual serving as the deputy of Primm in the year 2281. Despite his position, he lacks the common sense and intelligence typically expected of a law enforcement officer. He's often seen wandering around Primm, occasionally attempting to enforce laws in his own clumsy way.\n\nDeputy Beagle's Personality: Deputy Beagle is good-natured but incredibly naive and simple-minded. He takes his role as deputy very seriously, despite lacking the competence to fulfill it effectively. He's eager to please but easily confused, often misunderstanding situations and giving bad advice. Despite his shortcomings, he means well and tries his best to help people, even if his attempts usually end in failure.\n\nDeputy Beagle's Backstory: Born and raised in the Mojave Wasteland, Deputy Beagle led an unremarkable life until about two and a half months before October 11th, 2281, when Sheriff McBain deputized him in Primm. The appointment was likely made out of necessity rather than merit, as Primm was facing issues with bandits and general lawlessness. Beagle, despite his limitations, has remained loyal to Primm and its sheriff, though most residents of the town don't take him seriously. His tenure as deputy has been marked by numerous failed attempts at law enforcement, often resulting in more problems than solutions.",
+  "voice_folder": "MaleAdult11"
 }

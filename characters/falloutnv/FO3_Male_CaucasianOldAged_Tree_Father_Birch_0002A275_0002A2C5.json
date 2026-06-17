@@ -31,21 +31,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "4 → 12 (player's level x1.5)",
+  "level": "4 \u2192 12 (player's level x1.5)",
   "tag_skills": [
     {
-      "Big Guns:": "47→87"
+      "Big Guns:": "47\u219287"
     },
     {
-      "Small Guns:": "49→89"
+      "Small Guns:": "49\u219289"
     },
     {
-      "Speech:": "45→85"
+      "Speech:": "45\u219285"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "75→115"
+      "Hit Points:": "75\u2192115"
     },
     {
       "Critical Chance:": "5%"
@@ -659,5 +659,6 @@
     }
   ],
   "combat": [],
-  "description": "Tree Father Birch is a 75 year-old Caucasian Male.\n\nBirch is the spiritual and temporal leader of the Treeminders, a cult that worships Harold, the 'god-spirit' in the form of a giant tree. He spends most of his time in the Pavilion, sitting on his throne, occasionally eating, and sleeping for a few hours at night. He also walks around Oasis, overseeing the village more directly.\n\nTree Father Birch's Personality: Birch is wise, calm, and authoritative, embodying the spiritual essence of the Treeminders. He is deeply devoted to Harold and his teachings, and he expects the same devotion from his followers. He can be secretive and protective of Oasis, viewing outsiders with suspicion until they prove their worthiness.\n\nTree Father Birch's Backstory: Birch was once a wanderer in the Capitol Wasteland, searching for meaning in the desolate world. One day, he stumbled upon Oasis and Harold, the sentient tree. Fascinated by Harold's wisdom and the lush oasis in the middle of the wasteland, Birch decided to stay and became one of Harold's first followers. Over time, he rose to become the leader of the Treeminders, guiding the cult in their communion with Harold and expanding the village of Oasis."
+  "description": "Tree Father Birch is a 75 year-old Caucasian Male.\n\nBirch is the spiritual and temporal leader of the Treeminders, a cult that worships Harold, the 'god-spirit' in the form of a giant tree. He spends most of his time in the Pavilion, sitting on his throne, occasionally eating, and sleeping for a few hours at night. He also walks around Oasis, overseeing the village more directly.\n\nTree Father Birch's Personality: Birch is wise, calm, and authoritative, embodying the spiritual essence of the Treeminders. He is deeply devoted to Harold and his teachings, and he expects the same devotion from his followers. He can be secretive and protective of Oasis, viewing outsiders with suspicion until they prove their worthiness.\n\nTree Father Birch's Backstory: Birch was once a wanderer in the Capitol Wasteland, searching for meaning in the desolate world. One day, he stumbled upon Oasis and Harold, the sentient tree. Fascinated by Harold's wisdom and the lush oasis in the middle of the wasteland, Birch decided to stay and became one of Harold's first followers. Over time, he rose to become the leader of the Treeminders, guiding the cult in their communion with Harold and expanding the village of Oasis.",
+  "voice_folder": "MaleOld01DC"
 }

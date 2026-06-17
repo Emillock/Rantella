@@ -40,16 +40,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steel only)",
+  "level": "1\u219220\u219230 (Broken Steel only)",
   "tag_skills": [
     {
-      "Barter:": "34→100"
+      "Barter:": "34\u2192100"
     },
     {
-      "Melee Weap.:": "30→100"
+      "Melee Weap.:": "30\u2192100"
     },
     {
-      "Speech:": "34→100"
+      "Speech:": "34\u2192100"
     }
   ],
   "misc_skills": [],
@@ -257,5 +257,6 @@
     }
   ],
   "combat": [],
-  "description": "Carol is a 226 year-old Ghoul Female.\n\nA 226-year-old female ghoul who survived the Great War by hiding in the Museum of History in Washington D.C. After the war, she eventually settled in Underworld, a ghoul community beneath the Museum of History. Despite her traumatic experiences, Carol maintains a pleasant disposition and is well-liked in Underworld. She is the proprietor of Carol's Place, a bed and breakfast that has become a popular gathering spot for ghouls.\n\nCarol's Personality: Generally cheerful and optimistic, but can be sarcastic and cynical when it comes to humans, referring to them as 'smoothskins.' Carol values companionship and has created a family with Greta and Gob. Despite being a ghoul, she takes pride in her appearance, often wearing a sundress. She has a dry sense of humor and enjoys telling stories about her experiences before and after the Great War.\n\nCarol's Backstory: Born in 2051 in Washington D.C., Carol witnessed the destruction of the city during the Great War in 2077. She survived by hiding in the Museum of History, listening to the chaos unfold outside its walls for weeks. After the initial danger passed, she lived in the ruins of the capital for several decades before finding her way to Underworld, the ghoul community beneath the Museum. Around 2217, she met Greta, and the two began a relationship. Together, they fulfilled Carol's lifelong dream of opening a bed and breakfast, which became Carol's Place in Underworld. Over the years, they 'adopted' Gob, a younger ghoul, and have built a life together in the ghoul community."
+  "description": "Carol is a 226 year-old Ghoul Female.\n\nA 226-year-old female ghoul who survived the Great War by hiding in the Museum of History in Washington D.C. After the war, she eventually settled in Underworld, a ghoul community beneath the Museum of History. Despite her traumatic experiences, Carol maintains a pleasant disposition and is well-liked in Underworld. She is the proprietor of Carol's Place, a bed and breakfast that has become a popular gathering spot for ghouls.\n\nCarol's Personality: Generally cheerful and optimistic, but can be sarcastic and cynical when it comes to humans, referring to them as 'smoothskins.' Carol values companionship and has created a family with Greta and Gob. Despite being a ghoul, she takes pride in her appearance, often wearing a sundress. She has a dry sense of humor and enjoys telling stories about her experiences before and after the Great War.\n\nCarol's Backstory: Born in 2051 in Washington D.C., Carol witnessed the destruction of the city during the Great War in 2077. She survived by hiding in the Museum of History, listening to the chaos unfold outside its walls for weeks. After the initial danger passed, she lived in the ruins of the capital for several decades before finding her way to Underworld, the ghoul community beneath the Museum. Around 2217, she met Greta, and the two began a relationship. Together, they fulfilled Carol's lifelong dream of opening a bed and breakfast, which became Carol's Place in Underworld. Over the years, they 'adopted' Gob, a younger ghoul, and have built a life together in the ghoul community.",
+  "voice_folder": "FemaleGenericGhoulDC"
 }

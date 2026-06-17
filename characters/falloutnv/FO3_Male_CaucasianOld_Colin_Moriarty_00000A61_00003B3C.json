@@ -31,21 +31,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "6→10",
+  "level": "6\u219210",
   "tag_skills": [
     {
-      "Barter:": "59→79"
+      "Barter:": "59\u219279"
     },
     {
-      "Melee Weap.:": "55→75(57→77)"
+      "Melee Weap.:": "55\u219275(57\u219277)"
     },
     {
-      "Speech:": "59→79"
+      "Speech:": "59\u219279"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "50→70"
+      "Hit Points:": "50\u219270"
     },
     {
       "Critical Chance:": "5%"
@@ -439,5 +439,6 @@
       "index": "205"
     }
   ],
-  "description": "Colin Moriarty is a 50 year-old Caucasian Male.\n\nColin Moriarty is a 50-year-old human who has lived in Megaton almost his entire life. He inherited his father's saloon and business empire after his father was killed by raiders in 2241. Moriarty presents himself as a sophisticated businessman with a sharp tongue and sharper business acumen. He can often be found behind the bar of his saloon or leaning on the railing outside, smoking and surveying his town with a proprietorial air.\n\nColin Moriarty's Personality: Colin is a pragmatic and self-assured businessman who operates on a 'just business' philosophy. He values profit above all else and views relationships purely as transactions. He is dismissive of authority figures like Sheriff Lucas Simms, whom he considers merely a facade of order. Moriarty is skeptical of wasteland ideals and dismisses Three Dog's 'Good Fight' as foolishness. He is cynical, calculating, and always looking to benefit himself.\n\nColin Moriarty's Backstory: According to Herbert Dashwood, Colin Moriarty came to the former United States as a child with his family. His father recognized the potential of the area that would become Megaton and established trade routes that eventually helped secure the settlement as a trading hub in the Capital Wasteland. After his father's death during a raider attack in 2241, Colin inherited the family business, including the saloon that bears his name. Over the decades, he has expanded his influence in Megaton, becoming the town's unofficial power broker despite the presence of Sheriff Lucas Simms. Interestingly, Moriarty's saloon played a small role in the history of the Lone Wanderer, as James and Star Paladin Cross stayed there briefly after the child's birth on their way to Vault 101."
+  "description": "Colin Moriarty is a 50 year-old Caucasian Male.\n\nColin Moriarty is a 50-year-old human who has lived in Megaton almost his entire life. He inherited his father's saloon and business empire after his father was killed by raiders in 2241. Moriarty presents himself as a sophisticated businessman with a sharp tongue and sharper business acumen. He can often be found behind the bar of his saloon or leaning on the railing outside, smoking and surveying his town with a proprietorial air.\n\nColin Moriarty's Personality: Colin is a pragmatic and self-assured businessman who operates on a 'just business' philosophy. He values profit above all else and views relationships purely as transactions. He is dismissive of authority figures like Sheriff Lucas Simms, whom he considers merely a facade of order. Moriarty is skeptical of wasteland ideals and dismisses Three Dog's 'Good Fight' as foolishness. He is cynical, calculating, and always looking to benefit himself.\n\nColin Moriarty's Backstory: According to Herbert Dashwood, Colin Moriarty came to the former United States as a child with his family. His father recognized the potential of the area that would become Megaton and established trade routes that eventually helped secure the settlement as a trading hub in the Capital Wasteland. After his father's death during a raider attack in 2241, Colin inherited the family business, including the saloon that bears his name. Over the decades, he has expanded his influence in Megaton, becoming the town's unofficial power broker despite the presence of Sheriff Lucas Simms. Interestingly, Moriarty's saloon played a small role in the history of the Lone Wanderer, as James and Star Paladin Cross stayed there briefly after the child's birth on their way to Vault 101.",
+  "voice_folder": "MaleUniqueMoriarty"
 }

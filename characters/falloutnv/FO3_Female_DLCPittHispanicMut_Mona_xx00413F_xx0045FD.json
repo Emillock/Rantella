@@ -31,27 +31,27 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Melee Weap.:": "34→100"
+      "Melee Weap.:": "34\u2192100"
     },
     {
-      "Small Guns:": "32→100"
+      "Small Guns:": "32\u2192100"
     },
     {
-      "Unarmed:": "30→100"
+      "Unarmed:": "30\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→165→215"
+      "Hit Points:": "70\u2192165\u2192215"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "2.0→5.5"
+      "Unarmed Dam.:": "2.0\u21925.5"
     },
     {
       "Poison Resist.:": "15%"
@@ -106,5 +106,6 @@
     }
   ],
   "combat": [],
-  "description": "Mona is a 32 year-old Hispanic with mutations due to exposure to The Pitt's toxic environment Female.\n\nMona is a formidable Pitt raider known for her ruthless efficiency as a slaver. Her Hispanic features are marred by a degenerative skin condition caused by exposure to the toxic waters of The Pitt. Despite her health issues, she remains a skilled melee fighter and a respected figure among the raiders.\n\nMona's Personality: Ruthless, pragmatic, and opportunistic. Mona values strength and cunning above all else, viewing others as either tools to be used or obstacles to be eliminated. She shows no remorse for her actions and takes pleasure in the suffering of others.\n\nMona's Backstory: Mona was born in The Pitt and has known no other life. She rose through the ranks of the raiders through a combination of combat prowess and cunning, eventually becoming a slaver responsible for capturing and processing new slaves. Her skin condition is a constant reminder of the harsh reality of life in The Pitt, but it has not diminished her resolve to survive and thrive in this brutal society."
+  "description": "Mona is a 32 year-old Hispanic with mutations due to exposure to The Pitt's toxic environment Female.\n\nMona is a formidable Pitt raider known for her ruthless efficiency as a slaver. Her Hispanic features are marred by a degenerative skin condition caused by exposure to the toxic waters of The Pitt. Despite her health issues, she remains a skilled melee fighter and a respected figure among the raiders.\n\nMona's Personality: Ruthless, pragmatic, and opportunistic. Mona values strength and cunning above all else, viewing others as either tools to be used or obstacles to be eliminated. She shows no remorse for her actions and takes pleasure in the suffering of others.\n\nMona's Backstory: Mona was born in The Pitt and has known no other life. She rose through the ranks of the raiders through a combination of combat prowess and cunning, eventually becoming a slaver responsible for capturing and processing new slaves. Her skin condition is a constant reminder of the harsh reality of life in The Pitt, but it has not diminished her resolve to survive and thrive in this brutal society.",
+  "voice_folder": "DLC01RaiderFemaleGruffVoice"
 }

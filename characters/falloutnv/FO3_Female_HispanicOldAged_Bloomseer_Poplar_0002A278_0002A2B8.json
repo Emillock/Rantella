@@ -31,16 +31,16 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "2→10 (equal to player's level)",
+  "level": "2\u219210 (equal to player's level)",
   "tag_skills": [
     {
-      "Barter:": "37→75"
+      "Barter:": "37\u219275"
     },
     {
-      "Melee Weap.:": "33→71"
+      "Melee Weap.:": "33\u219271"
     },
     {
-      "Speech:": "37→75"
+      "Speech:": "37\u219275"
     }
   ],
   "misc_skills": [],
@@ -157,5 +157,6 @@
     }
   ],
   "combat": [],
-  "description": "Bloomseer Poplar is a 60 year-old Hispanic Female.\n\nA skilled healer and scholar of botany, Bloomseer Poplar is a respected member of the Treeminders at Oasis. Combining her medical expertise with the unique properties of the Oasis, she has developed various curatives and played a key role in understanding and harnessing the powers of the Oasis for the benefit of its inhabitants.\n\nBloomseer Poplar's Personality: Knowledgeable, compassionate, and philosophical. Bloomseer is wise beyond her years, with a deep respect for nature and a belief in the healing properties of plants. She is patient and thoughtful, often lost in contemplation of the mysteries of Oasis. Her psychic abilities enhance her intuition and connection to the spiritual aspects of nature.\n\nBloomseer Poplar's Backstory: Born around 2217 to a healer father, Bloomseer Poplar grew up studying his extensive collection of books on trees, plants, and their medicinal properties. At the age of 35, she heard rumors about the mythical Oasis and dedicated the next decade of her life to searching for it. In 2262, she finally discovered the site and was welcomed into the nascent Treeminder community by Tree Father Birch and Leaf Mother Laurel, taking the name 'Poplar' and becoming the third member of the group. Initially met with Birch's suspicion, Laurel's persuasion allowed Poplar to stay and begin studying the ways of the Treeminders. Combining her medical knowledge with the unique properties of Oasis, Poplar helped develop the Ceremony of Purification and other curatives alongside the founders. Over the next fifteen years, she refined her understanding of Harold and Bob, harnessing the powers of Oasis for its denizens. Her expertise in botany and medicine was instrumental in understanding Oasis's flora and developing substances that could control the growth of Bob."
+  "description": "Bloomseer Poplar is a 60 year-old Hispanic Female.\n\nA skilled healer and scholar of botany, Bloomseer Poplar is a respected member of the Treeminders at Oasis. Combining her medical expertise with the unique properties of the Oasis, she has developed various curatives and played a key role in understanding and harnessing the powers of the Oasis for the benefit of its inhabitants.\n\nBloomseer Poplar's Personality: Knowledgeable, compassionate, and philosophical. Bloomseer is wise beyond her years, with a deep respect for nature and a belief in the healing properties of plants. She is patient and thoughtful, often lost in contemplation of the mysteries of Oasis. Her psychic abilities enhance her intuition and connection to the spiritual aspects of nature.\n\nBloomseer Poplar's Backstory: Born around 2217 to a healer father, Bloomseer Poplar grew up studying his extensive collection of books on trees, plants, and their medicinal properties. At the age of 35, she heard rumors about the mythical Oasis and dedicated the next decade of her life to searching for it. In 2262, she finally discovered the site and was welcomed into the nascent Treeminder community by Tree Father Birch and Leaf Mother Laurel, taking the name 'Poplar' and becoming the third member of the group. Initially met with Birch's suspicion, Laurel's persuasion allowed Poplar to stay and begin studying the ways of the Treeminders. Combining her medical knowledge with the unique properties of Oasis, Poplar helped develop the Ceremony of Purification and other curatives alongside the founders. Over the next fifteen years, she refined her understanding of Harold and Bob, harnessing the powers of Oasis for its denizens. Her expertise in botany and medicine was instrumental in understanding Oasis's flora and developing substances that could control the growth of Bob.",
+  "voice_folder": "FemaleOld01DC"
 }

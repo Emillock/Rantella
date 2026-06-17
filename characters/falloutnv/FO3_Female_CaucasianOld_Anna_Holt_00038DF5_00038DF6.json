@@ -174,7 +174,7 @@
       "topic": "MS08ZimmerArgueB",
       "topic_text": "MS08ZimmerArgueB",
       "emotion": "Anger 50",
-      "response_text": "Look, Doctor Zimmer, we’ve been over this. We don’t know about your runaway robot, and we don’t care. This lab is dedicated to solving real problems.{frustrated}",
+      "response_text": "Look, Doctor Zimmer, we\u2019ve been over this. We don\u2019t know about your runaway robot, and we don\u2019t care. This lab is dedicated to solving real problems.{frustrated}",
       "index": "31"
     },
     {
@@ -200,5 +200,6 @@
     }
   ],
   "combat": [],
-  "description": "Anna Holt is a 48 year-old Caucasian Female.\n\nA dedicated botanist working at the Rivet City science lab under Doctor Madison Li. Anna is responsible for developing naturally occurring foodstuffs to support the growing population of the Capital Wasteland. She is known for her expertise in plant genetics and her somewhat irritable demeanor when visitors disrupt her work.\n\nAnna Holt's Personality: Dedicated to her scientific work but easily annoyed by distractions. Impressed by advanced technology and innovation. Pragmatic and willing to adapt to new circumstances.\n\nAnna Holt's Backstory: Anna Holt has spent most of her adult life studying botany in the post-war world. Before joining Project Purity, she worked in various agricultural projects throughout the Capital Wasteland, helping settlements develop sustainable food sources. Her expertise in plant genetics made her an invaluable addition to Doctor Madison Li's team at Rivet City. Despite her somewhat prickly personality, her colleagues respect her knowledge and dedication to improving life in the wasteland."
+  "description": "Anna Holt is a 48 year-old Caucasian Female.\n\nA dedicated botanist working at the Rivet City science lab under Doctor Madison Li. Anna is responsible for developing naturally occurring foodstuffs to support the growing population of the Capital Wasteland. She is known for her expertise in plant genetics and her somewhat irritable demeanor when visitors disrupt her work.\n\nAnna Holt's Personality: Dedicated to her scientific work but easily annoyed by distractions. Impressed by advanced technology and innovation. Pragmatic and willing to adapt to new circumstances.\n\nAnna Holt's Backstory: Anna Holt has spent most of her adult life studying botany in the post-war world. Before joining Project Purity, she worked in various agricultural projects throughout the Capital Wasteland, helping settlements develop sustainable food sources. Her expertise in plant genetics made her an invaluable addition to Doctor Madison Li's team at Rivet City. Despite her somewhat prickly personality, her colleagues respect her knowledge and dedication to improving life in the wasteland.",
+  "voice_folder": "FemaleAdult02DC"
 }

@@ -40,16 +40,16 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Barter:": "32→100"
+      "Barter:": "32\u2192100"
     },
     {
-      "Melee Weap.:": "32→100"
+      "Melee Weap.:": "32\u2192100"
     },
     {
-      "Small Guns:": "34→100"
+      "Small Guns:": "34\u2192100"
     }
   ],
   "misc_skills": [
@@ -322,5 +322,6 @@
     }
   ],
   "combat": [],
-  "description": "Clover is a 25 year-old Asian Female.\n\nA young Asian woman who has been mentally broken by her enslavement. Originally captured by Paradise Falls slavers a few months before August 2277, Clover was systematically abused and tortured until she developed an extreme devotion to her captor, Eulogy Jones. She now serves him as his personal slave, ready to fulfill his desires at a moment's notice. Her constant abuse has made her desperate for Eulogy's attention and approval, causing her to profusely apologize whenever she fails to anticipate his needs. She harbors intense jealousy toward fellow slave Crimson, regularly begging Eulogy to sell her off.\n\nClover's Personality: Submissive, anxious, desperate for approval, jealous, obedient to the point of self-neglect\n\nClover's Backstory: Born in the Capital Wasteland, Clover was captured by slavers from Paradise Falls several months before August 2277. Along with another slave named Crimson, she was subjected to systematic torture and abuse designed to break her mentally and make her completely obedient to her captors. Eulogy Jones claimed her as his personal property, using her for sexual services, protection, and as a stress reliever while continuing to abuse her regularly. Over time, her mind became conditioned to serve him unquestioningly, developing an extreme devotion that borders on obsession."
+  "description": "Clover is a 25 year-old Asian Female.\n\nA young Asian woman who has been mentally broken by her enslavement. Originally captured by Paradise Falls slavers a few months before August 2277, Clover was systematically abused and tortured until she developed an extreme devotion to her captor, Eulogy Jones. She now serves him as his personal slave, ready to fulfill his desires at a moment's notice. Her constant abuse has made her desperate for Eulogy's attention and approval, causing her to profusely apologize whenever she fails to anticipate his needs. She harbors intense jealousy toward fellow slave Crimson, regularly begging Eulogy to sell her off.\n\nClover's Personality: Submissive, anxious, desperate for approval, jealous, obedient to the point of self-neglect\n\nClover's Backstory: Born in the Capital Wasteland, Clover was captured by slavers from Paradise Falls several months before August 2277. Along with another slave named Crimson, she was subjected to systematic torture and abuse designed to break her mentally and make her completely obedient to her captors. Eulogy Jones claimed her as his personal property, using her for sexual services, protection, and as a stress reliever while continuing to abuse her regularly. Over time, her mind became conditioned to serve him unquestioningly, developing an extreme devotion that borders on obsession.",
+  "voice_folder": "FemaleAdult04DC"
 }

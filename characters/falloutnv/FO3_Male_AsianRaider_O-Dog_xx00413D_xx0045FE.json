@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -91,5 +91,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "O-Dog is a 28 year-old Asian Male.\n\nO-Dog is a member of The Pitt raiders, known for his sharpshooting skills and disturbing habit of referring to people as 'meat.' He spends his days practicing his aim by shooting beer bottles from a distance with his .32 hunting rifle, often found patrolling Uptown or in the courtyard of Haven.\n\nO-Dog's Personality: O-Dog has a twisted worldview, seeing all individuals as different grades of meat. He is a skilled sniper with a competitive streak, particularly when it comes to winning the attention of Vikia. Despite his cannibalistic tendencies and raider lifestyle, he maintains a certain level of discipline in his marksmanship.\n\nO-Dog's Backstory: O-Dog was born and raised in the industrial wasteland that became The Pitt. From a young age, he was exposed to the brutal realities of raider life, where only the strong survive. He quickly developed a talent for marksmanship, which earned him a place among the raiders. Over time, his experiences in the harsh environment warped his perception of others, leading to his disturbing habit of viewing people as mere meat. Despite his sinister nature, he maintains a romantic interest in Vikia, though his advances are consistently rejected due to his unsettling behavior."
+  "description": "O-Dog is a 28 year-old Asian Male.\n\nO-Dog is a member of The Pitt raiders, known for his sharpshooting skills and disturbing habit of referring to people as 'meat.' He spends his days practicing his aim by shooting beer bottles from a distance with his .32 hunting rifle, often found patrolling Uptown or in the courtyard of Haven.\n\nO-Dog's Personality: O-Dog has a twisted worldview, seeing all individuals as different grades of meat. He is a skilled sniper with a competitive streak, particularly when it comes to winning the attention of Vikia. Despite his cannibalistic tendencies and raider lifestyle, he maintains a certain level of discipline in his marksmanship.\n\nO-Dog's Backstory: O-Dog was born and raised in the industrial wasteland that became The Pitt. From a young age, he was exposed to the brutal realities of raider life, where only the strong survive. He quickly developed a talent for marksmanship, which earned him a place among the raiders. Over time, his experiences in the harsh environment warped his perception of others, leading to his disturbing habit of viewing people as mere meat. Despite his sinister nature, he maintains a romantic interest in Vikia, though his advances are consistently rejected due to his unsettling behavior.",
+  "voice_folder": "DLC01RaiderMaleColdVoice"
 }

@@ -40,16 +40,16 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "5→20→30",
+  "level": "5\u219220\u219230",
   "tag_skills": [
     {
-      "Big Guns:": "48→100"
+      "Big Guns:": "48\u2192100"
     },
     {
-      "Energy Weap.:": "50→100"
+      "Energy Weap.:": "50\u2192100"
     },
     {
-      "Small Guns:": "44→100"
+      "Small Guns:": "44\u2192100"
     }
   ],
   "misc_skills": [
@@ -333,5 +333,6 @@
     }
   ],
   "combat": [],
-  "description": "Star Paladin Cross is a 40 year-old African American Female.\n\nA high-ranking officer of the Brotherhood of Steel and second-in-command of the Capital Wasteland chapter. Cross is a seasoned warrior who has been extensively modified with cybernetic enhancements, eliminating her need for food or sleep. She serves as seneschal to Elder Lyons and holds the title of Keeper of the ARM, overseeing the Brotherhood's advanced weaponry. Her power armor is a unique variant but offers no statistical advantage over standard power armor.\n\nStar Paladin Cross's Personality: Disciplined, loyal, pragmatic, and protective. Cross is dedicated to the Brotherhood's mission of preserving technology and protecting the innocent. She maintains a formal military demeanor but shows genuine concern for those under her command. Her cyborg nature has made her somewhat detached from human needs but hasn't diminished her commitment to the Brotherhood's values.\n\nStar Paladin Cross's Backstory: Born before the Great War, Cross joined the Brotherhood of Steel at a young age and proved herself as a capable soldier. Her defining moment came when she was gravely wounded while protecting Elder Owyn Lyons during a critical mission. To save her life, Scribe Reginald Rothchild performed experimental cybernetic modifications, transforming her into a cyborg. After the Brotherhood established itself in the Capital Wasteland, Cross was assigned to protect Project Purity from its inception in 2257. When lead scientist Catherine died during childbirth, causing the project to stall, Cross remained committed to its eventual completion. By 2277, her exemplary service earned her the rank of Star Paladin and the position of Keeper of the ARM."
+  "description": "Star Paladin Cross is a 40 year-old African American Female.\n\nA high-ranking officer of the Brotherhood of Steel and second-in-command of the Capital Wasteland chapter. Cross is a seasoned warrior who has been extensively modified with cybernetic enhancements, eliminating her need for food or sleep. She serves as seneschal to Elder Lyons and holds the title of Keeper of the ARM, overseeing the Brotherhood's advanced weaponry. Her power armor is a unique variant but offers no statistical advantage over standard power armor.\n\nStar Paladin Cross's Personality: Disciplined, loyal, pragmatic, and protective. Cross is dedicated to the Brotherhood's mission of preserving technology and protecting the innocent. She maintains a formal military demeanor but shows genuine concern for those under her command. Her cyborg nature has made her somewhat detached from human needs but hasn't diminished her commitment to the Brotherhood's values.\n\nStar Paladin Cross's Backstory: Born before the Great War, Cross joined the Brotherhood of Steel at a young age and proved herself as a capable soldier. Her defining moment came when she was gravely wounded while protecting Elder Owyn Lyons during a critical mission. To save her life, Scribe Reginald Rothchild performed experimental cybernetic modifications, transforming her into a cyborg. After the Brotherhood established itself in the Capital Wasteland, Cross was assigned to protect Project Purity from its inception in 2257. When lead scientist Catherine died during childbirth, causing the project to stall, Cross remained committed to its eventual completion. By 2277, her exemplary service earned her the rank of Star Paladin and the position of Keeper of the ARM.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

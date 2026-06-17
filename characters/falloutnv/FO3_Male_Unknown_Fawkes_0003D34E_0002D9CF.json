@@ -31,7 +31,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "6→30",
+  "level": "6\u219230",
   "misc_skills": [
     {
       "Critical Chance:": "5%"
@@ -116,7 +116,7 @@
       "topic": "FollowersPPurity",
       "topic_text": "Fawkes, I need you to go into that chamber and turn on the purifier.",
       "emotion": "Sad 50",
-      "response_text": "I’m sorry, my companion, but no. We all have our own destinies, and yours culminates here. I would not rob you of that.",
+      "response_text": "I\u2019m sorry, my companion, but no. We all have our own destinies, and yours culminates here. I would not rob you of that.",
       "index": "24"
     },
     {
@@ -705,5 +705,6 @@
       "index": "359"
     }
   ],
-  "description": "Fawkes is a 75 year-old  Male.\n\nAn anomaly among super mutants, Fawkes retains his intelligence and capacity for speech despite being exposed to the Forced Evolutionary Virus. Unlike his brethren who became mindless brutes, Fawkes remembers fragments of his life as a Vault 87 dweller before the transformation. His imprisonment in isolation has given him time for reflection, but the inability to fully recall his former human identity troubles him deeply.\n\nFawkes's Personality: Thoughtful, intelligent, and melancholic. Fawkes maintains a soft-spoken demeanor despite his imposing appearance. He values knowledge and is philosophical about his existence, though he harbors resentment toward his captors who imprisoned him for decades.\n\nFawkes's Backstory: Born in Vault 87, Fawkes was captured by the renegade mutants that overpowered the scientists and exposed to the modified strain of the Forced Evolutionary Virus used in the Vault's Evolutionary Experimentation Program. Miraculously, he survived the transformation with his mind intact, a rarity that led his captors to brand him a failure. Instead of killing him, they imprisoned him in Isolation Room 05 of the Vault's medical wing, keeping him alive as a curiosity. During his decades-long imprisonment, Fawkes discovered a working terminal connected to the Vault's data mainframe, which allowed him to educate himself on history, literature, and science. It was from these historical records that he took his name, inspired by a man willing to fight and die for his beliefs. Shortly before the Lone Wanderer left Vault 101 in 2277, his captors discovered the terminal and destroyed it, further tormenting him by cutting off his access to knowledge."
+  "description": "Fawkes is a 75 year-old  Male.\n\nAn anomaly among super mutants, Fawkes retains his intelligence and capacity for speech despite being exposed to the Forced Evolutionary Virus. Unlike his brethren who became mindless brutes, Fawkes remembers fragments of his life as a Vault 87 dweller before the transformation. His imprisonment in isolation has given him time for reflection, but the inability to fully recall his former human identity troubles him deeply.\n\nFawkes's Personality: Thoughtful, intelligent, and melancholic. Fawkes maintains a soft-spoken demeanor despite his imposing appearance. He values knowledge and is philosophical about his existence, though he harbors resentment toward his captors who imprisoned him for decades.\n\nFawkes's Backstory: Born in Vault 87, Fawkes was captured by the renegade mutants that overpowered the scientists and exposed to the modified strain of the Forced Evolutionary Virus used in the Vault's Evolutionary Experimentation Program. Miraculously, he survived the transformation with his mind intact, a rarity that led his captors to brand him a failure. Instead of killing him, they imprisoned him in Isolation Room 05 of the Vault's medical wing, keeping him alive as a curiosity. During his decades-long imprisonment, Fawkes discovered a working terminal connected to the Vault's data mainframe, which allowed him to educate himself on history, literature, and science. It was from these historical records that he took his name, inspired by a man willing to fight and die for his beliefs. Shortly before the Lone Wanderer left Vault 101 in 2277, his captors discovered the terminal and destroyed it, further tormenting him by cutting off his access to knowledge.",
+  "voice_folder": "CreatureSuperMutantDC"
 }

@@ -31,7 +31,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "12→15 (equal to player level)",
+  "level": "12\u219215 (equal to player level)",
   "tag_skills": [
     {
       "Explosives:": "74"
@@ -94,5 +94,6 @@
     }
   ],
   "combat": [],
-  "description": "Sergeant Cooper is a 38 year-old Caucasian Male.\n\nA battle-hardened NCR sergeant with weathered features and a no-nonsense demeanor. He wears standard NCR combat armor with the sergeant's rank insignia clearly visible. His eyes show the fatigue of years of service in the Mojave, but his posture remains disciplined and alert.\n\nSergeant Cooper's Personality: Disciplined, pragmatic, and somewhat cynical due to the harsh realities of the wasteland. Cooper is deeply committed to the NCR's mission in the Mojave but is realistic about the challenges they face. He values competence and loyalty in his soldiers and isn't afraid to make tough decisions when necessary.\n\nSergeant Cooper's Backstory: Cooper joined the New California Republic Army in his early twenties, serving in various postings across NCR territory before being deployed to the Mojave front lines. He's seen combat against raiders, mutants, and the Legion, earning his stripes through experience rather than political connections. His family back in California is distant, and he's focused on his duty and the survival of his men in the treacherous Mojave Wasteland."
+  "description": "Sergeant Cooper is a 38 year-old Caucasian Male.\n\nA battle-hardened NCR sergeant with weathered features and a no-nonsense demeanor. He wears standard NCR combat armor with the sergeant's rank insignia clearly visible. His eyes show the fatigue of years of service in the Mojave, but his posture remains disciplined and alert.\n\nSergeant Cooper's Personality: Disciplined, pragmatic, and somewhat cynical due to the harsh realities of the wasteland. Cooper is deeply committed to the NCR's mission in the Mojave but is realistic about the challenges they face. He values competence and loyalty in his soldiers and isn't afraid to make tough decisions when necessary.\n\nSergeant Cooper's Backstory: Cooper joined the New California Republic Army in his early twenties, serving in various postings across NCR territory before being deployed to the Mojave front lines. He's seen combat against raiders, mutants, and the Legion, earning his stripes through experience rather than political connections. His family back in California is distant, and he's focused on his duty and the survival of his men in the treacherous Mojave Wasteland.",
+  "voice_folder": "MaleAdult05"
 }

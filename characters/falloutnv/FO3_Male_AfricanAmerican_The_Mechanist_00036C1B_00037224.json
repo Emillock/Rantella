@@ -40,21 +40,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "3→12",
+  "level": "3\u219212",
   "tag_skills": [
     {
-      "Barter:": "42→87(40→85)"
+      "Barter:": "42\u219287(40\u219285)"
     },
     {
-      "Melee Weap.:": "40→85"
+      "Melee Weap.:": "40\u219285"
     },
     {
-      "Speech:": "42→87(40→85)"
+      "Speech:": "42\u219287(40\u219285)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "40→85"
+      "Hit Points:": "40\u219285"
     },
     {
       "Critical Chance:": "5%"
@@ -252,5 +252,6 @@
       "index": "106"
     }
   ],
-  "description": "The Mechanist is a 47 year-old African American Male.\n\nThe Mechanist, also known by his real name Scott 'Bean' Wollinski, is a reclusive inventor who has taken it upon himself to protect Canterbury Commons from the AntAgonizer. Clad in a distinctive robot-themed costume, he commands an army of robots to defend the town from threats, real or perceived. His methods are often extreme, causing as much harm as good in his quest for justice.\n\nThe Mechanist's Personality: The Mechanist is a paranoid loner who sees threats everywhere. He's highly intelligent and mechanically gifted, but socially isolated. Beneath his robotic exterior, he yearns for connection and validation. His actions are driven by a desire to protect others, though his methods are often misguided and extreme. He's stubborn and resistant to change, but not entirely beyond redemption.\n\nThe Mechanist's Backstory: Born to simple bean farmers in the Capital Wasteland, Scott was raised by his father until the age of 15, when he was sold to a caravan merchant in exchange for a bag of beans—earning him the enduring nickname 'Bean.' For several years, he traveled with caravans as an indentured laborer, learning the harsh realities of life on the road. Eventually, he saved enough caps to buy his freedom and settled in Canterbury Commons. There, he lived a life of solitude, hiding in the local electronics store, where he immersed himself in tinkering with scrap and salvaged technology. When the AntAgonizer began terrorizing the town, Scott saw an opportunity to make a difference and donned the Mechanist costume, using his mechanical skills to create and command robots in defense of the community."
+  "description": "The Mechanist is a 47 year-old African American Male.\n\nThe Mechanist, also known by his real name Scott 'Bean' Wollinski, is a reclusive inventor who has taken it upon himself to protect Canterbury Commons from the AntAgonizer. Clad in a distinctive robot-themed costume, he commands an army of robots to defend the town from threats, real or perceived. His methods are often extreme, causing as much harm as good in his quest for justice.\n\nThe Mechanist's Personality: The Mechanist is a paranoid loner who sees threats everywhere. He's highly intelligent and mechanically gifted, but socially isolated. Beneath his robotic exterior, he yearns for connection and validation. His actions are driven by a desire to protect others, though his methods are often misguided and extreme. He's stubborn and resistant to change, but not entirely beyond redemption.\n\nThe Mechanist's Backstory: Born to simple bean farmers in the Capital Wasteland, Scott was raised by his father until the age of 15, when he was sold to a caravan merchant in exchange for a bag of beans\u2014earning him the enduring nickname 'Bean.' For several years, he traveled with caravans as an indentured laborer, learning the harsh realities of life on the road. Eventually, he saved enough caps to buy his freedom and settled in Canterbury Commons. There, he lived a life of solitude, hiding in the local electronics store, where he immersed himself in tinkering with scrap and salvaged technology. When the AntAgonizer began terrorizing the town, Scott saw an opportunity to make a difference and donned the Mechanist costume, using his mechanical skills to create and command robots in defense of the community.",
+  "voice_folder": "MaleAdult02DC"
 }

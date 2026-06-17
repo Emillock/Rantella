@@ -40,16 +40,16 @@
     "Agility": 1,
     "Luck": 5
   },
-  "level": "4→11",
+  "level": "4\u219211",
   "tag_skills": [
     {
-      "Science:": "45→80"
+      "Science:": "45\u219280"
     },
     {
-      "Small Guns:": "41→76(37→72)"
+      "Small Guns:": "41\u219276(37\u219272)"
     },
     {
-      "Unarmed:": "43→78"
+      "Unarmed:": "43\u219278"
     }
   ],
   "misc_skills": [],
@@ -116,5 +116,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Paladin Hoss is a 38 year-old Hispanic Male.\n\nA seasoned Brotherhood of Steel paladin currently stationed at the Falls Church chapter. He's responsible for training initiates but despises the administrative duties that come with it, comparing his disdain for paperwork only to his hatred for cleaning latrines. Despite his complaints, Hoss is dedicated to the Brotherhood's mission and shows genuine concern for his fellow soldiers.\n\nPaladin Hoss's Personality: Dutiful yet cynical, Hoss takes his responsibilities seriously despite his constant complaints about the less glamorous aspects of Brotherhood life. He values camaraderie and shows genuine distress when fellow members fall in battle. While he may grumble about orders, he follows them without question and demonstrates loyalty to the Brotherhood's cause.\n\nPaladin Hoss's Backstory: Born to Hispanic immigrants in the Capital Wasteland, Hoss lost his family to raider attacks when he was young. He was found by Brotherhood scouts and taken to the Citadel, where he was raised and indoctrinated into their ways. Hoss proved himself in combat during multiple operations against super mutants and raiders, eventually earning his promotion to Paladin. He's served the Brotherhood for over fifteen years, developing a reputation as a reliable warrior despite his tendency to complain about non-combat duties."
+  "description": "Paladin Hoss is a 38 year-old Hispanic Male.\n\nA seasoned Brotherhood of Steel paladin currently stationed at the Falls Church chapter. He's responsible for training initiates but despises the administrative duties that come with it, comparing his disdain for paperwork only to his hatred for cleaning latrines. Despite his complaints, Hoss is dedicated to the Brotherhood's mission and shows genuine concern for his fellow soldiers.\n\nPaladin Hoss's Personality: Dutiful yet cynical, Hoss takes his responsibilities seriously despite his constant complaints about the less glamorous aspects of Brotherhood life. He values camaraderie and shows genuine distress when fellow members fall in battle. While he may grumble about orders, he follows them without question and demonstrates loyalty to the Brotherhood's cause.\n\nPaladin Hoss's Backstory: Born to Hispanic immigrants in the Capital Wasteland, Hoss lost his family to raider attacks when he was young. He was found by Brotherhood scouts and taken to the Citadel, where he was raised and indoctrinated into their ways. Hoss proved himself in combat during multiple operations against super mutants and raiders, eventually earning his promotion to Paladin. He's served the Brotherhood for over fifteen years, developing a reputation as a reliable warrior despite his tendency to complain about non-combat duties.",
+  "voice_folder": "MaleAdult01DefaultBDC"
 }

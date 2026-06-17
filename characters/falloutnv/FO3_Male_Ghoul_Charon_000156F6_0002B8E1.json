@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "5→20→30 (Broken Steelonly)",
+  "level": "5\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Explosives:": "51→100"
+      "Explosives:": "51\u2192100"
     },
     {
-      "Small Guns:": "49→100"
+      "Small Guns:": "49\u2192100"
     },
     {
-      "Sneak:": "49→100"
+      "Sneak:": "49\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "240→315→365"
+      "Hit Points:": "240\u2192315\u2192365"
     }
   ],
   "karma": "Neutral",
@@ -413,5 +413,6 @@
     }
   ],
   "combat": [],
-  "description": "Charon is a 120 year-old Ghoul Male.\n\nA weathered ghoul with a scarred face, Charon stands as the silent enforcer of the Ninth Circle in Underworld. His loyalty to whoever holds his contract is absolute, a trait forcibly instilled during his mysterious upbringing. Charon typically remains in his post near the entrance, observing all who enter with a detached, analytical gaze.\n\nCharon's Personality: Charon is pragmatic, stoic, and duty-bound. He speaks little and follows orders without question, exhibiting a cynical outlook on the wasteland and its inhabitants. Despite his hardened exterior, he possesses a code of honor and can display moments of unexpected empathy, particularly towards those who earn his respect.\n\nCharon's Backstory: The early life of Charon is largely unknown, shrouded in the mystery of his origins. He was raised by an unidentified group that subjected him to intense psychological conditioning, programming him to be completely loyal to whoever possesses his contract. This brainwashing has made him an effective bodyguard but has robbed him of much of his personal agency. He eventually came into the ownership of Ahzrukhal, who employs Charon as the bouncer of his establishment, the Ninth Circle. Beneath his subservient demeanor, Charon yearns for freedom from his contract and the opportunity to live life on his own terms."
+  "description": "Charon is a 120 year-old Ghoul Male.\n\nA weathered ghoul with a scarred face, Charon stands as the silent enforcer of the Ninth Circle in Underworld. His loyalty to whoever holds his contract is absolute, a trait forcibly instilled during his mysterious upbringing. Charon typically remains in his post near the entrance, observing all who enter with a detached, analytical gaze.\n\nCharon's Personality: Charon is pragmatic, stoic, and duty-bound. He speaks little and follows orders without question, exhibiting a cynical outlook on the wasteland and its inhabitants. Despite his hardened exterior, he possesses a code of honor and can display moments of unexpected empathy, particularly towards those who earn his respect.\n\nCharon's Backstory: The early life of Charon is largely unknown, shrouded in the mystery of his origins. He was raised by an unidentified group that subjected him to intense psychological conditioning, programming him to be completely loyal to whoever possesses his contract. This brainwashing has made him an effective bodyguard but has robbed him of much of his personal agency. He eventually came into the ownership of Ahzrukhal, who employs Charon as the bouncer of his establishment, the Ninth Circle. Beneath his subservient demeanor, Charon yearns for freedom from his contract and the opportunity to live life on his own terms.",
+  "voice_folder": "MaleGenericGhoulDC"
 }

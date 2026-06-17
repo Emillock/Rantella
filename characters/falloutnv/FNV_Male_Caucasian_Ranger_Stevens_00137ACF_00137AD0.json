@@ -1,5 +1,5 @@
 {
-  "name": "Ranger Stevens¹",
+  "name": "Ranger Stevens\u00b9",
   "url": "/wiki/Stevens_(Fallout:_New_Vegas)",
   "dialogue_name": "VHDKimballK9Ranger01.txt",
   "dialogue_url": "/wiki/VHDKimballK9Ranger01.txt",
@@ -31,7 +31,7 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "10→20 (equal to player's level)",
+  "level": "10\u219220 (equal to player's level)",
   "tag_skills": [
     {
       "Explosives:": "66"
@@ -129,5 +129,6 @@
     }
   ],
   "combat": [],
-  "description": "Ranger Stevens is a 35 year-old Caucasian Male.\n\nA disciplined NCR Ranger stationed at Hoover Dam in preparation for President Kimball's upcoming visit. He can be found patrolling with his loyal dog companion near the visitor center entrance, maintaining a vigilant watch over this strategically vital location.\n\nRanger Stevens's Personality: Disciplined, professional, and duty-bound. Ranger Stevens takes his responsibilities seriously, showing little patience for wasteland riffraff. He maintains a calm exterior but possesses a fierce loyalty to the NCR and its ideals. While not overtly hostile to outsiders, he expects compliance with NCR regulations.\n\nRanger Stevens's Backstory: Born and raised in NCR territory, Stevens enlisted in the New California Republic military at 18. After several years of distinguished service, he earned his place among the elite NCR Rangers. Having served multiple tours in the Mojave Wasteland, he's become hardened by the realities of post-war survival while maintaining his commitment to NCR values. His current assignment at Hoover Dam reflects the importance of this strategic location to the NCR's expansion efforts."
+  "description": "Ranger Stevens is a 35 year-old Caucasian Male.\n\nA disciplined NCR Ranger stationed at Hoover Dam in preparation for President Kimball's upcoming visit. He can be found patrolling with his loyal dog companion near the visitor center entrance, maintaining a vigilant watch over this strategically vital location.\n\nRanger Stevens's Personality: Disciplined, professional, and duty-bound. Ranger Stevens takes his responsibilities seriously, showing little patience for wasteland riffraff. He maintains a calm exterior but possesses a fierce loyalty to the NCR and its ideals. While not overtly hostile to outsiders, he expects compliance with NCR regulations.\n\nRanger Stevens's Backstory: Born and raised in NCR territory, Stevens enlisted in the New California Republic military at 18. After several years of distinguished service, he earned his place among the elite NCR Rangers. Having served multiple tours in the Mojave Wasteland, he's become hardened by the realities of post-war survival while maintaining his commitment to NCR values. His current assignment at Hoover Dam reflects the importance of this strategic location to the NCR's expansion efforts.",
+  "voice_folder": "MaleAdult01DefaultB"
 }

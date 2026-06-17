@@ -31,16 +31,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "6→14",
+  "level": "6\u219214",
   "tag_skills": [
     {
-      "Explosives:": "55→90"
+      "Explosives:": "55\u219290"
     },
     {
-      "Small Guns:": "53→88(55→90)"
+      "Small Guns:": "53\u219288(55\u219290)"
     },
     {
-      "Sneak:": "53→88"
+      "Sneak:": "53\u219288"
     }
   ],
   "misc_skills": [],
@@ -157,5 +157,6 @@
     }
   ],
   "combat": [],
-  "description": "Justin is a 19 year-old Caucasian Male.\n\nA young member of The Family who serves as a caretaker for Ian West. Justin is deeply devoted to Vance and his teachings, having been saved by him from an Enclave patrol at age 14.\n\nJustin's Personality: Eager, headstrong, and friendly to those he doesn't perceive as a threat. Justin is a true believer in Vance's vampire stories and passionately preaches them to other Family members. He forms strong emotional bonds quickly, particularly with Ian West.\n\nJustin's Backstory: Born in the wasteland, Justin's early life was marked by hardship and danger. At age 14, he was captured by Enclave patrols near Rivet City and subjected to brutal treatment by the city guards. It was Vance who rescued him from this fate and brought him into The Family. Since joining, Justin has become one of Vance's most devoted followers, embracing the vampire mythology that Vance has built around their existence. He now serves as a caretaker for Ian West, a newer member of The Family, and has formed a deep emotional bond with him."
+  "description": "Justin is a 19 year-old Caucasian Male.\n\nA young member of The Family who serves as a caretaker for Ian West. Justin is deeply devoted to Vance and his teachings, having been saved by him from an Enclave patrol at age 14.\n\nJustin's Personality: Eager, headstrong, and friendly to those he doesn't perceive as a threat. Justin is a true believer in Vance's vampire stories and passionately preaches them to other Family members. He forms strong emotional bonds quickly, particularly with Ian West.\n\nJustin's Backstory: Born in the wasteland, Justin's early life was marked by hardship and danger. At age 14, he was captured by Enclave patrols near Rivet City and subjected to brutal treatment by the city guards. It was Vance who rescued him from this fate and brought him into The Family. Since joining, Justin has become one of Vance's most devoted followers, embracing the vampire mythology that Vance has built around their existence. He now serves as a caretaker for Ian West, a newer member of The Family, and has formed a deep emotional bond with him.",
+  "voice_folder": "MaleAdult04DC"
 }

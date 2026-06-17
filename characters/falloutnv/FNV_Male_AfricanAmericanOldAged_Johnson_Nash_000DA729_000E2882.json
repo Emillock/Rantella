@@ -1,5 +1,5 @@
 {
-  "name": "Johnson Nash¹",
+  "name": "Johnson Nash\u00b9",
   "url": "/wiki/Johnson_Nash",
   "dialogue_name": "PrimmJohnsonNash.txt",
   "dialogue_url": "/wiki/PrimmJohnsonNash.txt",
@@ -352,5 +352,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Johnson Nash is a 67 year-old African American Male.\n\nJohnson Nash is an elderly African American man and a long-time resident of Primm. Along with his wife Ruby, he manages the town's Mojave Express outpost, handling packages and trading goods. He's a respected member of the Primm community, known for his reliability and fair dealing.\n\nJohnson Nash's Personality: Johnson is a calm, patient, and community-oriented individual. He takes pride in his work and values the safety and prosperity of Primm. He's approachable but professional in his business dealings, always willing to help those who respect the town's rules.\n\nJohnson Nash's Backstory: Johnson Nash was born and raised in the pre-War United States, experiencing the Great War as a young man. Like many survivors, he struggled in the harsh wasteland for decades before finding stability in the New California Republic. Eventually, he and his wife Ruby settled in Primm, where they saw an opportunity to establish a Mojave Express outpost. For nearly eight years, they've been running the business, serving as a vital link in the region's trade network. Johnson has become an integral part of Primm's community, working to maintain order and support the town's growth."
+  "description": "Johnson Nash is a 67 year-old African American Male.\n\nJohnson Nash is an elderly African American man and a long-time resident of Primm. Along with his wife Ruby, he manages the town's Mojave Express outpost, handling packages and trading goods. He's a respected member of the Primm community, known for his reliability and fair dealing.\n\nJohnson Nash's Personality: Johnson is a calm, patient, and community-oriented individual. He takes pride in his work and values the safety and prosperity of Primm. He's approachable but professional in his business dealings, always willing to help those who respect the town's rules.\n\nJohnson Nash's Backstory: Johnson Nash was born and raised in the pre-War United States, experiencing the Great War as a young man. Like many survivors, he struggled in the harsh wasteland for decades before finding stability in the New California Republic. Eventually, he and his wife Ruby settled in Primm, where they saw an opportunity to establish a Mojave Express outpost. For nearly eight years, they've been running the business, serving as a vital link in the region's trade network. Johnson has become an integral part of Primm's community, working to maintain order and support the town's growth.",
+  "voice_folder": "MaleOld01"
 }

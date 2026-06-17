@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -190,5 +190,6 @@
     }
   ],
   "combat": [],
-  "description": "Everett is a 45 year-old Caucasian Male.\n\nEverett is the weathered foreman overseeing the collection of steel ingots from the dangerous steelyard in The Pitt. He maintains a pragmatic, somewhat cruel attitude towards the slaves working under him, yet occasionally shows flickers of sympathy for their struggles.\n\nEverett's Personality: Pragmatic and opportunistic, Everett has developed a tough exterior to survive in The Pitt's brutal environment. He values efficiency and results but isn't entirely without compassion, occasionally showing sympathy for the plight of the slaves. He's also a collector of unique items with interesting stories behind them.\n\nEverett's Backstory: Born and raised in The Pitt, Everett has never known the world before the Great War. He worked his way up from being a slave in the steelyard to becoming a foreman, demonstrating both resilience and a willingness to do what's necessary to survive and advance. His name references the pre-War town of Everett, Pennsylvania, visible from the Pennsylvania Turnpike, suggesting his ancestors may have been from that area. Over the years, he's acquired various unique items through his position and connections, which he occasionally rewards to those who prove their worth."
+  "description": "Everett is a 45 year-old Caucasian Male.\n\nEverett is the weathered foreman overseeing the collection of steel ingots from the dangerous steelyard in The Pitt. He maintains a pragmatic, somewhat cruel attitude towards the slaves working under him, yet occasionally shows flickers of sympathy for their struggles.\n\nEverett's Personality: Pragmatic and opportunistic, Everett has developed a tough exterior to survive in The Pitt's brutal environment. He values efficiency and results but isn't entirely without compassion, occasionally showing sympathy for the plight of the slaves. He's also a collector of unique items with interesting stories behind them.\n\nEverett's Backstory: Born and raised in The Pitt, Everett has never known the world before the Great War. He worked his way up from being a slave in the steelyard to becoming a foreman, demonstrating both resilience and a willingness to do what's necessary to survive and advance. His name references the pre-War town of Everett, Pennsylvania, visible from the Pennsylvania Turnpike, suggesting his ancestors may have been from that area. Over the years, he's acquired various unique items through his position and connections, which he occasionally rewards to those who prove their worth.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

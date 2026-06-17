@@ -31,21 +31,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "2→6",
+  "level": "2\u21926",
   "tag_skills": [
     {
-      "Barter:": "34→53"
+      "Barter:": "34\u219253"
     },
     {
-      "Medicine:": "32→51"
+      "Medicine:": "32\u219251"
     },
     {
-      "Melee Weap.:": "36→55"
+      "Melee Weap.:": "36\u219255"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "21→41(26→46)"
+      "Hit Points:": "21\u219241(26\u219246)"
     },
     {
       "Critical Chance:": "5%"
@@ -193,5 +193,6 @@
     }
   ],
   "combat": [],
-  "description": "Timebomb is a 21 year-old Hispanic Male.\n\nTimebomb is a young Hispanic resident of Big Town, originally hailing from Little Lamplight. Currently, he lies in a coma at Red's clinic, severely wounded from the last super mutant attack that resulted in Red and Shorty's kidnapping. Despite his unconscious state, he occasionally exhibits reflexive behaviors like clapping his hands when spoken to, suggesting some level of awareness remains.\n\nTimebomb's Personality: Before his injury, Timebomb was known for his bravery and protective nature toward the residents of Big Town. He had a romantic relationship with Bittercup, which suggests he was capable of forming deep connections. Even in his comatose state, his occasional responses indicate a resilient spirit that refuses to completely give up.\n\nTimebomb's Backstory: Born and raised in Little Lamplight, Timebomb eventually left as most residents do upon reaching adulthood. He settled in Big Town, where he became one of its dedicated protectors. He formed a close relationship with Bittercup, though the nature of their romance was complicated by the harsh realities of life in the wasteland. During the last super mutant attack, Timebomb fought valiantly to defend the town but was critically injured while trying to save others from capture."
+  "description": "Timebomb is a 21 year-old Hispanic Male.\n\nTimebomb is a young Hispanic resident of Big Town, originally hailing from Little Lamplight. Currently, he lies in a coma at Red's clinic, severely wounded from the last super mutant attack that resulted in Red and Shorty's kidnapping. Despite his unconscious state, he occasionally exhibits reflexive behaviors like clapping his hands when spoken to, suggesting some level of awareness remains.\n\nTimebomb's Personality: Before his injury, Timebomb was known for his bravery and protective nature toward the residents of Big Town. He had a romantic relationship with Bittercup, which suggests he was capable of forming deep connections. Even in his comatose state, his occasional responses indicate a resilient spirit that refuses to completely give up.\n\nTimebomb's Backstory: Born and raised in Little Lamplight, Timebomb eventually left as most residents do upon reaching adulthood. He settled in Big Town, where he became one of its dedicated protectors. He formed a close relationship with Bittercup, though the nature of their romance was complicated by the harsh realities of life in the wasteland. During the last super mutant attack, Timebomb fought valiantly to defend the town but was critically injured while trying to save others from capture.",
+  "voice_folder": "MaleAdult04DC"
 }

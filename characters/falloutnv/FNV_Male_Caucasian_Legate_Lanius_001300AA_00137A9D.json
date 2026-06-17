@@ -32,24 +32,24 @@
     "Agility": 7,
     "Luck": 7
   },
-  "level": "15→30 (Player Level x 1.30)",
+  "level": "15\u219230 (Player Level x 1.30)",
   "tag_skills": [
     {
-      "Guns:": "95→100"
+      "Guns:": "95\u2192100"
     },
     {
-      "Melee Weap.:": "99→100"
+      "Melee Weap.:": "99\u2192100"
     },
     {
-      "Unarmed:": "97→100"
+      "Unarmed:": "97\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "845→920"
+      "Hit Points:": "845\u2192920"
     },
     {
-      "Fatigue:": "760→910"
+      "Fatigue:": "760\u2192910"
     },
     {
       "Poison Resist.:": "100%"
@@ -541,5 +541,6 @@
       "index": "167"
     }
   ],
-  "description": "Legate Lanius is a 48 year-old Caucasian Male.\n\nA fearsome warrior and commander of Caesar's Legion, Lanius is known for his brutal tactics and unwavering devotion to Caesar. His face is concealed behind an iron helmet, a symbol of the new identity he was given after his original face was torn off. Lanius has conquered numerous tribes in the territories east of the Colorado River and is now tasked with leading the Legion's campaign for Hoover Dam in the Mojave Wasteland.\n\nLegate Lanius's Personality: Ruthless, disciplined, and ideologically driven. Lanius views war as the crucible of civilization where the weak are consumed to forge the strong. He is devoted to Caesar and the Legion's cause, though he has his reservations about the Mojave campaign. He is a tactical genius who senses weakness in his opponents and exploits it mercilessly.\n\nLegate Lanius's Backstory: Little is known of Lanius's early life with accounts varying from him being the greatest warrior of the Hidebarks tribe to being born into Legion slavery. What is consistent is his legendary battlefield prowess. After his tribe surrendered to Caesar, Lanius went on a rampage, killing fifteen of his own warriors before being subdued. Caesar saved him, offered him a new face in the form of an iron helmet, and Lanius swore allegiance to Caesar on the condition he could slaughter the remaining males of his tribe. Since then, he has conquered 19 tribes, with 14 surrendering and assimilating while five were put to the sword. After the Legion's failure at Hoover Dam in 2277, Lanius was appointed as the new commander of the campaign in 2281."
+  "description": "Legate Lanius is a 48 year-old Caucasian Male.\n\nA fearsome warrior and commander of Caesar's Legion, Lanius is known for his brutal tactics and unwavering devotion to Caesar. His face is concealed behind an iron helmet, a symbol of the new identity he was given after his original face was torn off. Lanius has conquered numerous tribes in the territories east of the Colorado River and is now tasked with leading the Legion's campaign for Hoover Dam in the Mojave Wasteland.\n\nLegate Lanius's Personality: Ruthless, disciplined, and ideologically driven. Lanius views war as the crucible of civilization where the weak are consumed to forge the strong. He is devoted to Caesar and the Legion's cause, though he has his reservations about the Mojave campaign. He is a tactical genius who senses weakness in his opponents and exploits it mercilessly.\n\nLegate Lanius's Backstory: Little is known of Lanius's early life with accounts varying from him being the greatest warrior of the Hidebarks tribe to being born into Legion slavery. What is consistent is his legendary battlefield prowess. After his tribe surrendered to Caesar, Lanius went on a rampage, killing fifteen of his own warriors before being subdued. Caesar saved him, offered him a new face in the form of an iron helmet, and Lanius swore allegiance to Caesar on the condition he could slaughter the remaining males of his tribe. Since then, he has conquered 19 tribes, with 14 surrendering and assimilating while five were put to the sword. After the Legion's failure at Hoover Dam in 2277, Lanius was appointed as the new commander of the campaign in 2281.",
+  "voice_folder": "MaleUniqueLanius"
 }

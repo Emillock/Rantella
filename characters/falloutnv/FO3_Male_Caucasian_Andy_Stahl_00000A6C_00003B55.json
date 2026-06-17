@@ -166,7 +166,7 @@
       "topic": "HELLO",
       "topic_text": "HELLO",
       "emotion": "Anger 75",
-      "response_text": "Can I help you, Sheriff?{Annoyed at being interrupted.}Play soundFO3 AndyStahl CanIHelpYouSheriff…https://fallout.fandom.com/wiki/File:FO3_AndyStahl_CanIHelpYouSheriff.oggnoicon",
+      "response_text": "Can I help you, Sheriff?{Annoyed at being interrupted.}Play soundFO3 AndyStahl CanIHelpYouSheriff\u2026https://fallout.fandom.com/wiki/File:FO3_AndyStahl_CanIHelpYouSheriff.oggnoicon",
       "index": "32"
     },
     {
@@ -180,7 +180,7 @@
       "topic": "MegatonTalk2",
       "topic_text": "MegatonTalk2",
       "emotion": "Neutral 50",
-      "response_text": "I noticed some irregularities in the logs here. Are you tracking the drinks that you're selling like I told you?Play soundFO3 AndyStahl NoticedSomeIrregul…https://fallout.fandom.com/wiki/File:FO3_AndyStahl_NoticedSomeIrregularities.oggnoicon",
+      "response_text": "I noticed some irregularities in the logs here. Are you tracking the drinks that you're selling like I told you?Play soundFO3 AndyStahl NoticedSomeIrregul\u2026https://fallout.fandom.com/wiki/File:FO3_AndyStahl_NoticedSomeIrregularities.oggnoicon",
       "index": "40"
     },
     {
@@ -214,5 +214,6 @@
       "index": "48"
     }
   ],
-  "description": "Andy Stahl is a 40 year-old Caucasian Male.\n\nThe oldest of the Stahl siblings and owner of The Brass Lantern in Megaton. Andy is a pragmatic businessman who views Megaton as a dead end but stays for the revenue it generates for his family. He runs The Brass Lantern as a direct competitor to Moriarty's Saloon, though with less success. His constant work and somewhat hostile demeanor have earned him a reputation as a workaholic among other Megaton residents.\n\nAndy Stahl's Personality: Pragmatic, workaholic, somewhat discontent but responsible. Andy puts his family's needs above his own happiness, focusing on generating income through his business. He can be curt with strangers but maintains a professional demeanor with customers.\n\nAndy Stahl's Backstory: Born before the Great War, Andy spent his early years in a Vault before eventually making his way to the Capital Wasteland. He and his siblings established themselves in Megaton several years ago, with Andy taking the lead in running The Brass Lantern. Despite his efforts, the tavern struggles to compete with Moriarty's established Saloon, causing Andy frustration. He carries the weight of providing for his siblings, which keeps him in Megaton despite his personal dissatisfaction with the settlement."
+  "description": "Andy Stahl is a 40 year-old Caucasian Male.\n\nThe oldest of the Stahl siblings and owner of The Brass Lantern in Megaton. Andy is a pragmatic businessman who views Megaton as a dead end but stays for the revenue it generates for his family. He runs The Brass Lantern as a direct competitor to Moriarty's Saloon, though with less success. His constant work and somewhat hostile demeanor have earned him a reputation as a workaholic among other Megaton residents.\n\nAndy Stahl's Personality: Pragmatic, workaholic, somewhat discontent but responsible. Andy puts his family's needs above his own happiness, focusing on generating income through his business. He can be curt with strangers but maintains a professional demeanor with customers.\n\nAndy Stahl's Backstory: Born before the Great War, Andy spent his early years in a Vault before eventually making his way to the Capital Wasteland. He and his siblings established themselves in Megaton several years ago, with Andy taking the lead in running The Brass Lantern. Despite his efforts, the tavern struggles to compete with Moriarty's established Saloon, causing Andy frustration. He carries the weight of providing for his siblings, which keeps him in Megaton despite his personal dissatisfaction with the settlement.",
+  "voice_folder": "MaleAdult04DC"
 }

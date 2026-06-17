@@ -40,16 +40,16 @@
     "Agility": 8,
     "Luck": 2
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [],
@@ -167,5 +167,6 @@
       "index": "57"
     }
   ],
-  "description": "Butch is a 19 year-old Caucasian Male.\n\nA resident of Vault 101 and leader of the Tunnel Snakes gang. Butch puts on a tough, bullying exterior to mask his feelings of inadequacy stemming from his unknown father and neglectful alcoholic mother.\n\nButch's Personality: Boorish and overbearing on the surface, but with underlying insecurities and a desire for acceptance. Acts as a gang leader to feel powerful and in control.\n\nButch's Backstory: Born and raised in Vault 101, Butch grew up under the care of his mother Ellen, a notorious alcoholic who neglected her parental duties. This lack of proper guidance, combined with not knowing his father despite living in a supposedly close-knit community, led to feelings of inadequacy. To compensate, Butch formed the Tunnel Snakes gang and adopted a persona of toughness and dominance. On July 13, 2268, when he was ten years old, he attempted to strongarm the Wanderer into giving up their sweetroll. Six years later, on August 3, 2274, he and the Tunnel Snakes were verbally harassing Amata when the Wanderer encountered them on their way to take their G.O.A.T. exam."
+  "description": "Butch is a 19 year-old Caucasian Male.\n\nA resident of Vault 101 and leader of the Tunnel Snakes gang. Butch puts on a tough, bullying exterior to mask his feelings of inadequacy stemming from his unknown father and neglectful alcoholic mother.\n\nButch's Personality: Boorish and overbearing on the surface, but with underlying insecurities and a desire for acceptance. Acts as a gang leader to feel powerful and in control.\n\nButch's Backstory: Born and raised in Vault 101, Butch grew up under the care of his mother Ellen, a notorious alcoholic who neglected her parental duties. This lack of proper guidance, combined with not knowing his father despite living in a supposedly close-knit community, led to feelings of inadequacy. To compensate, Butch formed the Tunnel Snakes gang and adopted a persona of toughness and dominance. On July 13, 2268, when he was ten years old, he attempted to strongarm the Wanderer into giving up their sweetroll. Six years later, on August 3, 2274, he and the Tunnel Snakes were verbally harassing Amata when the Wanderer encountered them on their way to take their G.O.A.T. exam.",
+  "voice_folder": "MaleUniqueButchKid"
 }

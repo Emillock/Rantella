@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 6
   },
-  "level": "3→12",
+  "level": "3\u219212",
   "tag_skills": [
     {
-      "Energy Weap.:": "46→85"
+      "Energy Weap.:": "46\u219285"
     },
     {
-      "Small Guns:": "40→79"
+      "Small Guns:": "40\u219279"
     },
     {
-      "Sneak:": "40→79"
+      "Sneak:": "40\u219279"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "40→85(45→90)"
+      "Hit Points:": "40\u219285(45\u219290)"
     },
     {
       "Critical Chance:": "6%"
@@ -81,5 +81,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Arkansas is a 28 year-old Hispanic Male.\n\nA skilled survivor and sniper who has made Minefield his home. Arkansas was a young boy when slavers from Paradise Falls attacked his tribe in Ridgefield, Arkansas. After witnessing the capture of his people, he dedicated himself to protecting the town and exacting revenge. His successful ambush of the slavers transformed Ridgefield into what is now known as Minefield, a place feared by slavers.\n\nArkansas's Personality: Vengeful yet protective. Arkansas is cautious and strategic, preferring to observe from a distance before engaging. He holds a deep-seated hatred for slavers but can be reasonable with those who prove themselves trustworthy. He values independence and self-reliance above all else.\n\nArkansas's Backstory: Born in Ridgefield, Arkansas, Arkansas was just a child when slavers raided his town. While most of his tribe was captured and taken to Paradise Falls, he managed to hide and escape detection. Alone in the ruins of his home, he swore revenge on those who had taken his people. Over the years, he honed his skills in survival and marksmanship, eventually setting up an elaborate defense system of traps and sniper positions. When the slavers returned to claim what they believed was an abandoned settlement, Arkansas was ready. His ambush was so successful that it deterred future slaving raids entirely, and the town became known as Minefield among wasteland travelers."
+  "description": "Arkansas is a 28 year-old Hispanic Male.\n\nA skilled survivor and sniper who has made Minefield his home. Arkansas was a young boy when slavers from Paradise Falls attacked his tribe in Ridgefield, Arkansas. After witnessing the capture of his people, he dedicated himself to protecting the town and exacting revenge. His successful ambush of the slavers transformed Ridgefield into what is now known as Minefield, a place feared by slavers.\n\nArkansas's Personality: Vengeful yet protective. Arkansas is cautious and strategic, preferring to observe from a distance before engaging. He holds a deep-seated hatred for slavers but can be reasonable with those who prove themselves trustworthy. He values independence and self-reliance above all else.\n\nArkansas's Backstory: Born in Ridgefield, Arkansas, Arkansas was just a child when slavers raided his town. While most of his tribe was captured and taken to Paradise Falls, he managed to hide and escape detection. Alone in the ruins of his home, he swore revenge on those who had taken his people. Over the years, he honed his skills in survival and marksmanship, eventually setting up an elaborate defense system of traps and sniper positions. When the slavers returned to claim what they believed was an abandoned settlement, Arkansas was ready. His ambush was so successful that it deterred future slaving raids entirely, and the town became known as Minefield among wasteland travelers.",
+  "voice_folder": "MaleOld01DC"
 }

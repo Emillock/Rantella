@@ -38,21 +38,21 @@
     "Agility": 2,
     "Luck": 6
   },
-  "level": "7→20",
+  "level": "7\u219220",
   "tag_skills": [
     {
-      "Medicine:": "68→100"
+      "Medicine:": "68\u2192100"
     },
     {
-      "Science:": "68→100"
+      "Science:": "68\u2192100"
     },
     {
-      "Speech:": "66→100"
+      "Speech:": "66\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "95→160"
+      "Hit Points:": "95\u2192160"
     },
     {
       "Critical Chance:": "6%"
@@ -218,5 +218,6 @@
     }
   ],
   "combat": [],
-  "description": "Defender Sibley is a 38 year-old African American Male.\n\nA grim and hardened warrior, Defender Sibley is a staunch hardliner within the Brotherhood of Steel Outcasts. He unwaveringly believes in the Outcasts' mission to recover and secure advanced technology, viewing wastelanders as untrustworthy and dangerous. Sibley's rigid ideology puts him at odds with Protector McGraw's more diplomatic approach, though he respects the chain of command and follows orders without question. His suspicious nature makes him effective at rooting out dissent among the ranks but isolates him from potential allies.\n\nDefender Sibley's Personality: Rigid, authoritarian, suspicious, disciplined, and uncompromising. Sibley values order above all else and views any deviation from the Brotherhood's strict code as a potential threat. He is loyal to the Outcast cause but harbors resentment toward those he perceives as weak or compromising.\n\nDefender Sibley's Backstory: Born in the Capital Wasteland, Sibley was recruited into the Brotherhood of Steel at a young age due to his aptitude for combat and unwavering commitment to their principles. He rose through the ranks quickly, earning the respect of his peers but also developing a reputation for his uncompromising stance on technology control. When the Brotherhood split and formed the Outcasts, Sibley was among the first to join their cause, seeing them as the true inheritors of the Brotherhood's mission. His loyalty to Elder Lyons' original vision of isolationism and technology preservation has never wavered, even as others within the Outcasts have grown more desperate in their methods."
+  "description": "Defender Sibley is a 38 year-old African American Male.\n\nA grim and hardened warrior, Defender Sibley is a staunch hardliner within the Brotherhood of Steel Outcasts. He unwaveringly believes in the Outcasts' mission to recover and secure advanced technology, viewing wastelanders as untrustworthy and dangerous. Sibley's rigid ideology puts him at odds with Protector McGraw's more diplomatic approach, though he respects the chain of command and follows orders without question. His suspicious nature makes him effective at rooting out dissent among the ranks but isolates him from potential allies.\n\nDefender Sibley's Personality: Rigid, authoritarian, suspicious, disciplined, and uncompromising. Sibley values order above all else and views any deviation from the Brotherhood's strict code as a potential threat. He is loyal to the Outcast cause but harbors resentment toward those he perceives as weak or compromising.\n\nDefender Sibley's Backstory: Born in the Capital Wasteland, Sibley was recruited into the Brotherhood of Steel at a young age due to his aptitude for combat and unwavering commitment to their principles. He rose through the ranks quickly, earning the respect of his peers but also developing a reputation for his uncompromising stance on technology control. When the Brotherhood split and formed the Outcasts, Sibley was among the first to join their cause, seeing them as the true inheritors of the Brotherhood's mission. His loyalty to Elder Lyons' original vision of isolationism and technology preservation has never wavered, even as others within the Outcasts have grown more desperate in their methods.",
+  "voice_folder": "DLC02MaleUniqueSibley"
 }

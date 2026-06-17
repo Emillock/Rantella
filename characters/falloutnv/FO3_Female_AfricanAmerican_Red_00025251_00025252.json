@@ -40,21 +40,21 @@
     "Agility": 5,
     "Luck": 4
   },
-  "level": "4→8",
+  "level": "4\u21928",
   "tag_skills": [
     {
-      "Barter:": "48→70"
+      "Barter:": "48\u219270"
     },
     {
-      "Medicine:": "50→72"
+      "Medicine:": "50\u219272"
     },
     {
-      "Science:": "50→72"
+      "Science:": "50\u219272"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "80→100"
+      "Hit Points:": "80\u2192100"
     },
     {
       "Damage Res.:": "5%"
@@ -496,5 +496,6 @@
       "index": "164"
     }
   ],
-  "description": "Red is a 38 year-old African American Female.\n\nRed is the doctor and de facto mayor of Big Town in 2277. She is known for her medical skills, leadership, and the blood stains that often mark her clothing. Her nickname also comes from her affinity for the color red.\n\nRed's Personality: Intelligent, slightly sarcastic, and motherly. Red cares deeply for the residents of Big Town and acts as both their physician and leader. She has a pragmatic approach to survival but maintains her compassion for others.\n\nRed's Backstory: Red grew up in the Capital Wasteland and received medical training before settling in Big Town. She previously taught Lucy her medical knowledge while Lucy was still in Little Lamplight, forming a sister-like bond between them. Red eventually moved to Big Town and established a clinic, becoming the community's primary healthcare provider. Over time, she emerged as the unofficial leader, organizing defenses and managing resources. She had a romantic relationship with Sticky Hands, an ex-resident of Little Lamplight, though they eventually went their separate ways."
+  "description": "Red is a 38 year-old African American Female.\n\nRed is the doctor and de facto mayor of Big Town in 2277. She is known for her medical skills, leadership, and the blood stains that often mark her clothing. Her nickname also comes from her affinity for the color red.\n\nRed's Personality: Intelligent, slightly sarcastic, and motherly. Red cares deeply for the residents of Big Town and acts as both their physician and leader. She has a pragmatic approach to survival but maintains her compassion for others.\n\nRed's Backstory: Red grew up in the Capital Wasteland and received medical training before settling in Big Town. She previously taught Lucy her medical knowledge while Lucy was still in Little Lamplight, forming a sister-like bond between them. Red eventually moved to Big Town and established a clinic, becoming the community's primary healthcare provider. Over time, she emerged as the unofficial leader, organizing defenses and managing resources. She had a romantic relationship with Sticky Hands, an ex-resident of Little Lamplight, though they eventually went their separate ways.",
+  "voice_folder": "FemaleAdult02DC"
 }

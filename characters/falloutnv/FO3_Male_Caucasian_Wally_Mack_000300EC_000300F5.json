@@ -96,7 +96,7 @@
       "topic": "CG02WallyMackSpeech",
       "topic_text": "CG02WallyMackSpeech",
       "emotion": "Happy 50",
-      "response_text": "Yeah, Paul, why don't you introduce us to your new best friend?{Butch and Wally turning on Paul}Play soundFO3 WallyMack IntroduceYourFrien…https://fallout.fandom.com/wiki/File:FO3_WallyMack_IntroduceYourFriend.oggnoicon",
+      "response_text": "Yeah, Paul, why don't you introduce us to your new best friend?{Butch and Wally turning on Paul}Play soundFO3 WallyMack IntroduceYourFrien\u2026https://fallout.fandom.com/wiki/File:FO3_WallyMack_IntroduceYourFriend.oggnoicon",
       "index": "14"
     },
     {
@@ -115,5 +115,6 @@
     }
   ],
   "combat": [],
-  "description": "Wally Mack is a 16 year-old Caucasian Male.\n\nWally Mack is a teenage resident of Vault 101 and a member of the Tunnel Snakes gang. He is known for his intelligence and strategic thinking, often serving as the brains of the group despite Butch DeLoria's attempts to claim leadership.\n\nWally Mack's Personality: Wally is intelligent, observant, and thoughtful. He doesn't speak as much as his fellow gang members, but his words carry weight. He is loyal to the Tunnel Snakes but may have his own ambitions beyond the gang.\n\nWally Mack's Backstory: Wally Mack was born and raised in Vault 101 to Allen and Gloria Mack. He has two siblings, Stevie and Susie. During his youth, he formed the Tunnel Snakes gang with Butch DeLoria and Paul Hannon Jr. While Butch acts as the public leader, Wally is the strategic mind of the group. The Tunnel Snakes are known for harassing other vault residents, even taunting Overseer Almodovar's daughter, Amata."
+  "description": "Wally Mack is a 16 year-old Caucasian Male.\n\nWally Mack is a teenage resident of Vault 101 and a member of the Tunnel Snakes gang. He is known for his intelligence and strategic thinking, often serving as the brains of the group despite Butch DeLoria's attempts to claim leadership.\n\nWally Mack's Personality: Wally is intelligent, observant, and thoughtful. He doesn't speak as much as his fellow gang members, but his words carry weight. He is loyal to the Tunnel Snakes but may have his own ambitions beyond the gang.\n\nWally Mack's Backstory: Wally Mack was born and raised in Vault 101 to Allen and Gloria Mack. He has two siblings, Stevie and Susie. During his youth, he formed the Tunnel Snakes gang with Butch DeLoria and Paul Hannon Jr. While Butch acts as the public leader, Wally is the strategic mind of the group. The Tunnel Snakes are known for harassing other vault residents, even taunting Overseer Almodovar's daughter, Amata.",
+  "voice_folder": "MaleAdult04DC"
 }

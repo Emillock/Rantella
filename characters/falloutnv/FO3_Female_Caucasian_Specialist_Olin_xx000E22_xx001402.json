@@ -31,21 +31,21 @@
     "Agility": 4,
     "Luck": 6
   },
-  "level": "5→20",
+  "level": "5\u219220",
   "tag_skills": [
     {
-      "Medicine:": "56→100"
+      "Medicine:": "56\u2192100"
     },
     {
-      "Science:": "56→100"
+      "Science:": "56\u2192100"
     },
     {
-      "Speech:": "54→100"
+      "Speech:": "54\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "85→160"
+      "Hit Points:": "85\u2192160"
     },
     {
       "Critical Chance:": "6%"
@@ -200,5 +200,6 @@
     }
   ],
   "combat": [],
-  "description": "Specialist Olin is a 38 year-old Caucasian Female.\n\nA technical specialist and former member of the Brotherhood of Steel who now serves the Outcasts at the Virtual Strategic Solutions facility. Olin is responsible for maintaining and operating the pre-War simulation technology, particularly the Anchorage Reclamation simulation.\n\nSpecialist Olin's Personality: Olin is pragmatic, technically-minded, and determined. She takes pride in her work and is frustrated by technical limitations. While loyal to the Outcast cause, she occasionally questions the wisdom of their methods, though she keeps these thoughts to herself.\n\nSpecialist Olin's Backstory: Born and raised in the Capital Wasteland, Olin joined the Brotherhood of Steel in her youth, drawn by their mission to preserve pre-War technology. She served faithfully under Elder Owyn Lyons for many years, but grew increasingly disillusioned with his deviation from the Brotherhood's traditional principles. When Lyons refused to follow the orders of the West Coast elders, Olin sided with the hardliners led by Henry Casdin, forming the Outcasts. Her technical expertise earned her a place in the group led by Protector McGraw that seized control of the Virtual Strategic Solutions facility in Washington D.C. Olin now oversees the facility's technology, particularly working to unlock the armory secured by the Anchorage Reclamation simulation. Despite her considerable skills, she has been unable to bypass the system's requirements, a fact that has earned her the derision of Defender Sibley."
+  "description": "Specialist Olin is a 38 year-old Caucasian Female.\n\nA technical specialist and former member of the Brotherhood of Steel who now serves the Outcasts at the Virtual Strategic Solutions facility. Olin is responsible for maintaining and operating the pre-War simulation technology, particularly the Anchorage Reclamation simulation.\n\nSpecialist Olin's Personality: Olin is pragmatic, technically-minded, and determined. She takes pride in her work and is frustrated by technical limitations. While loyal to the Outcast cause, she occasionally questions the wisdom of their methods, though she keeps these thoughts to herself.\n\nSpecialist Olin's Backstory: Born and raised in the Capital Wasteland, Olin joined the Brotherhood of Steel in her youth, drawn by their mission to preserve pre-War technology. She served faithfully under Elder Owyn Lyons for many years, but grew increasingly disillusioned with his deviation from the Brotherhood's traditional principles. When Lyons refused to follow the orders of the West Coast elders, Olin sided with the hardliners led by Henry Casdin, forming the Outcasts. Her technical expertise earned her a place in the group led by Protector McGraw that seized control of the Virtual Strategic Solutions facility in Washington D.C. Olin now oversees the facility's technology, particularly working to unlock the armory secured by the Anchorage Reclamation simulation. Despite her considerable skills, she has been unable to bypass the system's requirements, a fact that has earned her the derision of Defender Sibley.",
+  "voice_folder": "DLC02FemaleUniqueOlin"
 }

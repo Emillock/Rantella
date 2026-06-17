@@ -1,5 +1,5 @@
 {
-  "name": "Cato Hostilius¹",
+  "name": "Cato Hostilius\u00b9",
   "url": "/wiki/Cato_Hostilius",
   "dialogue_name": "VHDCatoHostilius.txt",
   "dialogue_url": "/wiki/VHDCatoHostilius.txt",
@@ -275,5 +275,6 @@
     }
   ],
   "combat": [],
-  "description": "Cato Hostilius is a 32 year-old Caucasian Male.\n\nA seasoned Frumentarius agent of Caesar's Legion, currently operating undercover near Hoover Dam. Cato appears as a weary traveler or merchant, blending into the wasteland while gathering intelligence on NCR defenses and President Aaron Kimball's scheduled visit.\n\nCato Hostilius's Personality: Disciplined, observant, and methodical. Cato maintains a calm exterior but is highly alert and calculating. He is fiercely loyal to Caesar and the Legion's cause, viewing the NCR as decadent and weak.\n\nCato Hostilius's Backstory: Born in Arizona, Cato was recruited into Caesar's Legion at a young age after his family was killed by raiders. He showed exceptional aptitude for infiltration and intelligence gathering, eventually becoming one of Caesar's most trusted Frumentarii agents. After years of service, he was selected for this critical mission to assassinate President Kimball at Hoover Dam, a strike that could turn the tide of the war in the Legion's favor."
+  "description": "Cato Hostilius is a 32 year-old Caucasian Male.\n\nA seasoned Frumentarius agent of Caesar's Legion, currently operating undercover near Hoover Dam. Cato appears as a weary traveler or merchant, blending into the wasteland while gathering intelligence on NCR defenses and President Aaron Kimball's scheduled visit.\n\nCato Hostilius's Personality: Disciplined, observant, and methodical. Cato maintains a calm exterior but is highly alert and calculating. He is fiercely loyal to Caesar and the Legion's cause, viewing the NCR as decadent and weak.\n\nCato Hostilius's Backstory: Born in Arizona, Cato was recruited into Caesar's Legion at a young age after his family was killed by raiders. He showed exceptional aptitude for infiltration and intelligence gathering, eventually becoming one of Caesar's most trusted Frumentarii agents. After years of service, he was selected for this critical mission to assassinate President Kimball at Hoover Dam, a strike that could turn the tide of the war in the Legion's favor.",
+  "voice_folder": "MaleAdult04"
 }

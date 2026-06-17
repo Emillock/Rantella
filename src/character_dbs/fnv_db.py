@@ -41,7 +41,7 @@ class CharacterDB(BaseCharacterDB):
                 "bio": "\n".join(character["descriptions"]) if "descriptions" in character else character["bio"] if "bio" in character else character["description"] if "description" in character else "",
                 "name": character["name"] if "name" in character and character["name"] != "" and str(character["name"]).lower() != "nan" else "",
                 "voice_model": character["voice_type"] if "voice_type" in character else "",
-                "voice_folder": character["voice_type"] if "voice_type" in character else "",
+                "voice_folder": character["voice_folder"] if "voice_folder" in character else character["voice_type"] if "voice_type" in character else "",
                 "race": character["geck_race"] if "geck_race" in character else character["race"] if "race" in character else "",
                 "gender": character["gender"] if "gender" in character else character["gender"] if "gender" in character else "",
                 "species": character["race"] if "race" in character else "",

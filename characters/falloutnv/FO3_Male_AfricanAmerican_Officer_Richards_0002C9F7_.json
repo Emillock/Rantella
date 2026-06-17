@@ -39,25 +39,26 @@
       "topic": "CG04AtriumConv1",
       "topic_text": "CG04AtriumConv1",
       "emotion": "Anger 50",
-      "response_text": "What are you doing? Are you crazy? We'll shoot! Dammit, Tom.{shouted just before opening fire on an unarmed civilian. (Tom is the person about to be shot  someone that you know well)}Play soundFO3 OfficerRichards WhatAreYouDo…https://fallout.fandom.com/wiki/File:FO3_OfficerRichards_WhatAreYouDoing.oggnoicon",
+      "response_text": "What are you doing? Are you crazy? We'll shoot! Dammit, Tom.{shouted just before opening fire on an unarmed civilian. (Tom is the person about to be shot  someone that you know well)}Play soundFO3 OfficerRichards WhatAreYouDo\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerRichards_WhatAreYouDoing.oggnoicon",
       "index": "1"
     },
     {
       "topic": "CG04SecurityBarks",
       "topic_text": "CG04SecurityBarks",
       "emotion": "Surprise 100",
-      "response_text": "He's turning the power back on! To the control room!Play soundFO3 Vault101Security HesTurningT…https://fallout.fandom.com/wiki/File:FO3_Vault101Security_HesTurningThePower.oggnoicon",
+      "response_text": "He's turning the power back on! To the control room!Play soundFO3 Vault101Security HesTurningT\u2026https://fallout.fandom.com/wiki/File:FO3_Vault101Security_HesTurningThePower.oggnoicon",
       "index": "2"
     },
     {
       "topic": "CG04SecurityRichardsKendall",
       "topic_text": "CG04SecurityRichardsKendall",
       "emotion": "Neutral 50",
-      "response_text": "Hey, John. What did you find?Play soundFO3 OfficerRichards WhatDidYouFi…https://fallout.fandom.com/wiki/File:FO3_OfficerRichards_WhatDidYouFind.oggnoicon",
+      "response_text": "Hey, John. What did you find?Play soundFO3 OfficerRichards WhatDidYouFi\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerRichards_WhatDidYouFind.oggnoicon",
       "index": "4"
     }
   ],
   "conversation": [],
   "combat": [],
-  "description": "Officer Richards is a 38 year-old African American Male.\n\nA middle-aged African American man with a stern demeanor and a muscular build. Officer Richards stands guard at the Vault 101 atrium door, his eyes constantly scanning for any signs of trouble. He wears the standard Vault 101 security uniform, which fits him tightly due to his athletic physique. His face is weathered by years of service in the Vault, with a scar running across his left cheek. Despite his intimidating appearance, Richards maintains a professional demeanor, though his cold eyes betray his willingness to follow orders without question.\n\nOfficer Richards's Personality: Disciplined, authoritarian, and pragmatic. Richards is a firm believer in maintaining order and following protocols, even if it means using force against fellow dwellers. He's not as overtly cruel as his sadistic partner but is nonetheless willing to open fire on anyone deemed a threat. He values loyalty to the Vault Overseer and the security team above all else.\n\nOfficer Richards's Backstory: Born and raised in Vault 101, Richards always had a strong sense of duty and a desire to protect his community. He joined the Vault security team in his early 20s and quickly rose through the ranks due to his unwavering commitment to his duties. Over the years, he became known for his strict adherence to protocols and his willingness to enforce them without hesitation. Despite his reputation, Richards has managed to maintain a level of respect among his fellow security officers, though some view him as overly rigid. He has served as a security officer for over 15 years and has never questioned an order from the Overseer, no matter how extreme it may seem."
+  "description": "Officer Richards is a 38 year-old African American Male.\n\nA middle-aged African American man with a stern demeanor and a muscular build. Officer Richards stands guard at the Vault 101 atrium door, his eyes constantly scanning for any signs of trouble. He wears the standard Vault 101 security uniform, which fits him tightly due to his athletic physique. His face is weathered by years of service in the Vault, with a scar running across his left cheek. Despite his intimidating appearance, Richards maintains a professional demeanor, though his cold eyes betray his willingness to follow orders without question.\n\nOfficer Richards's Personality: Disciplined, authoritarian, and pragmatic. Richards is a firm believer in maintaining order and following protocols, even if it means using force against fellow dwellers. He's not as overtly cruel as his sadistic partner but is nonetheless willing to open fire on anyone deemed a threat. He values loyalty to the Vault Overseer and the security team above all else.\n\nOfficer Richards's Backstory: Born and raised in Vault 101, Richards always had a strong sense of duty and a desire to protect his community. He joined the Vault security team in his early 20s and quickly rose through the ranks due to his unwavering commitment to his duties. Over the years, he became known for his strict adherence to protocols and his willingness to enforce them without hesitation. Despite his reputation, Richards has managed to maintain a level of respect among his fellow security officers, though some view him as overly rigid. He has served as a security officer for over 15 years and has never questioned an order from the Overseer, no matter how extreme it may seem.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

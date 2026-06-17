@@ -40,21 +40,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→10(equal to player character's level)",
+  "level": "1\u219210(equal to player character's level)",
   "tag_skills": [
     {
-      "Barter:": "30→72"
+      "Barter:": "30\u219272"
     },
     {
-      "Medicine:": "28→70"
+      "Medicine:": "28\u219270"
     },
     {
-      "Melee Weap.:": "32→74"
+      "Melee Weap.:": "32\u219274"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→110"
+      "Hit Points:": "65\u2192110"
     },
     {
       "Critical Chance:": "5%"
@@ -174,5 +174,6 @@
     }
   ],
   "combat": [],
-  "description": "Linda Smith is a 45 year-old Caucasian Female.\n\nLinda Smith is a seemingly ordinary housewife living in the small town of Andale. She is known for her delicious meat pies and house-proud nature, maintaining her home with meticulous care. However, beneath this facade of normalcy lies a dark secret - she is part of a family of inbred cannibals who capture and kill unwary travelers for food. Linda presents a friendly face to outsiders while maintaining her family's disturbing traditions.\n\nLinda Smith's Personality: House-proud and vehemently opposed to outside influences. Linda maintains a friendly demeanor but is deeply committed to her family's dark secrets and traditions. She takes pride in her cooking skills and household management, seeing these as her proper role in the family structure. Despite her cannibalistic practices, she sees nothing wrong with her way of life and believes Andale to be superior to other settlements.\n\nLinda Smith's Backstory: Linda Smith was born and raised in Andale, daughter of Old Man Harris and Gladys Smith. She married Jack Smith, her relative, and together they had a son, Junior Smith. Growing up in the isolated community, Linda was indoctrinated into her family's cannibalistic traditions, which she now fully embraces. She believes that Andale represents the best of what remains in the wasteland and views outsiders with suspicion. Linda's mother Gladys passed away some years ago, leaving her to carry on the family traditions with her husband and son."
+  "description": "Linda Smith is a 45 year-old Caucasian Female.\n\nLinda Smith is a seemingly ordinary housewife living in the small town of Andale. She is known for her delicious meat pies and house-proud nature, maintaining her home with meticulous care. However, beneath this facade of normalcy lies a dark secret - she is part of a family of inbred cannibals who capture and kill unwary travelers for food. Linda presents a friendly face to outsiders while maintaining her family's disturbing traditions.\n\nLinda Smith's Personality: House-proud and vehemently opposed to outside influences. Linda maintains a friendly demeanor but is deeply committed to her family's dark secrets and traditions. She takes pride in her cooking skills and household management, seeing these as her proper role in the family structure. Despite her cannibalistic practices, she sees nothing wrong with her way of life and believes Andale to be superior to other settlements.\n\nLinda Smith's Backstory: Linda Smith was born and raised in Andale, daughter of Old Man Harris and Gladys Smith. She married Jack Smith, her relative, and together they had a son, Junior Smith. Growing up in the isolated community, Linda was indoctrinated into her family's cannibalistic traditions, which she now fully embraces. She believes that Andale represents the best of what remains in the wasteland and views outsiders with suspicion. Linda's mother Gladys passed away some years ago, leaving her to carry on the family traditions with her husband and son.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

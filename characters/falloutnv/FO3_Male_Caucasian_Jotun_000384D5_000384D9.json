@@ -40,16 +40,16 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "3→10",
+  "level": "3\u219210",
   "tag_skills": [
     {
-      "Barter:": "41→74"
+      "Barter:": "41\u219274"
     },
     {
-      "Melee Weap.:": "41→74"
+      "Melee Weap.:": "41\u219274"
     },
     {
-      "Small Guns:": "41→74(39→72)"
+      "Small Guns:": "41\u219274(39\u219272)"
     }
   ],
   "misc_skills": [],
@@ -173,5 +173,6 @@
     }
   ],
   "combat": [],
-  "description": "Jotun is a 25 year-old Caucasian Male.\n\nJotun is a young adult slaver working at Paradise Falls. He is tasked with ensuring the safety of his father, Ymir, the leader of the slaver group. Jotun is known for his awkward and unsocial demeanor, rarely engaging in conversations unless necessary. He often responds with vague and brief answers, especially when interacting with outsiders like the Lone Wanderer. Despite his father's constant praise and boasting about him to other slavers, Jotun appears embarrassed and uncomfortable with the attention.\n\nJotun's Personality: Awkward, unsocial, reserved, and easily embarrassed. Jotun prefers to keep to himself and avoids unnecessary social interactions. He is loyal to his father and takes his responsibilities seriously, even if he finds them burdensome.\n\nJotun's Backstory: Jotun was born and raised at Paradise Falls, growing up in the harsh environment of the Capitol Wasteland. His father, Ymir, has always been a dominant figure in his life, instilling in him the values of the slaver lifestyle. From a young age, Jotun was trained to be a slaver, learning the necessary skills to survive and thrive in the wasteland. Despite his father's expectations, Jotun never fully embraced the slaver lifestyle, finding the constant social interactions and brutality of the job to be uncomfortable. However, he remains loyal to his father and the slaver faction, knowing that it is his only family in the wasteland."
+  "description": "Jotun is a 25 year-old Caucasian Male.\n\nJotun is a young adult slaver working at Paradise Falls. He is tasked with ensuring the safety of his father, Ymir, the leader of the slaver group. Jotun is known for his awkward and unsocial demeanor, rarely engaging in conversations unless necessary. He often responds with vague and brief answers, especially when interacting with outsiders like the Lone Wanderer. Despite his father's constant praise and boasting about him to other slavers, Jotun appears embarrassed and uncomfortable with the attention.\n\nJotun's Personality: Awkward, unsocial, reserved, and easily embarrassed. Jotun prefers to keep to himself and avoids unnecessary social interactions. He is loyal to his father and takes his responsibilities seriously, even if he finds them burdensome.\n\nJotun's Backstory: Jotun was born and raised at Paradise Falls, growing up in the harsh environment of the Capitol Wasteland. His father, Ymir, has always been a dominant figure in his life, instilling in him the values of the slaver lifestyle. From a young age, Jotun was trained to be a slaver, learning the necessary skills to survive and thrive in the wasteland. Despite his father's expectations, Jotun never fully embraced the slaver lifestyle, finding the constant social interactions and brutality of the job to be uncomfortable. However, he remains loyal to his father and the slaver faction, knowing that it is his only family in the wasteland.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

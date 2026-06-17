@@ -40,21 +40,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→30",
+  "level": "1\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→210"
+      "Hit Points:": "65\u2192210"
     },
     {
       "Critical Chance:": "5%"
@@ -201,5 +201,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Brother Gerard is a 65 year-old Hispanic Male.\n\nA devout follower and gatekeeper of the Apostles of the Holy Light, guarding their monastery with unwavering faith and radiation-based rituals.\n\nBrother Gerard's Personality: Strident and resolute, Brother Gerard is accustomed to religious persecution and refuses to answer violence with violence. He maintains a neutral stance, believing in the power of radiation as a divine gift from Atom, and will only allow those who are sufficiently irradiated to enter the monastery.\n\nBrother Gerard's Backstory: Once a follower of Confessor Cromwell's Church of the Children of Atom, Brother Gerard experienced a religious epiphany during an encounter with Lyons' Brotherhood of Steel water caravan guards alongside Mother Curie III. Together, they left the original flock, disagreeing with the 'Great Division' belief and viewing the C-23 Megaton nuclear weapon as merely a 'great symbol' of Atom. In less than two weeks after the activation of Project Purity, they constructed the Holy Light Monastery in the ruins of a Springvale home, transforming it into a place of worship and radiation."
+  "description": "Brother Gerard is a 65 year-old Hispanic Male.\n\nA devout follower and gatekeeper of the Apostles of the Holy Light, guarding their monastery with unwavering faith and radiation-based rituals.\n\nBrother Gerard's Personality: Strident and resolute, Brother Gerard is accustomed to religious persecution and refuses to answer violence with violence. He maintains a neutral stance, believing in the power of radiation as a divine gift from Atom, and will only allow those who are sufficiently irradiated to enter the monastery.\n\nBrother Gerard's Backstory: Once a follower of Confessor Cromwell's Church of the Children of Atom, Brother Gerard experienced a religious epiphany during an encounter with Lyons' Brotherhood of Steel water caravan guards alongside Mother Curie III. Together, they left the original flock, disagreeing with the 'Great Division' belief and viewing the C-23 Megaton nuclear weapon as merely a 'great symbol' of Atom. In less than two weeks after the activation of Project Purity, they constructed the Holy Light Monastery in the ruins of a Springvale home, transforming it into a place of worship and radiation.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

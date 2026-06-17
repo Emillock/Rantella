@@ -40,16 +40,16 @@
     "Agility": 8,
     "Luck": 2
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Science:": "30→100"
+      "Science:": "30\u2192100"
     },
     {
-      "Small Guns:": "30→100"
+      "Small Guns:": "30\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [],
@@ -167,5 +167,6 @@
       "index": "57"
     }
   ],
-  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101 all his life, Butch is a young man who has put on a mask as a boorish, overbearing bully to cover up his deep-seated feelings of inadequacy. Raised by his mother Ellen, a notorious alcoholic who neglected to oversee her son's development, Butch has never known his father despite living in a Vault with a close-knit community. He leads the Tunnel Snakes, a gang of fellow Vault 101 residents who share his rebellious attitude toward the Vault's rules.\n\nButch's Personality: Boastful, aggressive, and insecure, Butch presents himself as a tough gang leader to hide his vulnerability. He craves respect and validation, often resorting to intimidation to assert dominance. Despite his rough exterior, there are moments where his softer side emerges, particularly when interacting with those he considers friends.\n\nButch's Backstory: Butch has spent his entire life in Vault 101, growing up under the neglectful care of his alcoholic mother Ellen. He has never known his father, which has left him with deep-seated feelings of inadequacy despite being surrounded by what should be a close-knit community.\n\nFrom a young age, Butch developed a rebellious attitude, forming the Tunnel Snakes gang with like-minded individuals. On July 13, 2268, when he was just ten years old, he attempted to strongarm the young Wanderer into giving up a sweetroll they had received from Lucy Palmer. Six years later, on August 3, 2274, he and the Tunnel Snakes were caught verbally harassing Amata, the Overseer's daughter, on their way to take their G.O.A.T. exam.\n\nAs Butch has matured, his behavior has become increasingly problematic, leading to frequent run-ins with Vault authorities. Despite this, he remains fiercely loyal to his gang and will go to great lengths to protect his reputation within Vault 101's social hierarchy."
+  "description": "Butch is a 19 year-old Caucasian Male.\n\nBorn and raised in Vault 101 all his life, Butch is a young man who has put on a mask as a boorish, overbearing bully to cover up his deep-seated feelings of inadequacy. Raised by his mother Ellen, a notorious alcoholic who neglected to oversee her son's development, Butch has never known his father despite living in a Vault with a close-knit community. He leads the Tunnel Snakes, a gang of fellow Vault 101 residents who share his rebellious attitude toward the Vault's rules.\n\nButch's Personality: Boastful, aggressive, and insecure, Butch presents himself as a tough gang leader to hide his vulnerability. He craves respect and validation, often resorting to intimidation to assert dominance. Despite his rough exterior, there are moments where his softer side emerges, particularly when interacting with those he considers friends.\n\nButch's Backstory: Butch has spent his entire life in Vault 101, growing up under the neglectful care of his alcoholic mother Ellen. He has never known his father, which has left him with deep-seated feelings of inadequacy despite being surrounded by what should be a close-knit community.\n\nFrom a young age, Butch developed a rebellious attitude, forming the Tunnel Snakes gang with like-minded individuals. On July 13, 2268, when he was just ten years old, he attempted to strongarm the young Wanderer into giving up a sweetroll they had received from Lucy Palmer. Six years later, on August 3, 2274, he and the Tunnel Snakes were caught verbally harassing Amata, the Overseer's daughter, on their way to take their G.O.A.T. exam.\n\nAs Butch has matured, his behavior has become increasingly problematic, leading to frequent run-ins with Vault authorities. Despite this, he remains fiercely loyal to his gang and will go to great lengths to protect his reputation within Vault 101's social hierarchy.",
+  "voice_folder": "MaleUniqueButch"
 }

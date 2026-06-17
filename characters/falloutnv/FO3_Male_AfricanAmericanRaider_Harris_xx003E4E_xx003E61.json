@@ -42,24 +42,24 @@
   },
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -85,5 +85,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Harris is a 35 year-old African American Male.\n\nHarris is a bartender operating the Vertigo Bar and Grill in the Downtown area of the Pitt. He takes pleasure in supplying his fellow raiders with alcohol and welcomes visitors to his establishment.\n\nHarris's Personality: Harris embodies the typical raider mentality with a focus on pleasure and enjoyment. He's cynical and pragmatic, having adapted to the brutal environment of the Pitt. Despite his rough exterior, he maintains a professional demeanor when running his bar, understanding that satisfied customers mean more business.\n\nHarris's Backstory: Born and raised in the Pitt, Harris has witnessed the constant struggle for power and survival in the industrial wasteland. He learned the value of alcohol as both a commodity and a coping mechanism early in life. After surviving numerous arena fights and working his way up through the raider hierarchy, he managed to secure the position of bartender at the Vertigo Bar and Grill, a role that allows him to observe the power dynamics of the Pitt from a relatively safe distance."
+  "description": "Harris is a 35 year-old African American Male.\n\nHarris is a bartender operating the Vertigo Bar and Grill in the Downtown area of the Pitt. He takes pleasure in supplying his fellow raiders with alcohol and welcomes visitors to his establishment.\n\nHarris's Personality: Harris embodies the typical raider mentality with a focus on pleasure and enjoyment. He's cynical and pragmatic, having adapted to the brutal environment of the Pitt. Despite his rough exterior, he maintains a professional demeanor when running his bar, understanding that satisfied customers mean more business.\n\nHarris's Backstory: Born and raised in the Pitt, Harris has witnessed the constant struggle for power and survival in the industrial wasteland. He learned the value of alcohol as both a commodity and a coping mechanism early in life. After surviving numerous arena fights and working his way up through the raider hierarchy, he managed to secure the position of bartender at the Vertigo Bar and Grill, a role that allows him to observe the power dynamics of the Pitt from a relatively safe distance.",
+  "voice_folder": "DLC01RaiderMaleColdVoice"
 }

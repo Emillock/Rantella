@@ -31,13 +31,13 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "10→20 (Player level x 1.0)",
+  "level": "10\u219220 (Player level x 1.0)",
   "tag_skills": [
     {
-      "Guns:": "70→100"
+      "Guns:": "70\u2192100"
     },
     {
-      "Speech:": "66→100"
+      "Speech:": "66\u2192100"
     }
   ],
   "misc_skills": [],
@@ -217,5 +217,6 @@
     }
   ],
   "combat": [],
-  "description": "Ranger Dobson is a 38 year-old Caucasian Male.\n\nA seasoned NCR Ranger from Redding, currently operating independently in the Mojave Wasteland. Dobson is conducting off-the-books reconnaissance on the NCR Correctional Facility and its Powder Ganger occupants, using a pre-War military bunker in Hidden Valley as his safehouse.\n\nRanger Dobson's Personality: Confident and proud of his role as a protector of the innocent, but cautious and aware of his limits as a seasoned Ranger. He values the NCR's mission but isn't afraid to operate independently when necessary.\n\nRanger Dobson's Backstory: Born and raised in Redding, Dobson joined the New California Republic Rangers in his early twenties. By 2281, he was deployed to the Mojave and stationed at Camp McCarran. In early October 2281, he went off on his own to scout the NCR Correctional Facility, which had been overrun by Powder Gangers. He established a hidden camp in one of the pre-War military bunkers scattered around Hidden Valley, utilizing the remote location and frequent sandstorms to maintain a low profile while conducting his reconnaissance."
+  "description": "Ranger Dobson is a 38 year-old Caucasian Male.\n\nA seasoned NCR Ranger from Redding, currently operating independently in the Mojave Wasteland. Dobson is conducting off-the-books reconnaissance on the NCR Correctional Facility and its Powder Ganger occupants, using a pre-War military bunker in Hidden Valley as his safehouse.\n\nRanger Dobson's Personality: Confident and proud of his role as a protector of the innocent, but cautious and aware of his limits as a seasoned Ranger. He values the NCR's mission but isn't afraid to operate independently when necessary.\n\nRanger Dobson's Backstory: Born and raised in Redding, Dobson joined the New California Republic Rangers in his early twenties. By 2281, he was deployed to the Mojave and stationed at Camp McCarran. In early October 2281, he went off on his own to scout the NCR Correctional Facility, which had been overrun by Powder Gangers. He established a hidden camp in one of the pre-War military bunkers scattered around Hidden Valley, utilizing the remote location and frequent sandstorms to maintain a low profile while conducting his reconnaissance.",
+  "voice_folder": "MaleAdult02"
 }

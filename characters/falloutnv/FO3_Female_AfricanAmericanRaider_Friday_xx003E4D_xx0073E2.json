@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -106,5 +106,6 @@
     }
   ],
   "combat": [],
-  "description": "Friday is a 42 year-old African American Female.\n\nFriday is a shrewd merchant and skilled mechanic who operates Friday's Repairs in The Pitt's Downtown district. She runs a modest shop where she sells a variety of equipment and offers repair services for broken weaponry. Her establishment is located above Kai's area, near Midea's quarters, accessible via a set of stairs and across some wooden planks.\n\nFriday's Personality: Friday presents a mild-mannered exterior, but underneath lies a ruthless businesswoman who will drive a hard bargain. She values caps above all else and isn't afraid to exploit desperate customers. Despite her cutthroat business tactics, she maintains a professional demeanor and is always looking for new opportunities to expand her inventory.\n\nFriday's Backstory: Born in the harsh environment of The Pitt, Friday learned early on that survival meant capitalizing on opportunities. She started out as a scavenger, collecting useful items from the industrial wasteland. Over time, she developed mechanical skills and partnered with Trouble Man to establish Friday's Repairs. Her business has struggled due to the constant conflict in The Pitt, particularly the battles in The Hole, but she remains optimistic about future prospects as travelers and fighters pass through the area."
+  "description": "Friday is a 42 year-old African American Female.\n\nFriday is a shrewd merchant and skilled mechanic who operates Friday's Repairs in The Pitt's Downtown district. She runs a modest shop where she sells a variety of equipment and offers repair services for broken weaponry. Her establishment is located above Kai's area, near Midea's quarters, accessible via a set of stairs and across some wooden planks.\n\nFriday's Personality: Friday presents a mild-mannered exterior, but underneath lies a ruthless businesswoman who will drive a hard bargain. She values caps above all else and isn't afraid to exploit desperate customers. Despite her cutthroat business tactics, she maintains a professional demeanor and is always looking for new opportunities to expand her inventory.\n\nFriday's Backstory: Born in the harsh environment of The Pitt, Friday learned early on that survival meant capitalizing on opportunities. She started out as a scavenger, collecting useful items from the industrial wasteland. Over time, she developed mechanical skills and partnered with Trouble Man to establish Friday's Repairs. Her business has struggled due to the constant conflict in The Pitt, particularly the battles in The Hole, but she remains optimistic about future prospects as travelers and fighters pass through the area.",
+  "voice_folder": "DLC01RaiderFemaleColdVoice"
 }

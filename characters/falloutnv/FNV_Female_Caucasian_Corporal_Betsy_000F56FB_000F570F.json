@@ -1,5 +1,5 @@
 {
-  "name": "Corporal Betsy¹",
+  "name": "Corporal Betsy\u00b9",
   "url": "/wiki/Betsy_(Fallout:_New_Vegas)",
   "dialogue_name": "1ECorporalBetsy.txt",
   "dialogue_url": "/wiki/1ECorporalBetsy.txt",
@@ -271,5 +271,6 @@
     }
   ],
   "combat": [],
-  "description": "Corporal Betsy is a 34 year-old Caucasian Female.\n\nA weathered NCR soldier with sharp eyes and an even sharper tongue. Betsy has the look of someone who's spent years in the Mojave sun, with calloused hands and a no-nonsense demeanor that belies her kindhearted nature beneath.\n\nCorporal Betsy's Personality: Outwardly cantankerous and no-nonsense, Betsy is actually a kindhearted professional who takes pride in her work. As an openly lesbian, she's promiscuous and has a preference for beautiful tall blondes. She maintains complete respect for her team members and has a strong sense of justice, even if she simplifies it as 'just shooting the bad guys.'\n\nCorporal Betsy's Backstory: Betsy joined the NCR Army at a young age and worked her way up through the ranks. She eventually volunteered for special assignments with First Recon, where she was partnered with 10 of Spades. During one of their first assignments together, the pair was ambushed by Cook-Cook's gang of Fiends. While 10 of Spades was knocked unconscious, Betsy managed to escape with her life, though the experience left a deep scar. For the past six months, she has been stationed at Camp McCarran with Alpha Team, mostly on perimeter duty and guarding the towers."
+  "description": "Corporal Betsy is a 34 year-old Caucasian Female.\n\nA weathered NCR soldier with sharp eyes and an even sharper tongue. Betsy has the look of someone who's spent years in the Mojave sun, with calloused hands and a no-nonsense demeanor that belies her kindhearted nature beneath.\n\nCorporal Betsy's Personality: Outwardly cantankerous and no-nonsense, Betsy is actually a kindhearted professional who takes pride in her work. As an openly lesbian, she's promiscuous and has a preference for beautiful tall blondes. She maintains complete respect for her team members and has a strong sense of justice, even if she simplifies it as 'just shooting the bad guys.'\n\nCorporal Betsy's Backstory: Betsy joined the NCR Army at a young age and worked her way up through the ranks. She eventually volunteered for special assignments with First Recon, where she was partnered with 10 of Spades. During one of their first assignments together, the pair was ambushed by Cook-Cook's gang of Fiends. While 10 of Spades was knocked unconscious, Betsy managed to escape with her life, though the experience left a deep scar. For the past six months, she has been stationed at Camp McCarran with Alpha Team, mostly on perimeter duty and guarding the towers.",
+  "voice_folder": "FemaleAdult12"
 }

@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "8→11→14→17 (Broken Steel only)",
+  "level": "8\u219211\u219214\u219217 (Broken Steel only)",
   "tag_skills": [
     {
-      "Energy Weap.:": "64→77→90→100 (Broken Steel only)"
+      "Energy Weap.:": "64\u219277\u219290\u2192100 (Broken Steel only)"
     },
     {
-      "Small Guns:": "62→75→88→100 (Broken Steel only)"
+      "Small Guns:": "62\u219275\u219288\u2192100 (Broken Steel only)"
     },
     {
-      "Sneak:": "62→75→88→100 (Broken Steel only)"
+      "Sneak:": "62\u219275\u219288\u2192100 (Broken Steel only)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "75→90→105→120 (Broken Steel only)"
+      "Hit Points:": "75\u219290\u2192105\u2192120 (Broken Steel only)"
     }
   ],
   "karma": "Neutral",
@@ -62,5 +62,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Gruber is a 29 year-old Pitt Caucasian Male.\n\nGruber is a formidable fighter who rose from slavery to become the champion of The Hole's arena. His scarred face and muscular build bear testament to countless battles fought for survival and freedom.\n\nGruber's Personality: Gruber is hardened by his experiences as a slave and fighter. He is pragmatic, tough, and speaks with a direct, no-nonsense attitude. While he may seem cynical at first, he possesses a quiet respect for those who display strength and determination.\n\nGruber's Backstory: Born in the oppressive industrial wasteland of The Pitt, Gruber was captured and forced into slavery at a young age. For years, he toiled in the factories under the brutal rule of Ashur. Seeking freedom, he turned to the arena, fighting for his life against other slaves and dangerous creatures. Through sheer determination and skill, he won his freedom and eventually became the arena champion, earning the title of 'The Hole' champion. He now resides in The Hole, training and waiting for challengers who dare to face him."
+  "description": "Gruber is a 29 year-old Pitt Caucasian Male.\n\nGruber is a formidable fighter who rose from slavery to become the champion of The Hole's arena. His scarred face and muscular build bear testament to countless battles fought for survival and freedom.\n\nGruber's Personality: Gruber is hardened by his experiences as a slave and fighter. He is pragmatic, tough, and speaks with a direct, no-nonsense attitude. While he may seem cynical at first, he possesses a quiet respect for those who display strength and determination.\n\nGruber's Backstory: Born in the oppressive industrial wasteland of The Pitt, Gruber was captured and forced into slavery at a young age. For years, he toiled in the factories under the brutal rule of Ashur. Seeking freedom, he turned to the arena, fighting for his life against other slaves and dangerous creatures. Through sheer determination and skill, he won his freedom and eventually became the arena champion, earning the title of 'The Hole' champion. He now resides in The Hole, training and waiting for challengers who dare to face him.",
+  "voice_folder": "DLC01RaiderMaleGruffVoice"
 }

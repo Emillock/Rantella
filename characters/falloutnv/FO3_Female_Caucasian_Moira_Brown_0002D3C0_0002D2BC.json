@@ -966,7 +966,7 @@
       "topic": "MS11MoiraBomb",
       "topic_text": "Have you thought about disarming the bomb?",
       "emotion": "Surprise 50",
-      "response_text": "Oh, I couldnÆt do that! ItÆd be a real blow to those nice folks in the Church.{talking nonchalantly about an undetonated bomb}",
+      "response_text": "Oh, I couldn\u00c6t do that! It\u00c6d be a real blow to those nice folks in the Church.{talking nonchalantly about an undetonated bomb}",
       "index": "859"
     },
     {
@@ -1079,5 +1079,6 @@
       "index": "923"
     }
   ],
-  "description": "Moira Brown is a 24 year-old Caucasian Female.\n\nA self-styled inventor and owner of Craterside Supply in Megaton, Moira is a curious and optimistic individual who spends her days reading, conducting experiments, and trading supplies. Despite her extensive knowledge from books, she has limited real-world experience and a somewhat naive view of the dangers of the wasteland.\n\nMoira Brown's Personality: Optimistic, curious, enthusiastic, and somewhat naive. Moira always tries to see the bright side of life and is driven by a desire to improve the lives of her fellow wastelanders. She can be persuaded to adopt a more realistic perspective, but generally maintains her cheerful demeanor.\n\nMoira Brown's Backstory: Moira grew up in the trading community of Canterbury Commons, where she developed an uncommon curiosity about the world. Before 2263, she moved to Megaton, where she established Craterside Supply. She spends her days reading books that come through town via traders and caravans, absorbing as much knowledge as possible. Her love of reading has taught her a great deal, but she lacks practical understanding of how to apply this knowledge outside of her workshop or Megaton itself."
+  "description": "Moira Brown is a 24 year-old Caucasian Female.\n\nA self-styled inventor and owner of Craterside Supply in Megaton, Moira is a curious and optimistic individual who spends her days reading, conducting experiments, and trading supplies. Despite her extensive knowledge from books, she has limited real-world experience and a somewhat naive view of the dangers of the wasteland.\n\nMoira Brown's Personality: Optimistic, curious, enthusiastic, and somewhat naive. Moira always tries to see the bright side of life and is driven by a desire to improve the lives of her fellow wastelanders. She can be persuaded to adopt a more realistic perspective, but generally maintains her cheerful demeanor.\n\nMoira Brown's Backstory: Moira grew up in the trading community of Canterbury Commons, where she developed an uncommon curiosity about the world. Before 2263, she moved to Megaton, where she established Craterside Supply. She spends her days reading books that come through town via traders and caravans, absorbing as much knowledge as possible. Her love of reading has taught her a great deal, but she lacks practical understanding of how to apply this knowledge outside of her workshop or Megaton itself.",
+  "voice_folder": "FemaleUniqueMoira"
 }

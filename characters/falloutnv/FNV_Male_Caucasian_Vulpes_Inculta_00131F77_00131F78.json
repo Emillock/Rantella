@@ -41,21 +41,21 @@
     "Agility": 5,
     "Luck": 5
   },
-  "level": "10→30→50 (DLCs only)",
+  "level": "10\u219230\u219250 (DLCs only)",
   "tag_skills": [
     {
-      "Guns:": "66→100"
+      "Guns:": "66\u2192100"
     },
     {
-      "Science:": "66→100"
+      "Science:": "66\u2192100"
     },
     {
-      "Unarmed:": "64→100"
+      "Unarmed:": "64\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "110→210→310"
+      "Hit Points:": "110\u2192210\u2192310"
     }
   ],
   "karma": "Very Evil",
@@ -240,5 +240,6 @@
       "index": "14"
     }
   ],
-  "description": "Vulpes Inculta is a 35 year-old Caucasian Male.\n\nA cunning and calculating figure, Vulpes Inculta serves as the leader of Caesar's Legion frumentarii network and one of Caesar's most trusted advisors. With sharp features and an imposing presence, this 'desert fox' carries out Caesar's will with ruthless efficiency across the Mojave Wasteland.\n\nVulpes Inculta's Personality: Vulpes is a devout believer in Caesar's ideology, embodying the Legion's core tenets of absolute loyalty, martial excellence, and brutal justice. He is highly intelligent, strategic, and patient, often planning operations with meticulous attention to detail. Despite his high rank, he maintains a humble and respectful demeanor toward Caesar while showing utter contempt for those outside the Legion.\n\nVulpes Inculta's Backstory: Born into a tribal community south of Utah, Vulpes was captured as a child and brought into Caesar's Legion. Rising through the ranks through displays of exceptional cunning and loyalty, he eventually became the leader of the frumentarii - the Legion's intelligence network and special operations unit. He gained notoriety for his role in the destruction of the Twisted Hairs tribe at Dry Wells, a operation that demonstrated his tactical brilliance and unwavering commitment to Caesar's vision."
+  "description": "Vulpes Inculta is a 35 year-old Caucasian Male.\n\nA cunning and calculating figure, Vulpes Inculta serves as the leader of Caesar's Legion frumentarii network and one of Caesar's most trusted advisors. With sharp features and an imposing presence, this 'desert fox' carries out Caesar's will with ruthless efficiency across the Mojave Wasteland.\n\nVulpes Inculta's Personality: Vulpes is a devout believer in Caesar's ideology, embodying the Legion's core tenets of absolute loyalty, martial excellence, and brutal justice. He is highly intelligent, strategic, and patient, often planning operations with meticulous attention to detail. Despite his high rank, he maintains a humble and respectful demeanor toward Caesar while showing utter contempt for those outside the Legion.\n\nVulpes Inculta's Backstory: Born into a tribal community south of Utah, Vulpes was captured as a child and brought into Caesar's Legion. Rising through the ranks through displays of exceptional cunning and loyalty, he eventually became the leader of the frumentarii - the Legion's intelligence network and special operations unit. He gained notoriety for his role in the destruction of the Twisted Hairs tribe at Dry Wells, a operation that demonstrated his tactical brilliance and unwavering commitment to Caesar's vision.",
+  "voice_folder": "MaleUniqueVulpe"
 }

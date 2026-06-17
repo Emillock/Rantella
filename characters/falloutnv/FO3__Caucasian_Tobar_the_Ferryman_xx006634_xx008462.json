@@ -39,19 +39,19 @@
     "Agility": 4,
     "Luck": 6
   },
-  "level": "1→30",
+  "level": "1\u219230",
   "tag_skills": [
     {
-      "Barter:": "34→100"
+      "Barter:": "34\u2192100"
     },
     {
-      "Lockpick:": "28→100"
+      "Lockpick:": "28\u2192100"
     },
     {
       "Small Guns:": "13(18)"
     },
     {
-      "Speech:": "34→100"
+      "Speech:": "34\u2192100"
     }
   ],
   "misc_skills": [],
@@ -203,5 +203,6 @@
     }
   ],
   "combat": [],
-  "description": "Tobar the Ferryman is a 52 year-old American descent Male.\n\nA weathered ferryman and captain of the steamboat Duchess Gambit, operating transport services between the Capital Wasteland and the Point Lookout swamps. Known for his elaborate storytelling and shrewd business deals.\n\nTobar the Ferryman's Personality: Adventurous, talkative, pragmatic, and opportunistic. Tobar enjoys sharing stories of his youth and always tries to make a good deal. He's cautious about revealing his business connections but maintains a friendly demeanor with potential passengers.\n\nTobar the Ferryman's Backstory: Born in the Commonwealth, Tobar spent his youth traveling up and down the Atlantic coast, from the Commonwealth to the Broken Banks. As the world descended into chaos, he adapted to the post-war environment and eventually became a ferryman. Over the years, he established the Duchess Gambit as a reliable transport service between the Capital Wasteland and Point Lookout. Tobar has struck a mutually beneficial, if somewhat secretive, arrangement with the tribal fruit farmers of Point Lookout, allowing him to trade their surplus punga fruit for supplies and caps."
+  "description": "Tobar the Ferryman is a 52 year-old American descent Male.\n\nA weathered ferryman and captain of the steamboat Duchess Gambit, operating transport services between the Capital Wasteland and the Point Lookout swamps. Known for his elaborate storytelling and shrewd business deals.\n\nTobar the Ferryman's Personality: Adventurous, talkative, pragmatic, and opportunistic. Tobar enjoys sharing stories of his youth and always tries to make a good deal. He's cautious about revealing his business connections but maintains a friendly demeanor with potential passengers.\n\nTobar the Ferryman's Backstory: Born in the Commonwealth, Tobar spent his youth traveling up and down the Atlantic coast, from the Commonwealth to the Broken Banks. As the world descended into chaos, he adapted to the post-war environment and eventually became a ferryman. Over the years, he established the Duchess Gambit as a reliable transport service between the Capital Wasteland and Point Lookout. Tobar has struck a mutually beneficial, if somewhat secretive, arrangement with the tribal fruit farmers of Point Lookout, allowing him to trade their surplus punga fruit for supplies and caps.",
+  "voice_folder": "DLC04UniqueTobar"
 }

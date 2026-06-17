@@ -40,27 +40,27 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→2.55→3.6"
+      "Unarmed Dam.:": "1.9\u21922.55\u21923.6"
     },
     {
       "Poison Resist.:": "15%"
@@ -101,5 +101,6 @@
     }
   ],
   "combat": [],
-  "description": "Jackson is a 38 year-old Caucasian Male.\n\nJackson is a weathered and scarred man with a menacing presence. He typically wears tattered leather armor and wields a worn combat shotgun. His face is etched with years of hardship and cruelty, with cold, calculating eyes that betray his ruthless nature.\n\nJackson's Personality: Jackson is cruel, opportunistic, and takes pleasure in the suffering of others. He views others as either tools or obstacles, showing no mercy to those who cross him or his faction. He's pragmatic in his brutality, always looking for ways to increase his status and wealth within the raider hierarchy.\n\nJackson's Backstory: Born and raised in the industrial wasteland of The Pitt, Jackson learned from a young age that only the strong survive. He rose through the ranks of the raiders by demonstrating exceptional cruelty and cunning. Unlike many raiders who were forced into their lifestyle, Jackson embraced it wholeheartedly, finding satisfaction in the power and control that came with being a slaver. He's known among his peers for his ruthless efficiency in capturing and 'processing' slaves for the Pitt's industrial needs."
+  "description": "Jackson is a 38 year-old Caucasian Male.\n\nJackson is a weathered and scarred man with a menacing presence. He typically wears tattered leather armor and wields a worn combat shotgun. His face is etched with years of hardship and cruelty, with cold, calculating eyes that betray his ruthless nature.\n\nJackson's Personality: Jackson is cruel, opportunistic, and takes pleasure in the suffering of others. He views others as either tools or obstacles, showing no mercy to those who cross him or his faction. He's pragmatic in his brutality, always looking for ways to increase his status and wealth within the raider hierarchy.\n\nJackson's Backstory: Born and raised in the industrial wasteland of The Pitt, Jackson learned from a young age that only the strong survive. He rose through the ranks of the raiders by demonstrating exceptional cruelty and cunning. Unlike many raiders who were forced into their lifestyle, Jackson embraced it wholeheartedly, finding satisfaction in the power and control that came with being a slaver. He's known among his peers for his ruthless efficiency in capturing and 'processing' slaves for the Pitt's industrial needs.",
+  "voice_folder": "DLC01RaiderMaleColdVoice"
 }

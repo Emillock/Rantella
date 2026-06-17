@@ -40,16 +40,16 @@
     "Agility": 4,
     "Luck": 3
   },
-  "level": "1→20→30",
+  "level": "1\u219220\u219230",
   "tag_skills": [
     {
-      "Explosives:": "32→100"
+      "Explosives:": "32\u2192100"
     },
     {
-      "Medicine:": "36→100"
+      "Medicine:": "36\u2192100"
     },
     {
-      "Science:": "36→100"
+      "Science:": "36\u2192100"
     }
   ],
   "misc_skills": [],
@@ -67,7 +67,7 @@
       "topic": "PLAYERDESTROYOBJECT",
       "topic_text": "PLAYER DESTROY OBJECT",
       "emotion": "Neutral 50",
-      "response_text": "Was that really necessary?Play soundFO3 James WasThatReallyNecessary…https://fallout.fandom.com/wiki/File:FO3_James_WasThatReallyNecessary.oggnoicon",
+      "response_text": "Was that really necessary?Play soundFO3 James WasThatReallyNecessary\u2026https://fallout.fandom.com/wiki/File:FO3_James_WasThatReallyNecessary.oggnoicon",
       "index": "12"
     },
     {
@@ -139,7 +139,7 @@
       "topic": "CG01DadSpeech",
       "topic_text": "CG01Dad",
       "emotion": "Happy 75",
-      "response_text": "Don't look straight into the light, honey. You'll hurt your eyes. It's just something you get used to down here.Play soundFO3 James DontLookIntoLightHoney…https://fallout.fandom.com/wiki/File:FO3_James_DontLookIntoLightHoney.oggnoicon",
+      "response_text": "Don't look straight into the light, honey. You'll hurt your eyes. It's just something you get used to down here.Play soundFO3 James DontLookIntoLightHoney\u2026https://fallout.fandom.com/wiki/File:FO3_James_DontLookIntoLightHoney.oggnoicon",
       "index": "51"
     }
   ],
@@ -250,5 +250,6 @@
       "index": "145"
     }
   ],
-  "description": "James is a 48 year-old Caucasian Male.\n\nA former lead scientist of Project Purity and the father of the Lone Wanderer. James is a determined and meticulous man who dedicated his life to restoring clean water to the wasteland. After the death of his wife Catherine during childbirth, he sought refuge in Vault 101 with his child, where he worked as the vault's physician while secretly continuing his research.\n\nJames's Personality: Inquisitive, meticulous, determined, compassionate, and self-sacrificing. James possesses a strong moral compass and is willing to risk everything for the sake of his child and the betterment of the wasteland.\n\nJames's Backstory: Born before the Great War, James grew up in a world on the brink of nuclear annihilation. He dedicated his life to science and eventually joined a group of like-minded researchers working on Project Purity, an ambitious endeavor to create a water purifier that could cleanse the Potomac River of radiation. When his wife Catherine became pregnant, the Brotherhood of Steel offered them protection at their base in the Pentagon. Tragedy struck when Catherine died during childbirth, but James pressed on, raising his child as best he could. With the help of Star Paladin Cross, he traveled to Vault 101, seeking a safe place to raise his child. For years, he served as the vault's physician while covertly continuing his research into Project Purity. On August 17, 2277, James made the difficult decision to leave the vault, believing it was time to resume his work and fulfill his wife's dream."
+  "description": "James is a 48 year-old Caucasian Male.\n\nA former lead scientist of Project Purity and the father of the Lone Wanderer. James is a determined and meticulous man who dedicated his life to restoring clean water to the wasteland. After the death of his wife Catherine during childbirth, he sought refuge in Vault 101 with his child, where he worked as the vault's physician while secretly continuing his research.\n\nJames's Personality: Inquisitive, meticulous, determined, compassionate, and self-sacrificing. James possesses a strong moral compass and is willing to risk everything for the sake of his child and the betterment of the wasteland.\n\nJames's Backstory: Born before the Great War, James grew up in a world on the brink of nuclear annihilation. He dedicated his life to science and eventually joined a group of like-minded researchers working on Project Purity, an ambitious endeavor to create a water purifier that could cleanse the Potomac River of radiation. When his wife Catherine became pregnant, the Brotherhood of Steel offered them protection at their base in the Pentagon. Tragedy struck when Catherine died during childbirth, but James pressed on, raising his child as best he could. With the help of Star Paladin Cross, he traveled to Vault 101, seeking a safe place to raise his child. For years, he served as the vault's physician while covertly continuing his research into Project Purity. On August 17, 2277, James made the difficult decision to leave the vault, believing it was time to resume his work and fulfill his wife's dream.",
+  "voice_folder": "MaleUniqueDad"
 }

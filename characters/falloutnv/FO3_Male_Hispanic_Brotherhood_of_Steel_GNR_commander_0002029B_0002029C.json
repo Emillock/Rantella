@@ -40,21 +40,21 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "4→7→11",
+  "level": "4\u21927\u219211",
   "tag_skills": [
     {
-      "Big Guns:": "44→57→74"
+      "Big Guns:": "44\u219257\u219274"
     },
     {
-      "Energy Weap.:": "46→59→76"
+      "Energy Weap.:": "46\u219259\u219276"
     },
     {
-      "Small Guns:": "44→57→74"
+      "Small Guns:": "44\u219257\u219274"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→95→125"
+      "Hit Points:": "70\u219295\u2192125"
     },
     {
       "Critical Chance:": "4%"
@@ -72,7 +72,7 @@
       "Carry Weight:": "200(220)"
     },
     {
-      "Damage Res.:": "12%→13%"
+      "Damage Res.:": "12%\u219213%"
     }
   ],
   "karma": "Good",
@@ -89,5 +89,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Commander Valerius is a 42 year-old Hispanic Male.\n\nCommander Valerius is a seasoned Brotherhood of Steel officer with weathered features and a stern demeanor. He wears the standard power armor of the Brotherhood, though it bears numerous scratches and dents from years of combat. His Hispanic heritage is evident in his dark complexion and facial features. He stands guard at the entrance to the Galaxy News Radio building, his gaze constantly scanning the surrounding area for threats.\n\nCommander Valerius's Personality: Valerius is disciplined, pragmatic, and deeply committed to the Brotherhood's mission of preserving technology and protecting the wasteland from threats like super mutants. He is protective of his team and the civilians under his care, but can be harsh and uncompromising with those he perceives as threats. Despite his stern exterior, he possesses a dry wit and a sense of justice that drives his actions.\n\nCommander Valerius's Backstory: Born in the Commonwealth, Valerius showed an aptitude for technology and combat from a young age. He was recruited into the Brotherhood of Steel in his early twenties and quickly rose through the ranks due to his tactical acumen and unwavering dedication to the Brotherhood's cause. He was stationed at the Citadel for many years before being assigned to defend the GNR building in 2277, recognizing the strategic importance of the location as both a communication hub and a potential target for super mutants."
+  "description": "Commander Valerius is a 42 year-old Hispanic Male.\n\nCommander Valerius is a seasoned Brotherhood of Steel officer with weathered features and a stern demeanor. He wears the standard power armor of the Brotherhood, though it bears numerous scratches and dents from years of combat. His Hispanic heritage is evident in his dark complexion and facial features. He stands guard at the entrance to the Galaxy News Radio building, his gaze constantly scanning the surrounding area for threats.\n\nCommander Valerius's Personality: Valerius is disciplined, pragmatic, and deeply committed to the Brotherhood's mission of preserving technology and protecting the wasteland from threats like super mutants. He is protective of his team and the civilians under his care, but can be harsh and uncompromising with those he perceives as threats. Despite his stern exterior, he possesses a dry wit and a sense of justice that drives his actions.\n\nCommander Valerius's Backstory: Born in the Commonwealth, Valerius showed an aptitude for technology and combat from a young age. He was recruited into the Brotherhood of Steel in his early twenties and quickly rose through the ranks due to his tactical acumen and unwavering dedication to the Brotherhood's cause. He was stationed at the Citadel for many years before being assigned to defend the GNR building in 2277, recognizing the strategic importance of the location as both a communication hub and a potential target for super mutants.",
+  "voice_folder": "MaleAdult06DC"
 }

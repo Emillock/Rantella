@@ -40,7 +40,7 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "10→15 (player level x1.3)",
+  "level": "10\u219215 (player level x1.3)",
   "tag_skills": [
     {
       "Explosives:": "62(64)"
@@ -205,5 +205,6 @@
     }
   ],
   "combat": [],
-  "description": "Jessup is a 38 year-old Caucasian Male.\n\nA seasoned Great Khan mercenary and squad leader who found himself stranded in Boulder City after being betrayed by Benny during a mission to ambush a package courier.\n\nJessup's Personality: Loyal to his fellow Great Khans above all else, principled but pragmatic when it comes to survival, quietly vengeful, and protective of his fellow Khans. He values family bonds deeply and is willing to defy authority to protect those under his command.\n\nJessup's Backstory: Jessup has been with the Great Khans for many years, serving as a trusted squad leader. He was part of the group led by Benny that traveled to Goodsprings to ambush the Courier. While he initially objected to the murder on ethical grounds, he was persuaded by his partner McMurphy to go along with the plan. Throughout the journey, he watched over fellow Khan Chance, who was struggling with chem addiction stemming from the Bitter Springs Massacre. After Chance's suspicious death and McMurphy's fatal wounds during an NCR patrol confrontation in Boulder City, Jessup found himself stranded with a handful of remaining Khans when Benny fled with the Platinum Chip."
+  "description": "Jessup is a 38 year-old Caucasian Male.\n\nA seasoned Great Khan mercenary and squad leader who found himself stranded in Boulder City after being betrayed by Benny during a mission to ambush a package courier.\n\nJessup's Personality: Loyal to his fellow Great Khans above all else, principled but pragmatic when it comes to survival, quietly vengeful, and protective of his fellow Khans. He values family bonds deeply and is willing to defy authority to protect those under his command.\n\nJessup's Backstory: Jessup has been with the Great Khans for many years, serving as a trusted squad leader. He was part of the group led by Benny that traveled to Goodsprings to ambush the Courier. While he initially objected to the murder on ethical grounds, he was persuaded by his partner McMurphy to go along with the plan. Throughout the journey, he watched over fellow Khan Chance, who was struggling with chem addiction stemming from the Bitter Springs Massacre. After Chance's suspicious death and McMurphy's fatal wounds during an NCR patrol confrontation in Boulder City, Jessup found himself stranded with a handful of remaining Khans when Benny fled with the Platinum Chip.",
+  "voice_folder": "MaleAdult05"
 }

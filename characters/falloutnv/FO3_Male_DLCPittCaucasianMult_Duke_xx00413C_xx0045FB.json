@@ -31,27 +31,27 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→100"
+      "Melee Weap.:": "32\u2192100"
     },
     {
-      "Small Guns:": "34→100"
+      "Small Guns:": "34\u2192100"
     },
     {
-      "Unarmed:": "28→100"
+      "Unarmed:": "28\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "65→160→210"
+      "Hit Points:": "65\u2192160\u2192210"
     },
     {
       "Critical Chance:": "5%"
     },
     {
-      "Unarmed Dam.:": "1.9→5.5"
+      "Unarmed Dam.:": "1.9\u21925.5"
     },
     {
       "Poison Resist.:": "15%"
@@ -141,5 +141,6 @@
     }
   ],
   "combat": [],
-  "description": "Duke is a 38 year-old Caucasian Male.\n\nA Pitt raider with exceptional rifle skills, Duke resides in the Pitt Uptown and actively vies for Krenshaw's position as Ashur's second-in-command. He is known for his competitive nature, especially in his pursuit of Vikia's attention and his desire for additional power within the faction.\n\nDuke's Personality: Ambitious, competitive, and militaristic. Duke is calculating and opportunistic, always looking to advance his position within the Pitt raiders. He maintains a tough exterior but shows a pragmatic side when acknowledging the struggles of former slaves who fought their way out of the Hole.\n\nDuke's Backstory: Born in the harsh environment of the Pitt, Duke rose through the ranks of the raiders through his exceptional combat skills and ruthless efficiency. His name is derived from the Dukes of Duquesne University, a reference to the pre-War institution that once stood where the Pitt now resides. He has spent years building his reputation as one of the most skilled marksmen in the Uptown, making him a formidable contender for Krenshaw's position. Duke maintains a rivalry with O-Dog, particularly for the attention of Vikia, and often demonstrates his skills by shooting beer bottles near the training areas."
+  "description": "Duke is a 38 year-old Caucasian Male.\n\nA Pitt raider with exceptional rifle skills, Duke resides in the Pitt Uptown and actively vies for Krenshaw's position as Ashur's second-in-command. He is known for his competitive nature, especially in his pursuit of Vikia's attention and his desire for additional power within the faction.\n\nDuke's Personality: Ambitious, competitive, and militaristic. Duke is calculating and opportunistic, always looking to advance his position within the Pitt raiders. He maintains a tough exterior but shows a pragmatic side when acknowledging the struggles of former slaves who fought their way out of the Hole.\n\nDuke's Backstory: Born in the harsh environment of the Pitt, Duke rose through the ranks of the raiders through his exceptional combat skills and ruthless efficiency. His name is derived from the Dukes of Duquesne University, a reference to the pre-War institution that once stood where the Pitt now resides. He has spent years building his reputation as one of the most skilled marksmen in the Uptown, making him a formidable contender for Krenshaw's position. Duke maintains a rivalry with O-Dog, particularly for the attention of Vikia, and often demonstrates his skills by shooting beer bottles near the training areas.",
+  "voice_folder": "DLC01RaiderMaleColdVoice"
 }

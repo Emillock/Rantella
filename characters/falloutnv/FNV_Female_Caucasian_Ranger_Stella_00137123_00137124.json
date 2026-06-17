@@ -1,5 +1,5 @@
 {
-  "name": "Ranger Stella²",
+  "name": "Ranger Stella\u00b2",
   "url": "/wiki/Stella_(Fallout:_New_Vegas)",
   "dialogue_name": "",
   "dialogue_url": null,
@@ -31,21 +31,21 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "15→30 (Player Level x 1.30)",
+  "level": "15\u219230 (Player Level x 1.30)",
   "tag_skills": [
     {
-      "Guns:": "88→100"
+      "Guns:": "88\u2192100"
     },
     {
-      "Sneak:": "88→100"
+      "Sneak:": "88\u2192100"
     },
     {
-      "Unarmed:": "88→100"
+      "Unarmed:": "88\u2192100"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "175→250"
+      "Hit Points:": "175\u2192250"
     },
     {
       "Dam. Threshold:": "0"
@@ -57,5 +57,6 @@
   "topics": [],
   "conversation": [],
   "combat": [],
-  "description": "Ranger Stella is a 28 year-old Caucasian Female.\n\nA dedicated and skilled former Ranger of the New California Republic, Stella is known for her combat prowess and unwavering commitment to the NCR's values. Her training and experience have made her a formidable opponent in any conflict.\n\nRanger Stella's Personality: Disciplined, resilient, and honorable, Stella embodies the values of the NCR Rangers. She is pragmatic in the face of danger but maintains a strong moral compass. Her experience as a Ranger has made her cautious but confident, and she values duty above personal comfort.\n\nRanger Stella's Backstory: Stella was born in the small settlement of Primm and grew up hearing stories of the NCR Rangers who protected the Mojave Wasteland. Inspired by these tales, she traveled to NCR territory and joined the Rangers at a young age. After completing her training, she was assigned to Ranger Station Charlie, where she served with distinction for several years. Her tactical knowledge and combat skills earned her respect among her peers and superiors."
+  "description": "Ranger Stella is a 28 year-old Caucasian Female.\n\nA dedicated and skilled former Ranger of the New California Republic, Stella is known for her combat prowess and unwavering commitment to the NCR's values. Her training and experience have made her a formidable opponent in any conflict.\n\nRanger Stella's Personality: Disciplined, resilient, and honorable, Stella embodies the values of the NCR Rangers. She is pragmatic in the face of danger but maintains a strong moral compass. Her experience as a Ranger has made her cautious but confident, and she values duty above personal comfort.\n\nRanger Stella's Backstory: Stella was born in the small settlement of Primm and grew up hearing stories of the NCR Rangers who protected the Mojave Wasteland. Inspired by these tales, she traveled to NCR territory and joined the Rangers at a young age. After completing her training, she was assigned to Ranger Station Charlie, where she served with distinction for several years. Her tactical knowledge and combat skills earned her respect among her peers and superiors.",
+  "voice_folder": "FemaleAdult01Default"
 }

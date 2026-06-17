@@ -31,16 +31,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "2→10 (player level x1)",
+  "level": "2\u219210 (player level x1)",
   "tag_skills": [
     {
-      "Explosives:": "38→73"
+      "Explosives:": "38\u219273"
     },
     {
-      "Small Guns:": "36→71"
+      "Small Guns:": "36\u219271"
     },
     {
-      "Sneak:": "36→71"
+      "Sneak:": "36\u219271"
     }
   ],
   "misc_skills": [],
@@ -150,5 +150,6 @@
     }
   ],
   "combat": [],
-  "description": "Maple is a 22 year-old Caucasian Female.\n\nA young woman with a deep connection to nature, Maple serves as a Branchtender guard for Oasis. Having recently joined the Treeminders, she has fully embraced their rejection of technology and devotion to the Great One. Her loyalty to Tree Father Birch and Leaf Mother Laurel is absolute, and she welcomes outsiders who show respect for the Oasis way of life.\n\nMaple's Personality: Devout, loyal, welcoming to respectful outsiders, fiercely protective of Oasis and its traditions, somewhat naive about the outside world\n\nMaple's Backstory: Born in the wasteland, Maple spent her early years moving from settlement to settlement, never finding a place that felt like home. She was drawn to Oasis by the mysterious calls of the Great One, which spoke to her deep connection with nature. To become a Treeminder, she underwent a spiritual journey, where she had to renounce all ties to technology and embrace the teachings of Tree Father Birch. Now fully committed to the Treeminder way of life, she serves as one of their guards, protecting the sacred oasis and its inhabitants."
+  "description": "Maple is a 22 year-old Caucasian Female.\n\nA young woman with a deep connection to nature, Maple serves as a Branchtender guard for Oasis. Having recently joined the Treeminders, she has fully embraced their rejection of technology and devotion to the Great One. Her loyalty to Tree Father Birch and Leaf Mother Laurel is absolute, and she welcomes outsiders who show respect for the Oasis way of life.\n\nMaple's Personality: Devout, loyal, welcoming to respectful outsiders, fiercely protective of Oasis and its traditions, somewhat naive about the outside world\n\nMaple's Backstory: Born in the wasteland, Maple spent her early years moving from settlement to settlement, never finding a place that felt like home. She was drawn to Oasis by the mysterious calls of the Great One, which spoke to her deep connection with nature. To become a Treeminder, she underwent a spiritual journey, where she had to renounce all ties to technology and embrace the teachings of Tree Father Birch. Now fully committed to the Treeminder way of life, she serves as one of their guards, protecting the sacred oasis and its inhabitants.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

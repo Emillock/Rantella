@@ -31,16 +31,16 @@
     "Agility": 6,
     "Luck": 5
   },
-  "level": "6→14",
+  "level": "6\u219214",
   "tag_skills": [
     {
-      "Explosives:": "55→90"
+      "Explosives:": "55\u219290"
     },
     {
-      "Small Guns:": "53→88(55→90)"
+      "Small Guns:": "53\u219288(55\u219290)"
     },
     {
-      "Sneak:": "53→88"
+      "Sneak:": "53\u219288"
     }
   ],
   "misc_skills": [],
@@ -150,5 +150,6 @@
     }
   ],
   "combat": [],
-  "description": "Holly is a 55 year-old Caucasian Female.\n\nHolly is the wife of Vance and the oldest female member of The Family in 2277. She has several reservations about her husband's beliefs but supports him completely. As a veteran member of the group, she is strong-willed, intelligent, and respected by the other Family members.\n\nHolly's Personality: Strong-willed and intelligent, yet supportive of her husband despite her reservations about his beliefs. She is loyal and has earned the respect of other Family members through her long-standing commitment to the group.\n\nHolly's Backstory: Holly was one of the first people to join Vance when he decided to exile himself to the Meresti Metro station, becoming the founding member of The Family. Over the years, she has grown fond of Vance and they have developed a healthy relationship. As the oldest female member and a veteran of the group, she holds a position of respect among the other Family members who accept her relationship with Vance without suspicion."
+  "description": "Holly is a 55 year-old Caucasian Female.\n\nHolly is the wife of Vance and the oldest female member of The Family in 2277. She has several reservations about her husband's beliefs but supports him completely. As a veteran member of the group, she is strong-willed, intelligent, and respected by the other Family members.\n\nHolly's Personality: Strong-willed and intelligent, yet supportive of her husband despite her reservations about his beliefs. She is loyal and has earned the respect of other Family members through her long-standing commitment to the group.\n\nHolly's Backstory: Holly was one of the first people to join Vance when he decided to exile himself to the Meresti Metro station, becoming the founding member of The Family. Over the years, she has grown fond of Vance and they have developed a healthy relationship. As the oldest female member and a veteran of the group, she holds a position of respect among the other Family members who accept her relationship with Vance without suspicion.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

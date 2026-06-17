@@ -22,21 +22,21 @@
   "role": "Big Town guard",
   "detailed_location": "Big Town",
   "voice_actor": "Craig Sechler",
-  "level": "2→5",
+  "level": "2\u21925",
   "tag_skills": [
     {
-      "Barter:": "34→48"
+      "Barter:": "34\u219248"
     },
     {
-      "Medicine:": "32→46"
+      "Medicine:": "32\u219246"
     },
     {
-      "Melee Weap.:": "36→50"
+      "Melee Weap.:": "36\u219250"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "30→45(35→50)"
+      "Hit Points:": "30\u219245(35\u219250)"
     },
     {
       "Critical Chance:": "5%"
@@ -262,5 +262,6 @@
       "index": "88"
     }
   ],
-  "description": "Flash is a 17 year-old Caucasian Male.\n\nA young adult who grew up in Little Lamplight and now serves as a guard in Big Town. Flash is known for his overconfident demeanor and boasts about his abilities with his .32 pistol, which he considers 'kick-ass'. Despite his childish behavior, he takes his guard duties seriously during daylight hours.\n\nFlash's Personality: Overconfident, boastful, and somewhat childish. Flash presents a tough exterior but is still developing his sense of responsibility. He enjoys attention and validation from others, particularly from those who knew him in Little Lamplight.\n\nFlash's Backstory: Born and raised in Little Lamplight, Flash spent his childhood with a close group of friends including Pappy, Bittercup, Red, and Kimba. The group frequently traveled together to Big Town for supplies and excitement. Upon reaching adulthood, Flash left Little Lamplight and settled in Big Town, where he took up the role of a guard. He previously had a brief relationship with Bittercup, but their young romance didn't last. Flash remains deeply connected to his Little Lamplight roots and often reminisces about his childhood adventures."
+  "description": "Flash is a 17 year-old Caucasian Male.\n\nA young adult who grew up in Little Lamplight and now serves as a guard in Big Town. Flash is known for his overconfident demeanor and boasts about his abilities with his .32 pistol, which he considers 'kick-ass'. Despite his childish behavior, he takes his guard duties seriously during daylight hours.\n\nFlash's Personality: Overconfident, boastful, and somewhat childish. Flash presents a tough exterior but is still developing his sense of responsibility. He enjoys attention and validation from others, particularly from those who knew him in Little Lamplight.\n\nFlash's Backstory: Born and raised in Little Lamplight, Flash spent his childhood with a close group of friends including Pappy, Bittercup, Red, and Kimba. The group frequently traveled together to Big Town for supplies and excitement. Upon reaching adulthood, Flash left Little Lamplight and settled in Big Town, where he took up the role of a guard. He previously had a brief relationship with Bittercup, but their young romance didn't last. Flash remains deeply connected to his Little Lamplight roots and often reminisces about his childhood adventures.",
+  "voice_folder": "MaleAdult04DC"
 }

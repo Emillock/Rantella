@@ -40,16 +40,16 @@
     "Agility": 7,
     "Luck": 6
   },
-  "level": "5→20→30",
+  "level": "5\u219220\u219230",
   "tag_skills": [
     {
-      "Big Guns:": "45→100"
+      "Big Guns:": "45\u2192100"
     },
     {
-      "Melee Weap.:": "49→100"
+      "Melee Weap.:": "49\u2192100"
     },
     {
-      "Small Guns:": "49→100"
+      "Small Guns:": "49\u2192100"
     }
   ],
   "misc_skills": [
@@ -554,5 +554,6 @@
       "index": "223"
     }
   ],
-  "description": "Jericho is a 65 year-old Hispanic Male.\n\nA former raider who has settled down in Megaton to enjoy his retirement. Despite his age, Jericho maintains his sharpshooting skills and raider attitude, preferring to spend his time drinking and cursing rather than working.\n\nJericho's Personality: Groudy, cynical, and crude with a dry sense of humor. Jericho is pragmatic and values caps above all else, though he has a soft spot for Megaton and its residents. He's not actively malicious but certainly not friendly to strangers.\n\nJericho's Backstory: Jericho spent decades as a ruthless raider, terrorizing the wastelands and killing for meager caps and loot. He became a crack shot with rifles during his raider years. Eventually growing tired of the lifestyle, he retired and settled in Megaton, where he now lives a relatively quiet life. Despite his retirement, Jericho maintains connections with his past, occasionally doing odd jobs for Colin Moriarty at the Moriarty's Saloon."
+  "description": "Jericho is a 65 year-old Hispanic Male.\n\nA former raider who has settled down in Megaton to enjoy his retirement. Despite his age, Jericho maintains his sharpshooting skills and raider attitude, preferring to spend his time drinking and cursing rather than working.\n\nJericho's Personality: Groudy, cynical, and crude with a dry sense of humor. Jericho is pragmatic and values caps above all else, though he has a soft spot for Megaton and its residents. He's not actively malicious but certainly not friendly to strangers.\n\nJericho's Backstory: Jericho spent decades as a ruthless raider, terrorizing the wastelands and killing for meager caps and loot. He became a crack shot with rifles during his raider years. Eventually growing tired of the lifestyle, he retired and settled in Megaton, where he now lives a relatively quiet life. Despite his retirement, Jericho maintains connections with his past, occasionally doing odd jobs for Colin Moriarty at the Moriarty's Saloon.",
+  "voice_folder": "MaleUniqueJericho"
 }

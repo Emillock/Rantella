@@ -40,21 +40,21 @@
     "Agility": 2,
     "Luck": 4
   },
-  "level": "5→15 (player level x1.25)",
+  "level": "5\u219215 (player level x1.25)",
   "tag_skills": [
     {
-      "Big Guns:": "61→91"
+      "Big Guns:": "61\u219291"
     },
     {
-      "Energy Weap.:": "63→93"
+      "Energy Weap.:": "63\u219293"
     },
     {
-      "Small Guns:": "57→87(53→83)"
+      "Small Guns:": "57\u219287(53\u219283)"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "70→105"
+      "Hit Points:": "70\u2192105"
     },
     {
       "Damage Res.:": "48%"
@@ -194,5 +194,6 @@
     }
   ],
   "combat": [],
-  "description": "Defender Morgan is a 35 year-old African American Female.\n\nA disciplined and sharp-witted soldier serving as a perimeter guard for the Brotherhood of Steel Outcasts at Fort Independence. Morgan is known for her unwavering loyalty to Protector Casdin and her no-nonsense approach to duty.\n\nDefender Morgan's Personality: Disciplined, loyal, analytical, and somewhat cynical. Morgan takes her responsibilities seriously and expects others to do the same. She is well-read and often draws literary parallels to current situations, particularly comparing Elder Lyons' crusade to Captain Ahab's obsession in Moby-Dick. Despite her tough exterior, she values competence and intelligence in others.\n\nDefender Morgan's Backstory: Morgan originally joined the Brotherhood of Steel as a young initiate, drawn by their mission of preserving technology and knowledge. She served with distinction in various patrols, but grew disillusioned with Elder Lyons' focus on helping wastelanders rather than the Brotherhood's original mission. When the schism occurred, Morgan chose to follow Casdin to the Outcasts, believing in a more purist approach to the Brotherhood's ideals. Her experience and tactical acumen made her a valuable perimeter guard, responsible for monitoring approaches to Fort Independence."
+  "description": "Defender Morgan is a 35 year-old African American Female.\n\nA disciplined and sharp-witted soldier serving as a perimeter guard for the Brotherhood of Steel Outcasts at Fort Independence. Morgan is known for her unwavering loyalty to Protector Casdin and her no-nonsense approach to duty.\n\nDefender Morgan's Personality: Disciplined, loyal, analytical, and somewhat cynical. Morgan takes her responsibilities seriously and expects others to do the same. She is well-read and often draws literary parallels to current situations, particularly comparing Elder Lyons' crusade to Captain Ahab's obsession in Moby-Dick. Despite her tough exterior, she values competence and intelligence in others.\n\nDefender Morgan's Backstory: Morgan originally joined the Brotherhood of Steel as a young initiate, drawn by their mission of preserving technology and knowledge. She served with distinction in various patrols, but grew disillusioned with Elder Lyons' focus on helping wastelanders rather than the Brotherhood's original mission. When the schism occurred, Morgan chose to follow Casdin to the Outcasts, believing in a more purist approach to the Brotherhood's ideals. Her experience and tactical acumen made her a valuable perimeter guard, responsible for monitoring approaches to Fort Independence.",
+  "voice_folder": "FemaleAdult01DefaultDC"
 }

@@ -26,7 +26,7 @@ class CharacterDB():
             logging.error(f"Could not find voice_model_ref_ids_file at {self.config.voice_model_ref_ids_file}. Please download the correct file for your game, or correct the filepath in your {self.config.config_path} and try again.")
             raise FileNotFoundError
         if self.config.voice_model_ref_ids_file != "" and os.path.exists(self.config.voice_model_ref_ids_file):
-            with open(self.config.voice_model_ref_ids_file, 'r') as f:
+            with open(self.config.voice_model_ref_ids_file, 'r', encoding='utf-8') as f:
                 self.voice_model_ids = json.load(f)
         else:
             self.voice_model_ids = {}
@@ -84,7 +84,7 @@ class CharacterDB():
         for file in os.listdir(path):
             if file.endswith(".json"):
                 try:
-                    character = json.load(open(os.path.join(path, file)))
+                    character = json.load(open(os.path.join(path, file), 'r', encoding='utf-8'))
                     character = self.format_character(character)
                     self._characters.append(character)
                     self.unique_ref_index[f"{character['name']}({character['ref_id']})[{character['base_id']}]"] = character
@@ -204,7 +204,7 @@ class CharacterDB():
                     overwrite = input(f"Character '{info['name']}' already exists in the database. Overwrite? (y/n): ")
                     if overwrite.lower() != 'y':
                         return
-                json.dump(info, open(json_file_path, 'w'), indent=4)
+                json.dump(info, open(json_file_path, 'w', encoding='utf-8'), indent=2)
 
     def get_character_by_name(self, name):
         if name in self.named_index:
@@ -644,7 +644,7 @@ class CharacterDB():
                 os.makedirs(path)
             for character in self._characters:
                 json_file_path = os.path.join(path, str(self.config.game_id) + "_" + str(character['gender']) + "_" + str( character["in_game_race"] if "in_game_race" in character else character["race"] if "race" in character else "") + "_" + str(character['name']) + "_" + str(character['ref_id']) + "_" + str(character['base_id']) + '.json')
-                json.dump(character, open(json_file_path, 'w'), indent=4)
+                json.dump(character, open(json_file_path, 'w', encoding='utf-8'), indent=2)
         elif type == 'csv':
             df = pd.DataFrame(self._characters)
             df.to_csv(path, index=False)

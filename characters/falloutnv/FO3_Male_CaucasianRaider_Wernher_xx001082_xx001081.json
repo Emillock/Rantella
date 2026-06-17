@@ -31,16 +31,16 @@
     "Agility": 6,
     "Luck": 4
   },
-  "level": "1→20→30 (Broken Steelonly)",
+  "level": "1\u219220\u219230 (Broken Steelonly)",
   "tag_skills": [
     {
-      "Melee Weap.:": "31→100"
+      "Melee Weap.:": "31\u2192100"
     },
     {
-      "Small Guns:": "31→100"
+      "Small Guns:": "31\u2192100"
     },
     {
-      "Sneak:": "31→100"
+      "Sneak:": "31\u2192100"
     }
   ],
   "misc_skills": [
@@ -610,5 +610,6 @@
     }
   ],
   "combat": [],
-  "description": "Wernher is a 30 year-old Caucasian Male.\n\nA cunning former Pitt raider lieutenant who was stripped of his rank and enslaved after attempting to overthrow Ashur. Now working as an organizer of the slave revolt, he seeks an outsider's help to infiltrate the raiders and overthrow Ashur.\n\nWernher's Personality: Intelligent, manipulative, and opportunistic. Wernher presents himself as a concerned slave while hiding his past as a raider lieutenant responsible for maintaining slavery. He is cunning but transparent in his ambitions to seize power for himself.\n\nWernher's Backstory: Wernher was born around 2247, around the time of the Scourge. He rose to become Ashur's second-in-command in the Pitt, one of the more intelligent individuals in the city. However, his ambition led him to attempt a coup against Ashur, which failed. As punishment, he was stripped of his rank and reduced to slavery, forced to work alongside the slaves he once ruled. Determined to regain power, Wernher began organizing a slave rebellion in secret, collaborating with Midea, the de facto leader of slaves."
+  "description": "Wernher is a 30 year-old Caucasian Male.\n\nA cunning former Pitt raider lieutenant who was stripped of his rank and enslaved after attempting to overthrow Ashur. Now working as an organizer of the slave revolt, he seeks an outsider's help to infiltrate the raiders and overthrow Ashur.\n\nWernher's Personality: Intelligent, manipulative, and opportunistic. Wernher presents himself as a concerned slave while hiding his past as a raider lieutenant responsible for maintaining slavery. He is cunning but transparent in his ambitions to seize power for himself.\n\nWernher's Backstory: Wernher was born around 2247, around the time of the Scourge. He rose to become Ashur's second-in-command in the Pitt, one of the more intelligent individuals in the city. However, his ambition led him to attempt a coup against Ashur, which failed. As punishment, he was stripped of his rank and reduced to slavery, forced to work alongside the slaves he once ruled. Determined to regain power, Wernher began organizing a slave rebellion in secret, collaborating with Midea, the de facto leader of slaves.",
+  "voice_folder": "DLC01UniqueWernher"
 }

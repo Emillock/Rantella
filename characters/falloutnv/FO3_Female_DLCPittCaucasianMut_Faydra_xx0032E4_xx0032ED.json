@@ -31,21 +31,21 @@
     "Agility": 7,
     "Luck": 5
   },
-  "level": "1→4→9",
+  "level": "1\u21924\u21929",
   "tag_skills": [
     {
-      "Melee Weap.:": "32→45→66"
+      "Melee Weap.:": "32\u219245\u219266"
     },
     {
-      "Small Guns:": "34→47→68"
+      "Small Guns:": "34\u219247\u219268"
     },
     {
-      "Unarmed:": "28→41→62"
+      "Unarmed:": "28\u219241\u219262"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "25→55→85"
+      "Hit Points:": "25\u219255\u219285"
     }
   ],
   "karma": "Evil",
@@ -161,5 +161,6 @@
     }
   ],
   "combat": [],
-  "description": "Faydra is a 34 year-old Caucasian (with possible mutations from Pitt radiation) Female.\n\nFaydra is the no-nonsense arena manager who oversees the brutal fights in The Hole. Standing guard at the arena entrance, she coordinates the deadly matches and scavenges equipment from fallen fighters. Despite her cold exterior, she offers spare weapons and Rad-X to those deemed worthy of fighting in the arena. She maintains a friendship with Spook and has a habit of picking up any consumable items dropped near her.\n\nFaydra's Personality: Pragmatic and observant, Faydra is hardened by her experiences in The Pitt's violent environment. She values combat capability and isn't easily impressed. While she appears冷酷, she does have a code of sorts, providing necessary equipment to promising fighters. She's opportunistic but not without her principles in the cutthroat world of the raiders.\n\nFaydra's Backstory: Born and raised in the industrial wasteland of The Pitt, Faydra learned early that strength and cunning were the only currencies that mattered. She worked her way up through the raider ranks, earning respect not just through combat prowess but through her organizational skills. Her position as arena manager gives her power and influence within the settlement, allowing her to survive and thrive in the brutal environment of The Pitt."
+  "description": "Faydra is a 34 year-old Caucasian (with possible mutations from Pitt radiation) Female.\n\nFaydra is the no-nonsense arena manager who oversees the brutal fights in The Hole. Standing guard at the arena entrance, she coordinates the deadly matches and scavenges equipment from fallen fighters. Despite her cold exterior, she offers spare weapons and Rad-X to those deemed worthy of fighting in the arena. She maintains a friendship with Spook and has a habit of picking up any consumable items dropped near her.\n\nFaydra's Personality: Pragmatic and observant, Faydra is hardened by her experiences in The Pitt's violent environment. She values combat capability and isn't easily impressed. While she appears\u51b7\u9177, she does have a code of sorts, providing necessary equipment to promising fighters. She's opportunistic but not without her principles in the cutthroat world of the raiders.\n\nFaydra's Backstory: Born and raised in the industrial wasteland of The Pitt, Faydra learned early that strength and cunning were the only currencies that mattered. She worked her way up through the raider ranks, earning respect not just through combat prowess but through her organizational skills. Her position as arena manager gives her power and influence within the settlement, allowing her to survive and thrive in the brutal environment of The Pitt.",
+  "voice_folder": "DLC01RaiderFemaleColdVoice"
 }

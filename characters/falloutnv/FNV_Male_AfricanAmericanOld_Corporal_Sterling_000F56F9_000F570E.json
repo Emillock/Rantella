@@ -1,5 +1,5 @@
 {
-  "name": "Corporal Sterling¹",
+  "name": "Corporal Sterling\u00b9",
   "url": "/wiki/Sterling_(Fallout:_New_Vegas)",
   "dialogue_name": "1ECorporalSterling.txt",
   "dialogue_url": "/wiki/1ECorporalSterling.txt",
@@ -143,5 +143,6 @@
     }
   ],
   "combat": [],
-  "description": "Corporal Sterling is a 42 year-old African American Male.\n\nA battle-hardened NCR First Recon sniper stationed at Camp McCarran. Despite severe injuries to his hands and feet, Sterling remains one of the most skilled marksmen in the Mojave.\n\nCorporal Sterling's Personality: Persistent, resilient, and quietly determined. Sterling carries the weight of his past experiences but maintains a professional demeanor. He values duty to the NCR above all else and has a dry, understated sense of humor.\n\nCorporal Sterling's Backstory: Sterling served as one of the first NCR Rangers to scout the Mojave Wasteland back in 2273. For nearly a decade, he patrolled the region between Shady Sands and the Colorado River, gaining an intimate knowledge of the territory. His Ranger career came to a brutal end when he was captured by Caesar's Legion near Malpais. The legionaries tortured him by systematically breaking bones in his hands and feet, leaving him with permanent injuries. Despite being offered an honorable discharge, Sterling refused to leave the military. His exceptional marksmanship skills earned him a place in the NCR Army, where he was transferred to First Recon by Lt. Gorobets, recognizing his value despite his physical limitations."
+  "description": "Corporal Sterling is a 42 year-old African American Male.\n\nA battle-hardened NCR First Recon sniper stationed at Camp McCarran. Despite severe injuries to his hands and feet, Sterling remains one of the most skilled marksmen in the Mojave.\n\nCorporal Sterling's Personality: Persistent, resilient, and quietly determined. Sterling carries the weight of his past experiences but maintains a professional demeanor. He values duty to the NCR above all else and has a dry, understated sense of humor.\n\nCorporal Sterling's Backstory: Sterling served as one of the first NCR Rangers to scout the Mojave Wasteland back in 2273. For nearly a decade, he patrolled the region between Shady Sands and the Colorado River, gaining an intimate knowledge of the territory. His Ranger career came to a brutal end when he was captured by Caesar's Legion near Malpais. The legionaries tortured him by systematically breaking bones in his hands and feet, leaving him with permanent injuries. Despite being offered an honorable discharge, Sterling refused to leave the military. His exceptional marksmanship skills earned him a place in the NCR Army, where he was transferred to First Recon by Lt. Gorobets, recognizing his value despite his physical limitations.",
+  "voice_folder": "MaleAdult01DefaultB"
 }

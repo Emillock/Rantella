@@ -39,7 +39,7 @@
       "topic": "GREETING",
       "topic_text": "GREETING",
       "emotion": "Happy 50",
-      "response_text": "Sounds like everybody's having a good time in there.{cheerfully}Play soundFO3 OfficerKendall EverybodysHav…https://fallout.fandom.com/wiki/File:FO3_OfficerKendall_EverybodysHaving.oggnoicon",
+      "response_text": "Sounds like everybody's having a good time in there.{cheerfully}Play soundFO3 OfficerKendall EverybodysHav\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerKendall_EverybodysHaving.oggnoicon",
       "index": "1"
     }
   ],
@@ -48,7 +48,7 @@
       "topic": "CG02OverseerGuardConv",
       "topic_text": "CG02OverseerGuardConv",
       "emotion": "Neutral 50",
-      "response_text": "Enjoy the party, sir?Play soundFO3 OfficerKendall EnjoyTheParty…https://fallout.fandom.com/wiki/File:FO3_OfficerKendall_EnjoyTheParty.oggnoicon",
+      "response_text": "Enjoy the party, sir?Play soundFO3 OfficerKendall EnjoyTheParty\u2026https://fallout.fandom.com/wiki/File:FO3_OfficerKendall_EnjoyTheParty.oggnoicon",
       "index": "2"
     },
     {
@@ -67,5 +67,6 @@
     }
   ],
   "combat": [],
-  "description": "Officer John Kendall is a 42 year-old Caucasian Male.\n\nA dedicated security officer in Vault 101, Officer Kendall is a middle-aged man who takes his role as protector of the vault seriously. With a stern demeanor and unwavering commitment to the Overseer's orders, he represents the iron fist of Vault security while maintaining a veneer of civility to the vault's residents.\n\nOfficer John Kendall's Personality: John Kendall presents a dual personality: outwardly friendly and approachable to vault residents, yet inwardly rigid and uncompromising when it comes to enforcing rules. He follows orders without question, showing little capacity for introspection or moral questioning. Kendall genuinely enjoys his position of authority and views himself as the embodiment of Vault law. While not inherently cruel, his blind obedience to authority makes him a formidable obstacle to those who would challenge the Vault's established order.\n\nOfficer John Kendall's Backstory: Born before the Great War, John Kendall entered Vault 101 as a young adult and has spent his entire adult life within its confines. He married Mary Kendall, with whom he had two daughters, Christine and Monica. Over the years, he rose through the ranks of Vault Security, eventually becoming one of the most trusted officers under Overseer Alphonse. Kendall's unwavering loyalty to the Vault's hierarchy has made him both respected and feared among the residents, particularly those who remember his strict enforcement of curfews and other regulations."
+  "description": "Officer John Kendall is a 42 year-old Caucasian Male.\n\nA dedicated security officer in Vault 101, Officer Kendall is a middle-aged man who takes his role as protector of the vault seriously. With a stern demeanor and unwavering commitment to the Overseer's orders, he represents the iron fist of Vault security while maintaining a veneer of civility to the vault's residents.\n\nOfficer John Kendall's Personality: John Kendall presents a dual personality: outwardly friendly and approachable to vault residents, yet inwardly rigid and uncompromising when it comes to enforcing rules. He follows orders without question, showing little capacity for introspection or moral questioning. Kendall genuinely enjoys his position of authority and views himself as the embodiment of Vault law. While not inherently cruel, his blind obedience to authority makes him a formidable obstacle to those who would challenge the Vault's established order.\n\nOfficer John Kendall's Backstory: Born before the Great War, John Kendall entered Vault 101 as a young adult and has spent his entire adult life within its confines. He married Mary Kendall, with whom he had two daughters, Christine and Monica. Over the years, he rose through the ranks of Vault Security, eventually becoming one of the most trusted officers under Overseer Alphonse. Kendall's unwavering loyalty to the Vault's hierarchy has made him both respected and feared among the residents, particularly those who remember his strict enforcement of curfews and other regulations.",
+  "voice_folder": "MaleAdult01DefaultDC"
 }

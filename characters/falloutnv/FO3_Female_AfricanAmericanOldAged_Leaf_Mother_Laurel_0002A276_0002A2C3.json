@@ -31,21 +31,21 @@
     "Agility": 4,
     "Luck": 4
   },
-  "level": "2→10",
+  "level": "2\u219210",
   "tag_skills": [
     {
-      "Barter:": "37→75"
+      "Barter:": "37\u219275"
     },
     {
-      "Melee Weap.:": "33→71"
+      "Melee Weap.:": "33\u219271"
     },
     {
-      "Speech:": "37→75"
+      "Speech:": "37\u219275"
     }
   ],
   "misc_skills": [
     {
-      "Hit Points:": "40→80"
+      "Hit Points:": "40\u219280"
     }
   ],
   "karma": "Good",
@@ -231,5 +231,6 @@
     }
   ],
   "combat": [],
-  "description": "Leaf Mother Laurel is a 75 year-old African American Female.\n\nThe wise and nurturing Elder of the Treeminders in Oasis, Leaf Mother Laurel tends to the village's plants and flowers while caring for the spiritual well-being of her people. Often accompanied by her daughter Sapling Yew, she can be found wandering the peaceful settlement or sitting thoughtfully on a stump in the evenings with her husband Tree Father Birch.\n\nLeaf Mother Laurel's Personality: Nurturing, wise, and spiritually focused. Leaf Mother Laurel is deeply committed to her people's welfare and believes in sharing Harold's gift with the Capital Wasteland. She is patient and gentle, yet firm in her beliefs, often taking a more optimistic approach than her husband.\n\nLeaf Mother Laurel's Backstory: Born before the Great War, Leaf Mother Laurel has spent most of her life in the wasteland. She and her husband Tree Father Birch founded the Treeminders community in Oasis, establishing a settlement that honors Harold's unique growth. As the Leaf Mother, she has guided the spiritual and emotional aspects of their community, while her husband handles the physical maintenance of their sacred tree. Together they raised their daughter Sapling Yew, who now helps tend to the settlement's needs. Despite their peaceful existence, Leaf Mother Laurel harbors a desire to spread their message beyond Oasis, believing that Harold's gift could bring hope to the wider wasteland."
+  "description": "Leaf Mother Laurel is a 75 year-old African American Female.\n\nThe wise and nurturing Elder of the Treeminders in Oasis, Leaf Mother Laurel tends to the village's plants and flowers while caring for the spiritual well-being of her people. Often accompanied by her daughter Sapling Yew, she can be found wandering the peaceful settlement or sitting thoughtfully on a stump in the evenings with her husband Tree Father Birch.\n\nLeaf Mother Laurel's Personality: Nurturing, wise, and spiritually focused. Leaf Mother Laurel is deeply committed to her people's welfare and believes in sharing Harold's gift with the Capital Wasteland. She is patient and gentle, yet firm in her beliefs, often taking a more optimistic approach than her husband.\n\nLeaf Mother Laurel's Backstory: Born before the Great War, Leaf Mother Laurel has spent most of her life in the wasteland. She and her husband Tree Father Birch founded the Treeminders community in Oasis, establishing a settlement that honors Harold's unique growth. As the Leaf Mother, she has guided the spiritual and emotional aspects of their community, while her husband handles the physical maintenance of their sacred tree. Together they raised their daughter Sapling Yew, who now helps tend to the settlement's needs. Despite their peaceful existence, Leaf Mother Laurel harbors a desire to spread their message beyond Oasis, believing that Harold's gift could bring hope to the wider wasteland.",
+  "voice_folder": "FemaleOld01DC"
 }

@@ -31,16 +31,16 @@
     "Agility": 7,
     "Luck": 7
   },
-  "level": "1→8",
+  "level": "1\u21928",
   "tag_skills": [
     {
-      "Explosives:": "29→54"
+      "Explosives:": "29\u219254"
     },
     {
-      "Guns:": "35→60"
+      "Guns:": "35\u219260"
     },
     {
-      "Sneak:": "35→60"
+      "Sneak:": "35\u219260"
     }
   ],
   "misc_skills": [],
@@ -128,5 +128,6 @@
   ],
   "conversation": [],
   "combat": [],
-  "description": "Max is a 11 year-old African-American Male.\n\nA young African American orphan who survives on the harsh streets of Freeside. Max can often be found chasing his friend Stacey around the district, gleefully waving Euclid's C-Finder in the air. Despite his young age, Max has learned to navigate the dangers of the wasteland and has become quite savvy in the art of bartering.\n\nMax's Personality: Playful, resourceful, and pragmatic for his age. Max maintains a childlike sense of wonder despite the harsh realities of his life. He's protective of his friend Stacey and views the C-Finder as both a toy and a valuable possession.\n\nMax's Backstory: Max and Stacey became orphans after their parents succumbed to radiation sickness shortly after arriving in New Vegas as NCR refugees. They've been living on the streets of Freeside for the past two years, taking shelter in the ruins of a bombed-out building near the east entrance. Despite their circumstances, the two orphans have formed a strong bond and have developed survival skills far beyond their years."
+  "description": "Max is a 11 year-old African-American Male.\n\nA young African American orphan who survives on the harsh streets of Freeside. Max can often be found chasing his friend Stacey around the district, gleefully waving Euclid's C-Finder in the air. Despite his young age, Max has learned to navigate the dangers of the wasteland and has become quite savvy in the art of bartering.\n\nMax's Personality: Playful, resourceful, and pragmatic for his age. Max maintains a childlike sense of wonder despite the harsh realities of his life. He's protective of his friend Stacey and views the C-Finder as both a toy and a valuable possession.\n\nMax's Backstory: Max and Stacey became orphans after their parents succumbed to radiation sickness shortly after arriving in New Vegas as NCR refugees. They've been living on the streets of Freeside for the past two years, taking shelter in the ruins of a bombed-out building near the east entrance. Despite their circumstances, the two orphans have formed a strong bond and have developed survival skills far beyond their years.",
+  "voice_folder": "MaleChild01"
 }
