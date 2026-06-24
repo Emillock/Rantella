@@ -29,7 +29,7 @@ class Synthesizer(base_tts.base_Synthesizer):
         super().__init__(conversation_manager)
         self.tts_slug = tts_slug
         self._default_settings = default_settings
-        self._voice_model_jsons = []
+        self._voice_model_jsons = {}
         logging.config(f"Loading piper_binary voices for game_id '{self.config.game_id}' from {self.piper_models_dir}{self.config.game_id}\\")
         models_path = self.piper_models_dir+self.config.game_id+"\\"
         if self.config.linux_mode:
@@ -42,7 +42,29 @@ class Synthesizer(base_tts.base_Synthesizer):
                 with open(os.path.join(models_path, file), 'r', encoding="utf8") as f:
                     json_data = json.load(f)
                     json_data['model_name'] = file.replace(".onnx.json", "")
-                    self._voice_model_jsons.append(json_data)
+                    json_data['model_path'] = os.path.join(models_path, file.replace(".onnx.json", ".json"))
+                    self._voice_model_jsons[json_data['model_name']] = json_data
+        for addon_slug in self.config.addons: # Add the speakers folder from each addon to the list of speaker wavs folders
+            addon = self.config.addons[addon_slug]
+            if "models" in addon["addon_parts"]: 
+                if self.config.linux_mode:
+                    addon_speaker_wavs_folder = os.path.abspath(self.config.addons_dir + "/" + addon_slug + f"/models/piper-tts-voices/{self.config.game_id}/{self.config.language['tts_language_code']}/")
+                else:
+                    addon_speaker_wavs_folder = self.config.addons_dir + "\\" + addon_slug + "\\models\\piper-tts-voices\\" + self.config.game_id + "\\" + self.config.language['tts_language_code'] + "\\"
+                if os.path.exists(addon_speaker_wavs_folder):
+                    for file in os.listdir(addon_speaker_wavs_folder):
+                        if file.endswith(".json"):
+                            with open(os.path.join(addon_speaker_wavs_folder, file), 'r', encoding="utf8") as f:
+                                json_data = json.load(f)
+                                json_data['model_name'] = file.replace(".onnx.json", "")
+                                json_data['model_path'] = os.path.join(addon_speaker_wavs_folder, file.replace(".onnx.json", ".json"))
+                                if json_data['model_name'] not in self._voice_model_jsons:
+                                    logging.info(f'Adding voice model from addon: {json_data["model_name"]}')
+                                else:
+                                    logging.warning(f'Voice model from addon already exists in main models folder: {json_data["model_name"]}. Overriding with model from addon "{addon_slug}".')
+                                self._voice_model_jsons[json_data['model_name']] = json_data
+                else:
+                    logging.error(f'speakers folder not found at: {addon_speaker_wavs_folder}')
 
         logging.config(f'Available piper voices: {self.voices()}')
         if len(self.voices()) > 0:
@@ -72,14 +94,31 @@ class Synthesizer(base_tts.base_Synthesizer):
     def default_voice_model_settings(self):
         return {}
     
+    def get_voice_model_json(self, voice_model):
+        """Get the JSON data for the given voice model."""
+        if voice_model in self._voice_model_jsons:
+            return self._voice_model_jsons[voice_model]
+        else:
+            logging.error(f'Voice model "{voice_model}" not found in available voice models: {self.voices()}')
+            return None
+    
     def _synthesize(self, voiceline, voice_model, voiceline_location, settings, aggro=0):
         """Synthesize the audio for the character specified using piper"""
         # make sure directory exists
         os.makedirs(os.path.dirname(voiceline_location), exist_ok=True)
+        voice_model_json = self.get_voice_model_json(voice_model)
+        voice_model_path = voice_model_json['model_path'] if voice_model_json is not None else None
         if self.config.linux_mode:
-            command = f"echo \"{voiceline}\" | wine {self.piper_binary_dir}piper.exe --model {self.piper_models_dir}{self.config.game_id}/{voice_model.lower()}.onnx --output_file \"{voiceline_location}\""
+            voice_model_path = voice_model_path.replace("\\", "/") if voice_model_path is not None else None
         else:
-            command = f"echo \"{voiceline}\" | {self.piper_binary_dir}piper.exe --model {self.piper_models_dir}{self.config.game_id}\\{voice_model.lower()}.onnx --output_file \"{voiceline_location}\""
+            voice_model_path = voice_model_path.replace("/", "\\") if voice_model_path is not None else None
+        if voice_model_json is None:
+            logging.error(f'Voice model "{voice_model}" not found in available voice models: {self.voices()}. Cannot synthesize voiceline.')
+            return
+        if self.config.linux_mode:
+            command = f"echo \"{voiceline}\" | wine {self.piper_binary_dir}piper.exe --model {voice_model_path} --output_file \"{voiceline_location}\""
+        else:
+            command = f"echo \"{voiceline}\" | {self.piper_binary_dir}piper.exe --model {voice_model_path} --output_file \"{voiceline_location}\""
         logging.output(f"piperTTS - Synthesizing voiceline: {voiceline}")
         logging.config(f"piperTTS - Synthesizing voiceline with command: {command}")
         os.system(command)

@@ -99,6 +99,7 @@ class ConfigLoader:
         self.get_prompt_styles()
         self.addons = {}
         self.load_addons()
+        self.set_config_prompt_style()
         self.ready = True
         os.makedirs(os.path.join(os.path.dirname(__file__), "../configs/"), exist_ok=True)  # Ensure the configs directory exists
 
@@ -344,15 +345,19 @@ class ConfigLoader:
                         continue
             else:
                 continue
-            if os.path.isdir(addon_path) and os.path.exists(os.path.join(addon_path, "prompt_style.json")):
-                with open(os.path.join(addon_path, "prompt_style.json"), encoding='utf-8') as f:
-                    slug = addon_dir
-                    self._raw_prompt_styles[slug] = json.load(f)
-                    self.prompt_styles[slug] = self._raw_prompt_styles[slug]
+            # if os.path.isdir(addon_path) and os.path.exists(os.path.join(addon_path, "prompt_style.json")):
+            #     with open(os.path.join(addon_path, "prompt_style.json"), encoding='utf-8') as f:
+            #         slug = addon_dir
+            #         self._raw_prompt_styles[slug] = json.load(f)
+            #         self.prompt_styles[slug] = self._raw_prompt_styles[slug]
         style_names = [f"{slug} ({self._raw_prompt_styles[slug]['name']})" for slug in self.prompt_styles]
-        # self._prompt_style = self.prompt_styles["normal_en"]
-        self._prompt_style = self.prompt_styles[self.current_interface_config.get("default_prompt_style", self.prompt_style_override if self.prompt_style_override is not None and self.prompt_style_override in self.prompt_styles else "normal_en")]
         logging.config(f"Prompt styles loaded: "+str(style_names))
+
+    def set_config_prompt_style(self):
+        # self._prompt_style = self.prompt_styles["normal_en"]
+        slug = self.current_interface_config.get("default_prompt_style", self.prompt_style_override if self.prompt_style_override is not None and self.prompt_style_override in self.prompt_styles else "normal_en")
+        self._prompt_style = self.prompt_styles[slug]
+        logging.config(f"Prompt style set to {self._prompt_style['name']} ({slug})")
 
     def load_addons(self):
         """Load the addons from the addons directory"""
@@ -375,10 +380,12 @@ class ConfigLoader:
             "tts_types",
             "templates",
             "voice_samples",
+            "models",
             "behavior_styles",
             "interface_configs",
             "metadata.json",
-            "prompt_style.json",
+            # "prompt_style.json",
+            "prompt_styles",
             "game_event_renderers",
         ]
         if os.path.exists(self.addons_dir):
@@ -402,8 +409,15 @@ class ConfigLoader:
                             if addon_part not in valid_addon_parts:
                                 logging.warn(f"Addon {addon_slug} has an invalid addon part: {addon_part}. Skipping invalid addon part...")
                                 continue
-                            if addon_part == "prompt_style.json":
-                                self.addons[addon_slug]["prompt_style"] = json.load(open(os.path.join(addon_path, addon_part))) # Load the prompt style for the addon
+                            # if addon_part == "prompt_style.json":
+                            #     self.addons[addon_slug]["prompt_style"] = json.load(open(os.path.join(addon_path, addon_part))) # Load the prompt style for the addon
+                            if addon_part == "prompt_styles":
+                                for prompt_style_file in os.listdir(os.path.join(addon_path, addon_part)):
+                                    if prompt_style_file.endswith('.json'):
+                                        with open(os.path.join(addon_path, addon_part, prompt_style_file), encoding='utf-8') as f:
+                                            slug = prompt_style_file.split('.')[0]
+                                            self._raw_prompt_styles[slug] = json.load(f)
+                                            self.prompt_styles[slug] = self._raw_prompt_styles[slug]
                             self.addons[addon_slug]["addon_parts"].append(addon_part)
                         logging.config(f"Loaded addon {addon_slug} with metadata:", json.dumps(metadata, indent=4))
                     else:

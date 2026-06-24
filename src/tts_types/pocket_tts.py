@@ -68,9 +68,29 @@ class Synthesizer(base_tts.base_Synthesizer):
     def default_voice_model_settings(self):
         return {}
     
-    def get_speaker_safetensors_path(self, voice_model):
+    def get_speaker_safetensors_path(self, voice_model, check_addons=True):
         """Get the path to the safetensors file for the given voice model."""
-        return os.path.join(os.path.abspath(f"./data/models/pocket_tts/voice_tensors/"), self.config.game_id, self.language['tts_language_code'], voice_model+".safetensors")
+        main_path = os.path.join(os.path.abspath(f"./data/models/pocket_tts/voice_tensors/"), self.config.game_id, self.language['tts_language_code'], voice_model+".safetensors")
+        if os.path.exists(main_path) and not check_addons:
+            return main_path
+        available_paths = []
+        if os.path.exists(main_path):
+            available_paths.append(main_path)
+        if check_addons:
+            for addon_slug in self.config.addons: # Add the speakers folder from each addon to the list of speaker wavs folders
+                addon = self.config.addons[addon_slug]
+                if "models" in addon["addon_parts"]: 
+                    if self.config.linux_mode:
+                        addon_speaker_wavs_folder = os.path.abspath(self.config.addons_dir + "/" + addon_slug + f"/models/pocket-tts-voices/{self.config.game_id}/{self.config.language['tts_language_code']}/{voice_model}.safetensors")
+                    else:
+                        addon_speaker_wavs_folder = self.config.addons_dir + "\\" + addon_slug + "\\models\\pocket-tts-voices\\" + self.config.game_id + "\\" + self.config.language['tts_language_code'] + "\\" + voice_model + ".safetensors"
+                    if os.path.exists(addon_speaker_wavs_folder):
+                        available_paths.append(addon_speaker_wavs_folder)
+                    else:
+                        logging.error(f'speakers folder not found at: {addon_speaker_wavs_folder}')
+        returning_path = main_path if len(available_paths) == 0 else (available_paths.pop() if len(available_paths) > 0 else main_path)
+        logging.info(f'{self.tts_slug} - get_speaker_safetensors_path for voice model "{voice_model}" returning path: {returning_path} - path exists: {os.path.exists(returning_path)}')
+        return returning_path
 
     def get_model_state_for_voice_model(self, voice_model):
         if voice_model not in self.model_state_cache:
