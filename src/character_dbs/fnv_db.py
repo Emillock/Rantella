@@ -1,10 +1,6 @@
 from src.logging import logging
-import src.utils as utils
-import json
-import os
-import pandas as pd
 from src.character_dbs.base_character_db import CharacterDB as BaseCharacterDB
-logging.info("Imported required libraries in base_character_db.py")
+logging.info("Imported required libraries in fnv_db.py")
 
 db_slug = "fnv_db"
 
