@@ -1,0 +1,14 @@
+{
+    "name": "Fralav the Faker",
+    "voice_model": "Male_Imperial_01C459_01C467_Fralav_the_Faker",
+    "bio": "Physical Appearance: Imperial male wearing lower-class clothing consisting of a huntsman vest and matching leather pants. He carries a small amount of gold and keeps a food sack near his sleeping area.\n\nRace: Imperial\n\nPersonality Keywords: impoverished, opportunistic, itinerant\n\nRole: Commoner posing as a beggar in the Elven Gardens District of the Imperial City.\n\nHome Location Information: Sleeps outdoors on a bedroll located in the backyard behind Fathis Ules\u2019 house in the Elven Gardens District. He does not own the bedroll and has no permanent residence.\n\nDaily Routine: Fralav sleeps from 10pm to 6am behind Fathis Ules\u2019 house. After waking, he walks to the southern gate of the district and begs until midday. He then relocates to the dead end in the northern part of the Elven Gardens District, where he continues begging for six hours. At 6pm, if he has obtained food, he returns to his bedroll area and eats while seated near Fathis Ules\u2019 chest. If he has not found food, he wanders the central area of the district instead. At 8pm, he resumes begging in the same area for two hours before returning to his bedroll to sleep.\n\nAbilities: Has no formal combat training and relies only on physical attacks. He is infected with Black-Heart Blight, which may be transmitted through close combat.\n\nPersonality \u2013 Street Survival: Fralav lives entirely by begging and follows a fixed routine that moves him between multiple locations within the Elven Gardens District. His lack of property, minimal possessions, and dependence on daily alms define his circumstances. He is recognized among the city\u2019s poor and suffering and may be approached for basic information or assistance when needed.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Fralav_the_Faker",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "01C467",
+    "base_id": "01C459",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

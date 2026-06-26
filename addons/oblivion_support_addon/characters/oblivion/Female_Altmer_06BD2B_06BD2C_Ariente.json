@@ -1,0 +1,14 @@
+{
+    "name": "Ariente",
+    "voice_model": "Altmer_Female",
+    "bio": "Physical Appearance: Altmer (High Elf) female. Wears a complete set of iron armor including boots, cuirass, gauntlets, greaves, and helmet.\nRace: Altmer\nPersonality Keywords: Unknown\nRole: Ariente was a nightblade and member of the Fighters Guild. She was sent on a mission with Viranus Donton and several other guild members to deal with trolls at Forsaken Mine south of Leyawiin. The mission went disastrously wrong and she was killed in the first tunnel of the mine.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Ariente",
+    "race": "Altmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "06BD2C",
+    "base_id": "06BD2B",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "High Elf/F"
+}

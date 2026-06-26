@@ -1,0 +1,14 @@
+{
+    "name": "Scurvy John Hoff",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male. Wears light brown linens and leather boots - practical pirate attire. Armed with a steel cutlass and carries a torch.\nRace: Imperial\nPersonality Keywords: opportunistic, roguish, adventurous, loyal\nRole: Scurvy John Hoff is a pirate who joins the crew at Dunbarrow Cove after four upgrades have been purchased for the hideout. Once all upgrades are complete, he can be sent out with Zedrick Green and Yinz'r on pillaging expeditions that last 10 days before they return with plunder.\nHome Location Information: Dunbarrow Cove, a pirate hideout, where he lives with the rest of the crew.\nDaily Routine: When not out on pillaging expeditions, Scurvy John simply wanders around Dunbarrow Cove with the rest of the crew.\nPersonality - The Opportunistic Rover: Scurvy John is a pirate who has found a home at Dunbarrow Cove and proves his worth through successful plundering expeditions. He's willing to venture out for extended periods to bring back loot, showing both his adventurous spirit and his loyalty to the crew. His nickname \"Scurvy\" suggests a life spent at sea or at least among pirates who follow maritime traditions.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Scurvy_John_Hoff",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "00ee0d",
+    "base_id": "00398f",
+    "author": "Bethesda",
+    "notes": "Thieves Den DLC",
+    "voice_folder": "Imperial/M"
+}

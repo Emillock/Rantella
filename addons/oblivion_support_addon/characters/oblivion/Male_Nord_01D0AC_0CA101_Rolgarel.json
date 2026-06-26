@@ -1,0 +1,14 @@
+{
+    "name": "Rolgarel",
+    "voice_model": "Nord_Male",
+    "bio": "Physical Appearance: Nord male. Wears heavy armor including cuirass, greaves, and boots, with possible gauntlets and helmet. Carries middle-class shoes, shirt, and pants. Wields a longsword.\nRace: Nord\nPersonality Keywords: shady, criminal, hostile, violent\nRole: Rolgarel is a warrior in shady partnership with Agarmir of the Imperial City's Talos Plaza District. He works with Agarmir in illegal activities involving grave robbing.\nHome Location Information: The Trentius Family Mausoleum, where he can be found with Agarmir.\nDaily Routine: Rolgarel spends all his time wandering around the interior of the crypt, doing nothing else. If he survives confrontation, he stays in the Mausoleum indefinitely.\nHis Partnership: Rolgarel works with Agarmir, who claims to be a \"simple trapper\" but is actually involved in grave robbing and selling stolen goods to merchants like Thoronir. Rolgarel serves as muscle in this operation.\nPersonality - The Criminal Enforcer: Rolgarel is involved in criminal activities with Agarmir, operating out of the Trentius Family Mausoleum. He serves as protection and muscle for their shady enterprise, willing to use violence to defend their operation.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Rolgarel",
+    "race": "Nord",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0CA101",
+    "base_id": "01D0AC",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Nord/M"
+}

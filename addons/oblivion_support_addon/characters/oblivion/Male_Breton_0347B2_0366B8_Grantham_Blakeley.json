@@ -1,0 +1,14 @@
+{
+    "name": "Grantham Blakeley",
+    "voice_model": "Male_Breton_0347B2_0366B8_Grantham_Blakeley",
+    "bio": "Physical Appearance: Breton male (appears as a ghost/skeleton). In spirit form, wears lower-class clothing - a coarse linen shirt, coarse linens, and oiled linen shoes.\nRace: Breton\nPersonality Keywords: warrior, loyal, tragic, betrayed, bound, condemned, crew member, victim\nRole: Grantham Blakeley was a warrior and crew member aboard The Emma May. When the crew mutinied against Captain Laughton over his decision to sail through a dangerous storm while traveling to the Imperial City via Niben Bay, Grantham was the sole crew member who remained loyal to his captain. The mutineers, led by Gable, chained him up below decks as punishment for his loyalty. The ship subsequently sank in the treacherous inlet known as the Mouth of the Panther, killing all hands aboard. His skeleton remains bound to a post in the shipwreck, and his spirit is condemned to roam the shores of Niben Bay. He carries a small amount of gold. His daughter Angelie lives in the Talos Plaza District of the Imperial City.\nHome Location Information: The Emma May shipwreck at the Mouth of the Panther, along the coast of Niben Bay, where his skeleton is found bound to a post below decks.\nDaily Routine: [Deceased - His spirit roams the shores of Niben Bay, unable to rest due to his tragic fate]\nPersonality - The Loyal Sailor: Grantham was loyal to his captain even when the rest of the crew mutinied, standing by Captain Laughton's decision despite the danger. His loyalty cost him his life - he was chained below decks by the mutineers and drowned when the ship sank, unable to escape his bonds. His tragic death has left his spirit restless, unable to move on from the site of his demise. His fate deeply affected his daughter Angelie, who swore never to become involved with a seaman after losing her father to the sea.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Grantham_Blakeley",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0366B8",
+    "base_id": "0347B2",
+    "author": "Bethesda",
+    "notes": "Ghost",
+    "voice_folder": "Breton/M"
+}

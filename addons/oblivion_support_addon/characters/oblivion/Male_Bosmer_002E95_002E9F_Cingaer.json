@@ -1,0 +1,14 @@
+{
+    "name": "Cingaer",
+    "voice_model": "Bosmer_Male",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) male wearing a quilted doublet with light boots. May also wear additional light armor pieces including gauntlets, greaves, helmet, and shield. Carries spare tan linens and doeskin shoes. Armed with a bow and arrows.\nRace: Bosmer\nPersonality Keywords: thief, hostile, criminal, hideout dweller, aggressive\nRole: Cingaer is a thief hiding out with his partners in crime in Hrota Cave, located just north of Anvil. He and his group have made the cave their base of operations.\nHome Location Information: Hrota Cave, north of Anvil. He occupies a surprisingly homey pit in the largest chamber of the cave.\nDaily Routine: Cingaer remains in his section of the cave at all times, never sleeping or eating despite having resources available for both. He stays vigilant in his hideout.\nPersonality - The Cave Bandit: Cingaer is hostile and immediately aggressive to intruders. He attacks on sight without warning or explanation and will not accept any attempt at surrender or negotiation.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Cingaer",
+    "race": "Bosmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "002E9F",
+    "base_id": "002E95",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/M"
+}

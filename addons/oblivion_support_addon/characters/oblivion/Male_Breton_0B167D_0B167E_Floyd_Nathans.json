@@ -1,0 +1,14 @@
+{
+    "name": "Floyd Nathans",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing middle-class clothing. Wields a longsword or claymore of high quality, potentially enchanted. Carries a bottle of ale, beer, or cheap wine.\nRace: Breton\nPersonality Keywords: bard, quiet, peaceful, neighborly, simple, village dweller\nRole: Floyd Nathans is a bard living in the quiet village of Blankenmarch. He lives a simple, peaceful existence among his neighbors, socializing with Hanz gro-Hubrag and Philip Franc. Despite being a bard, he lives a very quiet life. He carries alcohol and gold, and knows illusion spells including Chameleon, Invisibility, or Silence.\nHome Location Information: His own house in the village of Blankenmarch.\nDaily Routine: Floyd wakes at 6am, exits his house, and spends the entire day walking around outside the village, occasionally talking with his neighbors Hanz gro-Hubrag and Philip Franc. At 8pm he returns home and sits at the table for a two-hour meal before going to bed at 10pm.\nPersonality - The Village Bard: Floyd lives a remarkably quiet life for a bard, choosing the peaceful existence of rural village life over the typical wandering minstrel lifestyle. He's sociable with his neighbors and content with the simple routines of Blankenmarch.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Floyd_Nathans",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0B167E",
+    "base_id": "0B167D",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Melliwin",
+    "voice_model": "Bosmer_Female",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) female. Wears a quilted doublet, rugged pants, and leather boots. Armed with a steel bow and iron arrows.\nRace: Bosmer\nPersonality Keywords: skilled, dedicated\nRole: Melliwin is a sharpshooter and fletcher who operates in Dunbarrow Cove after the \"Fletcher\" upgrade is purchased from Dahlia Rackham. She sells bows and arrows, including unique enchanted ones, and provides training in Marksman up to level 75. She also sells spells from the Mysticism and Restoration schools of magic. Her nickname \"the Mongrel\" suggests a rough reputation befitting her pirate surroundings.\nHome Location Information: Dunbarrow Cove, specifically in the southeast corner of the main cavern where she maintains her fletching area and archery targets.\nDaily Routine: Melliwin provides training and sells spells 24 hours a day, but only buys and sells items from 9am to midnight. From 9am to 9pm she can be found in the southwest corner of the main cavern where she practices her archery or stands around her fletching area working on enchanting arrows. At 9pm she enjoys dinner on the main deck of the Black Flag until midnight. After midnight she sleeps in the bedroll near her fletching area.\nPersonality: Melliwin is a dedicated markswoman who maintains constant availability for training, showing commitment to her craft and her students. She spends most of her working hours either practicing archery herself or crafting and enchanting arrows, demonstrating the discipline that has earned her expertise in Marksman skills.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Melliwin",
+    "race": "Bosmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "00ee14",
+    "base_id": "002f9f",
+    "author": "Bethesda",
+    "notes": "Dunbarrow Cove DLC",
+    "voice_folder": "High Elf/F"
+}

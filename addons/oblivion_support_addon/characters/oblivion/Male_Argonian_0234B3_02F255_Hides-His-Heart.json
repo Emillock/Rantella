@@ -1,0 +1,14 @@
+{
+    "name": "Hides-His-Heart",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a mixture of light and heavy armor consisting of an iron helmet, iron cuirass, fur gauntlets, fur greaves, and chainmail boots.\nRace: Argonian\nPersonality Keywords: mysterious, dangerous, enforcer, deadly\nRole: Hides-His-Heart is a mysterious Argonian enforcer who works for a highly secretive yet powerful and dangerous faction of the murky criminal underworld in Cyrodiil. The organization he works for remains unnamed and unseen in the game, but apparently is quite fearsome and holds some degree of influence on the authorities, especially in Chorrol. He does not appear in the game until stage 20 of the related quest.\nMission: Hides-His-Heart is sent to kill Francois Motierre, a wealthy resident of Chorrol. Motierre has taken too much time to repay a loan of considerable amount, which has \"insulted\" the organization.\nEquipment: Hides-His-Heart is armed with an iron claymore and carries a paltry sum of gold.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Hides-His-Heart",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "02F255",
+    "base_id": "0234B3",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Scar-Tail",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a burlap vest, sack cloth pants, and matching sandals\u2014poor quality clothing reflecting his status as a fugitive.\nRace: Argonian\nPersonality Keywords: fugitive, nervous, awaiting, fearful\nRole: Scar-Tail is an Argonian assassin who is hiding out after a failed assassination attempt at the Bogwater camp southeast of Leyawiin.\nHome Location Information: Bogwater camp, where he hides from those pursuing him.\nDaily Routine: Scar-Tail only appears once you begin the Dark Brotherhood side quest The Renegade Shadowscale. He can be found at Bogwater, never eating or sleeping, nervously awaiting what he knows is in store for him.\nEquipment: Scar-Tail wields an iron longsword and carries a small amount of gold. You can also cut out his heart, which can be used during the related quest.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Scar-Tail",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "03558D",
+    "base_id": "03558A",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

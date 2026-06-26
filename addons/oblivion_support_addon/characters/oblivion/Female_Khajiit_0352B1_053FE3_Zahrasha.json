@@ -1,0 +1,14 @@
+{
+    "name": "Zahrasha",
+    "voice_model": "Khajiit_Female",
+    "bio": "Physical Appearance: Khajiit female. Feline features characteristic of her race. Wore a russet felt outfit with matching shoes - the scholarly attire of a Mages Guild member.\nRace: Khajiit\nPersonality Keywords: dedicated, scholarly, deceased\nRole: Zahrasha was a mage and member of the Mages Guild who resided in Wellspring Cave together with Eletta. Both practiced their magic in the cave and on the sacred island of Wellspring Grove. They were supposed to provide advice on crafting staffs to guild members.\nHome Location Information: Wellspring Cave, which Zahrasha shared with fellow mage Eletta.\nDeath: Zahrasha's dead body is the first thing encountered upon entering Wellspring Cave. The cave has been invaded by Necromancers led by Noveni Othran. When Raminus Polus learns of the deaths, he responds: \"Eletta and Zahrasha dead? I can't believe it! They've never been so bold before now. Always hiding in the shadows, staying away from the guild. What could have prompted this?\"\nPossessions: On her body can be found the Wellspring Cave key and a moderate amount of gold.\nMagical Abilities: When alive, Zahrasha preferred spells over weapons and could cast a set of mage spells appropriate to her skill level.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Zahrasha",
+    "race": "Khajiit",
+    "gender": "Female",
+    "species": "Khajiit",
+    "ref_id": "053FE3",
+    "base_id": "0352B1",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/F"
+}

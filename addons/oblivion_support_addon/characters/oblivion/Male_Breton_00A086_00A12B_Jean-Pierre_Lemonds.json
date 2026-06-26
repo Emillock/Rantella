@@ -1,0 +1,14 @@
+{
+    "name": "Jean-Pierre Lemonds",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing a blue and green outfit with thick cowhide shoes, typically carrying arrows and a small amount of gold.\n\nRace:\nBreton\n\nPersonality Keywords:\nSociable, routine-minded, independent\n\nRole:\nSharpshooter and permanent resident of the Silverhome on the Water in Bravil.\n\nHome Location Information:\nHe lives at the Silverhome on the Water in Bravil, occupying a room on the third floor.\n\nDaily Routine:\nOn ordinary weekdays, he sleeps in his room until 8am. From 8am until 4pm he stays in the dining area near the bar, talking with other regulars. At 4pm he sits down for a two-hour dinner, then resumes socializing until 2am, when he returns to his room to sleep. On Loredas, he leaves Silverhome at midnight and spends the entire day at the Lonely Suitor Lodge, returning to Silverhome at midnight on Sundas and going to bed at 2am. On Sundas, he wakes at 6am and leaves Bravil to hunt deer with Daenlin along the roads between Bravil and the Flooded Mine. After Daenlin departs at 8am, he continues hunting alone for most of the day before returning to Silverhome and resuming his usual routine.\n\nAbilities:\nHe is skilled with a bow and carries steel arrows, sometimes supplemented by enchanted arrows.\n\nPersonality \u2013 Social Regular:\nJean-Pierre Lemonds spends most of his time socializing in Bravil\u2019s inns and follows a consistent routine centered on the Silverhome on the Water. He regularly seeks the company of other patrons and takes occasional breaks by visiting another inn or spending a full day hunting outside the city. His activities reflect a balance between leisure at the inn and solitary time spent honing his skills as a sharpshooter.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Jean-Pierre_Lemonds",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "00A12B",
+    "base_id": "00A086",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

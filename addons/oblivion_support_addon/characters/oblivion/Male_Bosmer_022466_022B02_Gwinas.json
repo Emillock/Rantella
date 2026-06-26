@@ -1,0 +1,14 @@
+{
+    "name": "Gwinas",
+    "voice_model": "Bosmer_Male",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) male wearing rare red silk robes with gold trimmed shoes. Carries a random piece of jewelry and wields a steel dagger.\nRace: Bosmer\nPersonality Keywords: noble, scholar, collector, traveler, interested, determined\nRole: Gwinas is a noble from Valenwood with a profound interest in the Commentaries on the Mysterium Xarxes. He has traveled all the way from his homeland searching for the four rare books and currently has the third volume on special order at First Edition bookstore. He carries a note and a considerable amount of gold, reflecting his wealth and commitment to acquiring these rare texts.\nHome Location Information: The Tiber Septim Hotel in the Imperial City's Talos Plaza District, where he stays during his time in the city.\nDaily Routine: Gwinas sleeps in his hotel room from 10pm to 6am. After waking, he wanders around the hotel lobby all day, taking breaks for meals seated in the lobby chairs: breakfast from 8am to 10am, lunch from 12pm to 2pm, and dinner from 6pm to 8pm.\nPersonality - The Dedicated Collector: Gwinas is committed enough to his search for the Commentaries that he has traveled from Valenwood to the Imperial City. His interest in these rare books drives his stay in the capital while he pursues his collection.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Gwinas",
+    "race": "Bosmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "022B02",
+    "base_id": "022466",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/M"
+}

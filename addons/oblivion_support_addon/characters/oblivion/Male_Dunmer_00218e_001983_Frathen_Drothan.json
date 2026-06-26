@@ -1,0 +1,14 @@
+{
+    "name": "Frathen Drothan",
+    "voice_model": "Dunmer_Male",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing a distinctive Spellturn Cloak and Bladeturn Hood, along with light gauntlets and boots of the best quality available to him. He carries a key and is armed with a high-quality longsword or claymore.\n\nRace:\nDunmer\n\nPersonality Keywords:\nSingle-minded, obsessive, ambitious\n\nRole:\nLeader of the Drothmeri Army and seeker of Mehrunes\u2019 Razor.\n\nHome Location Information:\nHe is found within Varsa Baalim, specifically in the Nefarivigum, where he remains focused on his objective.\n\nDaily Routine:\nHe never eats or sleeps. He spends all hours of the day studying Msirae Faythung in the Nefarivigum, remaining fixed in place and fully absorbed in his search for Mehrunes\u2019 Razor.\n\nAbilities:\nHe is a Telvanni battlemage equipped with powerful gear and capable of combat using both magic and heavy melee weapons. His equipment is always of the highest quality available for his level, and his armor and weapons may be enchanted.\n\nPersonality \u2013 Fanatical Commander:\nFrathen Drothan devotes himself entirely to the recovery of Mehrunes\u2019 Razor, believing it will allow him to overthrow Imperial rule. He shows no concern for rest or personal needs and maintains constant focus on his goal. Members of his own army openly question his judgment and commitment to their safety, with written accounts from his troops describing him as unstable and unreliable in battle.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Frathen_Drothan",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "001983",
+    "base_id": "00218e",
+    "author": "Bethesda",
+    "notes": "Mehrune's Razor",
+    "voice_folder": "High Elf/M"
+}

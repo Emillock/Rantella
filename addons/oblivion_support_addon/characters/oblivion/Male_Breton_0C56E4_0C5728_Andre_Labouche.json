@@ -1,0 +1,14 @@
+{
+    "name": "Andre Labouche",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing a red velvet garment with a black and burgundy outfit, fur boots, and a helmet. His body is found at the base of a cliff, carrying a pickaxe and exactly 53 gold.\n\nRace:\nBreton\n\nPersonality Keywords:\nUnprepared, determined\n\nRole:\nDeceased spellsword found near Aerin\u2019s Camp by Dive Rock.\n\nHome Location Information:\nHe is found dead north of Aerin\u2019s Camp, at the base of a cliff near Dive Rock, hidden beside large rocks.\n\nDaily Routine:\nNo routine is observed. He is encountered deceased.\n\nAbilities:\nIn life, he was a spellsword capable of using a leveled set of spells from all schools except Mysticism, along with an additional Illusion spell.\n\nPersonality \u2013 Ill-Fated Climber:\nAndre Labouche attempted a mountain journey for which he was poorly equipped, as indicated by his unsuitable clothing and tools. A note found on his body from his daughter Fiona urges him not to undertake the journey, showing that his decision was made despite warnings. His death is the result of a fall from the cliff near Aerin\u2019s Camp.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Andre_Labouche",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0C5728",
+    "base_id": "0C56E4",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Breton/M"
+}

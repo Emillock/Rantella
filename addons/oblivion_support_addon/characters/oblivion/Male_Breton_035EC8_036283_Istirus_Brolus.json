@@ -1,0 +1,14 @@
+{
+    "name": "Istirus Brolus",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing common lower-class clothing - a burlap vest shirt, green felt linens, and stitched leather shoes.\nRace: Breton\nPersonality Keywords: rogue, retired adventurer, peaceful, sociable, simple, settled, husband\nRole: Istirus Brolus is a retired adventurer living a peaceful life in Bruma with his wife Jantus. Despite an adventurous youth, he and his wife have settled down far from civilization, seeking peace and quiet. He carries his house key and a small amount of gold, and knows rogue spells from his adventuring days.\nHome Location Information: His house in Bruma, which he shares with his wife Jantus.\nDaily Routine: Istirus wakes at 6am and strolls around his house for three hours, occasionally chatting with Jantus. At 9am he heads outside to spend most of the day strolling near the chapel and talking with other Bruma townsfolk. At 4pm he takes a two-hour meal break at Olav's Tap and Tack. At 9pm he returns home for a two-hour dinner with his wife. After dinner he takes one last walk around the house before going to bed at midnight. During the Defense of Bruma, he cheers on Martin Septim as he heads to the battlefield.\nPersonality - The Retired Adventurer: Istirus has left his adventurous past behind to live a simple, peaceful life with his wife in remote Bruma. He's sociable and enjoys spending time with the townsfolk, but clearly values the quiet life he and Jantus have built together. His simple routine reflects contentment with retirement, though his rogue skills remain from his earlier days.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Istirus_Brolus",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "036283",
+    "base_id": "035EC8",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

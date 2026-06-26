@@ -1,0 +1,14 @@
+{
+    "name": "Hackdirt Brethren",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male. Wears sack cloth pants. Armed with a club. Possesses oversized eyes that grant exceptional detection abilities.\nRace: Imperial\nPersonality Keywords: hostile, predatory, devolved, worshipper, pack-hunter, cave-dwelling\nRole: The Hackdirt Brethren are the hostile inhabitants of the caverns beneath Hackdirt, worshippers of the Deep Ones who have devolved into savage, cave-dwelling creatures. They are the enforcers of Hackdirt's dark secrets, attacking those who sleep at Moslin's Inn or commit crimes in the settlement. They patrol the caverns where they hold captives for sacrifice, including Dar-Ma. They rarely emerge above ground except to punish intruders or lawbreakers.\nHome Location Information: The Hackdirt Caverns beneath the settlement of Hackdirt, where they wander, patrol, and guard their prisoners.\nSpecial Abilities: The Brethren possess night eye, 50% resistance to frost, and 30% weakness to fire\u2014adaptations that suggest their transformation into creatures suited for underground existence. Their oversized eyes grant them unusually good detection abilities, making it very difficult to sneak past them. Only invisibility or complete chameleon can reliably avoid their keen sight.\nPack Tactics: While individually weak with their simple clubs and lack of armor, the Brethren compensate by attacking in large groups. Their strength lies in overwhelming numbers rather than individual prowess, swarming intruders who venture into their domain.\nPersonality - The Devolved Worshippers: The Hackdirt Brethren represent what becomes of those who worship the Deep Ones\u2014once human, now something less. They have adapted to life in the caverns beneath Hackdirt, developing oversized eyes for seeing in darkness and losing whatever civilization they once possessed. They wander the tunnels in savage packs, guarding prisoners meant for sacrifice to their dark gods. They are relentless hunters in their domain, their enhanced senses making escape nearly impossible. Some patrol specific routes\u2014one guards Dar-Ma's cell with single-minded devotion, another patrols from north to south, another from east to west\u2014suggesting retained intelligence beneath their savage exteriors, enough to follow orders and maintain a guard schedule. They surface only when called by crime or when victims sleep at the inn, emerging from below like nightmares made flesh. They are what Hackdirt truly is beneath its fa\u00e7ade of a struggling settlement\u2014a cult of devolved creatures serving incomprehensible powers from the deep.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Hackdirt_Brethren",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "092C58",
+    "base_id": "09FD72",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

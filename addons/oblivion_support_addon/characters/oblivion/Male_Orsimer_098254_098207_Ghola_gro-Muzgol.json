@@ -1,0 +1,14 @@
+{
+    "name": "Ghola gro-Muzgol",
+    "voice_model": "Orsimer_Male",
+    "bio": "Physical Appearance: Orsimer (Orc) male vampire with the physical traits associated with vampirism.\n\nRace: Orsimer\n\nPersonality Keywords: devoted, corrupted\n\nRole: Vampire and former worshipper of Azura; member of the Afflicted Brethren in Gutted Mine.\n\nHome Location Information: Resides within Gutted Mine alongside the other members of the Afflicted Brethren.\n\nEquipment and Abilities: Engages primarily in direct physical combat consistent with warrior training. Displays heightened aggression and the supernatural strength typical of vampires.\n\nPersonality \u2013 Afflicted Worshipper: Ghola gro-Muzgol was once a follower of Azura and became afflicted with vampirism after taking part in the slaying of a powerful vampire named Dratik. He remains within Gutted Mine with the other Afflicted Brethren, bound together by their shared origin and condition. One of the group carries a worn, faded note that records the identities of the Brethren.\n\nFate: Ghola gro-Muzgol is one of the Afflicted Brethren whom Azura seeks to have released from their curse during her intervention at Gutted Mine.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Afflicted_Brethren",
+    "race": "Orsimer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "098207",
+    "base_id": "098254",
+    "author": "Bethesda",
+    "notes": "Azura's Quest",
+    "voice_folder": "Nord/M"
+}

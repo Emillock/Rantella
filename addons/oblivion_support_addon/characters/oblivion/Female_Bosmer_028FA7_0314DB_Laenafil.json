@@ -1,0 +1,14 @@
+{
+    "name": "Laenafil",
+    "voice_model": "Bosmer_Female",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) female wearing a full set of iron armor - cuirass, gauntlets, greaves, and boots. Wields an iron war axe.\nRace: Bosmer\nPersonality Keywords: warrior, guard, loyal, protective, dutiful\nRole: Laenafil is a warrior serving as a guard for her leader Roderick, who lies in a near-death state in Fort Sutch, northeast of Anvil near Lord Drad's Estate. She and her compatriots are devoted to protecting him during his vulnerable condition. She carries a gate key and a small amount of gold.\nHome Location Information: Fort Sutch, northeast of Anvil near Lord Drad's Estate.\nDaily Routine: Laenafil spends all of her time wandering the interior of Fort Sutch, vigilantly guarding the area. She avoids the water in the cave section.\nPersonality - The Devoted Guard: Laenafil is loyal to her leader Roderick and dedicated to protecting him, maintaining her watch over Fort Sutch alongside her fellow guards.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Laenafil",
+    "race": "Bosmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "0314DB",
+    "base_id": "028FA7",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/F"
+}

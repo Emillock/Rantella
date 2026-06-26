@@ -1,0 +1,14 @@
+{
+    "name": "Hamlof Red-Tooth",
+    "voice_model": "Nord_Male",
+    "bio": "Physical Appearance: Nord male. Wears rare black wide pants along with a semi-rare highwayman's shirt and gold trimmed shoes. Wears varying jewelry including a jade sapphire ring and silver necklace.\nRace: Nord\nPersonality Keywords: reclusive, dedicated, solitary, professional\nRole: Hamlof Red-Tooth is a trader and proprietor of the fashionable Red Diamond Jewelry in the Imperial City's Market District.\nHome Location Information: Red Diamond Jewelry in the Market District, where he lives in the Living Quarters above the main trading room.\nDaily Routine: Hamlof sleeps in the Living Quarters from midnight to 6am. Upon waking, he spends two hours relaxing and strolling around before heading downstairs at 8am. He unlocks the door and offers his services to customers for the next twelve hours. At 8pm, he locks up and eats a two-hour dinner seated in one of the chairs near the stairs. He finishes his day wandering around the shop before going to bed at midnight.\nHis Isolation: Unlike many of his merchant colleagues who take the opportunity to get fresh air after closing time, Hamlof keeps to himself and never leaves his shop. He conducts his entire life within the confines of Red Diamond Jewelry.\nPersonality - The Hermit Jeweler: Hamlof is dedicated to his business but notably reclusive. He never ventures outside his shop, choosing instead to spend all his time within its walls. His solitary lifestyle sets him apart from other merchants in the Market District.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Hamlof_Red-Tooth",
+    "race": "Nord",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "01D20F",
+    "base_id": "015EA0",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Nord/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Redas Dalvilu",
+    "voice_model": "Dunmer_Male",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing thick cowhide shoes, a burgundy linen shirt, and burgundy linens. Armed with an iron shortsword. Carries some gold and his house key.\nRace: Dunmer\nPersonality Keywords: simple, solitary, restless, peaceful\nRole: Redas Dalvilu is a herder residing in Bleaker's Way, a small village in the Great Forest.\nHome Location Information: His house in Bleaker's Way.\nDaily Routine: Redas sleeps from midnight to 6am and always starts the day with a two-hour breakfast. He spends the rest of the morning and all afternoon pacing restlessly around inside his house, only interrupted by a breath of fresh air between noon and 2pm. At 6pm he meets up with Ulrika Ulfgar at the Bleaker's Way Goodwill Inn, enjoying good food and company until 8pm. The rest of the evening is spent relaxing in his house.\nInter-Clan Relations: Despite being a Dalvilu, Redas maintains a peaceful relationship with Ulrika Ulfgar, meeting her regularly at the inn for dinner. This demonstrates the harmonious coexistence between the two families before the events of Mephala's quest.\nPersonality - The Restless Hermit: Redas leads a very simple life and keeps to himself most of the time. He's restless, spending much of his day pacing around his house rather than engaging in extensive social activities. His only regular social interaction is his evening meal with Ulrika Ulfgar, suggesting he values routine and the few connections he has made. His solitary nature and simple lifestyle define his existence in the quiet village of Bleaker's Way.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Redas_Dalvilu",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "098248",
+    "base_id": "01ECCA",
+    "author": "Bethesda",
+    "notes": "Mephala's Quest",
+    "voice_folder": "High Elf/M"
+}

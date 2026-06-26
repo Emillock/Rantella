@@ -1,0 +1,14 @@
+{
+    "name": "Dennilwen",
+    "voice_model": "Bosmer_Female",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) female wearing lower-class clothing. Armed with a bow and often carries arrows of qualms.\nRace: Bosmer\nPersonality Keywords: sharpshooter, thief, hostile, criminal, aggressive\nRole: Dennilwen is a sharpshooter and thief hiding out with her criminal companions in Hrota Cave, located just north of Anvil.\nHome Location Information: Hrota Cave, north of Anvil. She remains in one of the first chambers of the cave.\nDaily Routine: Dennilwen stays in her chamber of the cave at all times, never sleeping or eating. She remains vigilant and ready for combat.\nPersonality - The Cave Archer: Dennilwen is hostile and aggressive toward intruders. She attacks on sight without warning or explanation and will not accept any attempt at surrender or negotiation.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Dennilwen",
+    "race": "Bosmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "00342C",
+    "base_id": "002E9B",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/F"
+}

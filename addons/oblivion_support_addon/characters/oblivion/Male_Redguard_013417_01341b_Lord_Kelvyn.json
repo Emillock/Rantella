@@ -1,0 +1,14 @@
+{
+    "name": "Lord Kelvyn",
+    "voice_model": "Redguard_Male",
+    "bio": "Physical Appearance: Redguard male. Wore steel armor: cuirass, gauntlets, greaves, and boots - the protective equipment of a knight defending his castle. Carried a black and burgundy outfit with gold-trimmed shoes for formal occasions.\nRace: Redguard\nPersonality Keywords: (Unknown - killed before interaction)\nRole: Lord Kelvyn was a knight and lord of Battlehorn Castle. He was killed by a group of Marauders who attacked the castle, ending his rule and leaving the castle abandoned.\nLocation: Lord Kelvyn's body can be found at Battlehorn Castle, alongside his equipment and possessions.\nEquipment: Lord Kelvyn fought with a silver war axe and a Shield of True Horn. His steel armor shows he was prepared for combat, though ultimately it was not enough to save him from the Marauder attack.\nRelationship with Lord Kain: Lord Kelvyn's will mentions he was waiting for a message from Lord Kain, not knowing that his father was trapped as an undead creature in the bowels of the castle. Lord Kain had intended to tell his son about his cursed fate but died before he could do so, leaving Kelvyn unaware of the tragic situation.\nThe Marauder Attack: Battlehorn Castle fell to Marauders who killed Lord Kelvyn. The attack was successful enough to kill the lord and leave the castle in ruins, eventually requiring new ownership to restore it.\nHis Will: Lord Kelvyn left behind a will that reveals he was still expecting communication from his father, showing he died without learning the truth about Lord Kain's undead imprisonment beneath the castle.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Lord_Kelvyn",
+    "race": "Redguard",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "01341b",
+    "base_id": "013417",
+    "author": "Bethesda",
+    "notes": "Battlehorn Castle DLC",
+    "voice_folder": "Redguard/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Idrolian",
+    "voice_model": "Bosmer_Female",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) female wearing a belted vest and light boots. May also wear a helmet, gauntlets, shield, and additional light armor pieces. Carries spare belted braies and braided leather sandals. Armed with a melee weapon that may be enchanted.\nRace: Bosmer\nPersonality Keywords: battlemage, thief, hostile, silent, aggressive, criminal\nRole: Idrolian is a battlemage hiding out with her fellow thieves in Hrota Cave, located just north of Anvil. She knows battlemage spells including major and minor Destruction, major Alteration, major Mysticism, major Conjuration (excluding Bound Armor), and minor Restoration magic.\nHome Location Information: Hrota Cave, north of Anvil. She remains just past the largest chamber of the cave.\nDaily Routine: Idrolian stays in her section of the cave at all times, never sleeping or eating. She remains vigilant and ready for combat.\nPersonality - The Silent Aggressor: Idrolian is a Wood Elf of few words who attacks intruders on sight without warning or explanation. She will not accept any attempt at surrender or negotiation.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Idrolian",
+    "race": "Bosmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "00342E",
+    "base_id": "002E9A",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/F"
+}

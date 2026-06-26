@@ -1,0 +1,14 @@
+{
+    "name": "Tsalajma",
+    "voice_model": "Khajiit_Female",
+    "bio": "Physical Appearance: Khajiit female. Feline features characteristic of her race. Wears typical lower-class clothing consisting of a sack cloth shirt, pants, and sandals. Carries light armor pieces which she only equips during times of crisis and continues wearing afterward.\nRace: Khajiit\nPersonality Keywords: quiet, faithful, fearful\nRole: Tsalajma is a common villager living in Border Watch, a small Khajiit settlement on Cyrodiil's border. Like all her fellow townsfolk, she believes in the K'sharra prophecy, which foretells that three signs will appear in Border Watch as warning of the world's end.\nHome Location Information: The village of Border Watch, where Tsalajma lives among other Khajiit who share her beliefs.\nDaily Routine - Normal Times: Tsalajma rises early at 4am and wanders around town all day long, occasionally conversing with her neighbors. At 7pm, she heads to the Border Watch Inn where she eats a two-hour dinner in the company of most other village inhabitants. At 10pm, she returns home to sleep until morning.\nDaily Routine - During Crisis: When the K'sharra prophecy appears to be fulfilled, Tsalajma equips her weapon and armor and runs around in wild panic, believing the end is near. She continues this behavior until the situation is resolved.\nEquipment: Tsalajma is armed with a blunt weapon of the best possible quality, which may be enchanted. She carries up to five pieces of light armor (excluding cuirass), each potentially enchanted. She also carries a small amount of gold.\nPost-Crisis State: After the crisis passes and the quest concludes, Tsalajma returns to her daily routine but is not entirely sure of the future.\nThe K'sharra Prophecy: Tsalajma believes in the K'sharra prophecy. When asked about it after the related quest has started, she directs people to speak with Ri'Bassa, the town shaman.\nPersonality - The Quiet Believer: Tsalajma is not very talkative, living a simple, quiet life in Border Watch. She wanders town and shares community dinners at the inn. When the prophecy seems to come true, she runs around in panic. After the crisis, she returns to normal life but remains uncertain about the future.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Tsalajma",
+    "race": "Khajiit",
+    "gender": "Female",
+    "species": "Khajiit",
+    "ref_id": "0897E4",
+    "base_id": "0897E3",
+    "author": "Bethesda",
+    "notes": "Sheogorath's Quest",
+    "voice_folder": "Argonian/F"
+}

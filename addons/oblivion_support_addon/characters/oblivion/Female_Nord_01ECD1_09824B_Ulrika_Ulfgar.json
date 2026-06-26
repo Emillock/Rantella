@@ -1,0 +1,14 @@
+{
+    "name": "Ulrika Ulfgar",
+    "voice_model": "Nord_Female",
+    "bio": "Physical Appearance: Nord female. Wears middle-class attire consisting of a blue & green outfit with quilted shoes. Carries a spare pair of tan linens. Armed with an iron dagger.\nRace: Nord\nPersonality Keywords: peaceful, communal, social, loyal, vengeful\nRole: Ulrika Ulfgar is a healer residing in Bleaker's Way, a peaceful village in the Great Forest where the Ulfgar and Dalvilu families live together in harmony.\nHome Location Information: The Ulfgar Family's House in Bleaker's Way, across the street from Hrol Ulfgar's house.\nDaily Routine: Ulrika wakes at 6am and spends two hours eating breakfast. At 8am (after certain events), she leaves the house and meets up with Hrol inside the Bleaker's Way Goodwill Inn for two hours. She returns home to stroll around until 2pm when she goes back to the inn. She spends four hours socializing with other regulars until 6pm when she sits in the taproom for a two-hour dinner. She returns home at 8pm and wanders around until bedtime at midnight.\nVillage Life: Ulrika lives peacefully in Bleaker's Way, socializing regularly at the inn with members of both families. She is part of the close-knit Ulfgar family community.\nWhen Harmony Breaks: If Ulrika learns that the Dalvilu clan was behind the murder of Hrol Ulfgar, she joins the mass combat against her former friends and fights to the bitter end, showing fierce loyalty to her family.\nPersonality - The Peaceful Healer: Ulrika lives a peaceful, social life in Bleaker's Way, spending much of her time at the inn socializing with both Ulfgar and Dalvilu families. She is communal and friendly under normal circumstances. However, when her family leader is murdered, her loyalty to the Ulfgar clan overrides years of peaceful coexistence, and she becomes vengeful, willing to fight her former friends to the death.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Ulrika_Ulfgar",
+    "race": "Nord",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "09824B",
+    "base_id": "01ECD1",
+    "author": "Bethesda",
+    "notes": "Mephala's Quest",
+    "voice_folder": "Nord/F"
+}

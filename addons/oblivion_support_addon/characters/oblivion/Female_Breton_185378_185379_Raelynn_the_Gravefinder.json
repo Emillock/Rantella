@@ -1,0 +1,14 @@
+{
+    "name": "Raelynn the Gravefinder",
+    "voice_model": "Female_Breton_185378_185379_Raelynn_the_Gravefinder",
+    "bio": "Physical Appearance: Breton female wearing a monk robe and braided leather sandals. Often carries a staff starting from higher levels of power.\nRace: Breton\nPersonality Keywords: necromancer, evil, aggressive, hostile, gravefinder, practitioner, dangerous\nRole: Raelynn the Gravefinder is a necromancer who has taken up residence in Moss Rock Cavern near Roxey Inn to practice her black arts. Her necromantic activities have caused undead of all types to walk the dark woods near the cave entrance at night, making the area unsafe and driving customers away from Malene's inn. The innkeeper describes her as \"evil through-and-through\" and a \"witch of a Necromancer.\" She relies on a mace and necromancer spells in combat, and often carries a staff. She practices alongside another necromancer in a locked room within the cavern.\nHome Location Information: Moss Rock Cavern, just north of Roxey Inn, in a locked room.\nDaily Routine: Raelynn never eats or sleeps, spending all her time in the locked room of Moss Rock Cavern with a fellow necromancer. Due to her high aggression, she attacks intruders on sight.\nPersonality - The Evil Necromancer: Raelynn is thoroughly evil and hostile, her dark practices having corrupted the surrounding woods with increasing numbers of undead creatures. She shows no restraint in her necromancy, caring nothing for how her actions affect the local area or innocent people like Malene whose business suffers as a result. Her aggressive nature means she gives no quarter to anyone who enters her domain, immediately attacking rather than attempting communication.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Raelynn_the_Gravefinder",
+    "race": "Breton",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "185379",
+    "base_id": "185378",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/F"
+}

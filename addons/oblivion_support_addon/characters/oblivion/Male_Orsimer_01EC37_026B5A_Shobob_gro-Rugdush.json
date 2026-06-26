@@ -1,0 +1,14 @@
+{
+    "name": "Shobob gro-Rugdush",
+    "voice_model": "Male_Orsimer_01EC37_026B5A_Shobob_gro-Rugdush",
+    "bio": "Arkana?",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Shobob_gro-Rugdush",
+    "race": "Orsimer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "026B5A",
+    "base_id": "01EC37",
+    "author": "Bethesda",
+    "notes": "Malacath's Quest",
+    "voice_folder": "Nord/M"
+}

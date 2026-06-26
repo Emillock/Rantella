@@ -1,0 +1,9 @@
+{
+    "name": "Oblivion Support Addon",
+    "version": "0.1.0",
+    "description": "A template addon for adding a new game interface to the system.",
+    "author": "Pathos14489",
+    "project_url": "https://github.com/Pathos14489/Pantella",
+    "enabled": true,
+    "dependencies": []
+}

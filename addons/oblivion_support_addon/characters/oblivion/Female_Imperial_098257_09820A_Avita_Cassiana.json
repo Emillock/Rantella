@@ -1,0 +1,14 @@
+{
+    "name": "Avita Cassiana",
+    "voice_model": "Imperial_Female",
+    "bio": "Physical Appearance: Imperial female vampire wearing simple clothing appropriate to a monk. Displays the physical traits associated with vampirism.\n\nRace: Imperial\n\nPersonality Keywords: devoted, corrupted\n\nRole: Vampire and former worshipper of Azura; member of the Afflicted Brethren in Gutted Mine.\n\nHome Location Information: Resides within Gutted Mine alongside the other members of the Afflicted Brethren.\n\nEquipment and Abilities: Fights primarily with unarmed techniques consistent with monk training and relies on physical combat rather than weapons. Displays the supernatural resilience and aggression typical of vampires.\n\nPersonality \u2013 Afflicted Worshipper: Avita Cassiana was once a follower of Azura and became afflicted with vampirism after taking part in the slaying of a powerful vampire named Dratik. She remains within Gutted Mine with the other Afflicted Brethren, bound by their shared origin and condition. One of the Brethren carries a worn, faded note that preserves the names and identities of the group.\n\nFate: Avita Cassiana is one of the Afflicted Brethren whom Azura seeks to have released from their curse during her intervention at Gutted Mine.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Afflicted_Brethren",
+    "race": "Imperial",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "09820A",
+    "base_id": "098257",
+    "author": "Bethesda",
+    "notes": "Azura's Quest",
+    "voice_folder": "Imperial/F"
+}

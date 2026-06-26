@@ -1,0 +1,14 @@
+{
+    "name": "Harrow",
+    "voice_model": "Dunmer_Male",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing Mythic Dawn robes. Carries the antechamber key and a small sum of gold.\nRace: Dunmer\nPersonality Keywords: authoritative, zealous, trusted, ritualistic\nRole: Harrow is a Mythic Dawn agent and the Warden of the Shrine of Dagon, which lies deep in the Lake Arrius Caverns. He serves as sponsor for those seeking to join the Mythic Dawn cult and gain access to Dagon's Shrine, taking possession of almost their entire inventory as part of the initiation ritual, leaving only quest items.\nHome Location Information: The Shrine of Dagon in the Lake Arrius Caverns.\nPosition in the Cult: As Warden of the Shrine of Dagon, Harrow holds a position of authority within the Mythic Dawn. He is trusted to sponsor new initiates and control access to the inner sanctum.\nCombat Abilities: Harrow relies upon his summoned Mythic Dawn armor and mace, as well as a targeted shock spell and the ability to summon creatures in combat.\nPersonality - The Shrine's Gatekeeper: Harrow is a zealous devotee of Mehrunes Dagon who maintains authority over access to the shrine. As sponsor and warden, he enforces the cult's rituals and requirements, including the confiscation of initiates' possessions. His position suggests he is a trusted and high-ranking member of the Mythic Dawn organization.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Harrow",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "03391B",
+    "base_id": "033905",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/M"
+}

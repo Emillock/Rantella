@@ -1,0 +1,14 @@
+{
+    "name": "Agnar the Unwavering",
+    "voice_model": "Nord_Male",
+    "bio": "Physical Appearance: Nord male. Wears a full set of fur armor and wields a silver war axe. Also carries a shirt with suspenders and a pair of blue suede shoes.\nRace: Nord\nPersonality Keywords: determined, unwavering, devoted, fearless\nRole: Agnar the Unwavering was the Chieftain of Thirsk and husband to Svenja Snow-Song. He and Svenja left Thirsk to track down the fearsome Uderfrykte Matron, mother of the Udyrfrykte that had previously attacked the mead hall.\nThe Hunt: Agnar and Svenja's search for the Uderfrykte Matron led them to Cyrodiil, having heard of a creature living near Dive Rock. He kept a journal describing their quest in detail.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Agnar_the_Unwavering",
+    "race": "Nord",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0C5746",
+    "base_id": "0C55E5",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Nord/M"
+}

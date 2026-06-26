@@ -1,0 +1,14 @@
+{
+    "name": "Arkved",
+    "voice_model": "Altmer_Male",
+    "bio": "Physical Appearance: Altmer (High Elf) male. Tall with golden skin and the refined features of his race. Wears rare white mage's robes and white mage's shoes, marking him as a mage of some distinction. Currently lies in an eternal sleep, his body motionless in his tower, trapped in an inescapable nightmare.Race: AltmerPersonality Keywords: ambitious, reckless, foolish (inferred from his fatal mistake)Role: Arkved was a mage with knowledge spanning multiple schools of magic - Destruction, Illusion, Alteration, Restoration, Mysticism, and Conjuration. His fate came from stealing the Orb of Vaermina.Home Location Information: Arkved's Tower, located south-southwest of Cheydinhal. The tower served as his residence and now holds his sleeping body.The Theft and Its Consequence: Arkved stole the Orb of Vaermina, snatching it from the dreams of the Daedric Prince's followers and dragging it into the waking world. As he began to realize what he had done, he left behind writings - a note written in a trembling hand and two crumbled pieces of paper filled with nightmarish ramblings. The Orb contained more than he bargained for. Vaermina's punishment was eternal: Arkved was plunged into a nightmare from which he can never wake. He now lies in perpetual sleep in his tower, living out the rest of his days in torment. Vaermina considers this fate fitting.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Arkved",
+    "race": "Altmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "098CEC",
+    "base_id": "01EC12",
+    "author": "Bethesda",
+    "notes": "Vaermina Quest",
+    "voice_folder": "High Elf/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Britta Invel",
+    "voice_model": "Imperial_Female",
+    "bio": "Physical Appearance: Imperial female wearing upper-class clothing consisting of a red velvet blouse, a red velvet garment, and blue suede shoes. She carries a loaf of bread, an apple, and a large amount of gold.\n\nRace: Imperial\n\nPersonality Keywords: reserved, socially compliant\n\nRole: Guest of Countess Alessia Caro during a formal dinner at Castle Leyawiin.\n\nHome Location Information: Present only within Castle Leyawiin\u2019s dining hall during a formal dinner hosted by the Countess.\n\nDaily Routine: Britta is seated in the dining hall of Castle Leyawiin from 6pm until midnight on the evening of the Countess\u2019 dinner. During this time, she remains at the table with the other guests and engages quietly with the group. If the dinner is disrupted by magical means, she immediately leaves her seat and runs about the hall. She does not reappear after the event concludes.\n\nEquipment and Abilities: No combat role or specialized abilities are displayed during her appearance.\n\nPersonality \u2013 Dinner Guest: Britta Invel attends the Countess\u2019 gathering as a polite participant and remains seated with the other guests throughout the event. Her behavior is limited to quiet social interaction until the dinner is interrupted, after which she exits the scene entirely. She is only encountered during this specific occasion.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Britta_Invel",
+    "race": "Imperial",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "01C167",
+    "base_id": "01C166",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/F"
+}

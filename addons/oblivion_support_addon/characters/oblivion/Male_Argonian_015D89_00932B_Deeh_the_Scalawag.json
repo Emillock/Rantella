@@ -1,0 +1,14 @@
+{
+    "name": "Deeh the Scalawag",
+    "voice_model": "Male_Argonian_015D89_00932B_Deeh_the_Scalawag",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears only sack cloth pants\u2014no shirt or shoes\u2014reflecting his extreme poverty as a beggar.\nRace: Argonian\nPersonality Keywords: poor, beggar, diseased, humble\nRole: Deeh the Scalawag is an Argonian commoner living in Leyawiin, where he tries to get by as a beggar. He is infected with the yellow tick disease and has a chance to infect others should they fight him.\nHome Location Information: Deeh's bedroll and food bag are located northeast of the west entrance of Leyawiin, near the well. This is where he sleeps and stores what little food he has.\nDaily Routine: Deeh starts his day at 6am, wandering around the west gate of the city for four hours. At 10am he moves to a more suitable place in front of the Chapel of Zenithar, where he begs for money and food until 2pm. At that time he moves again, this time near the northeast gate of the city. At 6pm he heads back to his bedroll to grab a piece of food and have dinner for two hours; if his sack is empty he will walk around until his bedtime. After having his only meal of the day, he strolls around near the gate until his bedtime at 10pm. During rainy days, he instead takes cover under the tree in front of the Leyawiin Mages Guild until the rain ceases.\nBeggar Network: Deeh, along with the other beggars in Cyrodiil, will give clues to find the Thieves Guild and will also inform people about the Countess' secret during the Ahdarji's Heirloom quest. Speaking with him is necessary to complete the Speechcraft Training quest.\nPossessions: Deeh's only possessions are some sack cloth pants and any amount of money that he earned during the day.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Deeh_the_Scalawag",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "00932B",
+    "base_id": "015D89",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

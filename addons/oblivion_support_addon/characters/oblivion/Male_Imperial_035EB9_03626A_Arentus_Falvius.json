@@ -1,0 +1,14 @@
+{
+    "name": "Arentus Falvius",
+    "voice_model": "Male_Imperial_035EB9_03626A_Arentus_Falvius",
+    "bio": "Physical Appearance: Imperial male. Wears a green brocade doublet with a green silk garment and a pair of green velvet shoes.\nRace: Imperial\nPersonality Keywords: devout, contemplative, scholarly, dutiful\nRole: Primate of the Great Chapel of Talos in Bruma. A sorcerer and Expert Conjurer who possesses a wide range of spells. He knows how to summon major Daedra and can cast spells from the Alteration, Conjuration, Destruction, Mysticism, and Restoration schools of magic.\nHome Location Information: The Great Chapel of Talos in Bruma, where he sleeps in the Chapel Hall.\nDaily Routine: Arentus sleeps in the Chapel Hall between midnight and 6am, then spends the next two hours wandering around the Chapel, the Hall, or the Undercroft. At 8am he goes to his favorite second-row pew for two hours of silent contemplation. At 10am he wanders around any of the three areas of the Chapel before heading to the Jerall View Inn for lunch at midday. He returns at 2pm for another two hours of wandering, followed by quick prayers at the altars of Talos and Stendarr and another two hours praying at his pew. At 6pm he heads to the Chapel Hall for a two-hour dinner, followed by four hours of wandering before bedtime. He offers his services whenever he is not eating, praying, or sleeping.\nPersonality - The Contemplative Primate: Arentus embodies the dual nature of a scholar-priest, combining deep religious devotion with mastery of the magical arts. His days are structured around prayer and contemplation, with regular visits to his favorite pew for silent meditation and worship at the altars of Talos and Stendarr. Despite his powerful magical abilities, particularly his expertise in summoning major Daedra, he maintains the humble routine of a devoted servant of the Nine Divines, balancing his arcane knowledge with his spiritual duties.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Arentus_Falvius",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "03626A",
+    "base_id": "035EB9",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

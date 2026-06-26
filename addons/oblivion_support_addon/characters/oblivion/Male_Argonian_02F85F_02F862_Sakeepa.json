@@ -1,0 +1,14 @@
+{
+    "name": "Sakeepa",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of her race\u2014including a lizard-like head, tail, and digitigrade legs. Wears typical lower-class attire consisting of a coarse linen shirt, a pair of coarse linens, and oiled linen shoes. Like his neighbors in town, both Sakeepa and his dog have been made invisible, courtesy of Ancotar's experiments in Fort Caractacus.\nRace: Argonian\nPersonality Keywords: herder, diligent, simple\nRole: Sakeepa is an Argonian herder living in Aleswell. He owns a dog, simply named Sakeepa's Dog, that follows him everywhere he goes.\nHome Location Information: A house in Aleswell.\nDaily Routine: Visible or not, Sakeepa gets out of bed every morning at 6am and heads to the corral outside his house to collect his flock of sheep. He then leads them west onto the Red Ring Road and strolls around the grassy area near town for the next eleven hours. At 5pm he heads back to Aleswell and locks up the sheep for the night, followed by a three-hour visit to the local inn at 6pm. He leaves at 9pm and returns to his house for a bit of wandering before his bedtime at midnight.\nEquipment: Sakeepa carries around quite a miscellany of items: a pitchfork, shears, a wolf pelt, and a roll of yarn, as well as a small amount of gold. He is armed with a club.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Sakeepa",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "02F862",
+    "base_id": "02F85F",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

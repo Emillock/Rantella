@@ -1,0 +1,14 @@
+{
+    "name": "Mondrar Henim",
+    "voice_model": "Dunmer_Male",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing the standard necromancer's robe and necromancer's hood, but no shoes. Carries a leveled amount of gold. Armed with an iron dagger.\nRace: Dunmer\nPersonality Keywords: loyal, determined, conspiratorial, devoted\nRole: Mondrar Henim is a necromancer who is good friends with Mercator Hosidus of Castle Skingrad. Along with Hosidus and another friend, Arterion, Henim is determined to prevent anything interfering with Mannimarco's plans.\nHome Location Information: [Location information not provided in source material]\nAllegiance: Henim is devoted to Mannimarco and works alongside his friends Mercator Hosidus and Arterion to protect the King of Worms' interests.\nCombat Abilities: In combat, Henim relies on an iron dagger and a set of leveled necromancer spells.\nPersonality - The Devoted Conspirator: Mondrar is loyal to his friends and determined in his devotion to Mannimarco. He works conspiratorially with Hosidus and Arterion, united in their goal to ensure nothing interferes with the King of Worms' plans. His commitment to necromancy and to protecting Mannimarco's interests defines his purpose.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Mondrar_Henim",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "035A17",
+    "base_id": "035A16",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/M"
+}

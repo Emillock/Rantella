@@ -1,0 +1,14 @@
+{
+    "name": "Minx",
+    "voice_model": "Dunmer_Female",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) female wearing leather armor - gauntlets, greaves, boots, and a uniquely designed leather cuirass branded with the emblem of the Blackwater Brigands. Wields a leveled longsword up to Ebony quality (always of the highest quality available). Carries the key to the top deck and a small amount of gold.\nRace: Dunmer\nPersonality Keywords: hostile, criminal, determined, vigilant\nRole: Minx is a thief and one of only four members of the Blackwater Brigands, a recently formed gang of thieves based in Bravil. Along with her accomplices Lynch, Wrath, and Selene, she has hijacked the Bloated Float in search of a legendary gold statuette known as \"The Golden Galleon,\" which she believes is hidden somewhere on the ship.\nHome Location Information: Currently operating on the Bloated Float, specifically in the dining area of the Tavern Deck.\nDaily Routine: Minx constantly patrols the dining area of the Tavern Deck without eating or sleeping, maintaining vigilant watch over the hijacked ship.\nThe Blackwater Brigands: Minx is part of a four-member gang that has taken over the Bloated Float. She wears the gang's distinctive emblem on her cuirass, marking her allegiance to the Blackwater Brigands.\nPersonality - The Relentless Pirate: Minx is determined and vigilant in her pursuit of the Golden Galleon. She maintains constant patrol of her assigned area on the hijacked ship, never letting her guard down. Her high-quality equipment and unwavering watchfulness demonstrate her commitment to the Brigands' mission and her skill as a thief.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Minx",
+    "race": "Dunmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "00C1F6",
+    "base_id": "00C1D9",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/F"
+}

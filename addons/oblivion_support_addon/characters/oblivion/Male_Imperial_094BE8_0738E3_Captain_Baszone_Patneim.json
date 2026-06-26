@@ -1,0 +1,14 @@
+{
+    "name": "Captain Baszone Patneim",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male wearing rare clothing consisting of a shirt with suspenders and rugged pants, along with iron gauntlets and doeskin shoes. Wears a copper amulet and a brass ring. Carries a ship key.\n\nRace: Imperial\n\nPersonality Keywords: hostile, criminal\n\nRole: Pirate captain of the Sea Tub Clarabella.\n\nHome Location Information: Resides aboard the Sea Tub Clarabella, docked in Anvil. Normally remains in his quarters on the upper deck; with the Thieves Den installed, he is instead found on the ship\u2019s mid deck.\n\nDaily Routine: Baszone wanders his section of the ship continuously and does not eat or sleep. He attacks intruders on sight.\n\nEquipment and Abilities: Armed with a steel cutlass. Carries a note from his first mate, Filch. Displays no cooperative or civilian behavior and engages immediately in combat when encountered.\n\nPersonality \u2013 Pirate Captain: Baszone Patneim commands the Sea Tub Clarabella and is directly involved in criminal activity associated with the vessel. His constant presence aboard the ship and immediate hostility toward outsiders define his role and behavior.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Captain_Baszone_Patneim",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0738E3",
+    "base_id": "094BE8",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

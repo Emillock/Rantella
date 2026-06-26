@@ -1,0 +1,14 @@
+{
+    "name": "Slythe Seringi",
+    "voice_model": "Dunmer_Male",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing nothing but a monk robe and a pair of clogs. Entered the cave with no weapons or armor at all.\nRace: Dunmer\nPersonality Keywords: guilt-ridden, well-intentioned, naive, sacrificial\nRole: Slythe Seringi was a warrior who owned Shetcombe Farm just northeast of Kvatch. Suffering from misplaced guilt over the events at Kvatch, he attempted to make peace with what he believed was the creature responsible for the city's destruction.\nHome Location Information: Shetcombe Farm, just northeast of Kvatch.\nThe Misguided Quest: Slythe believed that a creature called the Sunken One, hosted in nearby Sandstone Cavern, was responsible for the destruction of Kvatch. He tried to defuse the situation by offering the creature a tribute of precious gems, hoping to prevent further destruction.\nThe Fatal Journey: According to his journal, Slythe decided to rely solely on his will and his word when facing The Sunken One. He entered the cave completely unarmed and unarmored, wearing only a monk robe and clogs. His journal describes his doubts during the journey, and he ultimately met his fate in one of the larger rooms in the final zone of Sandstone Cavern.\nThe Journal: Slythe kept a journal documenting his decision and journey. The first page describes his resolve to face the Sunken One with only his will and word. The second page reveals his doubts during the journey. The third page, found on his body, contains his dying words.\nPersonality - The Guilt-Driven Martyr: Slythe was suffering from misplaced guilt over Kvatch's destruction, believing incorrectly that the Sunken One was responsible rather than the Daedric invasion. His well-intentioned but naive attempt to make peace led him to enter a dangerous cavern completely defenseless, relying only on words and offerings. Despite his warrior background, he chose a path of peace and sacrifice, demonstrating either remarkable courage or tragic foolishness. His doubts during the journey suggest he understood the danger but was driven by his overwhelming guilt to continue regardless of the consequences.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Slythe_Seringi",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "185DCA",
+    "base_id": "185DC9",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "High Elf/M"
+}

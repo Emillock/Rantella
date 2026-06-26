@@ -1,0 +1,14 @@
+{
+    "name": "Sibylla Draconis",
+    "voice_model": "Imperial_Female",
+    "bio": "Physical Appearance: Imperial female. Wears a huntsman's outfit consisting of pants, vest, and moccasins - practical clothing for living in the wilderness. Armed with a steel mace.\nRace: Imperial\nPersonality Keywords: reclusive, animalistic, devoted, feral, hostile, isolated\nRole: Sibylla Draconis lives alone in Muck Valley Cavern, having left civilization behind to live among the animals she loves. She is one of four children of Perennia Draconis, along with her siblings Matthias, Caelia, and Andreas.\nHome Location Information: Muck Valley Cavern, where she lives surrounded by animals, far from Imperial society.\nDaily Routine: Sibylla spends all her time pacing around the cave with her beloved animals. She is so absorbed in this existence that she doesn't eat or sleep, completely devoted to her life among the creatures.\nLove of Animals: According to her mother Perennia, \"Sibby\" has always loved animals. A couple of years ago, this love led her to move into Muck Valley Cavern, leaving behind conventional society to live with the creatures she adores. Her mother speaks of her with affection despite her daughter's unconventional choices.\nPersonality - The Feral Recluse: Sibylla has completely withdrawn from human society to live among animals in a cave. Her hostility toward visitors suggests she has embraced a more primal, animalistic existence and sees humans as threats or intrusions. The fact that she no longer eats or sleeps in any normal pattern indicates how far she has departed from civilized life. What her mother remembers as a love of animals has evolved into complete immersion - she doesn't visit the animals, she lives as one of them, pacing the cave ceaselessly in their company. Whether this represents fulfillment of her truest nature or a descent into something more troubling, Sibylla has found what she was seeking in Muck Valley Cavern: a life where she belongs not to the world of people, but to the world of beasts.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Sibylla_Draconis",
+    "race": "Imperial",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "031002",
+    "base_id": "030FD8",
+    "author": "Bethesda",
+    "notes": "Hostile",
+    "voice_folder": "Imperial/F"
+}

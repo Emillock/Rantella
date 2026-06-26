@@ -1,0 +1,14 @@
+{
+    "name": "Ashtus Chenius",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male wearing an almost complete set of leather armor, consisting of boots, cuirass, gauntlets, and greaves.\n\nRace: Imperial\n\nPersonality Keywords: dutiful, service-oriented\n\nRole: Healer and member of the Fighters Guild.\n\nHome Location Information: Formerly associated with the Fighters Guild. Last known assignment placed him at Forsaken Mine, south of Leyawiin.\n\nEquipment and Abilities: Equipped with leather armor. Served the Fighters Guild in a healing capacity during field assignments.\n\nPersonality \u2013 Guild Healer: Ashtus Chenius served as a healer within a Fighters Guild expedition sent to clear Forsaken Mine of trolls. He was part of the same assignment as Viranus Donton and other guild members, indicating his role as support during the mission.\n\nFate: Ashtus Chenius was found dead in the second chamber of Forsaken Mine, leaning against the wooden supports of the mineshaft. No clear cause of death was evident at the scene, and the only creatures present were minor animals. His body was discovered after another fallen guild member was found in the tunnel leading into the area.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Ashtus_Chenius",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "03B300",
+    "base_id": "01E783",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Imperial/M"
+}

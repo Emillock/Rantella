@@ -1,0 +1,14 @@
+{
+    "name": "Lashana",
+    "voice_model": "Redguard_Female",
+    "bio": "Physical Appearance: Redguard female. Wore a complete set of iron armor, excluding a shield - standard protective equipment for a Fighters Guild knight on a dangerous mission.\nRace: Redguard\nPersonality Keywords: (Unknown - killed before interaction)\nRole: Lashana was a knight and member of the Fighters Guild. She joined a mission with Viranus Donton and several other colleagues to deal with trolls in Forsaken Mine, where she met her death.\nLocation: Lashana's body can be found in the first zone of Forsaken Mine, lying in a pool of blood in the southernmost chamber. She is positioned near a suspicious dead Blackwood Company member.\nThe Forsaken Mine Mission: Lashana accompanied Viranus Donton and other Fighters Guild members on what should have been a routine troll-hunting contract. The mission went catastrophically wrong, resulting in the deaths of multiple guild members including Lashana.\nCircumstances of Death: Lashana lies dead in close proximity to a Blackwood Company member, suggesting the guild members may have been betrayed or ambushed by their supposed rivals rather than killed by trolls alone.\nEquipment: Lashana wore a complete iron armor set, though she carried no shield. This suggests she may have favored two-handed weapons or offensive magic over defensive combat styles.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Lashana",
+    "race": "Redguard",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "06BD2E",
+    "base_id": "06BD2D",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Redguard/F"
+}

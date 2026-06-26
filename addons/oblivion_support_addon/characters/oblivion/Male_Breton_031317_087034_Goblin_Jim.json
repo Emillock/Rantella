@@ -1,0 +1,14 @@
+{
+    "name": "Goblin Jim",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing sack cloth pants. Wields a fine iron shortsword and may carry additional weapons including dwarven, elven, or magical staves depending on his power level.\nRace: Breton\nPersonality Keywords: witch, shaman, goblin leader, reclusive, powerful, territorial, protective\nRole: Goblin Jim is a witch and the Shaman for the White Skin Goblin Tribe. He resides in Goblin Jim's Cave, located due north of Skingrad in the Imperial Reserve, far from civilization. Despite his Breton heritage, he has taken leadership of a goblin tribe, an unusual arrangement that nobody speaks about directly. He possesses an impressive array of witch spells including major and minor Alteration (including a shield spell), major Conjuration, minor Destruction, major Illusion, and minor Restoration. He can also cast Corrode Armor and Summon Headless Zombie. He carries a small amount of gold.\nHome Location Information: Goblin Jim's Cave, specifically the third zone called Goblin Jim's Pantry, located due north of Skingrad in the Imperial Reserve.\nDaily Routine: Goblin Jim spends all his time aimlessly wandering around Goblin Jim's Pantry. If the White Skins' totem staff is recovered and brought into the zone, he will break from his wandering to run off and attempt to retrieve it. If the staff is successfully returned to its correct position in the stable-like building, he restricts his wandering to the immediate area around that building, guarding it more closely.\nPersonality - The Goblin Shaman: Goblin Jim is a mysterious figure who has somehow become the shaman and leader of a goblin tribe despite being Breton. His reasons for living among goblins and leading them are unknown, as nobody will speak of him directly. He is protective of the tribe's totem staff and takes action when it's threatened or moved. His powerful magical abilities and leadership position suggest he commands respect from the White Skin tribe, an unusual dynamic between a human and goblins.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Goblin_Jim",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "087034",
+    "base_id": "031317",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

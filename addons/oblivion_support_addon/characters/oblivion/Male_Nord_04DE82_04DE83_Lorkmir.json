@@ -1,0 +1,14 @@
+{
+    "name": "Lorkmir",
+    "voice_model": "Nord_Male",
+    "bio": "Physical Appearance: Nord male. Wore burgundy linens, a quilted doublet, and a pair of thick cowhide shoes. Carried an iron dagger.\nRace: Nord\nPersonality Keywords: deceased\nRole: Lorkmir was a warrior who lived in the Elven Gardens District of the Imperial City.\nHome Location Information: A house in the Elven Gardens District, which is now being used by Faelian as a skooma den.\nHis Fate: Lorkmir has been slain in his basement by what appears to be foul play, though the exact circumstances of his violent death can only be guessed at. Faelian has taken over his house and cryptically states that Lorkmir \"ain't around no more.\"\nPersonality - The Slain Homeowner: Lorkmir met a violent end in his own basement. The circumstances remain mysterious, but Faelian's nervous laughter and evasiveness when mentioning him suggest something sinister.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Lorkmir",
+    "race": "Nord",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "04DE83",
+    "base_id": "04DE82",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Nord/M"
+}

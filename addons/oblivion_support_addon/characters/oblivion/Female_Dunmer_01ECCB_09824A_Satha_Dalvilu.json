@@ -1,0 +1,14 @@
+{
+    "name": "Satha Dalvilu",
+    "voice_model": "Dunmer_Female",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) female wearing typical lower-class clothing - a dark green shirt with laced leather pants and matching leather shoes. Carries an iron dagger, her house key, and a small amount of gold.\nRace: Dunmer\nPersonality Keywords: relaxed, social, devoted, vengeful\nRole: Satha Dalvilu is a farmer residing in Bleaker's Way, a peaceful village in the Great Forest inhabited by the Dalvilu and Ulfgar clans.\nHome Location Information: Her house in Bleaker's Way.\nDaily Routine: Satha sleeps from midnight to 6am and always starts the day with a two-hour breakfast. At 8am, she heads just outside her house for her daily chat with family patriarch Nivan Dalvilu, returning inside at 10am to stroll lazily around until 2pm. At 2pm she heads to the Bleaker's Way Goodwill Inn for two hours of socializing, returning home at 4pm to spend the rest of the day inside.\nClan Relations: Satha lives a relaxed life in the small village and while she occasionally socializes with both her own clan and the Ulfgars, she spends the majority of her time at home. She maintains peaceful relations with both families in the village.\nDevotion to Nivan: Satha has a daily ritual of meeting with family patriarch Nivan Dalvilu, demonstrating her close connection to the clan leader.\nPersonality - The Peaceful Farmer Transformed: Satha normally lives a relaxed and peaceful existence, dividing her time between solitary home life and measured social interaction with both clans at the inn. However, her devotion to her family and particularly to Nivan runs deep. When she learns the Ulfgars are responsible for Nivan's untimely death, her peaceful nature completely transforms. She abandons all restraint and runs head first into battle against her former friends, attacking with her dagger until either she or the entire Ulfgar family is dead. This dramatic shift reveals the fierce loyalty beneath her calm exterior and the strength of her clan bonds.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Satha_Dalvilu",
+    "race": "Dunmer",
+    "gender": "Female",
+    "species": "Elf",
+    "ref_id": "09824A",
+    "base_id": "01ECCB",
+    "author": "Bethesda",
+    "notes": "Mephala's Quest",
+    "voice_folder": "High Elf/F"
+}

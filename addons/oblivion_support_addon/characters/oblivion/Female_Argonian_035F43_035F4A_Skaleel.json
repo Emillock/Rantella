@@ -1,0 +1,14 @@
+{
+    "name": "Skaleel",
+    "voice_model": "Female_Argonian_035F43_035F4A_Skaleel",
+    "bio": "Physical Appearance: Argonian female with the characteristic scaled reptilian features of her race\u2014including a lizard-like head, tail, and digitigrade legs. Wears middle-class attire consisting of a russet felt outfit and a pair of matching shoes.\nRace: Argonian\nPersonality Keywords: scholarly, dedicated, researcher, isolated\nRole: Skaleel is an Argonian mage and member of the Mages Guild who is currently running a research project at Vahtacen. She will be your contact from Irlav Jarol and will send you to Denel once you arrive. She is not accessible without the key given to you by Irlav Jarol.\nHome Location Information: Vahtacen, where she conducts her research. She sleeps on a bedroll in the first large chamber.\nDaily Routine: Skaleel lives a very simple life. Between 11pm and 6am she sleeps on a bedroll in the first large chamber of Vahtacen and then spends the rest of the day wandering around it. She and Denel have also set up a table where copies of The Wild Elves and Jarol's book on the Ayleids, Magic from the Sky, can be found.\nEquipment: Skaleel carries a leveled amount of gold and a torch. She doesn't wield any weapons, relying instead on a set of leveled random mage spells.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Skaleel",
+    "race": "Argonian",
+    "gender": "Female",
+    "species": "Argonian",
+    "ref_id": "035F4A",
+    "base_id": "035F43",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/F"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Hanz gro-Hubrag",
+    "voice_model": "Orsimer_Male",
+    "bio": "Physical Appearance: Orsimer (Orc) male. Wears randomly-selected middle-class clothing - respectable attire for a village farmer.\nRace: Orsimer\nPersonality Keywords: sociable, peaceful, rural, neighborly, relaxed\nRole: Hanz gro-Hubrag is a farmer living in the quiet village of Blankenmarch. He spends his days socializing with his neighbors in the small settlement.\nHome Location Information: Blankenmarch, a quiet village where he owns his own house.\nDaily Routine: Hanz keeps a simple, peaceful routine. He sleeps from 10pm to 6am - a full eight hours of rest. Rising early, he exits his house and spends the entire day from 6am to 8pm strolling around the settlement, casually chatting with his neighbors Floyd Nathans and Philip Franc. At 8pm he returns home for a two-hour dinner before going to bed at 10pm.\nEquipment: Despite being a farmer in a peaceful village, Hanz is well-armed with a leveled longsword or claymore of the best possible quality - which may even be enchanted depending on his experience. Like the other residents of Blankenmarch, he carries a bottle of ale, beer, or cheap wine, along with a small amount of gold.\nPersonality - The Village Socialite: Hanz lives a relaxed, sociable life in the quiet settlement of Blankenmarch. He spends virtually his entire day walking around the village and talking with neighbors - a lifestyle that suggests either successful farming that doesn't require constant labor, or retirement from more active work. The fact that he carries quality weaponry hints at either a more adventurous past or simply the practical need for self-defense in rural Cyrodiil. His routine of early rising, long days of socializing, and carrying a drink with him suggests he's content with village life and enjoys the company of his fellow residents.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Hanz_gro-Hubrag",
+    "race": "Orsimer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "0B1680",
+    "base_id": "0B167F",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Nord/M"
+}

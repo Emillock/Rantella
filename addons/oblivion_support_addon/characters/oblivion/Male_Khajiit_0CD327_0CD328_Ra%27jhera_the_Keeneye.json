@@ -1,0 +1,14 @@
+{
+    "name": "Ra'jhera the Keeneye",
+    "voice_model": "Khajiit_Male",
+    "bio": "Physical Appearance: Khajiit male. Feline features characteristic of his race. Wears light armor suited for mobility and ranged combat - the practical gear of a skilled hunter and sharpshooter.\nRace: Khajiit\nPersonality Keywords: hostile, deadly, skilled, loyal, ruthless\nRole: Ra'jhera the Keeneye is a hunter and sharpshooter working for Kurdan gro-Dragol. His epithet \"the Keeneye\" speaks to his exceptional marksmanship and deadly accuracy with a bow. He serves as one of Kurdan's enforcers during the deadly hunt conducted at Fort Grief.\nLocation Information: Fort Grief, where Ra'jhera positions himself on an upper level to provide ranged support during Kurdan's twisted hunting game.\nCombat Capabilities: Ra'jhera is equipped with light armor for mobility, a dagger for close combat, and a bow with arrows - all of the best possible quality. As a sharpshooter, he excels at ranged combat, using his elevated position to rain arrows down on targets. His name \"the Keeneye\" suggests exceptional perception and accuracy, making him a formidable opponent at range.\nEquipment: Ra'jhera carries some gold along with his weapons and armor, suggesting he is well-compensated for his deadly services.\nLoyalty to Kurdan: Ra'jhera works directly for Kurdan gro-Dragol and only appears when Kurdan engages in conversation, suggesting he waits for his master's signal before revealing himself. He attacks alongside Kurdan, showing his loyalty and role as the orc's backup during the hunt.\nPersonality - The Patient Predator: Ra'jhera is a skilled hunter who has turned his talents toward darker purposes, working as muscle for Kurdan's cruel games. His title \"the Keeneye\" reflects both his physical prowess with a bow and perhaps his ability to assess and track prey. He is patient enough to wait in position on the upper level, holding his attack until the proper moment rather than revealing himself immediately. This discipline and tactical awareness mark him as more than just a common thug - he's a professional who understands the value of positioning and timing.\nHis continued aggression even if left alive after Kurdan's death shows he is either too committed to the fight to back down, too loyal to his fallen employer to surrender, or simply too dangerous and ruthless to stop killing once he's started. His willingness to participate in Kurdan's deadly hunts reveals someone who has no moral qualms about murder for profit.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Ra%27jhera_the_Keeneye",
+    "race": "Khajiit",
+    "gender": "Male",
+    "species": "Khajiit",
+    "ref_id": "0CD328",
+    "base_id": "0CD327",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

@@ -1,0 +1,16 @@
+{
+    "default_prompt_style": "ob_en_gemma4",
+    "conversation_manager_type": "oblivion_file_buffers",
+    "interface_type": "oblivion_file_buffers",
+    "behavior_manager": "default_behavior_manager",
+    "memory_manager": "chromadb_memory",
+    "character_type": "oblivion_pantella",
+    "character_manager": "elder_scrolls",
+    "character_db": "oblivion_db",
+    "default_tts": "pocket_tts",
+    "default_narrator_voice": "Male_Imperial_023F2E_032A18_Uriel_Septim_VII_(Oblivion)",
+    "settings":{
+        "pluggy_path": "",
+        "mod_path": ""
+    }
+}

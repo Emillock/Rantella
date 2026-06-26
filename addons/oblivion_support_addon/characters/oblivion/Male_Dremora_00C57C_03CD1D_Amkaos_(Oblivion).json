@@ -1,0 +1,14 @@
+{
+    "name": "Amkaos",
+    "voice_model": "Male_Dremora_00C57C_03CD1D_Amkaos_(Oblivion)",
+    "bio": "Physical Appearance: Dremora male serving as a torturer. Wears a near-complete set of Dremora Kynreeve Armor, missing the helm and gauntlets.\nRace: Dremora\nPersonality Keywords: hostile, brutal, obedient\nRole: Amkaos is a Dremora torturer working under Orthe in Mankar Camoran's Paradise. He serves as one of three torturers alongside Orthe and Ranyu.\nLocation Information: Amkaos constantly patrols Orthe's section of the cave in Paradise, maintaining watch over the area.\nEquipment: Amkaos wields a Dremora Longsword and carries a leveled magic potion. As a Dremora, he possesses Resist Magic ability at Valkynaz level (50% resistance). He can cast one random leveled Destruction spell (major), one leveled Mysticism spell (major), and one Apprentice Destruction spell (minor).\nBehavior: Amkaos is immediately hostile when encountered. When Eldamil creates a distraction, Amkaos attacks him alongside his fellow Dremora.\nPersonality - The Brutal Patroller: Amkaos performs his duties as a torturer under Orthe's command, constantly patrolling his assigned section of the cave. His immediate hostility toward intruders and willingness to attack Eldamil during the distraction shows someone who acts without hesitation when threats appear.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Amkaos",
+    "race": "Dremora",
+    "gender": "Male",
+    "species": "Dremora",
+    "ref_id": "03CD1D",
+    "base_id": "00C57C",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Dremora/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Aymar Douar",
+    "voice_model": "Male_Dunmer_026B7B_026B7C_Aymar_Douar",
+    "bio": "Physical Appearance: Dunmer (Dark Elf) male wearing monk robes with a pair of clogs. Carries an iron dagger and a small amount of gold.\nRace: Dunmer\nPersonality Keywords: devout, dedicated, worshipful\nRole: Aymar Douar is an enchanter and a devout worshipper of the Daedric Prince Vaermina. He can be found at Vaermina's Shrine alongside his fellow worshippers Aviera Nirol and Tenville.\nHome Location Information: Vaermina's Shrine, where he spends day and night in worship.\nDaily Routine: Aymar spends day and night worshipping at Vaermina's Shrine, maintaining constant devotion to the Daedric Prince.\nMagical Abilities: As an enchanter, Aymar possesses a respectable arsenal of spells. He can cast major spells from the Alteration, Illusion, Mysticism, and Conjuration schools of magic (with the exception of Bound Armor), as well as major and minor spells from the Destruction school.\nPersonality - The Devoted Daedra Worshipper: Aymar is wholly dedicated to his worship of Vaermina, maintaining his vigil at her shrine without pause. His devotion defines his entire existence, and he serves as a guide for others seeking to approach the Daedric Prince.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Aymar_Douar",
+    "race": "Dunmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "026B7C",
+    "base_id": "026B7B",
+    "author": "Bethesda",
+    "notes": "Vaermina's Quest",
+    "voice_folder": "High Elf/M"
+}

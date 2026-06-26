@@ -1,0 +1,14 @@
+{
+    "name": "Roderick",
+    "voice_model": "Redguard_Male",
+    "bio": "Physical Appearance: Redguard male. Lies in bed wearing only tan linens, his skin pale and covered in a sheen of sweat - the appearance of someone gravely ill and fighting for life.\nRace: Redguard\nPersonality Keywords: (Unknown - unconscious throughout)\nRole: Roderick is a knight and warlord who resides in Fort Sutch, northeast of Anvil. He commands the loyalty of four mercenaries: Gerard Melie, Laenafil, Neesha, and Ulmug gro-Cromgog. He has recently contracted an unknown illness that has left him in an eternal slumber, kept alive only by daily administration of powerful medicine.\nLocation: Fort Sutch, specifically the northern part of the fort where he lies in bed with Neesha constantly by his side.\nThe Illness: Roderick has contracted an illness of uncertain nature that has left him unconscious and struggling for his life. His condition is so severe that without daily doses of powerful medicine, he would die. He lies in eternal slumber, unable to wake or respond to anything around him.\nHis Mercenaries' Loyalty: Roderick's four mercenaries remain faithfully by his side, taking turns guarding him and ensuring he receives his vital medicine daily. Neesha positions herself closest to his bed, maintaining constant vigil. Their dedication demonstrates the loyalty Roderick inspired as their leader.\nEquipment: Roderick carries only a small amount of gold. Though he possesses three leveled spells (two destruction and one restoration), his unconscious state means he can never use them.\nThe Dark Brotherhood Contract: Someone has hired the Dark Brotherhood to kill Roderick, taking advantage of his vulnerable state. The contract requires replacing his medicine with poison to make his death appear natural from his illness, maintaining discretion and making it seem he simply succumbed to his condition.\nPhysical Condition: When approached, Roderick shows obvious signs of his struggle - pale skin covered in sweat, unconscious and unresponsive. He's clearly fighting for his life against whatever has claimed him, though he cannot communicate or react to his surroundings.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Roderick",
+    "race": "Redguard",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0314DD",
+    "base_id": "028FA4",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Redguard/M"
+}

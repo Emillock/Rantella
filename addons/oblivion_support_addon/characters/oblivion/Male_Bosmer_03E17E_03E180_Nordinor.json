@@ -1,0 +1,14 @@
+{
+    "name": "Nordinor",
+    "voice_model": "Bosmer_Male",
+    "bio": "Physical Appearance: Bosmer (Wood Elf) male wearing lower-class clothing - a dark green shirt, laced leather pants, and stitched leather shoes.\nRace: Bosmer\nPersonality Keywords: dealer, criminal, vendor, nocturnal, secretive\nRole: Nordinor is a skooma dealer living at The Fair Deal in Bravil. He is one of only two vendors who sell skooma in Cyrodiil, the other being Shady Sam. He conducts his illicit business late at night in the alley beside The Fair Deal. Faelian will direct those seeking skooma to find Nordinor. He carries a key to The Fair Deal and a small amount of gold.\nHome Location Information: The Fair Deal in Bravil, where he lives and sleeps.\nDaily Routine: Nordinor wakes at 9am and immediately goes to The Lonely Suitor Lodge for a five-hour meal until 2pm. He then returns to The Fair Deal and stays inside until midnight. From midnight to 4am, he conducts business in the adjoining alley beside The Fair Deal, selling skooma to customers. At 4am he returns to The Fair Deal to sleep.\nPersonality - The Nocturnal Dealer: Nordinor operates his illegal skooma trade under cover of darkness, conducting business in a back alley during the late night hours. He maintains a cautious routine, keeping his criminal activities confined to the shadows while spending his days in seemingly normal activities.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Nordinor",
+    "race": "Bosmer",
+    "gender": "Male",
+    "species": "Elf",
+    "ref_id": "03E180",
+    "base_id": "03E17E",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "High Elf/M"
+}

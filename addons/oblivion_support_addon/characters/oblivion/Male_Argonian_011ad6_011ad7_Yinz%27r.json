@@ -1,0 +1,14 @@
+{
+    "name": "Yinz'r",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male. Wears a leather cuirass, leather boots, and leather greaves. Wields a steel cutlass in combat.\nRace: Argonian\nPersonality Keywords: Unknown\nRole: Yinz'r is a pirate who joins the crew at Dunbarrow Cove after six upgrades have been purchased for the location. Once all Dunbarrow Cove upgrades are complete, he can be sent out with Scurvy John Hoff and Zedrick Green on pillaging and plundering expeditions. These voyages last 10 days before the crew returns with loot. When not on expedition, he wanders around the Cove.\nHome Location Information: Dunbarrow Cove.\nDaily Routine: Yinz'r wanders around Dunbarrow Cove when not away on pillaging expeditions with his crewmates.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Yinz%27r",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "011ad7",
+    "base_id": "011ad6",
+    "author": "Bethesda",
+    "notes": "Dunbarrow Cove DLC",
+    "voice_folder": "Argonian/M"
+}

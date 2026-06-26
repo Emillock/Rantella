@@ -1,0 +1,14 @@
+{
+    "name": "Ogier Georick",
+    "voice_model": "Male_Breton_015E9A_01D159_Ogier_Georick",
+    "bio": "Physical Appearance: Breton male wearing simple middle-class clothing - a quilted doublet with tan linens and doeskin shoes. Carries a daedra heart and a sample of glow dust.\nRace: Breton\nPersonality Keywords: alchemist, proprietor, hardworking, dedicated, merchant, struggling, collegial\nRole: Ogier Georick is an alchemist and proprietor of The Main Ingredient in the Market District of the Imperial City. He sells alchemy equipment and ingredients, including the unique Mantle of the Woodsman once customers reach Journeyman level in Mercantile. Before certain business troubles are resolved, he is one of the merchants complaining about Thoronir's unfairly low prices at The Copious Coinpurse cutting into his business. He carries his shop key, a small amount of gold, and notably carries a daedra heart and glow dust samples that can be purchased even at lower levels. He relies on spells from all magical schools in combat.\nHome Location Information: The Main Ingredient in the Market District. He sleeps in his private quarters above the shop.\nDaily Routine: Ogier sleeps from midnight to 6am in his private quarters. After waking, he takes a two-hour breakfast in the main trading room. At 8am he unlocks the door and works for twelve hours until closing at 8pm. After closing, he immediately goes outside for fresh air. On all days except Sundas, he goes to the Arboretum to stroll until midnight. On Sundas, he joins other merchants at the Temple of the One for evening prayer until midnight.\nPersonality - The Dedicated Alchemist: Ogier is hardworking and dedicated to his craft and business, living a life with little spare time outside of his shop. He's part of the merchant community in the Market District, joining fellow merchants for prayers at the Temple of the One on Sundas. Like many of his colleagues, he struggles with unfair competition from Thoronir's suspiciously low prices but continues to maintain his shop and serve his customers. He takes small moments for himself, enjoying evening walks in the Arboretum when he can, showing he values some balance despite his demanding schedule.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Ogier_Georick",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "01D159",
+    "base_id": "015E9A",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

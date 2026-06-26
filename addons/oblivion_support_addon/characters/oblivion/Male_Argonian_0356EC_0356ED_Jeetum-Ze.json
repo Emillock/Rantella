@@ -1,0 +1,14 @@
+{
+    "name": "Jeetum-Ze",
+    "voice_model": "Male_Argonian_0356EC_0356ED_Jeetum-Ze",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a complete set of Blackwood Company armor.\nRace: Argonian\nPersonality Keywords: recruiter, commanding, militant\nRole: Jeetum-Ze is an Argonian battlemage in charge of new recruits at the Blackwood Company in Leyawiin. During the Fighters Guild quest Infiltration, you will need to report to him to join the Company.\nHome Location Information: The Blackwood Company Hall in Leyawiin.\nDaily Routine: Before the related quest, Jeetum-Ze can always be found wandering around the Company Hall.\nEquipment: Jeetum-Ze is armed with a leveled longsword (always strongest for his level). He also has a quilted doublet and a pair of tan linens with a small amount of gold. His spell selection consists of standard random leveled Battlemage spells (always strongest for his skill level) as well as another leveled major Destruction spell.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Jeetum-Ze",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "0356ED",
+    "base_id": "0356EC",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

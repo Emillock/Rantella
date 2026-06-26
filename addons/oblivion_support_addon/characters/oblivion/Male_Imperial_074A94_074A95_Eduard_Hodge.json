@@ -1,0 +1,14 @@
+{
+    "name": "Eduard Hodge",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male wearing a near-complete set of leather armor, lacking a helmet and shield.\n\nRace: Imperial\n\nPersonality Keywords: loyal, dutiful\n\nRole: Bard and member of the Fighters Guild.\n\nHome Location Information: Formerly associated with the Fighters Guild. Last known location was Forsaken Mine.\n\nEquipment and Abilities: Equipped with leather armor and trained in basic martial combat. Possessed a single unused spell, which could manifest as Chameleon, Silence, or Invisibility.\n\nPersonality \u2013 Guild Companion: Eduard Hodge served the Fighters Guild alongside Viranus Donton, with whom he shared a long-standing personal bond. The two were assigned together on a mission to Forsaken Mine to clear the area of trolls. Records recovered after their deaths describe their friendship as lifelong and imply a relationship that extended beyond professional companionship. The same account states that Eduard fought bravely during the final confrontation in the mine.\n\nFate: Eduard Hodge was found dead alongside Viranus Donton in the southernmost chamber of the Forsaken Mine Lost Passages. No survivors were present, and the only account of the events was recorded in Viranus Donton\u2019s journal, which attributes the massacre to an unexpected escalation and concludes with an acknowledgment of Eduard\u2019s courage.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Eduard_Hodge",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "074A95",
+    "base_id": "074A94",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Imperial/M"
+}

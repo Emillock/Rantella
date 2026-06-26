@@ -1,0 +1,14 @@
+{
+    "name": "Casta Flavus",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male. Wears lower-class clothing: a dark green shirt, laced leather pants, and a pair of stitched leather shoes.\nRace: Imperial\nPersonality Keywords: mysterious, knowledgeable, servant, cryptic\nRole: A mage who serves as an agent of Hermaeus Mora, the Daedric Prince of Knowledge and Fate. He is sent to rouse certain individuals from sleep and inform them of Mora's interest in them, acting as a messenger between the mortal realm and the Prince of forbidden knowledge.\nHome Location Information: Appears wherever he is needed to deliver Hermaeus Mora's message, then disappears once his task is complete.\nThe Prince's Messenger: Casta serves Hermaeus Mora directly, tasked with seeking out those who have caught the Prince's attention. He intrudes upon their rest to deliver his master's summons, a deeply unsettling experience that demonstrates both his own boldness and the far-reaching power of the Daedric Prince he serves. Once his message is accepted and his purpose fulfilled, he vanishes entirely, his duty complete.\nPersonality - The Herald of Hidden Knowledge: Casta Flavus is a man who has given himself over to serving Hermaeus Mora, the keeper of secrets and forbidden lore. His willingness to act as the Prince's messenger, appearing uninvited in people's private spaces to deliver supernatural summons, suggests someone who has moved beyond normal mortal concerns. He operates with the confidence of one backed by Daedric power, knowing that those he contacts cannot simply dismiss him. His existence is transient and purpose-driven\u2014he appears to deliver Mora's message, and once that task is complete, he ceases to exist in the world, perhaps called back to whatever realm he truly inhabits.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Casta_Flavus",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "0A9489",
+    "base_id": "0A9487",
+    "author": "Bethesda",
+    "notes": "Hermaeus Mora's Quest",
+    "voice_folder": "Imperial/M"
+}

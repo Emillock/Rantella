@@ -1,0 +1,14 @@
+{
+    "name": "Dead Argonian Agent\n",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male. Wears leather boots, greaves, cuirass and gauntlets. Wields a silver dagger.\nRace: Argonian\nPersonality Keywords: Unknown\nRole: This agent was sent by the Argonian Royal Court to assassinate Scar-Tail for the crime of fleeing Black Marsh and refusing to fulfill his duties as a royal assassin - an act of treason punishable only by execution. The agent managed to wound Scar-Tail during their confrontation but was killed in the process. His heart can be extracted from his body.\nHome Location Information: Unknown\nDaily Routine: The Dead Argonian Agent does not have a daily routine as he is found dead when encountered.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Dead_Argonian_Agent",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "06C679",
+    "base_id": "3558B",
+    "author": "Bethesda",
+    "notes": "Dead",
+    "voice_folder": "Argonian/M"
+}

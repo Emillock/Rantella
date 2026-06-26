@@ -1,0 +1,14 @@
+{
+    "name": "Melisande",
+    "voice_model": "Female_Breton_03E931_03E932_Melisande",
+    "bio": "Physical Appearance: Breton female wearing a shirt with suspenders, breeches, and clogs - practical clothing for a witch living in seclusion.\nRace: Breton\nPersonality Keywords: witch, reclusive, renowned, healer, Glenmoril, isolated, knowledgeable\nRole: Melisande is a witch living in Drakelowe and is rumored to be one of the last witches of Glenmoril, a coven renowned for their ability to cure vampirism. She lives in complete isolation, never leaving her home. She carries a small amount of gold and relies on witch spells, a major Destruction spell, and a major Mysticism spell in combat.\nHome Location Information: Drakelowe, where she lives in complete seclusion.\nDaily Routine: Melisande sleeps from 2am to 9am. At all other times, she paces around her home, never venturing outside.\nPersonality - The Last of Glenmoril: Melisande is a reclusive witch who maintains her isolation in Drakelowe, continuing the traditions of the legendary Glenmoril coven. Her reputation as one of the last witches capable of curing vampirism makes her a figure of both mystery and importance, though she chooses to live apart from the world, endlessly pacing her home in solitude.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Melisande",
+    "race": "Breton",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "03E932",
+    "base_id": "03E931",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/F"
+}

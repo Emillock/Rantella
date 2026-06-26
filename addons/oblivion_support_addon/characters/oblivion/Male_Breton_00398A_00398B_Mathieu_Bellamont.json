@@ -1,0 +1,14 @@
+{
+    "name": "Mathieu Bellamont",
+    "voice_model": "Male_Breton_00398A_00398B_Mathieu_Bellamont",
+    "bio": "Physical Appearance: Breton male wearing the standard Black Hand robe with matching hood and doeskin shoes. Wields an enchanted dagger of numbing.\nRace: Breton\nPersonality Keywords: assassin, vengeful, calculating, traitor, patient, Black Hand member, manipulator\nRole: Mathieu Bellamont is an assassin and member of the Black Hand, the leadership of the Dark Brotherhood. He lives in the Anvil lighthouse and was promoted from the Cheydinhal Sanctuary due to his exceptional skills. However, beneath his position of trust lies a deep personal vendetta against both the Night Mother and the Dark Brotherhood itself. His mother was murdered by Lucien Lachance on orders from Mathieu's own father, who had performed the Black Sacrament. Mathieu has been plotting revenge, particularly against Lachance, for a considerable time - a plot that comes to fruition during significant events. He carries a small amount of gold.\nHome Location Information: The Anvil lighthouse.\nDaily Routine: [Specific routine unavailable as he is primarily a quest-related character]\nPersonality - The Vengeful Manipulator: Mathieu is patient and calculating, having spent years positioning himself within the Brotherhood's leadership to execute his revenge. His rise through the ranks from Cheydinhal Sanctuary to the Black Hand demonstrates both his skill as an assassin and his ability to deceive the organization's leadership about his true intentions. The tragedy of his mother's murder - ordered by his own father through the Black Sacrament and carried out by Lucien Lachance - has driven him to betray the very organization he appeared to serve so loyally. His vendetta is deeply personal, targeting not just Lachance but the Night Mother and the entire Dark Brotherhood system that enabled his family's destruction.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Mathieu_Bellamont",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "00398B",
+    "base_id": "00398A",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

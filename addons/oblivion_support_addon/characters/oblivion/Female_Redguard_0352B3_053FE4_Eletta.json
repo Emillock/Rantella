@@ -1,0 +1,14 @@
+{
+    "name": "Eletta",
+    "voice_model": "Redguard_Female",
+    "bio": "Physical Appearance: Redguard female. Wore common middle-class attire: a burgundy linen shirt, matching linens, and thick cowhide shoes - practical clothing for tending the sacred grove.\nRace: Redguard\nPersonality Keywords: (Unknown - killed before interaction)\nRole: Eletta was a sorceress and Mages Guild member who resided at Wellspring Cave and tended the sacred island of Wellspring Grove together with Zahrasha. She was intended to provide advice on crafting a mage's first staff, though she was murdered by necromancers before this meeting could take place.\nLocation: Wellspring Cave and Wellspring Grove. Eletta lived and worked at these locations, maintaining the sacred grove.\nThe Necromancer Attack: Wellspring Grove was invaded by necromancers. When one surfaces from the cave, Eletta is witnessed being executed in cold blood by Noveni Othran. There is no opportunity to intervene or rescue her.\nEquipment: Eletta carried a leveled amount of gold and relied on magic rather than weapons for defense. She could cast a set of conjurer spells (always strongest for her skill level) and summon Daedra or Dremora.\nReaction to Her Death: Raminus Polus at the Arcane University expresses shock upon learning of Eletta and Zahrasha's deaths, unable to believe the necromancers would be so bold. He notes they had always hidden in shadows and stayed away from the guild, questioning what could have prompted such an attack.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Eletta",
+    "race": "Redguard",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "053FE4",
+    "base_id": "0352B3",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Redguard/F"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Carius Runellius",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male. Wears chainmail boots, gauntlets, and greaves along with a Bruma cuirass and shield. Armed with a silver longsword. Also possesses random lower-class clothing.\nRace: Imperial\nPersonality Keywords: investigative, suspicious, dutiful, concerned, persistent\nRole: A member of the Bruma City Watch who serves as the chief investigator during certain cases. He is convinced that Bradon Lirrian is a vampire and believes Erline is in denial about the truth. He takes his investigative duties seriously and acts quickly when presented with evidence.\nHome Location Information: Sleeps in the Bruma Castle Barracks and patrols areas of the castle and city.\nDaily Routine: Carius sleeps from midnight to 7am in Bruma Castle Barracks. He spends his day patrolling the northeastern part of the Great Hall and takes a two-hour lunch break inside the barracks at 11am.\nThe Investigation: Carius is conducting an investigation into Bradon Lirrian, whom he suspects of being a vampire. He believes Erline refuses to accept this possibility. When presented with compelling evidence such as Gelebourne's Journal, he acts immediately, rushing from the Lirrians' house and making his way to Olav's Tap and Tack within an hour.\nPersonality - The Determined Investigator: Carius Runellius takes his role as investigator seriously, pursuing leads even when they involve uncomfortable truths about prominent citizens. His conviction about Bradon Lirrian being a vampire, despite what must be skepticism or resistance from others like Erline, shows someone who trusts his instincts and follows evidence wherever it leads. He doesn't shy away from difficult accusations and is willing to act decisively when proof emerges. His quick response to being shown Gelebourne's Journal demonstrates both his commitment to the investigation and his readiness to move when the situation demands it.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Carius_Runellius",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "03843D",
+    "base_id": "037F73",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

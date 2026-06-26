@@ -1,0 +1,14 @@
+{
+    "name": "Dreet-Lai",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a leveled light cuirass and boots (always of the best possible quality), with a 50% chance of also having gauntlets, greaves, or a helmet. Carries spare shirt and pants.\nRace: Argonian\nPersonality Keywords: fugitive, fearful, wary, hostile\nRole: Dreet-Lai is an Argonian assassin and a fugitive who resides in Bloodmayne Cave outside of Bravil. Fearful of being hauled back to prison, he spends his time prowling around the cave, ever-wary of trespassers.\nHome Location Information: The second zone of Bloodmayne Cave, where he hides with fellow fugitive Enrion.\nDaily Routine in the Cave: Dreet-Lai wanders the cave aimlessly with Enrion, presumably planning their next move. They rely on Hlofgar and Ashanta to guard the entrance of their hideout.\nEquipment: Dreet-Lai is armed with a leveled bow and arrows (always of the best possible quality). He carries a small amount of gold.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Dreet-Lai",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "04962E",
+    "base_id": "009C3A",
+    "author": "Bethesda",
+    "notes": "Hostile",
+    "voice_folder": "Argonian/M"
+}

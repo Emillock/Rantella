@@ -1,0 +1,14 @@
+{
+    "name": "Er-Teeus",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a monk robe, reflecting his devotion to Peryite.\nRace: Argonian\nPersonality Keywords: devoted, penitent, silent, worshipper\nRole: Er-Teeus is an Argonian herder and devout worshipper of the Daedric Prince Peryite. He can be found at Peryite's Daedric Shrine.\nHome Location Information: Peryite's Shrine, where he worships with his fellow cultists.\nThe Trapped Soul: Er-Teeus was trapped in Oblivion while trying to get closer to Peryite. His soul can be found due west from the starting point in the Realm of Peryite and can be freed by interacting with him there.\nDaily Routine at the Shrine: Before being freed, Er-Teeus is frozen in place at the shrine, unable to interact with anyone. After being saved and returning to Nirn, he spends all of his time wandering around the shrine, at times sitting on one of the benches and listening to the sermons randomly held by either Kewan or Maren the Seal. He still will not talk to anyone, claiming that he and his fellow cultists must redeem themselves to Peryite.\nEquipment: Er-Teeus is armed with an iron dagger and carries a few coins.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Er-Teeus",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "01ECC4",
+    "base_id": "01ECB2",
+    "author": "Bethesda",
+    "notes": "Peyrite's Quest",
+    "voice_folder": "Argonian/M"
+}

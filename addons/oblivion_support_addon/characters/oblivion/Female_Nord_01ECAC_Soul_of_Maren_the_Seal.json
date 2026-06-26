@@ -1,0 +1,14 @@
+{
+    "name": "Maren the Seal",
+    "voice_model": "Nord_Female",
+    "bio": "Physical Appearance: Nord female. Wears a monk robe. Carries an iron dagger.\nRace: Nord\nPersonality Keywords: devout, trapped, silent\nRole: Maren the Seal is a hunter and devout worshipper of the Daedric Prince Peryite. She can be found at Peryite's Shrine with her fellow worshippers.\nHome Location Information: Peryite's Shrine.\nHer Situation: Maren appears frozen in place at the shrine. She was trapped in Oblivion while trying to get closer to Peryite. Her soul is trapped in the Realm of Peryite on the eastern border of the map, on an island. Once her soul is freed by someone interacting with her in Oblivion, she returns to the shrine but immediately ends any conversation, making it impossible to speak with her.\nPersonality - The Trapped Devotee: Maren is a devout follower of Peryite whose devotion led her to become trapped in Oblivion. After her rescue, she remains silent and unwilling to communicate.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Maren_the_Seal",
+    "race": "Nord",
+    "gender": "Female",
+    "species": "Human",
+    "ref_id": "[?]",
+    "base_id": "01ECAC",
+    "author": "Bethesda",
+    "notes": "Peryite's Quest",
+    "voice_folder": "Nord/F"
+}

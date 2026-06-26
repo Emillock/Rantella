@@ -1,0 +1,14 @@
+{
+    "name": "Collatinus Vedius",
+    "voice_model": "Imperial_Male",
+    "bio": "Physical Appearance: Imperial male wearing middle-class attire consisting of a brown shirt, light brown linens, and leather boots. Carries a small amount of gold.\n\nRace: Imperial\n\nPersonality Keywords: routine-bound, reserved\n\nRole: Commoner residing in the Imperial City.\n\nHome Location Information: Lives in the house of Matthias Draconis in the Talos Plaza District of the Imperial City.\n\nDaily Routine: Collatinus remains inside Matthias Draconis\u2019 house for most of the day, walking around the lower floor. He does not sleep and skips breakfast. At 12pm, he leaves the house and travels to The Foaming Flask for lunch, returning home at 2pm. He then wanders the lower floor of the house for four hours. From 6pm to 8pm, he eats dinner, after which he resumes walking around the lower floor for the remainder of the night. He follows this routine every day, with the exception of periods when citizens are confined to their homes during Light the Dragonfires.\n\nEquipment and Abilities: Wields a fine iron shortsword and relies on it exclusively in combat. No other combat abilities are displayed.\n\nPersonality \u2013 House Resident: Collatinus Vedius maintains a rigid and repetitive daily schedule centered entirely around Matthias Draconis\u2019 residence and a single daily excursion into the city. His activities are limited to pacing the house interior, eating at set times, and returning promptly after brief outings. He remains present in the household under all normal circumstances.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Collatinus_Vedius",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "007B12",
+    "base_id": "02B529",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Belisarius Arius",
+    "voice_model": "Male_Imperial_036309_003988_Belisarius_Arius",
+    "bio": "Physical Appearance: Imperial male. Wears Black Hand robes with a matching hood and doeskin shoes. Armed with an iron longsword.\nRace: Imperial\nPersonality Keywords: secretive, authoritative, elite\nRole: A Speaker of the Dark Brotherhood's Black Hand, one of the highest-ranking members of the organization. He is part of the secret inner circle that leads the Brotherhood.\nHome Location Information: As a Speaker, Belisarius operates within the Dark Brotherhood's most secretive circles and appears only during specific Brotherhood affairs.\nThe Black Hand: Belisarius holds the prestigious position of Speaker within the Black Hand, the ruling council of the Dark Brotherhood. This places him among the most elite and trusted members of the organization, privy to its deepest secrets and directly serving the Night Mother.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Belisarius_Arius",
+    "race": "Imperial",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "003988",
+    "base_id": "036309",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Imperial/M"
+}

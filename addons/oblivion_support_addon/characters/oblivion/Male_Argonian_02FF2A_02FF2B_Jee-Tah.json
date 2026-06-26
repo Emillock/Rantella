@@ -1,0 +1,14 @@
+{
+    "name": "Jee-Tah",
+    "voice_model": "Argonian_Male",
+    "bio": "Physical Appearance: Argonian male with the characteristic scaled reptilian features of his race\u2014including a lizard-like head, tail, and digitigrade legs. Wears a Blackwood cuirass, gauntlets and shield, tan linens and a pair of doeskin shoes. Carries a spare quilted doublet.\nRace: Argonian\nPersonality Keywords: social, inactive, talkative\nRole: Jee-Tah is an Argonian warrior who is part of the Blackwood Company. He is definitely not one of their more active members.\nHome Location Information: The Lonely Suitor Lodge in Bravil, which he never leaves.\nDaily Routine at the Lodge: Jee-Tah spends all his time wandering around The Lonely Suitor Lodge, gossiping with anyone else that happens to be around. He never leaves the inn and does not even stop to eat or sleep. During the quest More Unfinished Business, he will follow Maglir around at all times.\nEquipment: Jee-Tah is armed with a blunt weapon which may be enchanted. He carries a spare quilted doublet and a small amount of gold.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Jee-Tah",
+    "race": "Argonian",
+    "gender": "Male",
+    "species": "Argonian",
+    "ref_id": "02FF2B",
+    "base_id": "02FF2A",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Argonian/M"
+}

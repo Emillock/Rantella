@@ -1,0 +1,14 @@
+{
+    "name": "Baurion",
+    "voice_model": "Breton_Male",
+    "bio": "Physical Appearance: Breton male wearing lower-class clothing consisting of a coarse linen shirt, simple linens, and stitched leather shoes.\n\nRace:\nBreton\n\nPersonality Keywords:\nIndulgent, lethargic, habitual\n\nRole:\nOstler associated with the Roxey Inn.\n\nHome Location Information:\nHe stays at the Roxey Inn along the Red Ring Road north of the Imperial City, sleeping in a bedroll behind the inn building.\n\nDaily Routine:\nFrom 10am until midnight he remains at the Roxey Inn counter, drinking heavily. From midnight until 6am he sits in a chair outside the inn, lingering there before returning to his bedroll. At 6am he goes behind the inn and sleeps until 10am, after which his routine begins again.\n\nAbilities:\nNone of note.\n\nPersonality \u2013 Habitual Drinker:\nBaurion spends nearly all of his waking hours drinking at the Roxey Inn and recovering just outside afterward. His routine is entirely centered on this cycle, with little variation or engagement beyond the inn itself.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:Baurion",
+    "race": "Breton",
+    "gender": "Male",
+    "species": "Human",
+    "ref_id": "030020",
+    "base_id": "03001D",
+    "author": "Bethesda",
+    "notes": "",
+    "voice_folder": "Breton/M"
+}

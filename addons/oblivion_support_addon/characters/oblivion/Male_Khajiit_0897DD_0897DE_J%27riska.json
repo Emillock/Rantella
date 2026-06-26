@@ -1,0 +1,14 @@
+{
+    "name": "J'riska",
+    "voice_model": "Khajiit_Male",
+    "bio": "Physical Appearance: Khajiit male. Feline features characteristic of his race. Wears typical lower-class clothing consisting of a collared shirt, huntsman moccasins, and laced leather pants. May carry pieces of light armor, which he equips during the crisis and continues wearing afterward.\nRace: Khajiit\nPersonality Keywords: superstitious, fearful, simple, cautious\nRole: J'riska is a common villager living in Border Watch, a small settlement on Cyrodiil's border. Like his fellow townsfolk, he is deeply superstitious and believes in the prophecy of \"the three signs of K'sharra,\" which foretells the end of the world.\nHome Location Information: The village of Border Watch, where J'riska lives among other Khajiit who share his beliefs.\nDaily Routine - Normal Times: J'riska rises at 4am and immediately steps outside to talk with neighbors and wander around town. He does this the entire day until bedtime at 10pm, with only a two-hour dinner break at the Border Watch Inn at 7pm.\nDaily Routine - During Crisis: When the prophecy appears to come true, J'riska runs around town in wild panic. He continues this behavior until the situation is resolved, then returns to his usual life.\nEquipment: J'riska is armed with a blunt weapon of the best possible quality, which may be enchanted. He carries up to five pieces of light armor (excluding cuirass), each of which may also be enchanted. After the crisis, he wears all his armor even when sleeping. He also carries a small amount of gold.\nThe K'sharra Prophecy: J'riska believes in the prophecy of \"the three signs of K'sharra\" that will herald the end of the world. When asked about it, he directs people to speak with Ri'Bassa, the town shaman.\nPersonality - The Changed Villager: J'riska lives a simple, relaxed existence, spending his days talking with neighbors and wandering the village. When the K'sharra prophecy appears to be fulfilled, he runs around in wild panic. After the crisis passes, he returns to his normal routine but now wears his armor at all times, even while sleeping.",
+    "bio_url": "https://en.uesp.net/wiki/Oblivion:J%27riska",
+    "race": "Khajiit",
+    "gender": "Male",
+    "species": "Khajiit",
+    "ref_id": "0897DE",
+    "base_id": "0897DD",
+    "author": "Bethesda",
+    "notes": "Sheogorath's Quest",
+    "voice_folder": "Argonian/M"
+}
