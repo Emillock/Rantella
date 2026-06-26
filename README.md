@@ -301,7 +301,8 @@ Vortex can be downloaded from [here](https://www.nexusmods.com/site/mods/1).
 Depending on which game you want to get Pantella working for, you will need to install the required mods for the in-game plugin to function. You can see the required mods for each plugin on the plugin github page:
 
 - [PantellaNV](https://github.com/Pathos14489/PantellaNV) for Fallout New Vegas
-- [Pantella Spell](https://github.com/Pathos14489/Pantella-Spell) for Skyrim SE/AE/VR
+- [PantellaOB](https://github.com/Pathos14489/PantellaOB) for Elder Scrolls IV: Oblivion
+- [Pantella Spell](https://github.com/Pathos14489/Pantella-Spell) for Elder Scrolls V: Skyrim SE/AE/VR
 
 ### Windows Users
 
