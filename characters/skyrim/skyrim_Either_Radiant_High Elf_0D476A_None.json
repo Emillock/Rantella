@@ -3,7 +3,7 @@
     "bio": "High Elf: I'm a Thalmor agent, a High Elf serving the interests of the Dominion with pride and conviction.",
     "name": "High Elf",
     "voice_model": "MaleElfHaughty",
-    "voice_folder,
+    "voice_folder": "MaleElfHaughty",
     "race": "Radiant",
     "gender": "Either",
     "species": "Elf",
