@@ -32,13 +32,15 @@ class CharacterDB():
             self.voice_model_ids = {}
             
         logging.info(f"Loading default character database from {self.character_database_path}...")
-        self.load(self.character_database_path)
+        if os.path.exists(self.character_database_path):
+            self.load(self.character_database_path)
         for addon_slug in self.config.addons:
             addon = self.config.addons[addon_slug]
             if addon['enabled'] and "characters" in addon['addon_parts']:
-                addon_characters_directory = os.path.abspath(os.path.join(self.config.addons_dir, addon_slug, "characters"))
+                addon_characters_directory = os.path.abspath(os.path.join(self.config.addons_dir, addon_slug, "characters", self.config.game_id))
                 logging.info(f"Loading addon character database from {addon_characters_directory}...")
-                self.load(addon_characters_directory)
+                if os.path.exists(addon_characters_directory):
+                    self.load(addon_characters_directory)
 
     def loaded(self):
         logging.info(f"{len(self.male_voice_models)} Male voices - {len(self.female_voice_models)} Female voices")
@@ -395,8 +397,8 @@ class CharacterDB():
         logging.info(f"character_base_id abs: {character_base_id}")
         logging.info(f"Getting character '{character_name}({character_ref_id})[{character_base_id}]<({hex(character_ref_id)})[{hex(character_base_id)}]>'...")
         # TODO: is the 3: correct or should it be 2:?
-        character_ref_id = hex(character_ref_id)[3:] if character_ref_id is not None else 0 # Convert int id to hex if it is not None
-        character_base_id = hex(character_base_id)[3:] if character_base_id is not None else 0 # Convert int id to hex if it is not None
+        character_ref_id = hex(character_ref_id)[2:] if character_ref_id is not None else 0 # Convert int id to hex if it is not None
+        character_base_id = hex(character_base_id)[2:] if character_base_id is not None else 0 # Convert int id to hex if it is not None
         # character_ref_id = hex(character_ref_id) if character_ref_id is not None else 0 # Convert int id to hex if it is not None
         # character_base_id = hex(character_base_id) if character_base_id is not None else 0 # Convert int id to hex if it is not None
         # if character_ref_id is not 0:
@@ -412,6 +414,8 @@ class CharacterDB():
 
     def _get_character(self, character_name, character_ref_id=None, character_base_id=None, character_in_game_race=None, character_in_game_gender=None, character_is_guard=None, character_is_ghost=None, in_game_voice_model=None, location=None): # Get a character from the character database using the character's name, refid_int, or baseid_int
         logging.info(f"_getting character '{character_name}({character_ref_id})[{character_base_id}]'...")
+        character_ref_id = str(character_ref_id).upper() if character_ref_id is not None else None
+        character_base_id = str(character_base_id).upper() if character_base_id is not None else None
         possibly_same_character = []
         character = None
         if str(character_name) == "nan":
@@ -449,6 +453,7 @@ class CharacterDB():
         }
         character_ref_id = str(character_ref_id)
         character_base_id = str(character_base_id)
+        print(f"Checking across {len(self._characters)} characters in the database for '{character_name}({character_ref_id})[{character_base_id}]'...")
         # Unique Reference Lookup
         logging.info(f"Performing unique reference lookup for character '{str(character_name)}({str(character_ref_id)})[{str(character_base_id)}]'")
         if character_name is not None and character_ref_id is not None and character_base_id is not None:
