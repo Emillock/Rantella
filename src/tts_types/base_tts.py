@@ -527,8 +527,7 @@ class base_Synthesizer:
             
         return installed
 
-    def lip_gen(self, voiceline, final_voiceline_file):
-        """Generate a lip file using FaceFXWrapper and FonixData.cdf"""
+    def lip_gen(self, voiceline, final_voiceline_file): # TODO: Break out lib_gen and facefxwrapper into the game_interface so it isn't present in the base_tts.py file, and make it so that the game_interface can handle lip sync generation for each game that NEEDS it and if games don't need it this won't be called. This will make it so that the base_tts.py file doesn't have to know about FaceFXWrapper or any other lip sync generation software and make it more generic.
         current_dir = utils.resolve_path() # get current directory
         if self.config.linux_mode:
             cdf_path = f'{current_dir}/FaceFXWrapper/FonixData.cdf'
@@ -541,7 +540,7 @@ class base_Synthesizer:
         face_wrapper_game = self.game.lower()
         if face_wrapper_game == 'fallout4vr' or face_wrapper_game == 'fallout4':
             face_wrapper_game = 'Fallout4'
-        if face_wrapper_game == 'skyrimvr' or face_wrapper_game == 'skyrim' or face_wrapper_game == 'falloutnv':
+        if face_wrapper_game == 'skyrimvr' or face_wrapper_game == 'skyrim' or face_wrapper_game == 'falloutnv' or face_wrapper_game == 'oblivion':
             face_wrapper_game = 'Skyrim'
         logging.info(f'FaceFXWrapper Detected Game: {face_wrapper_game}')
 
