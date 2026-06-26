@@ -19,6 +19,32 @@ class GameInterface(BaseGameInterface):
         if _interface_slug is not None:
             interface_slug = _interface_slug
         super().__init__(conversation_manager, valid_games, interface_slug)
+        
+        self.confirm_paths(_valid_games)
+
+        self.audio_supported = True
+        self.text_supported = True
+
+        # self.mod_voice_dir = self.conversation_manager.config.mod_voice_dir
+        self.add_voicelines_to_all_voice_folders = self.config.add_voicelines_to_all_voice_folders
+
+        self.character_num = 0 
+
+        self.wav_file = f'MantellaDi_MantellaDialogu_00001D8B_1.wav'
+        self.lip_file = f'MantellaDi_MantellaDialogu_00001D8B_1.lip'
+        
+        self.f4_use_wav_file1 = True
+        self.f4_wav_file1 = f'MutantellaOutput1.wav'
+        self.f4_wav_file2 = f'MutantellaOutput2.wav'
+        self.f4_lip_file = f'00001ED2_1.lip'
+        logging.info("Loading creation engine file buffers game interface")
+
+    @property
+    def root_mod_folder(self):
+        return self.config.game_path
+
+    def confirm_paths(self, _valid_games = None):
+        logging.info(f"Confirming game and mod paths for {self.game_id}...")
         if _valid_games is not None:
             if not os.path.exists(f"{self.game_path}"):
                 self.ready = False
@@ -29,6 +55,7 @@ class GameInterface(BaseGameInterface):
                     pantella_folder_file_path = self.game_path+f'/_pantella_{self.config.game_id}_folder.txt'
                 if not os.path.exists(pantella_folder_file_path):
                     logging.warn(f'''Warning: Could not find _pantella_{self.config.game_id}_folder.txt in {self.game_path}.\nIf you have not yet activated Pantella in-game you can safely ignore this message.\nIf you have activated Pantella in-game please check that your {self.config.game_id} folder has been set correctly in the associated game interface config.\nIf you are still having issues, a list of solutions can be found here: \nhttps://github.com/Pathos14489/Pantella\n''')
+
         save_config = False
         if self.config.game_path == "":
             logging.error(f"Game path not set for game id {self.game_id} in interface config file. Please set the game path for {self.game_id} to the directory where your game is installed.")
@@ -67,24 +94,6 @@ class GameInterface(BaseGameInterface):
             
         if save_config:            
             self.config.save()
-        
-        self.audio_supported = True
-        self.text_supported = True
-
-        # self.mod_voice_dir = self.conversation_manager.config.mod_voice_dir
-        self.add_voicelines_to_all_voice_folders = self.config.add_voicelines_to_all_voice_folders
-        self.root_mod_folter = self.config.game_path
-
-        self.character_num = 0 
-
-        self.wav_file = f'MantellaDi_MantellaDialogu_00001D8B_1.wav'
-        self.lip_file = f'MantellaDi_MantellaDialogu_00001D8B_1.lip'
-        
-        self.f4_use_wav_file1 = True
-        self.f4_wav_file1 = f'MutantellaOutput1.wav'
-        self.f4_wav_file2 = f'MutantellaOutput2.wav'
-        self.f4_lip_file = f'00001ED2_1.lip'
-        logging.info("Loading creation engine file buffers game interface")
 
     @property
     def game_path(self):
@@ -209,7 +218,7 @@ class GameInterface(BaseGameInterface):
         
     def setup_character(self, character):
         super().setup_character(character)
-        self.setup_voiceline_save_location(character.in_game_voice_model) # if the NPC is from a mod, create the NPC's voice folder and exit Pantella
+        self.setup_voiceline_save_location(character.voice_folder) # if the NPC is from a mod, create the NPC's voice folder and exit Pantella
 
     def enable_character_selection(self):
         self.write_game_info('_pantella_character_selection', 'True')
@@ -233,13 +242,13 @@ class GameInterface(BaseGameInterface):
                 subtitle += " Pantella2"
                 self.f4_use_wav_file1 = True
         if self.config.linux_mode:
-            wav_file_path = f"{self.mod_voice_dir}/{self.active_character.info['in_game_voice_model']}/{self.wav_file}"
-            lip_file_path = f"{self.mod_voice_dir}/{self.active_character.info['in_game_voice_model']}/{self.lip_file}"
+            wav_file_path = f"{self.mod_voice_dir}/{self.active_character.info['voice_folder']}/{self.wav_file}"
+            lip_file_path = f"{self.mod_voice_dir}/{self.active_character.info['voice_folder']}/{self.lip_file}"
             if self.game_id == "fallout4":
                 wav_file_path = f"{self.mod_voice_dir}/{wav_file_to_use}" # TODO: Find out why this is a single file??
         else:
-            wav_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['in_game_voice_model']}\\{self.wav_file}"
-            lip_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['in_game_voice_model']}\\{self.lip_file}"
+            wav_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['voice_folder']}\\{self.wav_file}"
+            lip_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['voice_folder']}\\{self.lip_file}"
             if self.game_id == "fallout4":
                 wav_file_path = f"{self.mod_voice_dir}\\{wav_file_to_use}" # TODO: Find out why this is a single file??
         if self.add_voicelines_to_all_voice_folders:
@@ -296,9 +305,9 @@ class GameInterface(BaseGameInterface):
             #if Fallout4 is running the audio will be sync by checking if say line is set to false because the game can internally check if an audio file has finished playing
             # wait for the audio playback to complete before getting the next file
             if self.game_id == "fallout4":
-                actor_count_path = f'{self.root_mod_folter}\\_pantella_actor_count.txt'
+                actor_count_path = f'{self.root_mod_folder}\\_pantella_actor_count.txt'
                 if self.config.linux_mode:
-                    actor_count_path = f'{self.root_mod_folter}/_pantella_actor_count.txt'
+                    actor_count_path = f'{self.root_mod_folder}/_pantella_actor_count.txt'
                 with open(actor_count_path, 'r', encoding='utf-8') as f:
                     pantellaactorcount = f.read().strip() 
                 # Outer loop to continuously check the files
@@ -307,9 +316,9 @@ class GameInterface(BaseGameInterface):
 
                     # Iterate through the number of files indicated by pantellaactorcount
                     for i in range(1, int(pantellaactorcount) + 1):
-                        file_name = f'{self.root_mod_folter}\\_pantella_say_line_{i}.txt'
+                        file_name = f'{self.root_mod_folder}\\_pantella_say_line_{i}.txt'
                         if self.config.linux_mode:
-                            file_name = f'{self.root_mod_folter}/_pantella_say_line_{i}.txt'
+                            file_name = f'{self.root_mod_folder}/_pantella_say_line_{i}.txt'
                         with open(file_name, 'r', encoding='utf-8') as f:
                             content = f.read().strip()
                             if content.lower() != 'false':
@@ -353,6 +362,10 @@ class GameInterface(BaseGameInterface):
 
     def load_data_when_available(self, text_file_name, text = '', callback = None):
         while text == '':
+            if not os.path.exists(f'{self.game_path}\\{text_file_name}.txt') and not os.path.exists(f'{self.game_path}/{text_file_name}.txt'):
+                logging.info(f"Waiting for '{text_file_name}.txt' to be created in {self.game_path}/")
+                time.sleep(0.1)
+                continue
             if self.config.linux_mode:
                 try:
                     # print(f"Checking for '{text_file_name}.txt' in {self.game_path}/")
@@ -525,7 +538,9 @@ class GameInterface(BaseGameInterface):
     
     def load_actor_voice_model(self):
         """Wait for actor voice model to populate"""
+        logging.info('Waiting for actor voice model to populate...')
         actor_voice_model = self.load_data_when_available('_pantella_actor_voice', '')
+        logging.info('Got actor voice model: '+actor_voice_model)
         actor_voice_model_id = actor_voice_model.split('(')[1].split(')')[0]
         actor_voice_model_name = actor_voice_model.split('<')[1].split(' ')[0].split('>')[0]
         return actor_voice_model_id, actor_voice_model_name
@@ -781,7 +796,11 @@ class GameInterface(BaseGameInterface):
 
         in_game_time = self.get_current_game_time() # Check if in-game time has changed since last check
 
-        character_info['in_game_voice_model'] = actor_voice_model_name
+        # character_info['in_game_voice_model'] = actor_voice_model_name
+        if "voice_model" not in character_info or character_info["voice_model"].strip() == "":
+            character_info['voice_model'] = actor_voice_model_name
+        if "voice_folder" not in character_info or character_info["voice_folder"] is None or character_info["voice_folder"].strip() == "":
+            character_info["voice_folder"] = actor_voice_model_name
         character_info['in_game_voice_model_id'] = actor_voice_model_id
         character_info['refid_int'] = character_ref_id
         if (character_ref_id is not None and character_ref_id != "0" and character_ref_id != "") and ("ref_id" not in character_info or character_info["ref_id"].strip() == ""):

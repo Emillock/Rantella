@@ -46,7 +46,11 @@ class GameInterface(CreationEngineFileBuffersInterface):
         # else:
         #     if not os.path.exists(self.config.game_path+'\\_pantella_fnv_folder.txt'):
         #         logging.warn(f'''Warning: Could not find _pantella_fnv_folder.txt in {self.config.game_path}.''')
-        self.voice_id_map = self.load_voice_id_map()
+        # self.voice_id_map = self.load_voice_id_map()
+
+        
+    def confirm_paths(self, _valid_games = None):
+        super().confirm_paths(_valid_games)
         if self.config.ttw_enabled is None:
             with root_context_manager as root:
                 self.config.ttw_enabled = OptionDialog(root, "Enable TTW?", "Do you want to enable support for TTW (Tale of Two Wastelands)? If you have TTW installed, select Yes. If not, select No. You can change this later in the config.", ["Yes", "No"]).result == "Yes"
@@ -60,12 +64,6 @@ class GameInterface(CreationEngineFileBuffersInterface):
             self.ogg_file = f'PantellaQu_PantellaDialogu_00000E03_1.ogg'
             self.lip_file = f'PantellaQu_PantellaDialogu_00000E03_1.lip'
 
-    def load_voice_id_map(self):
-        print(os.path.dirname(__file__))
-        with open(os.path.join(os.path.dirname(__file__), "../../ttw_voice_id_map.json"), 'r', encoding='utf-8') as f:
-            id_map = json.load(f)
-        return id_map
-
     @utils.time_it
     def save_files_to_voice_folders(self, queue_output):
         """Save voicelines and subtitles to the correct game folders"""
@@ -75,11 +73,11 @@ class GameInterface(CreationEngineFileBuffersInterface):
             return
         # logging.debug(f"Saving files to voice folders for character:", self.active_character.info)
         if self.config.linux_mode:
-            ogg_file_path = f"{self.mod_voice_dir}/{self.active_character.info['in_game_voice_model']}/{self.ogg_file}"
-            lip_file_path = f"{self.mod_voice_dir}/{self.active_character.info['in_game_voice_model']}/{self.lip_file}"
+            ogg_file_path = f"{self.mod_voice_dir}/{self.active_character.info['voice_folder']}/{self.ogg_file}"
+            lip_file_path = f"{self.mod_voice_dir}/{self.active_character.info['voice_folder']}/{self.lip_file}"
         else:
-            ogg_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['in_game_voice_model']}\\{self.ogg_file}"
-            lip_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['in_game_voice_model']}\\{self.lip_file}"
+            ogg_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['voice_folder']}\\{self.ogg_file}"
+            lip_file_path = f"{self.mod_voice_dir}\\{self.active_character.info['voice_folder']}\\{self.lip_file}"
         if self.add_voicelines_to_all_voice_folders:
             logging.info(f"Adding voicelines to all voice folders")
             for sub_folder in os.scandir(self.mod_voice_dir):
@@ -384,15 +382,19 @@ class GameInterface(CreationEngineFileBuffersInterface):
             location = 'Mojave Wasteland'
         return location
     
+    @property
+    def game_events_path(self):
+        game_events_path = f'{self.game_path}\\_pantella_in_game_events.txt'
+        if self.config.linux_mode:
+            game_events_path = game_events_path.replace("\\", "/")
+        return game_events_path
+
     @utils.time_it
     def update_game_events(self):
         """Add in-game events to player's response"""
 
         # append in-game events to player's response
-        game_events_path = f'{self.game_path}\\_pantella_in_game_events.txt'
-        if self.config.linux_mode:
-            game_events_path = game_events_path.replace("\\", "/")
-        with open(game_events_path, 'r', encoding='utf-8') as f:
+        with open(self.game_events_path, 'r', encoding='utf-8') as f:
             if self.config.game_update_pruning:
                 in_game_events_lines = f.readlines()[-self.config.game_update_prune_count:] # read latest 5 events
             else:
@@ -408,9 +410,9 @@ class GameInterface(CreationEngineFileBuffersInterface):
         in_game_events_lines = [line for line in new_in_game_events if line.strip() != '']
         
         # Is Player in combat with NPC
-        in_combat = self.load_data_when_available('_pantella_are_in_combat', '').lower() == 'true' 
-        if in_combat:
-            in_game_events_lines.append(self.conversation_manager.character_manager.language["game_events"]["player_started_combat"].format(name=self.active_character.name))
+        # in_combat = self.load_data_when_available('_pantella_are_in_combat', '').lower() == 'true' 
+        # if in_combat:
+        #     in_game_events_lines.append(self.conversation_manager.character_manager.language["game_events"]["player_started_combat"].format(name=self.active_character.name))
         self.new_game_events.extend(in_game_events_lines)
         
         super().update_game_events(False)
@@ -474,7 +476,11 @@ class GameInterface(CreationEngineFileBuffersInterface):
             voice_folder = self.conversation_manager.character_database.get_voice_folder_by_voice_model(character_info['voice_model'])
             character_info['voice_folder'] = voice_folder[0] # Default to the first for now, maybe change later?
             logging.info(f"Setting voice folder for {character_name} to {character_info['voice_folder']} based on voice model {character_info['voice_model']}")
-        character_info['in_game_voice_model'] = actor_voice_model_name
+        # character_info['in_game_voice_model'] = actor_voice_model_name
+        if "voice_type" not in character_info or character_info["voice_type"].strip() == "":
+            character_info['voice_type'] = actor_voice_model_name
+        if "voice_folder" not in character_info or character_info["voice_folder"] is None or character_info["voice_folder"].strip() == "":
+            character_info["voice_folder"] = actor_voice_model_name
         character_info['refid_int'] = character_ref_id
         if (character_ref_id is not None and character_ref_id != "0" and character_ref_id != "") and ("ref_id" not in character_info or character_info["ref_id"].strip() == ""):
             try:
