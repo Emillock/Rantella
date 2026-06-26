@@ -1,8 +1,7 @@
-print("Importing simple_generator.py")
+print("Importing fnv_pantella.py")
 from src.logging import logging
 from pydantic import BaseModel, Field
-from typing import List, Literal, Optional
-logging.info("Imported required libraries in simple_generator.py")
+logging.info("Imported required libraries in fnv_pantella.py")
 
 generator_name = "fnv_pantella"
 valid_games = ["falloutnv"]
@@ -21,7 +20,7 @@ class Character(BaseModel):
     
     def get_prompt(character_name, character_ref_id, character_base_id, character_in_game_race, character_in_game_gender, character_is_guard, character_is_ghost, location=None):
         if location is None:
-            location = "Fallout: New Vegas"
+            location = "Mojave Wasteland"
         return f"Create a Fallout: New Vegas character named {character_name} with the following information: Character is a {character_in_game_gender} {character_in_game_race}.\nThey are currently located at: {location}" # {'The character is a guard. ' if character_is_guard else ''}{'The character is a ghost. ' if character_is_ghost else ''}
 
     def get_chracter_info(self, ref_id, base_id, voice_model=None):
