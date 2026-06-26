@@ -73,9 +73,9 @@ def create_character_manager(config):
             raise ValueError(f"Could not find manager: {config.character_manager_type}! Please check your {config.config_path} file and try again!")
         module = Manager_Types[config.character_manager_type]
         if config.game_id not in module.valid_games:
-            logging.error(f"Game '{config.game_id}' not supported by manager '{module.manager_slug}'.")
-            input("Press enter to continue...")
-            raise ValueError(f"Game '{config.game_id}' not supported by manager '{module.manager_slug}'.")
+            logging.warning(f"Game '{config.game_id}' not officially supported by manager '{module.manager_slug}'.")
+            # input("Press enter to continue...")
+            # raise ValueError(f"Game '{config.game_id}' not supported by manager '{module.manager_slug}'.")
         manager = module.Character
         return manager
     else: # if no specific character_manager is specified

@@ -70,9 +70,9 @@ def create_DB(conversation_manager):
             raise ValueError(f"Could not find db: {config.character_db_type}! Please check your {config.config_path} file and try again!")
         module = DB_Types[config.character_db_type]
         if config.game_id not in module.valid_games:
-            logging.error(f"Game '{config.game_id}' not supported by db '{module.db_slug}'.")
-            input("Press enter to continue...")
-            raise ValueError(f"Game '{config.game_id}' not supported by db '{module.db_slug}'.")
+            logging.warning(f"Game '{config.game_id}' not officially supported by db '{module.db_slug}'.")
+            # input("Press enter to continue...")
+            # raise ValueError(f"Game '{config.game_id}' not supported by db '{module.db_slug}'.")
         db = module.CharacterDB(conversation_manager)
         return db
     else: # if no specific character_db is specified

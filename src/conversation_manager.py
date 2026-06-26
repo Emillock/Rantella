@@ -69,9 +69,9 @@ def create_manager(config, initialize=True):
             raise ValueError(f"Could not find conversation manager: {config.conversation_manager_type}! Please check your {config.config_path} file and try again!")
         module = Manager_Types[config.conversation_manager_type]
         if config.game_id not in module.valid_games:
-            logging.error(f"Game '{config.game_id}' not supported by conversation manager {module.manager_slug}")
-            input("Press enter to continue...")
-            raise ValueError(f"Game '{config.game_id}' not supported by conversation manager {module.manager_slug}")
+            logging.warning(f"Game '{config.game_id}' not officially supported by conversation manager {module.manager_slug}")
+            # input("Press enter to continue...")
+            # raise ValueError(f"Game '{config.game_id}' not supported by conversation manager {module.manager_slug}")
         manager = module.ConversationManager(config, initialize)
         return manager
     else: # if no specific conversation manager is specified

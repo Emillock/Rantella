@@ -69,9 +69,9 @@ def create_manager(conversation_manager):
             raise ValueError(f"Could not find behavior manager: {config.behavior_manager}! Please check your {config.config_path} file and try again!")
         module = Manager_Types[config.behavior_manager]
         if config.game_id not in module.valid_games:
-            logging.error(f"Game '{config.game_id}' not supported by behavior manager {module.manager_slug}")
-            input("Press enter to continue...")
-            raise ValueError(f"Game '{config.game_id}' not supported by behavior manager {module.manager_slug}")
+            logging.warning(f"Game '{config.game_id}' not supported by behavior manager {module.manager_slug}")
+            # input("Press enter to continue...")
+            # raise ValueError(f"Game '{config.game_id}' not supported by behavior manager {module.manager_slug}")
         manager = module.BehaviorManager(conversation_manager)
         return manager
     else: # if no specific behavior manager is specified
