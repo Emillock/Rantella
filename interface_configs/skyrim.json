@@ -5,7 +5,7 @@
     "behavior_manager": "default_behavior_manager",
     "memory_manager": "chromadb_memory",
     "character_type": "skyrim_pantella",
-    "character_manager": "skyrim",
+    "character_manager": "elder_scrolls",
     "character_db": "base_db",
     "default_tts": "xvasynth",
     "default_narrator_voice": "MaleKhajiit",

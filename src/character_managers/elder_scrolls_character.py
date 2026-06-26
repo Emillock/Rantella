@@ -1,10 +1,10 @@
-print("Loading skyrim_character.py")
+print("Loading elder_scrolls_character.py")
 from src.logging import logging
 from src.character_managers.base_character import Character as base_Character
-logging.info("Imported required libraries in skyrim_character.py")
+logging.info("Imported required libraries in elder_scrolls_character.py")
 
-manager_slug = "skyrim"
-valid_games = ["skyrim","skyrimvr"]
+manager_slug = "elder_scrolls"
+valid_games = ["skyrim","skyrimvr", "oblivion"]
 
 class Character(base_Character):
     def __init__(self, characters_manager, info):
