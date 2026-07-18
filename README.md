@@ -1,3 +1,15 @@
+# Rantella
+
+**Rantella** is a fork of [Pantella](https://github.com/Pathos14489/Pantella) that brings AI-driven NPC conversations to **Red Dead Redemption 2**: speak to any NPC with your voice (multilingual STT → LLM → TTS), with per-NPC biographies, long-term memory, game-state awareness, and in-game actions (an NPC can warm to you, follow you, take offense and draw on you, or call the law).
+
+- RDR2 design & milestones: [`docs/RDR2-ARCHITECTURE.md`](docs/RDR2-ARCHITECTURE.md)
+- RDR2 game interface & wire protocol: [`docs/RDR2-INTERFACE.md`](docs/RDR2-INTERFACE.md)
+- In-game C# plugin (ScriptHookRDR2DotNet): [`plugin/`](plugin/)
+
+**Status: early development — not yet playable.** Everything below is the original Pantella README, which still applies to the shared backend (LLM backends, TTS engines, memory, characters, behaviors).
+
+---
+
 <img src="./img/pantella_logo_github.png" align="left" alt="Pantella logo" width="150" height="auto"/>
 <br clear="right"/>
 <br clear="right"/>
