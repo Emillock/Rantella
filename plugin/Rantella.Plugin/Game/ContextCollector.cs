@@ -15,7 +15,7 @@ namespace Rantella.Game
                 PersonaId = "ped_" + ped.Handle,
                 ModelHash = (uint)ped.Model.Hash,
                 StoryName = null,
-                IsMale = true,   // TODO: IS_PED_MALE
+                IsMale = ped.Gender == Gender.Male,
                 IsLawman = false // TODO: ped type / relationship group
             };
         }
