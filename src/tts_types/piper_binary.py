@@ -42,7 +42,7 @@ class Synthesizer(base_tts.base_Synthesizer):
                 with open(os.path.join(models_path, file), 'r', encoding="utf8") as f:
                     json_data = json.load(f)
                     json_data['model_name'] = file.replace(".onnx.json", "")
-                    json_data['model_path'] = os.path.join(models_path, file.replace(".onnx.json", ".json"))
+                    json_data['model_path'] = os.path.join(models_path, file.replace(".onnx.json", ".onnx"))
                     self._voice_model_jsons[json_data['model_name']] = json_data
         for addon_slug in self.config.addons: # Add the speakers folder from each addon to the list of speaker wavs folders
             addon = self.config.addons[addon_slug]

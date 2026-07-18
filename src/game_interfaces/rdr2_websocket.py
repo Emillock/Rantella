@@ -148,7 +148,7 @@ class GameInterface(BaseGameInterface):
             "in_game_race": "Human",
             "species": "Human",
             "age": "adult",
-            "voice_model": "default",
+            "voice_model": "maleeventoned" if gender == "Male" else "femaleeventoned",
             "location": self.get_current_location(presume="the American frontier"),
             "bio": f"{display_name} is {role} living near {self.get_current_location(presume='the American frontier')} in 1899. {pronoun} doesn't know the person approaching them.",
             "knows": [],
