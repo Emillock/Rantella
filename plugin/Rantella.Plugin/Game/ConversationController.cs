@@ -32,9 +32,7 @@ namespace Rantella.Game
                 _npc = PedTargeting.FindConversationTarget();
                 if (_npc == null) return;
 
-                // TODO(M0): conversation stance —
-                //   SET_BLOCKING_OF_NON_TEMPORARY_EVENTS, task turn-to-face,
-                //   STOP_CURRENT_PLAYING_AMBIENT_SPEECH.
+                EnterConversationStance(_npc);
                 State = ConversationState.Active;
                 _backend.Send(MessageTypes.ConversationStart, new
                 {
@@ -94,9 +92,35 @@ namespace Rantella.Game
         {
             if (State == ConversationState.Idle) return;
             State = ConversationState.Idle;
-            // TODO(M0): release conversation stance, resume ambient behavior.
+            if (_npc != null && _npc.Exists())
+                ReleaseConversationStance(_npc);
             _backend.Send(MessageTypes.EndConversation, new { reason });
             _npc = null;
+        }
+
+        /// <summary>
+        /// Hold the NPC in place, facing the player, ignoring ambient events,
+        /// for the duration of the conversation.
+        /// </summary>
+        private static void EnterConversationStance(Ped npc)
+        {
+            var player = RDR2.Game.Player.Character;
+            npc.BlockPermanentEvents = true;
+            npc.AlwaysKeepTask = true;
+            npc.Task.ClearTasks(false);
+            npc.Task.StandStill(-1);
+            if (player != null && player.Exists())
+                npc.Task.LookAt(player, -1);
+            // TODO(M2): suppress ambient barks (STOP_CURRENT_PLAYING_AMBIENT_SPEECH).
+        }
+
+        private static void ReleaseConversationStance(Ped npc)
+        {
+            npc.BlockPermanentEvents = false;
+            npc.AlwaysKeepTask = false;
+            npc.Task.ClearLookAt();
+            npc.Task.ClearTasks(false);
+            npc.Task.WanderAround();
         }
     }
 }

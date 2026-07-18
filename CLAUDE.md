@@ -42,9 +42,14 @@ long time — don't.
 
 ## State (2026-07-18) and next step
 
-Skeleton committed and syntax-checked, **untested against the real
-game/backend**. Next milestone is **M0**: implement the plugin's TODO stubs
-against the real ScriptHookRDR2DotNet-V2 API (ped targeting, conversation
-stance natives, subtitles), run the backend with `game_id: rdr2`, and get one
-end-to-end subtitle + canned WAV in game. Expect protocol/field adjustments —
-keep Messages.cs and rdr2_websocket.py in sync.
+`ScriptHookRDRNetAPI.dll` (V2.2) is in `plugin/lib/`; the plugin **builds
+clean** (`dotnet build`, net48) against the real API. Implemented and
+compile-verified: ped targeting (nearest human ped ≤ 4 m via
+`World.GetAllPeds`), conversation stance (`BlockPermanentEvents` +
+`Task.StandStill/LookAt`, released on end), subtitles
+(`UI.Screen.DisplaySubtitle`), and actions attack / flee / follow /
+stop_following / cower / hands_up / mount_and_leave via `Ped.Task`. Still
+**untested in game**. Next: finish M0 — copy `bin/Debug/net48/*.dll` +
+Newtonsoft to `<RDR2>/scripts/`, run the backend with `game_id: rdr2`, and get
+one end-to-end subtitle + WAV; verify DisplaySubtitle vs PrintSubtitle and
+task tuning in game. Keep Messages.cs and rdr2_websocket.py in sync.
