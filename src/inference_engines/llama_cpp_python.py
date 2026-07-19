@@ -17,9 +17,23 @@ logging.info("Imported required libraries in llama_cpp_python.py")
 
 imported = False
 try:
+    # torch first: its bundled CUDA runtime DLL directory joins the search
+    # path, letting llama.cpp's ggml-cuda backend load without a system-wide
+    # CUDA Toolkit install.
+    import torch
+    if os.name == "nt":
+        # Preload the OpenMP runtime bundled with the llama_cpp wheel; if an
+        # older copy elsewhere in PATH resolves first, ggml-base.dll fails
+        # with WinError 127 (procedure not found).
+        import ctypes
+        import importlib.util as _importlib_util
+        _spec = _importlib_util.find_spec("llama_cpp")
+        if _spec is not None and _spec.submodule_search_locations:
+            _omp = os.path.join(list(_spec.submodule_search_locations)[0], "lib", "libomp140.x86_64.dll")
+            if os.path.exists(_omp):
+                ctypes.WinDLL(_omp)
     from llama_cpp import Llama
     import llama_cpp
-    import torch
     imported = True
     logging.info("Imported llama-cpp-python in llama_cpp_python.py")
 except Exception as e:

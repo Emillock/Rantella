@@ -74,6 +74,10 @@ librosa==0.11.0
 ffmpeg-python
 
 # --- Torch (CUDA 12.8 wheels) ---
---find-links https://download.pytorch.org/whl/cu128
-torch==2.8.0
-torchaudio==2.8.0
+# The +cu128 local version must be pinned explicitly or pip prefers the
+# CPU-only PyPI wheel, leaving no CUDA runtime DLLs for llama.cpp either.
+# (--find-links does not work with the PyTorch URL — it is a package index,
+# not a flat links page, so it must be an extra index.)
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.8.0+cu128
+torchaudio==2.8.0+cu128
