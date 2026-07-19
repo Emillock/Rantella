@@ -83,7 +83,7 @@ class Synthesizer(base_tts.base_Synthesizer):
     def voices(self):
         """Return a list of available voices"""
         voices = []
-        for voice_model in self._voice_model_jsons:
+        for voice_model in self._voice_model_jsons.values():
             voices.append(voice_model['model_name'])
         for banned_voice in self.config.piper_tts_banned_voice_models:
             if banned_voice in voices:
