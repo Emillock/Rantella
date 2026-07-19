@@ -40,16 +40,29 @@ prompt_styles, behavior_styles, characters, docs, plugin. Need another dir?
 `git sparse-checkout add <dir>`. Plain `git clone` of this repo hangs for a
 long time — don't.
 
-## State (2026-07-18) and next step
+## State (2026-07-19): M0 COMPLETE — first live voice conversations work
 
-`ScriptHookRDRNetAPI.dll` (V2.2) is in `plugin/lib/`; the plugin **builds
-clean** (`dotnet build`, net48) against the real API. Implemented and
-compile-verified: ped targeting (nearest human ped ≤ 4 m via
-`World.GetAllPeds`), conversation stance (`BlockPermanentEvents` +
-`Task.StandStill/LookAt`, released on end), subtitles
-(`UI.Screen.DisplaySubtitle`), and actions attack / flee / follow /
-stop_following / cower / hands_up / mount_and_leave via `Ped.Task`. Still
-**untested in game**. Next: finish M0 — copy `bin/Debug/net48/*.dll` +
-Newtonsoft to `<RDR2>/scripts/`, run the backend with `game_id: rdr2`, and get
-one end-to-end subtitle + WAV; verify DisplaySubtitle vs PrintSubtitle and
-task tuning in game. Keep Messages.cs and rdr2_websocket.py in sync.
+Full loop verified in game (Horseshoe Overlook camp): mic → faster-whisper →
+Gemma 4 E4B (GPU, RTX 5070) → Piper → subtitle/gesture cue to plugin. ~4 s
+per turn after the first (~60 s prompt-cache warmup). NPC stays in character
+(1899, English-only, western dialect). Setup that works: game root has
+dinput8.dll (Ultimate ASI Loader) + ScriptHookRDR2.dll (community V2 2.0) +
+ScriptHookRDRDotNet 2.2 files; `scripts/` has Rantella.Plugin.dll +
+Newtonsoft. Backend: `.venv` py3.10 + `requirements-rdr2.txt` +
+machine-local `configs/rdr2_config.json` (all dialog-triggering keys must be
+pre-seeded — any `None` opens a blocking Tk dialog). Insert = hot-reload
+scripts in game.
+
+**Critical finding: boolean-returning natives (and wrapper properties on
+them) return garbage** with this hook combo — IS_PED_HUMAN, IS_ENTITY_DEAD,
+IS_PED_A_PLAYER, Exists(). Never filter on them. Int/vector natives
+(GET_ENTITY_COORDS, handles, GET_PED_TYPE) are reliable. Targeting is
+nearest-ped-by-distance (6 m) via coords natives only.
+
+Known rough edges / next (M1): per-sentence WAV filename collision
+(voiceline.wav overwritten while playing), subtitle display in game
+unverified (DisplaySubtitle vs PrintSubtitle), conversation stance tuning,
+region/clock/honor context still stubbed ("the American frontier"), persona
+persistence + rdr2 character generator (M3), actions untested in game (M4).
+Six upstream-worthy bug fixes are in git history (piper ×2, logger, base
+transcriber init, torch index, speechbrain pin) — PR candidates.
