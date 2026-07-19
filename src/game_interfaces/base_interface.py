@@ -61,7 +61,7 @@ class BaseGameInterface:
             logging.info(f"Audio supported: {self.audio_supported}, Mic status: {self.check_mic_status()}, Transcriber in locals: {self.transcriber is not None}")
             if self.audio_supported and self.check_mic_status() and self.transcriber is not None: # listen for response
                 logging.info('Listening for player response...')
-                if "transcriber" in locals() and not self.transcriber.initialized:
+                if not self.transcriber.initialized:
                     logging.info('Microphone requested but not initialized. Initializing...')
                     self.transcriber.initialize()
                 transcribed_text = self.transcriber.recognize_input(possible_names_list)
@@ -69,7 +69,7 @@ class BaseGameInterface:
             else: # use text input
                 logging.info('Awaiting text input...')
                 if self.text_supported:
-                    if "transcriber" in locals() and self.transcriber.initialized:
+                    if self.transcriber is not None and self.transcriber.initialized:
                         logging.info('Microphone not requested but was already initialized. Unloading transcriber until it\'s needed...')
                         self.transcriber.unload()
                     transcribed_text = self.get_text_input()
