@@ -30,6 +30,8 @@ namespace Rantella.Game
             if (State == ConversationState.Idle)
             {
                 _npc = PedTargeting.FindConversationTarget();
+                Subtitles.Show("Rantella", PedTargeting.LastDebug + " | backend " + (_backend.Connected ? "ok" : "DISCONNECTED"));
+                _backend.Send("debug", new { where = "OnTalkKeyDown", info = PedTargeting.LastDebug });
                 if (_npc == null) return;
 
                 EnterConversationStance(_npc);

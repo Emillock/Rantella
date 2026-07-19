@@ -92,6 +92,8 @@ class GameInterface(BaseGameInterface):
                 self.ptt_pressed.clear()
         elif msg_type == "end_conversation":
             self.conversation_ended_flag = True
+        elif msg_type == "debug":
+            logging.info(f"[plugin debug] {payload}")
         else:
             logging.warning(f"Unknown message type from RDR2 plugin: {msg_type}")
 
@@ -179,6 +181,16 @@ class GameInterface(BaseGameInterface):
             "time12": f"{hour12:02}:{minute:02} {ampm}",
             "ampm": ampm,
         }
+
+    def load_ingame_actor_count(self):
+        """Number of peds in the in-game conversation. Single-NPC until M5,
+        so mirror the active character count — the base manager compares the
+        two to detect new joiners, and they must match to not trigger the
+        multi-NPC switch."""
+        try:
+            return self.conversation_manager.character_manager.active_character_count()
+        except Exception:
+            return 1
 
     def is_conversation_ended(self):
         return self.conversation_ended_flag

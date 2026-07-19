@@ -41,9 +41,11 @@ namespace Rantella.Game
         public static float DistanceToPlayer(Ped npc)
         {
             var player = RDR2.Game.Player.Character;
-            return player == null || npc == null
-                ? float.MaxValue
-                : npc.Position.DistanceTo(player.Position);
+            if (player == null || npc == null) return float.MaxValue;
+            // GET_ENTITY_COORDS natives, not the Position property — verified
+            // reliable on current game builds.
+            return RDR2.Native.ENTITY.GET_ENTITY_COORDS(npc.Handle, true, true)
+                .DistanceTo(RDR2.Native.ENTITY.GET_ENTITY_COORDS(player.Handle, true, true));
         }
     }
 }
