@@ -29,6 +29,32 @@ class Logger:
             'message': ' '.join([str(arg) for arg in args])
         }
 
+    def _caller_location(self):
+        """File path and line of the code that called the logging method.
+
+        Uses frame walking instead of inspect.stack(): inspect.stack() builds
+        source context for every frame, which is slow and can trigger
+        third-party lazy-module import machinery mid-log (e.g. speechbrain's
+        LazyModule raising ImportError inside logging.error). Must never
+        raise — logging is called from except blocks.
+        """
+        try:
+            # _caller_location <- _log <- public method (info/error/...) <- caller
+            frame = inspect.currentframe().f_back.f_back.f_back
+            filepath = os.path.relpath(frame.f_code.co_filename)
+            line = frame.f_lineno
+            return filepath, line
+        except Exception as e:
+            print(f'Error getting caller information: {e}')
+            return 'unknown', 0
+
+    def _log(self, level, *args):
+        filepath, line = self._caller_location()
+        if filepath in self.block_logs_from:
+            return
+        message = self.get_message_object(*args, level=level, filepath=filepath+":"+str(line))
+        self._output(self.format.format(**message), level)
+
     def _output(self, message: str, level: str):
         message = message.encode('utf-8', errors='replace').decode('utf-8')
         try:
@@ -49,135 +75,31 @@ class Logger:
             # raise e
 
     def info(self, *args):
-        # get the caller's stack frame and extract its file path
-        try:
-            frame_info = inspect.stack()[1]
-            filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-            del frame_info  # drop the reference to the stack frame to avoid reference cycles
-        except Exception as e:
-            print(f'Error getting caller information: {e}')
-            filepath = 'unknown'
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='INFO', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'INFO')
+        self._log('INFO', *args)
 
     def output(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
+        self._log('OUTPUT', *args)
 
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='OUTPUT', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'OUTPUT')
-        
     def config(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='CONFIG', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'CONFIG')
+        self._log('CONFIG', *args)
 
     def error(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='ERROR', filepath=filepath+":"+str(line))
-        # message['message'] += '\n\nStack Trace:\n'+traceback.format_exc()
-        self._output(self.format.format(**message), 'ERROR')
+        self._log('ERROR', *args)
 
     def warning(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='WARNING', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'WARNING')
+        self._log('WARNING', *args)
 
     def debug(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='DEBUG', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'DEBUG')
+        self._log('DEBUG', *args)
 
     def success(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='SUCCESS', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'SUCCESS')
+        self._log('SUCCESS', *args)
 
     def warn(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
+        self._log('WARNING', *args)
 
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='WARNING', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'WARNING')
-        
     def out(self, *args):
-        # get the caller's stack frame and extract its file path
-        frame_info = inspect.stack()[1]
-        filepath = frame_info[1]  # in python 3.5+, you can use frame_info.filename
-        del frame_info  # drop the reference to the stack frame to avoid reference cycles
-
-        # make the path absolute (optional)
-        filepath = os.path.relpath(filepath)
-        if filepath in self.block_logs_from:
-            return
-        line = inspect.currentframe().f_back.f_lineno
-        message = self.get_message_object(*args, level='OUTPUT', filepath=filepath+":"+str(line))
-        self._output(self.format.format(**message), 'OUTPUT')
+        self._log('OUTPUT', *args)
 
 logging = Logger() # Create a logger object to be used throughout the program
 

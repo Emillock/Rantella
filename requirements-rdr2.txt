@@ -54,6 +54,9 @@ accelerate==1.13.0
 
 # --- STT (faster-whisper + mic capture) ---
 git+https://github.com/Pathos14489/faster-whisper.git
+# faster-whisper pulls pyannote-audio -> speechbrain; 1.1.0's lazy k2 module
+# raises ImportError when introspected (upstream pins 1.0.0 too)
+speechbrain==1.0.0
 ctranslate2==4.7.1
 av==16.1.0
 onnxruntime==1.23.2
