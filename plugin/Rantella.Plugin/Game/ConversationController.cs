@@ -57,7 +57,10 @@ namespace Rantella.Game
         {
             if (State != ConversationState.Active || _npc == null) return;
 
-            if (!_npc.Exists() || ContextCollector.DistanceToPlayer(_npc) > 12f)
+            // No Exists() here — boolean natives return garbage with this
+            // hook combo. Distance (coords natives) covers despawn too: an
+            // invalid handle reads far away and ends the conversation.
+            if (ContextCollector.DistanceToPlayer(_npc) > 12f)
             {
                 End("player_left");
                 return;
